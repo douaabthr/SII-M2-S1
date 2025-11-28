@@ -1,0 +1,10 @@
+Message broadcasting by opportunistic communication on unit disk graphs
+Opportunistic communication is one of the key technologies in the area of advertisement information sharing disaster evacuation guidance in delay-tolerant networks DTNs vehicular ad hoc networks VANETs and so on
+The efficiency of opportunistic communication is correlated with the movement pattern
+Random walks are often used as the movement patterns of a pedestrian
+Even amongst those Lévy walk that is a family of random walks is attracted attention as a human movement pattern
+There are lots of works of Lévy walk in the context of target detection in swarm robotics analyzing human walk patterns and modeling the behavior of animal foraging in recent years
+According to these results it is known as an efficient method to search and come across one another in a two-dimensional plane
+However all these works assume a continuous plane and hardly any results on graphs are available
+In this paper we assume agents move on a unit disk graph and show the impact of the movement patterns based on Lévy walk and Homesick Lévy walk to the efficiency of message broadcasting by them
+Our simulation results show that the configuration of Lévy walk and Homesick Lévy walk movement patterns with the smaller scaling parameter diffuses a message efficiently compared to it with the larger one .

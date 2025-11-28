@@ -1,0 +1,12 @@
+energi awar cluster-bas rout in wsn use hybrid pelican-blu monkey optim algorithm
+as the node in wireless sensor network wsn are power by batteri energi effici is a major concern
+sinc commun consum the most energi effici rout becom an effect solut
+a typic rout strategi is to use hierarch cluster algorithm
+in hierarch rout scheme a cluster arrang of sensor node sn is use to facilit data merg and aggreg
+the cluster head are in charg of obtain data from the cluster s sn and gather and deliv the data they receiv at bs
+these data are combin and pool at the cluster head ch level result in consider energi save
+howev there are certain reliabl issu in cluster head select ch and optim rout
+to model a ch and optim rout in wsn thi work carri out the ch use improv kernel fuzzi c mean cluster for select the ch by consid energi and distanc
+then optim rout is done by deploy a novel optim scheme name custom pelican with blue monkey optim cp-bmo which offer the optim rout by consid trust and risk constraint
+also the cp-bmo model hold better energi consumpt which is 35.65% 29.42% 38.79% 25.31% 39.85% 39.16% 9.55% 29.39% 39.32% and 39.32% superior to abo rhso pelican bmo f-fli aefa ml-aefa eter ga and qoboa respect
+at last the simul outcom confirm the develop approach s effect on pdr network lifetim etc .

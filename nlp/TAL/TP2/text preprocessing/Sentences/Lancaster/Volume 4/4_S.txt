@@ -1,0 +1,10 @@
+a hybrid harmony search algorithm for mri brain seg
+autom magnet reson im mri brain seg is a challeng problem that has receiv sign at in the field of med im process
+in thi pap we pres a new dynam clust algorithm bas on the hybrid of harmony search hs and fuzzy c-means to autom seg mri brain im in an intellig man
+in our algorithm the cap of standard hs is mod to autom evolv the appropry numb of clust as wel as the loc of clust cent
+by incorp the conceiv of vary leng encod in each harmony mem vect thi algorithm is abl to repres vary numb of candid clust cent at each it
+a new hs op cal the empty op has been introduc to support the select of empty decid vary in the harmony mem vect
+the pbmf clust valid index is us as an object funct to valid the clust result obtain from each harmony mem vect
+evalu of the propos algorithm has been perform us both real mri dat obtain from the cent for morphomet analys at massachuset gen hospit and sim mri dat gen us the mcgill univers brainweb mri sim
+expery result show the abl of thi algorithm to find the appropry numb of nat occur reg in brain im
+furtherm the supery of the propos algorithm ov vary state-of-the-art seg algorithm is demonst quantit .

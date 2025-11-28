@@ -1,0 +1,9 @@
+analys on intellig machin learn en with meta-heuristic algorithm for sol irrady predict
+the sol forecast is an effect method to enh the op of an elect system for merg a larg amount of sol pow gen system and intend to expand a new empir method to model the predict uncertainty of the sol irrady
+the propos model compr three phas such as a dat acquisit b feat extract and c predict
+init benchmark dat avail from loc meteorolog org ar collect that includ the num weath forecast dat lik temp dew point humid vis wind spee and oth describ inform
+ont the dat is collect feat extract is don by first-order and second-order stat model
+first ord stat lik mean med standard devy the maxim valu of entir dat and minim valu of entir dat and second-order stat lik kurtos skew correl and entrop ar extract as the feat
+thes feat ar furth apply to three machin learn algorithm nam multilay perceptron mlp convolv neur network cnn and recur neur network rnn
+as main novel of thi pap the numb of hid neuron of al thes network is optim by a hybrid algorithm merg both the deer hunt optim algorithm dho and grey wolf optim gwo which is nam as grey upd dho gu-dhoa
+the improv of thes network with the assist of a hybrid meta-heuristic algorithm wil be high effect for sol irrady predict overcom the ex machin learn algorithm .

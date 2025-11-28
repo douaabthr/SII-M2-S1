@@ -1,0 +1,12 @@
+Towards robust automated math problem solving a survey of statistical and deep learning approaches
+Automated mathematical problem-solving represents a unique intersection of natural language processing NLP and mathematical reasoning posing significant challenges in semantic comprehension and logical deduction
+This survey paper explores the domain of mathematical word problems MWPs focusing on the nuanced integration of linguistic understanding and mathematical logic required for their resolution
+Despite progress the automated solution of MWPs through NLP techniques remains challenging
+We present a comprehensive review of the latest datasets and computational models focusing on those addressing geometrical tabular and multimodal problem types-areas not extensively covered in prior surveys
+Our review extends beyond previous surveys by analyzing the solving of MWPs in languages such as Hindi and Arabic areas less explored in existing research
+We critically review the latest datasets and computational models designed for MWPs highlighting the scarcity of resources that cater to the complexity of problems in Hindi Arabic and similar languages
+This gap underscores the need for comprehensive datasets that reflect the diversity of MWPs in these languages and for models capable of navigating the linguistic nuances inherent in non-English and non-Chinese contexts
+Our analysis points to the limitations of current approaches including their focus on specific data formats and limited generalizability across different mathematical contexts
+Furthermore our critical analysis identifies prevailing limitations within current methodologies including over-reliance on specific data formats and a lack of generalizability across diverse mathematical contexts
+In response we propose a research agenda to develop sophisticated models that understand and reason across a broader spectrum of problem types and languages and create datasets that capture the real-world diversity of MWPs in Hindi Arabic and beyond
+This paper sets a direction for future research to advance NLP-driven mathematical problem-solving toward technically adept and universally applicable models across linguistic boundaries thereby making strides toward truly global NLP applications in education and beyond .

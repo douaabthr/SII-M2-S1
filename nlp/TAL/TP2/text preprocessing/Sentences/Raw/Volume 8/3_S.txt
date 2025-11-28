@@ -1,0 +1,8 @@
+Monterey Mirror an experiment in interactive music performance combining evolutionary computation and Zipf s law
+Monterey Mirror is an experiment in interactive music performance
+It is engages a human the performer and a computer the mirror in a game of playing listening and exchanging musical ideas
+The computer side involves an interactive stochastic music generator which incorporates Markov models genetic algorithms and power-law metrics
+This approach combines the predictive power of Markov models with the innovative power of genetic algorithms using power-law metrics for fitness evaluation
+These power-law metrics have been developed and refined in a decade-long project which explores music information retrieval based on Zipf s law and related power laws
+We describe the architecture of Monterey Mirror which can generate musical responses based on aesthetic variations of user input
+We also explore how such a system may be used as a musical meta-instrument/environment in avant-garde music composition and performance projects .

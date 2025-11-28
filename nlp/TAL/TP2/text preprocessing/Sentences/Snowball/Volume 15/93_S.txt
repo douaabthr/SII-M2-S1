@@ -1,0 +1,11 @@
+an adapt mutat strategi for differenti evolut algorithm base on particl swarm optim
+differenti evolut de algorithm is a veri effect algorithm use for solv wide rang of optim problem
+howev the perform of de is depend on the control paramet and to choos the right paramet valu and tune of these paramet is a challeng task
+therefor a novel variant of differenti evolut algorithm base on particl swarm optim depso is propos to improv the overal perform of differenti evolut algorithm
+in our propos approach we are use de mutat strategi dure the initi phase of evolut and therefor enlarg it search space possibl to the extent that help in find more encourag result and thus avoid prematur converg
+dure the subsequ phase of evolut process this valu of sigmoid function reduc with the increas of number of iter
+in this scenario there is a greater probabl of oper pso mutat strategi and thus this sigmoid function help in improv the precis and converg speed
+the perform of our propos algorithm is test with 10 benchmark test function on 50 and 25 dimens set also test with 11 test function on 30 and 100 dimens test function
+we have also test our propos algorithm with 8 test function on high dimens set as 500 and 1000 dimens
+the perform comparison show that our propos variant is give signific improv in converg speed and thus avoid prematur converg
+averag perform of depso is better than classic de pso and other algorithm in comparison .

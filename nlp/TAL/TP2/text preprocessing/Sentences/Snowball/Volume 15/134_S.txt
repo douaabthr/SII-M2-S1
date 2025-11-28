@@ -1,0 +1,10 @@
+multiobject memet algorithm base on adapt local search chain for vehicl rout problem with time window
+this paper present a multiobject memet algorithm base on adapt local search chain mma-alsc for vehicl rout problem with time window vrptw which is an import research area in logist
+as shown in most previous studi vrptw is essenti a multiobject optim problem and can be solv effect by the multiobject algorithm with various local search oper
+we have observ howev that the promis solut obtain dure the process of evolut are not fulli util to guid the search togeth with differ local search oper
+this will lead to the discontinu and insuffici search in the region show promis
+to allevi this drawback mma-alsc is propos and character by combin a multi-direct local search strategi md-ls with an enhanc local search chain techniqu els-chain
+in mma-alsc on the one hand with md-ls differ local search oper are design to perform the search toward multipl direct with distinct problem-specif knowledg of multiobject vrptw movrptw
+on the other hand with els-chain the promis solut obtain dure the process of evolut are adapt select for the subsequ local search oper
+in this way mma-alsc can not onli effect explor the search space in multipl direct but also fulli exploit the promis solut in a chain-bas way
+experiment result on two suit of benchmark instanc have demonstr the competit perform of mma-alsc when compar with other repres algorithm .

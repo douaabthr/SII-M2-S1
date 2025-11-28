@@ -1,0 +1,7 @@
+structur reliabl optim model with credibilist safeti constraint
+some tradit fuzzi reliabl model quantifi the system uncertainti base on possibl measur metric without self-dual which lead to the undesir result that the sum of possibl of ani one fuzzi set/ev and it complementari set/ev is not equal to one
+to overcom thi drawback thi paper formul a new reliabl metric tool base on self-dual credibl measur
+firstli we introduc credilist safeti constraint to formul credibilist reliabl optim model on the basi of limit-st function
+then sever theorem are provid to show that the feasibl domain gener by credibilist safeti constraint can be reformul as the equival convex domain under mild assumpt which enabl credibilist safeti constraint to reformul as the equival reliabl constraint
+final one numer exampl on the optim design of three-bar truss structur is provid to show the applic of the credibilist reliabl optim model
+by use out-of-sampl back-test these comparison result are state on the provid reliabl level and the back-test reliabl level which evid the effect of the optim solut achiev by the propos model for practic structur engin .

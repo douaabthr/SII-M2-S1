@@ -1,0 +1,8 @@
+self org class first step in structured evolv machin learn
+learn class system lcss ar evolv machin learn algorithm flex enough to be apply to reinforc superv and unsuperv learn problem with good perform
+rec self org class wer propos which ar simil to lcss but hav the adv that in it structured pop no bal between nich and fit press is necess
+howev mor test and analys ar requir to ver it benefit
+her a vary of the first algorithm is propos which us a parameterless self org map som
+thi algorithm is apply in challeng problem such as big noisy as wel as dynam chang continu input-action maz grow and compress maz ar includ with good perform
+moreov a genet op is propos which util the topolog inform of the som s pop structure improv the result
+thu the first step in structured evolv machin learn ar shown nonetheless the problem fac ar mor difficult than the state-of-art continu input-action multi-step on .

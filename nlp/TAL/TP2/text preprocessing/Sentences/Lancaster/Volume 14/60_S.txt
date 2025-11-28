@@ -1,0 +1,18 @@
+min of multipl ail correl to diabet mellit
+efficy and us friend databas technolog hav en the digit of inform pertain to the med domain
+thi has not on eas the smoo record manip but also attract man a research to expl certain challeng to solv through impl of dat min tool and techn
+among the nat of ail the inform rel to diabet mellit dm ar found to be the maxim digit
+thi has provid a challeng but buzz platform for the research to do in-depth analys and pres modern edg solv which can lead to ear diagnos of the fat ail
+ther ar num side-effects to a hum body when it is affect by dm
+thes multipl ail attack a hum body with the direct or indirect influ of dm and it s correspond drug intak
+thu ther has been a demand for a gen scheme which can predict the lik of certain multipl ail that a dm paty is suppos to be attack by in near fut
+in thi work a suit scheme has been propos in the sam direct
+thi scheme provid a viabl platform wher the prob of multipl ail for a dm paty can be comput
+the propos scheme also provid the prob of occur of individ ail as wel as the prob of occur of certain combin of the ail
+occur of three of the maj ail ar being comput in thi work
+thes ar retin disord kidney malfunct and heart diseas
+a fuzzy log strategy has been us for match sev diseas constraint and produc a decid outcom
+certain numb of novel heur funct ar pres which tak thes output and provid a prob acc predict of occur of the said ail
+suit expery evalu hav been mad with prop dat input
+the propos scheme has also been comp with compet schemes
+an overal rat of acc of 97% is calc bas on a k-fold cross valid perform met .

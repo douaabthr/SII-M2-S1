@@ -1,0 +1,7 @@
+multi-scale multi-stream deep network for car logo recognit
+vehic logo retriev or recognit is being a popul study of field in intelligent/smart traff system
+theref thi pap propos a multi-scale multi-stream deep network for vehic logo recognit
+the propos network process the input vehic logo im through each of the multi-scale stream to extract the robust feat follow by the logo recognit mod
+the propos network follow the knowledg shar strategy by shar learn feat at each stream across the network
+we hav util the ex large-scal benchmark vehic logo im dataset to valid the propos network for vehic logo recognit task
+the perform of the propos network is comp with the ex state-of-the-art deep network which exhibit that the propos network is supery for the vehic recognit task .

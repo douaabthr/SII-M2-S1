@@ -1,0 +1,10 @@
+a new fiss fus behavior-based rao algorithm ffbbra for solv optim problem
+ther ar vary problem in the engin field which can be model as an optim problem and can be solv through metah optim algorithm
+in thi pap a new metah algorithm nam as fiss fus behavior-based rao algorithm ffbbra has been propos
+thi new algorithm util the conceiv of metaphor-less rao algorithm and the ide of fiss fus soc behavy of spid monkey optim smo
+the propos methodolog divid the entir pop into subpop and then thes subpop ar independ upd concern their loc worst and glob best candid us the ffbbra equ
+the propos method has been test ov 20 unconstrain funct includ multimod unimod and fix dimend benchmark funct along with 2 constrain benchmark funct
+the perform of the propos algorithm is evalu through observ of the worst solv the best solv standard devy and mean solv
+converg analys is also perform
+the propos ffbbra has shown good perform as observ by friedm test
+thi propos algorithm is also easy util on parallel system due to it parallel work nat .

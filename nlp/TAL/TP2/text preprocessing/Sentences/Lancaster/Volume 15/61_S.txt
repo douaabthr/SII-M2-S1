@@ -1,0 +1,12 @@
+a survey of energy-aware clust head select techn in wireless sens network
+rec wireless sens network wsns ar becom very fam as they ar inexpend and easy to maintain and man
+the network contain a group of sens nod which ar cap of sens comput and transmit
+energy efficy is on of the most import challeng problem in wsn
+sens nod hav inadequ energy and instal in remot area
+hent it is difficult to rest the battery in wsn
+theref to maxim the network lifetim appropry clust techn and clust head ch select method should be impl
+the main ide behind the clust techn is that it clust the sens nod and reduc the compos dat simult and then it broadcast the dat
+in thi process ch select is an ess part
+theref thi survey pap provid an overview of the clust techn for reduc energy consum by review sev ch select techn in wsn that provid high energy efficy
+sev techn hav been employ for ch select bas on partit clust optim low-energy adapt clust hierarchy hierarch distribut and oth class method
+fin an analys is don bas on the impl tool met employ acc and achiev of the consid ch select techn .

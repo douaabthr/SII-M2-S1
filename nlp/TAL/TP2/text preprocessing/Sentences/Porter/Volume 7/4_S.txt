@@ -1,0 +1,12 @@
+reconstruct biolog gene regulatori network where optim meet big data
+the import of big data in biolog is increas as vast quantiti of data are be produc from high-throughput experi
+techniqu such as dna microarray are provid a genome-wid pictur of gene express level allow us to investig the structur and interact of gene network in biolog system
+infer of gene regulatori network grn is an underdetermin problem suit to metaheurist algorithm which can oper on limit inform
+thu grn infer offer a platform for investig into data intens scienc and larg scale optim problem
+here we examin the link between data intens research and optim problem for the revers engin of grn
+briefli we detail the benefit of the data delug and the studi of alif for model grn as well as their reconstruct
+we discuss how metaheurist can solv big data problem and the infer of grn offer real world problem for both area of research
+we overview some current reconstruct algorithm and investig some model and comput limit of the infer process and suggest some area for develop
+furthermor we identifi link and synergi between optim and big data e.g. dynam uncertain and larg scale optim problem and discuss the potenti benefit of multi and many-object optim
+we stress the import of data integr techniqu in order to maxim the data avail particularli for the case of infer grn from microarray data
+such multi-disciplinari research is vital as biolog is rapidli becom a quantit data intens scienc .

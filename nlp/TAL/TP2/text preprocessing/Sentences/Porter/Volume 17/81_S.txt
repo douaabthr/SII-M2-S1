@@ -1,0 +1,18 @@
+multi-resolut analysi and deep neural network architectur base hybrid featur extract techniqu for plant diseas identif and sever estim
+the crop protect techniqu use effici plant diseas identif are highli benefici for smart agricultur manag which further decreas the gap between the demand/suppli of consum farmer
+howev an effici featur extract techniqu is desir to achiev high accuraci least graphic process and low process time for colour imag
+therefor thi work propos a hybrid novel featur extract techniqu for colour plant leaf imag to overcom these challeng
+thi work is divid into two part 1
+plant diseas identif and 2
+plant diseas sever estim
+in thi techniqu multiresolut analysi use large-scal coeffici of discret wavelet transform dwt is perform use orthogon wavelet
+the orthogon wavelet such as daubechi biorthogon symlet and coiflet with appropri vanish moment are util to select signific featur
+then the eigen decomposit of large-scal dwt-base colour imag featur is util use princip compon analysi pca where onli the eigenvalu with larg varianc are consid for further featur select
+sever experi are carri out for the select of felicit sub-band decomposit level
+the deep neural network dnn architectur such as alexnet resnet 101 and incept v3 are incorpor to classifi the obtain featur
+the dnn oper on convolut neural network which util the weight from pre-learn imagenet databas class to classifi variou class
+the combin of dnn with transfer learn and fine tune is made to tune the paramet for better efficaci
+experi were perform on the plantvillag databas which contain healthy/diseas imag of plant such as appl corn grape and tomato leav
+a new databas is creat by captur the imag of rice crop leav includ healthi and diseas leav
+a total of 8000 imag are process for diseas identif
+the propos techniqu provid 99% accuraci for diseas identif task and 90% for diseas sever estim in the real-lif rice dataset and outperform the exist techniqu in thi field of research .

@@ -1,0 +1,7 @@
+a construct of smart citi evalu system base on cloud comput platform
+smart citi is a complex systemat engin
+it not onli need plane construct manag and run but also requir evalu optim and adjust in order to keep the smart citi construct prospect reason and effect
+the applic of cloud comput platform can effect improv the intellectu of urban
+accord to the problem such as the blind construct and the unsatisfi result dure the process of the smart citi construct we carri on the theoret explor about smart citi evalu system base on cloud platform and studi the index includ in smart citi and relat among them and further propos the method of the smart citi evalu system
+the core of the method is the smart citi evalu index system evalu method and optim strategi and the feasibl of the method is verifi by an exampl
+final we propos an application-ori cloud comput platform architectur it can improv the evalu result and maxim the capac of smart citi .

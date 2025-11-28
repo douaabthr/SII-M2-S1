@@ -1,0 +1,13 @@
+a novel improv predict of protein structur class use deep recurr neural network
+for last few decad sequenc arrang of amino acid have been util for the predict of protein secondari structur
+recent method have appli high dimension natur languag base featur in machin learn model
+perform measur of machin learn base model are significantli affect by data size and data dimension
+it is a huge challeng to develop a gener model which can be train to perform both for small and larg size dataset in a low dimension framework
+in the present research we suggest a low dimension represent for both small and larg size dataset
+a hybrid space of atchley s factor ii iv v electron ion interact potenti and skipgram base word2vec have been employ for amino acid sequenc represent
+subsequ stockwel transform is appli to the represent to preserv featur both in time and frequenc domain
+final deep gate recurr network with dropout categorical-cross entropi error estim and adam optim is use for classif purpos
+the introduc method result in better predict accuraci for both small 204,277 and 498 and larg size pdb25 protein 640 and fc699 bench mark data set of low sequenc similar 25 40%
+the obtain classif accuraci for pdb25 640 fc699 498 277 204 dataset are 84.2% 94.31% 93.1% 95.9% 94.5% and 85.36% respect
+the major contribut in thi research is that for the first time we verifi the protein secondari structur class predict in a veri low dimension 18 d featur space with a novel featur represent method
+secondli we also verifi for the first time the behaviour of deep network for low dimension small size data set .

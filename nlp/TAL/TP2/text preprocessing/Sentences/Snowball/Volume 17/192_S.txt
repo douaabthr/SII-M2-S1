@@ -1,0 +1,11 @@
+artifici intellig enabl cognit computer-cent digit analysi model for examin of the children s mental health
+mental health play an import role for how a person act think and feel
+special in the case of student it s becom veri crucial and they suffer from various kind of mental disord due to educ emot and societ pressur
+this paper propos an artifici intellig enabl cognit computer-cent digit analysi model for the examin of children s mental health
+the object of children mental health analysi use vocal spectrogram a pseudo-scientif technolog is to deduc deceit from mental health that is detect in the voic
+with excess stress be view as an indic of deceit the technolog seek to distinguish between good mental health and bad mental health output in respons to stimuli
+in this studi we provid a convolut neural network cnn base cognit computer-bas model for detect children mental health base on speech cue and deep learn
+automat children mental health detect is develop into an intrigu studi topic sinc communic between intellig system and human is demand to happen more frequent
+although the level of particular hormon like as cortisol can be accur measur to identifi children s mental health
+propos cnn model valid is done use five differ usabl factor learnabl effici effect satisfact and understand to assess it util and effect and the result of the initi test indic that the propos model provid a promi ing tool for the examin of children s mental health
+this paper also discuss how reinforc learn rl and cnn algorithm can be use for continu improv of the propos model .

@@ -1,0 +1,6 @@
+a novel artifici electr field strategi for econom load dispatch problem with renew penetr
+thi articl present an innov method to address the econom load dispatch eld problem in power system incorpor renew energi sourc within thermal unit
+employ the 2 m point estim techniqu for determin renew energi output power the propos approach effect address challeng associ with renewable-bas eld by util the artifici electr field method
+inspir by the electrostat forc principl among charg particl thi approach guid particl toward optim solut within the search space
+valid on power system featur 3 5 6 15 and 40 unit demonstr superior perform compar to establish algorithm confirm by the wilcoxon signed-rank test
+the research contribut to the advanc of sustain and effici power system .

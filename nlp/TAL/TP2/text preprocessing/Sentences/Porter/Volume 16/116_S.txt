@@ -1,0 +1,11 @@
+short-term forecast electr load by long short-term memori and reinforc learn for optim of hyper-paramet
+electr load forecast is an essenti oper of the power system
+deep learn is use to improv accur electr load forecast
+in thi studi combin long short-term memori and reinforc learn are propos to encourag the advantag of a singl approach for forecast
+import input featur includ the mutual featur of electr load are use to increas accuraci
+first multi-tim seri input can handl by long short-term memori and the addit of featur support to the load featur will make the model better effici
+becaus the lstm model is quit complex choos a good set of hyperparamet is difficult
+therefor the purpos of use reinforc learn is to optim hyper-paramet of the long short-term memori model
+the propos model is the combin of long-short term memori and reinforc learn
+the propos model will be appli in two electr load data set the real-lif data of vietnam electr and the other public data set
+in one day ahead forecast the propos model archiv superior perform than the benchmark .

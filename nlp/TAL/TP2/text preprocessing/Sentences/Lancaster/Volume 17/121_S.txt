@@ -1,0 +1,12 @@
+a comp analys of deep neur network architect for sent class us genet algorithm
+becaus of the numb of diff architect num set of their hyper-parameters and disp among their siz it is difficult to equit comp vary deep neur network dnn architect for sent class
+evolv algorithm ar emerg as a popul method for the autom select of architect and hyperparamet for dnns whos gen perform is heavy impact by such set
+most of the work in thi are is don in the im domain leav text analys anoth promin apply domain of deep learn larg abs
+besid lit pres conflict claim regard the supery of on dnn architect ov oth in the context of sent class
+to address thi issu we propos a genet algorithm ga for optim the architect and hyperparamet set in diff dnn typ for sent class
+to en the repres of the wid vary of architect and hyperparamet util in dnns we employ a gen and flex encod scheme in our ga
+our study involv optim two convolv and three recur architect to ens a fair and unbias evalu of their perform
+furtherm we expl the effect of us f1 scor vers acc as a perform met dur evolv optim of thos architect
+our result us ten dataset show that in gen the architect and hyperparamet evolv us the f1 scor tend to outperform thos evolv us acc and in the cas of cnn and bilstm the result wer sign in stat meas
+of the fiv architect consid the ga-evolved gat recur unit gru perform the strongest overal achiev good gen perform whil us rel few train paramet est gru as the prefer architect for the sent class task
+the optim architect exhibit comp perform with the state-of-the-art giv the larg diff in train paramet .

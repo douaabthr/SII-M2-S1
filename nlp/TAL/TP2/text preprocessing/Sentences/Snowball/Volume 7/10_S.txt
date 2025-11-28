@@ -1,0 +1,5 @@
+simultan versus increment learn of multipl skill by modular robot
+this paper is concern with the problem of learn multipl skill by modular robot
+the main question we address is whether it is better to learn multipl skill simultan all-at-onc or increment one-by-on
+we conduct an experiment studi with modular robot of various morpholog that need to acquir three differ but correl skill effici locomot navig toward a target point and obstacl avoid use a real-tim on-board evolut as the learn method
+the result indic that the one-by-on strategi is more effici and more stabl than the all-at-onc strategi .

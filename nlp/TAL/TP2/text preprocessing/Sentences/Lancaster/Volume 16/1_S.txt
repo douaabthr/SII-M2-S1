@@ -1,0 +1,19 @@
+a survey on dragonf algorithm and it apply in engin
+the dragonf algorithm was develop in 2016
+it is on of the algorithm us by research to optim an extend sery of us and apply in vary area
+at tim it off supery perform comp to the most well-known optim techn
+howev thi algorithm fac sev difficul when it is util to enh complex optim problem
+thi work address the robust of the method to solv real-world optim issu and it deficy to improv complex optim problem
+thi review pap show a comprehend investig of the dragonf algorithm in the engin are
+first an overview of the algorithm is discuss
+besid we also examin the mod of the algorithm
+the merg form of thi algorithm with diff techn and the mod that hav been don to mak the algorithm perform bet ar address
+addit a survey on apply in the engin are that us the dragonf algorithm is off
+the util engin apply ar the apply in the field of mech engin problem elect engin problem optim paramet econom load dispatch and loss reduc
+the algorithm is test and evalu against partic swarm optim algorithm and firef algorithm
+to evalu the abl of the dragonf algorithm and oth particip algorithm a set of tradit benchmark tf1-tf23 wer util
+moreov to examin the abl of the algorithm to optim large-scal optim problem cec-c2019 benchmark wer util
+a comparison is mad between the algorithm and oth metah techn to show it abl to enh vary problem
+the outcom of the algorithm from the work that util the dragonf algorithm prevy and the outcom of the benchmark test funct prov that in comparison with particip algorithm gwo pso and ga the dragonf algorithm own an excel perform espec for smal to intermedy apply
+moreov the congest fact of the techn and som fut work ar pres
+the auth conduc thi research to help oth research who want to study the algorithm and util it to optim engin problem .

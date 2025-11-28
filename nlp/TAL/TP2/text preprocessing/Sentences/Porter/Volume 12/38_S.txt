@@ -1,0 +1,15 @@
+dm-limga dual migrat local island model genet algorithm a better divers preserv island model
+island model genet algorithm imga is a multi-popul base ga
+imga aim to avoid local optimum by maintain popul island divers use migrat
+there are sever mechan of migrat and individu select such as the best or worst individu select new natur inspir evolut model and dynam migrat polici
+migrat can delay island local converg and intrins preserv divers
+iron migrat is also potenti to bring overal island global converg faster
+in a certain gener the migrat individu among island will have similar valu genet drift
+so thi work aim to preserv global divers better by implement local imga limga and dual dynam migrat polici ddmp
+limga creat uniqu evolut trend by use a differ kind of ga for each island
+ddmp is a new migrat polici which rule the individu migrat
+ddmp determin the state of an island accord to it divers and attract level
+by determin it state ddmp ensur the individu migrat to the correct island dynam
+we call the combin of limga and ddmp as dual migrat limga dm-limga
+our experi show that dm-limga can preserv the divers better
+as it implic dm-limga can creat a more extens search space and domin the result among other solver .

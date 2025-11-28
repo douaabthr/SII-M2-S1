@@ -1,0 +1,3 @@
+Evolutionary robotics
+
+Evolutionary robotics combines evolutionary computing with robotics [1,2,4,7–10]. It is a field that “aims to apply evolutionary computation techniques to evolve the overall design or controllers, or both, for real and simulated autonomous robots” [9]. It is a useful approach “both for investigating the design space of robotic applications and for testing scientific hypotheses of biological mechanisms and processes” [4].

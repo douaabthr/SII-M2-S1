@@ -1,0 +1,9 @@
+emot recognit of speech sign us tayl sery and deep believ network bas class
+in the rec year on of the multidisciplin research area attract the research is emot recognit
+it is an import and challeng process to be achiev in emot interact
+accord thi work introduc the emot recognit system by propos the tayl sery bas deep believ network taylor-dbn
+the nois pres in the speech sign is remov through the speech enh process and then subject to the feat extract
+the feat such as ton pow ratio multipl kernel mel frequ cepst coefficy mkmfcc paramet and the spect flux ar extract and provid as the train input to the propos taylor-dbn class for ident the emot pres in the sign
+the expery is don with the help of the berlin databas real databas 1 and the real databas 2
+the expery dataset contain the speech sign from diff domain and langu and the perform of the propos taylor-dbn has shown minim vary in each domain and thu the propos model is suit for vary domain
+the propos taylor-dbn outclass oth comp model with acc fals acceiv rat far and fals reject rat frr valu of 0.97 0.0135 and 0.0165 respect .

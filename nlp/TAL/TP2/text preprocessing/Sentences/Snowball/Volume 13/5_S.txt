@@ -1,0 +1,9 @@
+analysi of evolutionari process of fog comput system base on ba and er network hybrid model
+fog comput is orient to the internet of thing which integr network comput storag and applic capabl
+it is a semi-virtu distribut servic comput paradigm
+it extend data data process and applic to the edg of the network and provid intellig servic for user nearbi
+the purpos of this paper is to design a safe stabl and effici fog comput model
+on the basi of the structur of fog comput system the evolut process of fog comput node is model base on ba scale-fre network and er stochast network model
+then the evolut process of network hybrid model is analyz
+final the evolut model of fog comput system is solv and a network model with two network characterist is obtain
+experi show that the hybrid network model has the advantag of two basic network .

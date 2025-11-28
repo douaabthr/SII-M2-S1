@@ -1,0 +1,10 @@
+a heur nod plac strategy for extend network lifetim and ens target cov in mobl wireless sens network
+prolong network lifetim has long been on of the most crit challeng in design wireless sens network in gen and mobl wireless sens network in particul
+regard network lifetim on of the fact affect it the most is energy efficy
+in a mobl wireless sens network comp to stat on energy man has an ev gre impact on the network lifetim sint the mov of the sens drain an enorm amount of energy
+moreov in target-based wireless sens network it is mand to ens target cov along with lifetim optim
+in thi pap we investig a mobl sens network model wher stat target must be continu monit by mobl sens
+in ord to maxim network lifetim and guar the cov of al target in the monit reg we tak sens nod mov into account
+we propos the lifetim effect mov algorithm a novel heur approach consist of determin the optim reg for sens deploy and scheduling sens nod mov to address thi issu
+expery result demonst that our propos algorithm outperform two ex approach in term of network lifetim with an improv vary from 125% to 269%
+moreov the propos method produc an approxim ratio in the rang of 82.14 88.41% comp to the exact solv .

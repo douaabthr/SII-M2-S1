@@ -1,0 +1,14 @@
+Rule reduction by selection strategy in XCS with adaptive action map
+The XCS classifier system is a rule-based evolutionary machine learning system
+XCS evolves classifiers in order to learn generalized solutions
+The XCS with adaptive action mapping XCSAM is inherited from XCS which evolves a best action map where it evolves classifiers that advocate the best action in every state
+Accordingly XCSAM can potentially evolve solutions that are more compact than XCS which in contrast focuses on a complete action map
+Previous experimental results however have shown that in some problems XCSAM may produce solutions with more classifiers than XCS
+In this paper we initially show that the original fitness-based selection strategy of XCS produces non effective classifiers which are not likely to be in the best action map i.e. they are inaccurate ones or do not have best actions in XCSAM
+Then we introduce a new selection strategy for XCSAM that promotes the evolution of classifiers advocating the best action map and thus produces more compact solutions
+The new strategy selects classifiers based both on their fitness like XCS and on the parameteroptimality of actionof XCSAM
+The result is a pressure towards classifiers that are accurate and advocate the best actions
+We present analyses showing that the new selection strategy successfully enables XCSAM to focus on classifiers having best actions
+Our experimental results show that XCSAM with the new selection strategy called XCSAM-SS can evolve smaller solutions than XCS and the original XCSAM both in single-step and multi-step problems
+As a consequence XCSAM can also learn with smaller iterations than XCS in the single-step problem
+Our conclusion is that as the best action map potentially has a compact solution XCSAM evolves a much compact solution than XCS by adding an adequate selection strategy .

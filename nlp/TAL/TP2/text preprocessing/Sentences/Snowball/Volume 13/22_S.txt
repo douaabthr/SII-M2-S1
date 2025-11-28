@@ -1,0 +1,8 @@
+mine traffic congest propag pattern base on spatio-tempor co-loc pattern
+traffic congest is a direct reflect of the imbal between suppli and demand for a certain period of time
+owe to the complex of traffic road and the propag of congest the evacu of traffic congest for local road section alon cannot achiev signific result
+base on the measur data of traffic flow this paper combin the topolog of the road network and the exist time of congest to judg the spatio-tempor correl of congest between road section
+we propos a spatio-tempor co-loc congest pattern mine method to discov the order set of road with congest propag in urban traffic and measur it influenc in congest event
+the propos method not onli reveal the process of congest propag but also uncov the main propag path lead to the large-scal congest
+final we experi with the algorithm on the traffic dataset in guiyang citi
+the experiment result reveal the traffic congest rule in guiyang citi includ the preval co-occurr of congest propag pattern and their influenc in congest event .

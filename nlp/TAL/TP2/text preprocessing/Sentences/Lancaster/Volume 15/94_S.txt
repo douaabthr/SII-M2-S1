@@ -1,0 +1,8 @@
+comparison of vary elect market pric strategies to reduc gen cost of a microgrid system us hybrid woa-sc
+thi pap aim to minim the gen cost of a low volt lv grid-connect microgrid system us a novel hybrid whal optim algorithm woa sin cosin algorithm sca optim techn
+three diff method of elect market pric ar form in turn and the gen cost is evalu for each method to sort out the best among them which yield the least gen cost of the sam microgrid system
+both act and pass particip of grid ar study to acknowledg it import
+num result show that the tim of us tou method of elect market pric prov to be the most conveny and econom method for cost analys of the system
+the gen cost was at it maxim when the elect pric was a const valu
+also dur the tou method of elect pric a 15% surg in the pric was real when the grid was pass particip in supply pow to the system
+fig and stat dat aid the fact that propos hybrid woasc outperform woa in consist provid a robust and supery qual result .

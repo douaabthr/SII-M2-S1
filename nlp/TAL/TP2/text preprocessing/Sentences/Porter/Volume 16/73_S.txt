@@ -1,0 +1,15 @@
+new local approach base on the develop of a person dynam model for a car-lik vehicl robucar
+futur autonom drive and next-gener vehicl control requir further advanc in vehicl dynam state estim
+thi paper describ a new local approach base on the develop of a person dynam model for an autonom car-lik vehicl call robucar
+the propos approach is use within a framework for the develop of a robucar simul platform
+thi approach is firstli use offlin due to the comput time constraint employ record odometr data to studi and valid some develop applic relat to the navig function such as obstacl avoid target track etc
+howev thi approach can be use onlin to obtain a good local in real time by use a power embed system or simplifi some aspect not easili influenc in the propos dynam model
+local issu have been discuss while analyz some method use in mobil robot and describ the background and choic made in thi paper
+use an appropri tire-road contact model dynam equat of the forc and torqu act on the robucar have been determin
+the propos dynam model discuss in thi paper ha 18 degre of freedom dof consid fine technic characterist relat to the electr motion the geometri of the bi-steer system and the tire-road contact type
+secondli the develop dynam model ha been exploit to provid the robucar s posit in outdoor environ use odometr measur adjust sever intern paramet
+simul are carri out to evalu the behavior of the develop dynam model
+furthermor an experiment test ha been realiz outdoor for a distanc of 513 m to valid our new local approach
+the obtain experiment result are interest and promis show clearli the effect of the new approach adopt for local in offlin mode
+the accuraci provid by the propos dynam model compar to the kinemat model is highlight
+moreov the develop dynam model can be use in sever field other than local such as motion plan control and robucar stabil studi .

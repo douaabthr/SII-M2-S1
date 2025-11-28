@@ -1,0 +1,7 @@
+Multi-label feature selection based on information entropy fusion in multi-source decision system
+Feature selection plays an important role in high-dimensional multi-source data which can improve classification performance of learning algorithm
+Most of existing multi-source information fusion focus on the single decision system without considering multi-source and multi-label problems together
+Nevertheless data from different sources along with multiple labels simultaneously are absolutely frequent in many real-world applications
+For this issue in this paper a multi-source multi-label decision system is proposed which has more than one decision label
+To remove some redundant or irrelevant features in multi-source multi-label decision system a feature selection algorithm based on positive region for multi-source multi-label data is explored which uses the feature dependency carried on the fusion decision table
+Finally examples are introduced to elaborate the detail process of the proposed algorithm and experimental results show the effective performance of the proposed algorithm on multi-source and multi-label data .

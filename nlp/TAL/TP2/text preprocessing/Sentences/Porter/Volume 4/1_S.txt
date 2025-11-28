@@ -1,0 +1,4 @@
+special issu on modern search heurist and applic
+sinc it incept in the earli 1980 we have seen a lot of excit develop in the field of metaheurist
+the complex of mani real-world problem which are often associ with larg search space real-tim perform demand and dynam environ ha made exact solut method impract to solv them within a reason amount of time
+thi give rise to variou type of non-exact metaheurist approach includ the nature-inspir and non nature-inspir one see 1 4 .

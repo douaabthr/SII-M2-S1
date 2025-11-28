@@ -1,0 +1,8 @@
+divers enh equilibr optim algorithm for solv unconstrain and constrain optim problem
+thi research study propos a novel mut scheme main bas on the manip equ of tang search optim and mut phas of symbiot org search algorithm to be impl on the equilibr optim algorithm to enh the solv divers among the pop individ
+benef coordin between thes govern search mech en maintain divers in the pop
+it elimin the stagn toward the loc sub-optimal solv ov the search domain sign allevy the inh drawback of equilibr optim
+to assess the efficy of the propos diversity-enhanced equilibr optim algorithm dequil on unconstrain problem thirty-four multidimend optim test inst compr of unimod and multimod benchmark problem hav been solv and respect perform ar ver against thos obtain from well-reputed new emerg metah algorithm
+a comprehend comparison bas on the decid met includ stat analys perform index analys scal test divers analys and converg rat demonst the effect of the hybrid search methodolog
+lat fourteen real-world constrain engin problem with vary complex wer solv by the propos dequil method
+the predict perform of dequil is comp with a wid rang of avail lit optim to scrutinize the improv in problem-solving cap and seen that it can success cop with the complex constrain design problem outperform the maj of the comp algorithm in most design cas . graph abstract

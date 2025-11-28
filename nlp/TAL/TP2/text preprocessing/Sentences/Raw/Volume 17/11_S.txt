@@ -1,0 +1,4 @@
+A performance simulation and verification method of packet scheduling algorithms for data stream based on QoS
+In the process of network-based data flow transmission for various applications of information services there are some problems such as limited bandwidth and unclear priority level of business data which affect the end-to-end reliable transmission efficiency because the system cannot perceive the link state
+Traditional parallel link redundancy schemes have not fundamentally solved the problems of invulnerability and reliability
+On the basis of sorting out the demand of service data flow transmission this paper proposes a performance verification method of data flow packet scheduling algorithm based on QoS to solve the problems of network delay and congestion and explores a reliable end-to-end service data flow transmission mode .

@@ -1,0 +1,8 @@
+Voltage stability constrained transmission network expansion planning using fast convergent grey wolf optimization algorithm
+Transmission network expansion planning problem TNEP is of utmost importance in power system now a days
+In this paper a voltage stability indicator L-index is applied to limit the voltage of buses
+Hence TNEP is formulated incorporating this voltage stability feature
+Thus formulated TNEP is termed as voltage stability constrained TNEP VSC-TNEP
+TNEP has been solved using various conventional and non-conventional strategies by various researchers in these days
+Here TNEP and VSC-TNEP for IEEE-24 bus test system is solved using grey wolf optimization technique GWO and modified GWO
+The modified GWO algorithm namely fast convergent GWO FCGWO is validated over 25 standard benchmark test functions and compared with other techniques .

@@ -1,0 +1,9 @@
+emot recognit of speech signal use taylor seri and deep belief network base classif
+in the recent year one of the multidisciplinari research area attract the research is emot recognit
+it is an import and challeng process to be achiev in emot interact
+accord this work introduc the emot recognit system by propos the taylor seri base deep belief network taylor-dbn
+the nois present in the speech signal is remov through the speech enhanc process and then subject to the featur extract
+the featur such as tonal power ratio multipl kernel mel frequenc cepstral coeffici mkmfcc paramet and the spectral flux are extract and provid as the train input to the propos taylor-dbn classifi for identifi the emot present in the signal
+the experiment is done with the help of the berlin databas real databas 1 and the real databas 2
+the experiment dataset contain the speech signal from differ domain and languag and the perform of the propos taylor-dbn has shown minim variat in each domain and thus the propos model is suitabl for various domain
+the propos taylor-dbn outclass other compar model with accuraci fals accept rate far and fals reject rate frr valu of 0.97 0.0135 and 0.0165 respect .

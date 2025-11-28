@@ -1,0 +1,11 @@
+Random subspace ensemble for directly classifying high-dimensional incomplete data
+Missing values are a common issue in many high-dimensional datasets but a majority of classification algorithms require complete data
+Therefore imputation methods are usually used to estimate and fill missing values with plausible values before using the classification algorithms to learn classifiers or using the learnt classifiers to classify unseen incomplete samples
+However good imputation methods are usually computationally intensive on high-dimensional datasets because these datasets not only have a large number of features but also often suffer from a large number of missing values
+Another approach is to use decision tree algorithms which do not need imputation and can work directly with incomplete data
+However using decision trees to classify high-dimensional data often leads to large classification accuracy because of the curse of dimensionality
+Ensemble techniques which build multiple classifiers instead of a single classifier have been widely used to improve accuracy for decision trees
+This paper aims to investigate different ensemble methods to find effective and efficient ensembles of decision trees for classification with high-dimensional incomplete data
+Experimental results show that the random subspace method is the most accurate ensemble
+The random subspace method is also more accurate than other classification algorithms which needs to combine with imputation when working with incomplete data
+Moreover the random subspace method is much faster than the other algorithms because it can directly work on incomplete data so does not have to spend time estimating missing values .

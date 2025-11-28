@@ -1,0 +1,10 @@
+anneg an art neur network embed genet algorithm approach for energy efficy street light
+a maj impact on energy sav by efficy us of streetlights becom sign to develop a smart city
+ther is a nee to optim the valu of necess street light paramet for energy plan
+so an art neur network embed genet algorithm approach is propos to obtain energy efficy street light
+the neur network serv the purpos of the autonom dim of streetlights whenev requir whil the genet algorithm is util to minim the er anticip in the train proc of the art neur network model
+in the propos work each individ pop of the genet algorithm is compr of four gen such as the numb of hid lay as wel as the numb of neuron on the first lay in the art neur network the act funct and the optim us for the train of the art neur network model
+the outcom of the genet algorithm gen the suit valu of the hyper-parameters in combin which in turn determin the minim train er for the art neur network model
+the effect of tun hyper-parameters for select the best neur network architect is comprehend assess
+the comput tim of the propos work for diff vary in term of optim and act funct is shown
+fin the propos embed framework has shown an improv of 41.94% mor energy efficy and 94.8% less train er instead of ex work .

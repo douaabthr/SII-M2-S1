@@ -1,0 +1,7 @@
+improv norm graph cut with gen dat for enh seg in cerv cant detect
+cerv cant must be detect at an ear stag sint the lat diagnos reduc the prob of surv among the wom pop of the world
+in thi pap improv norm graph cut with gen dat for enh seg ingc-gdes mech was propos for effect detect of the cytoplasm and nucle bound of the pap smear cel in ord to detect the cerv cant in an optim man
+thi propos ingc-gdes approach is impl ov the pap smear cervix cel in ord to analys it hazy and overlap bound for supery detect of cerv cant cel
+in thi ingc-gdes approach the preprocess cerv im is convert into an improv norm graph cut set for combin the merit of spat and intens inform rel to the process im us for analys
+the method of maxim flow algorithm is apply ov the der norm graph cut set for determin the optim pixel point that aid in supery detect of cerv cant
+the result of the propos ingc-gdes mech is determin to be predomin in enh the class acc rat by 28% supery to the investig graph cut-based seg approach .

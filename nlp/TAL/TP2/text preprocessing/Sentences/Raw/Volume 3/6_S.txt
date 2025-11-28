@@ -1,0 +1,11 @@
+Recombination operators and selection strategies for evolutionary Markov Chain Monte Carlo algorithms
+Markov Chain Monte Carlo MCMC methods are often used to sample from intractable target distributions
+Some MCMC variants aim to improve the performance by running a population of MCMC chains
+In this paper we investigate the use of techniques from Evolutionary Computation EC to design population-based MCMC algorithms that exchange useful information between the individual chains
+We investigate how one can ensure that the resulting class of algorithms calledEvolutionary MCMC EMCMC samples from the target distribution as expected from any MCMC algorithm
+We analytically and experimentally show using examples from discrete search spaces that the proposed EMCMCs can outperform standard MCMCs by exploiting common partial structures between the more likely individual states
+The MCMC chains in the population interact through recombination and selection
+We analyze the required properties of recombination operators and acceptance or selection rules in EMCMCs
+An important issue is how to preserve the detailed balance property which is a sufficient condition for an irreducible and aperiodic EMCMC to converge to a given target distribution
+Transferring EC techniques to population-based MCMCs should be done with care
+For instance we prove that EMCMC algorithms with an elitist acceptance rule do not sample the target distribution correctly .

@@ -1,0 +1,11 @@
+motion plan for redund robot manipul use a novel multi-group particl swarm optim
+metaheurist optim algorithm are wide use in motion plan of redund robot manipul
+exist method may converg to a local minimum
+in this paper a new multi-group particl swarm optim algorithm psoel is propos to solv the motion plan of manipul
+psoel consist of one elit group and sever child group
+the popul is initi with a pre-select mechan in which the member of the elit group are initi with the best-perform particl of the child group
+in the process of iter the elit group and the child group evolv separ
+when the elit group fall into a local optimum or is inferior to child group for a certain time an interact mechan is trigger
+in the interact mechan some of the best particl select from the child group will replac the bad particl of the elit group
+with these mechan of pre-select and interact psoel can jump out of the local optimum and reach the global optimum or global suboptimum
+simul result show that the propos algorithm psoel is superior to the compar algorithm and converg toward the optimum .

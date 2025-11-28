@@ -1,0 +1,9 @@
+genet algorithm base approach to solv the cluster steiner tree problem
+in a complex network applic a set of node might be partit into multipl local cluster with differ function properti or commun protocol and the commun is restrict between node of the same cluster to maxim effici and other secur concern
+thu there ha been a rise in network design problem with addit constraint regard the cluster of vertic one of them be cluster steiner tree problem a variant of the steiner tree problem
+recent a heuristic-bas algorithm wa propos to solv the problem
+howev it obtain result is limit in term of solut qualiti when appli to the problem in the euclidean case
+thi paper propos a genet algorithm call shortest-path genet algorithm for solv the clustein
+in the propos a permutation-bas individu represent that reduc the dimension of chromosom to the number of cluster is devis
+the propos algorithm can solv the problem in both euclidean and non-euclidean case
+experi result compar to exist work in the literatur are analyz in detail to prove the effect of the propos algorithm .

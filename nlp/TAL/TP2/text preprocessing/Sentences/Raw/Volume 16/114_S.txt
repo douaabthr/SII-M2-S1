@@ -1,0 +1,8 @@
+Adaptive industrial control data analysis based on deep learning
+The fault detection and diagnosis of industrial production process is of great significance to the reliability and safety of modern industrial systems
+The data-driven fault detection and diagnosis method can perform statistical analysis and feature extraction on massive industrial control data and divide the state of the system into normal operation state and fault state
+It has attracted extensive attention from academia and industry
+In order to achieve accurate and fast identification of industrial production faults this paper proposes an adaptive multi-task deep learning fault detection model
+The model uses an adaptive reweighting module and an improved adaptive pooling method to improve the process of label information acquisition and feature extraction and improve the performance of the model
+To evaluate the method proposed in this paper the Tennessee Eastman TE system a standard test industrial process in the chemical industry was selected
+The comparison results with the existing work show that the method studied can effectively process industrial control data and can be applied to monitor the occurrence of complex faults in industrial production processes .

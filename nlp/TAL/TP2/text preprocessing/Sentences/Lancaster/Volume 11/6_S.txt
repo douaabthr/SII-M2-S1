@@ -1,0 +1,10 @@
+crow search algorithm with discret wavelet transform to aid mumford shah inpaint model
+inpaint play a sign rol in solv a vary of im process issu that compr zoom remov of impuls nois remov of scratches etc
+thes spec sign ar al assocy to inpaint in im domain
+ev though mor adv inpaint model hav been introduc it suff from problem of hav low qual
+hent thi pap intend to develop a novel inpaint model on the bas of ms model
+init the pre-processing of the im is don by discret waveley transform dwt and furth it giv to ms inpaint model
+moreov the filt coefficy in dwt algorithm is optim by crow search algorithm csa that is being consid as the main object
+as the result im involv mor scratches thi propos model necessit smooth im model us reproduc kernel hilbert smooth rkhs
+with al thes techn the propos inpaint model is term as crow search optim dwt kernel-based ms codwtk-ms
+dur the perform analys the propos method is comp ov vary tradit inpaint model lik ms dwt-based ms dwt kernel-based ms and dragonf optim dwt kernel-based ms dodwtk-ms in term of sev meas and prov the supery of propos inpaint model .

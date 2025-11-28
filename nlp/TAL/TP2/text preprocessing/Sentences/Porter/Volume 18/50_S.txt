@@ -1,0 +1,10 @@
+elena epigenet learn through evolv neural adapt
+despit the success of metaheurist algorithm in solv complex network optim problem they often struggl with adapt especi in dynam or high-dimension search space
+tradit approach can becom stuck in local optima lead to ineffici explor and suboptim solut
+most of the wide accept advanc algorithm do well either on highli complex or smaller search space due to the lack of adapt
+while recent approach have attempt to address adapt through variou mechan they typic requir problem-specif tune or sacrific gener capabl for perform fail to maintain consist effici across differ optim task and vari problem scale
+to address these limit we present elena epigenet learn through evolv neural adapt a new evolutionari framework that incorpor epigenet mechan to enhanc the adapt of the core evolutionari approach
+elena leverag compress represent of learn paramet improv dynam through epigenet tag that serv as adapt memori
+three epigenet tag mutat resist crossov affin and stabil score assist with guid solut space search facilit a more intellig hypothesi landscap explor
+to assess the framework s perform we conduct experi on three critic network optim problem the travel salesman problem tsp the vehicl rout problem vrp and the maximum cliqu problem mcp
+experi indic that elena achiev competit result often surpass state-of-the-art method on network optim task .

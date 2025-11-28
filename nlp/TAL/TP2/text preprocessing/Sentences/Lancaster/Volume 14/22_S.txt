@@ -1,0 +1,10 @@
+pso bas combin kernel learn framework for recognit of first-person act in a video
+thi pap pres hum act recognit problem from first-person view-point ego-centric video
+the task is to understand the act of a person by an observ wear camer or robot from real-time video dat
+an efficy hum act recognit system demand the cho of us trait and the suit kernel for thos trait
+in thi work we hav propos a combin kernel learn ckl framework us pso as optim algorithm for first-person act recognit in a video
+thi framework doe appropry feat select and combin thos feat from their respect kernel from the video dat in a produc way
+the propos algorithm learn an optim composit kernel from the combin of the bas kernel construct from diff motion-related feat of the first-person video
+to determin both bas kernel and their combin thi method can optim a data-dependent kernel evalu meas
+the perform of the propos ckl is evalu by combin diff typ of mot feat from the first-person video jpl-interaction dataset
+the result show a comp bet rat of acc than that of oth state-of-the-art hum act recognit method .

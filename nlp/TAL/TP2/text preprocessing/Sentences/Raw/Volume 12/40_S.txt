@@ -1,0 +1,13 @@
+Multi-moth flame optimization for solving the link prediction problem in complex networks
+Providing a solution for the link prediction problem attracts several computer science fields and becomes a popular challenge in researches
+This challenge is presented by introducing several approaches keen to provide the most precise prediction quality within a short period of time
+The difficulty of the link prediction problem comes from the sparse nature of most complex networks such as social networks
+This paper presents a parallel metaheuristic framework which is based on moth-flame optimization MFO clustering and pre-processed datasets to solve the link prediction problem
+This framework is implemented and tested on a high-performance computing cluster and carried out on large and complex networks from different fields such as social citation biological and information and publication networks
+This framework is called Parallel MFO for Link Prediction PMFO-LP
+PMFO-LP is composed of data preprocessing stage and prediction stage
+Dataset division with stratified sampling feature extraction data under-sampling and feature selection are performed in the data preprocessing stage
+In the prediction stage the MFO based on clustering is used as the prediction optimizer
+The PMFO-LP provides a solution to the link prediction problem with more accurate prediction results within a reasonable amount of time
+Experimental results show that PMFO-LP algorithm outperforms other well-regarded algorithms in terms of error rate the area under curve and speedup
+Note that the source code of the PMFO-LP algorithm is available athttps github . com/RehamBarham/PMFO_MPI . cpp .

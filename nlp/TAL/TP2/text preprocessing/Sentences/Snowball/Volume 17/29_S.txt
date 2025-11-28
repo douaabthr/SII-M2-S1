@@ -1,0 +1,8 @@
+node capabl depend import evalu of heterogen target oper network
+it is veri import to identifi the import node in heterogen target oper network hton for target select
+tradit method such as central base method onli consid either network structur or node featur to evalu the import of node
+howev these method ignor the rich semant inform between node form by complex physic and logic relat
+to solv this problem we propos a novel node capabl depend import evalu method consid meta-path and capabl depend call ncdi
+meta-path is an effect method of semant captur differ meta-path express differ semant inform
+some node could support or control other node inter-nod depend can also be use as an indic of import evalu
+compar to the degre central and other typic evalu method the result show that our method can sort the node import more effect in hton .

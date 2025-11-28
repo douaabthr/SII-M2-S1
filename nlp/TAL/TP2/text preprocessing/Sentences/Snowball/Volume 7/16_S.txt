@@ -1,0 +1,12 @@
+cooper coevolutionari algorithm for dynam optim an experiment studi
+in this paper we studi the cooper coevolutionari algorithm ccea for dynam optim
+we introduc the ccea with two popular type of individu 1 random immigr ris that increas the divers for chang environ and 2 elitist individu that increas the local converg to the optima
+the ccea are evalu on a standard suit of benchmark problem and are compar with evolut strategi es
+our experiment result show that the ccea are effici in locat and track optima in dynam environ
+they are superior to the es when the ri individu and the elitist individu are use
+in addit we empir investig how the ccea perform with differ paramet set
+these set includ collabor method the use of plus comma select and the number of ri individu and elitist individu
+we also investig the ccea that use a mutativeσ-self adapt
+the ccea perform the best when they use the best collabor method and the plus select
+the use of the mutativeσ-self adapt is insignific
+our result also show that the ccea are more scalabl than the es in dynam environ .

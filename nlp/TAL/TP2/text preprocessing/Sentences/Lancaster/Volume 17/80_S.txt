@@ -1,0 +1,11 @@
+an economic/emission dispatch bas on a new multi-objective art bee colony optim algorithm and nsga-ii
+the conv energy resourc hav limit reserv and their util is advers affect the environ
+hent it is necess to gen elect with the least cost and emit
+the study in the past rev that the combin econom emit dispatch cee problem has been solv by evolv and swarm intelligence-based optim algorithm
+howev the methodolog to ident the best comprom solv for the cee problem has not been study much in the lit
+in thi pap a multi-objective optim algorithm which reduc fuel cost of pow gen as wel as emit simult is pres
+the algorithm is a combin of an art bee colony algorithm abc and a non-dominated sort genet algorithm nsga-ii with a new constraint handl feat
+to valid the effect of the propos algorithm it is apply to three benchmark system common us to study the effect of optim algorithm
+moreov the best comprom solv obtain by the propos algorithm is ident by us sixteen multi-attribute decision-making madm method
+the non-dominated solv report in the past lit for diff test system ar also analys us madm method
+it has been shown that the propos algorithm giv bet result without viol the constraint and with the minim numb of it .

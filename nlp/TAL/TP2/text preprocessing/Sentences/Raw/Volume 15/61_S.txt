@@ -1,0 +1,12 @@
+A survey of energy-aware cluster head selection techniques in wireless sensor network
+Recently wireless sensor networks WSNs are becoming very famous as they are inexpensive and easy to maintain and manage
+The network contains a group of sensor nodes which are capable of sensing computing and transmitting
+Energy efficiency is one of the most important challenging problems in WSN
+Sensor nodes have inadequate energy and installed in remote areas
+Hence it is difficult to restore the batteries in WSN
+Therefore to maximize the network lifetime appropriate clustering techniques and cluster head CH selection methods should be implemented
+The main idea behind the clustering technique is that it clusters the sensor nodes and reduces the composed data simultaneously and then it broadcasts the data
+In this process CH selection is an essential part
+Therefore this survey paper provides an overview of the clustering techniques for reducing energy consumption by reviewing several CH selection techniques in WSN that provide high energy efficiency
+Several techniques have been employed for CH selection based on partitional clustering optimization low-energy adaptive clustering hierarchy hierarchical distributed and other classification methods
+Finally an analysis is done based on the implementation tools metrics employed accuracy and achievements of the considered CH selection techniques .

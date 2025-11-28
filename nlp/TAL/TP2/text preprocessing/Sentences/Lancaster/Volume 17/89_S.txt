@@ -1,0 +1,9 @@
+intellig mobl plan for a cost-effective object follow mobl robot system with obstac avoid us robot vis and deep learn
+few industry us man control robot or automobl to carry mat to the desir posit and in som cas man pow ar us due to a lack of money
+thi cannot be us al the tim in al plac and al condit
+so it is very tranquil to hav robot which can follow a spec hum by follow the un colo object held by that person
+so we propos a robot system that us robot vis and deep learn to get the requir linear and angul veloc which ar ν and ω respect mak the robot avoid stat and dynam obstac when follow the un colo object
+we propos a novel lstm cel cal tf-lstm which mak the propos methodolog very acc in track the object in 3d spac
+tf-lstms or target follow lstms ar inspir by the tradit lstms and giv a meagr er in linear and angul veloc predict
+the pi control which was us to control the linear and angul veloc which in turn control the posit of the robot gav us impress result and thi methodolog outperform al oth methodolog for prec target track in perform comparid
+the propos tf-lstm gav us an acc of 96.1% av linear jerk of 0.4 m/s3 av angul jerk of 30 degrees/s3 av clear of 0.514 m maintain no collod with the obstac .

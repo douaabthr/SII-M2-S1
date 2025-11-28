@@ -1,0 +1,9 @@
+improv bio-inspir algorithm for schedul distribut no-wait flow shop with setup time
+this paper address the distribut permut flow shop schedul problem motiv by an industri applic relat to the manufactur of print circuit board
+the goal is to minim total tardi while consid constraint such as no-wait and sequence-depend setup time
+we have introduc an exact method base on mix integ linear program and three bio-inspir meta-heurist
+specif we have explor the effect of three bio-inspir meta-heurist the artifici bee coloni abc migratori bird optim mbo and genet algorithm ga to tackl the problem at hand
+to enhanc our approach and minim total tardi we incorpor local search improv techniqu
+in addit to standard meta-heurist formul we integr special local search techniqu includ the path relink pr techniqu variabl neighborhood search vns and the individu improv scheme ii procedur
+this integr led to the develop of three enhanc meta-heurist hbox abc _ pr hbox mbo _ vns and hbox ga _ ii
+through simul studi on various instanc we have demonstr the superior perform of the hbox mbo _ vns algorithm achiev a success rate of 87.18 over other hybrid meta-heurist .

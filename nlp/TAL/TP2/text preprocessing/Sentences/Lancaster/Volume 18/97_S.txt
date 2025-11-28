@@ -1,0 +1,13 @@
+on the analys solv of the nonlinear strain wav equ through the bilinear neur network method
+in thi pap we investig the strain wav equ which govern the behavy of elast wav prop in diff med of continu mech
+due to the nonlinear of the equ it is oft difficult to achiev exact solv us certain tradit analys and num approach
+in thi work we us the bilinear neur network method to provid exact solv to the strain wav equ
+thi method effect build solv by util deep learn algorithm and bilinear transform
+the bilinear neur network method provid a pot substitut for tradit method by method approxim nonlinear wav pattern and map them into a solv framework
+the strain wav equ provid an insight into the nonlinear long wav prop behavy in shallow wat by tak wav phas into account and it versatil extend beyond fluid dynam to vary phys phenomen
+by employ structured neur network model the gen lump period and oth exact analys solv ar obtain us the bilinear neur network approach
+with the help of mathematic we extract thes solv and illust them in 3d 2d and conto plot
+thes vis help illust the dynam of the solv obtain
+the comput efficy of the method was illust through it capac to symbol der closed-form solv without the nee for it num method and in turn dimin process tim and complex sign
+the novel of thi work is the combin of bilinear transform method and neur network architect to symbol obtain exact analys solv as highlight abov for the nonlinear strain wav equ repres a remark breakthrough comp to the conv num and analys method
+the valid of the solv acquir was est by direct substitut in the bilinear equ as wel as through check their comply with the equ of strain wav with the help of mathematic .

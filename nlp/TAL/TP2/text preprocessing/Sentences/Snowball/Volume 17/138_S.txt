@@ -1,0 +1,11 @@
+chaotic veget evolut leverag multipl seed strategi and a mutat modul for global optim problem
+this paper focus on improv the overal perform of the veget evolut vege algorithm and propos a chaotic vege with multipl seed strategi and a mutat modul cvege
+while the origin vege exhibit robust exploit capabl it fall short in term of explor and overcom local optima
+thus we introduc the chaotic local search oper multipl seed dispers strategi and a uniqu mutat modul to address these mention limit
+furthermor we incorpor a simplifi sigmoid transfer function into cvege and propos a binari variant known as binari chaotic veget evolut bcvege
+in numer experi we evalu cvege on 10 d 30 d 50 d and 100 d cec2020 benchmark function as well as four engin optim problem
+addit bcvege is subject to test on two combinatori optim problem wrapper-bas featur select task and classic 0 1 knapsack problem
+here we employ two classic algorithm i. e
+differenti evolut and particl swarm optim and seven state-of-the-art competitor algorithm includ the origin vege as the competitor algorithm
+the suffici numer experi and statist analysi practic show that our propos cvege and bcvege are competit with compar algorithm
+furthermor the demonstr perform and scalabl of cvege and bcvege suggest their potenti util across a wide rang of optim task .

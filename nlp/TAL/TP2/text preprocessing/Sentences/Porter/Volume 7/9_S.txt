@@ -1,0 +1,6 @@
+an evolutionari robot approach for the distribut control of satellit format
+we propos and studi a decentr format fli control architectur base on the evolutionari robot techniqu
+we develop our control architectur for the mit sphere robot platform on board the intern space station and we show how it is abl to achiev micrometr and microradian precis at the path plan level
+our control are homogen across satellit and do not make use of label i. e
+all satellit can be exchang at ani time
+the evolutionari process is abl to produc homogen control abl to plan with high precis for the acquisit and mainten of ani triangular format .

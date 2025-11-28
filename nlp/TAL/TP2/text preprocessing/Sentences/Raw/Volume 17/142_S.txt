@@ -1,0 +1,7 @@
+Fast aggregation method of WSNs dynamic data based on micro-cluster evolutionary learning
+In order to completely restore WSNs data and improve the quality of data aggregation a fast aggregation method of WSNs dynamic data based on micro-cluster evolutionary learning is proposed
+The wireless sensor network data is collected under the micro-cluster evolutionary learning and the Kalman filter is introduced
+According to the linear expression area of the filter in space the linear regression range of the wireless sensor network data is given and the dynamic data preprocessing and feature extraction of WSNs are designed
+According to the extraction results the parent node of each node in the tree is set to form a routing tree with the base station as the root node for data forwarding
+The features of the target domain are extracted and input into the range determination layer and then the WSNs dynamic data are quickly aggregated to realize the rapid aggregation of WSNs dynamic data
+The experimental results show that the proposed method has low average entropy good convergence accuracy stable data convergence quality and strong repair performance .

@@ -1,0 +1,12 @@
+locat estim of non-geo-tag tweet
+internet user are get more and more depend for inform regard their daili live
+most of the user are connect to each other use social network
+social network site not onli help the user to connect and talk to each other but also share inform with each other
+twitter 1 user attach their locat inform with the post or tweet to show their presenc at the locat
+but not all user tag or integr the locat inform within the post
+if a person want to obtain the latest updat about an event then he/sh have to go through all the tweet about that event which is imposs becaus near 500 million tweet are post on twitter on a daili basi
+use twitter the user can post up to 140 charact in their post or tweet
+also the tweet that origin from the locat of the event are latest and contain new fact and the rest of the tweet convey that inform onli
+non-geo-tag tweet are elimin by the tradit system
+this paper present a method to tag the non-geo-tag tweet with the locat then the user would be abl to obtain the latest inform by includ the new
+the propos method perform better than previous method and yield better result .

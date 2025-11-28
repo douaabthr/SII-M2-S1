@@ -1,0 +1,10 @@
+Simultaneous sensor and relay nodes deployment for Smart Car Park surveillance
+This study aims to optimize the deployment of wireless sensor networks for Smart Car Parks surveillance applications
+Our proposed approach involves simultaneously deploying Sensor Nodes SNs and Relay Nodes which we argue is more efficient than existing sequential placement methods
+Our approach identifies optimal positions for both types of nodes to minimize their numbers and the network diameter while ensuring the coverage of each target point by at leastKSNs and network connectivity constraints
+To accomplish this we have developed a Multi-Objective Linear Programming model MOLP to solve small instances of the deployment problem
+Still for large instances we have introduced a novel algorithm called the Greedy Chaos Whale Optimization meta-heuristic GCWOA which is mainly based on a Greedy algorithm to generate initial random nodes positions while satisfying the problem s constraints and a chaos local search CLS technique using chaos maps to decide whether to include a given node in the final solution
+The solution population was divided into two sub-populations with the first undergoing CLS and the second undergoing the Whale Optimization Algorithm WOA to optimize the solution further
+We have compared the performance of our proposed GCWOA with that of MOLP and well-known existing meta-heuristics including WOA Genetic Algorithm GA and Particle Swarm Optimization PSO
+Our results reveal that the average fitness of the GCWOA is close to optimal and lower by 23.45% 28.75% and 26.32% than basic WOA GA and PSO respectively
+The GCWOA exhibits faster convergence and a lower running time than the basic WOA GA and PSO .

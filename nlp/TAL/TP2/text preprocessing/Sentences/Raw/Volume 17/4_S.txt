@@ -1,0 +1,8 @@
+An efficient derivative-free algorithm for bound constrained mixed-integer optimization
+Mixed integer optimization is very important and complicated task in the optimization field which widely exists in the engineering problems
+In order to improve the efficiency of derivative-free algorithm when solving the mixed integer optimization problems we propose an efficient derivative-free algorithm which is based on the modified minimal positive base and the technique of search directions rotation
+The method using the modified minimal positive base only needs at most n 1 function evaluations at every iteration compared with the derivative-free algorithms based on the maximal 2npositive base wherenis the number of variables
+Meantime the technique of search directions rotation we proposed can overcome the disadvantage of the method based on the minimal positive base which can cause undesirable large angles between some positive base directions and large unexplored feasible domain
+Accordingly the convergence to stationary points is proved
+To evaluate the performance of our method we compare it with two classical algorithms on 50 benchmark problems
+The results of numerical experiments show that the method can reduce the number of function evaluations and improve the efficiency of the algorithm .

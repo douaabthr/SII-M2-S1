@@ -1,0 +1,8 @@
+Geometric mean optimizer for achieving efficiency in truss structural design
+The objective of this study is to utilize the geometric mean optimizer GMO for mass optimization of structural trusses
+By harnessing the GMO s mutation mechanism rooted in a Gaussian framework the model effectively addresses the discrete nature of truss structure optimization
+Through a comprehensive evaluation involving four distinct problem scenarios including 10 15 25 and 52 bar truss structures with both discrete and continuous variables the effectiveness of the GMO technique is thoroughly demonstrated
+The optimization findings underscore that the GMO consistently generates improved designs in comparison to conventional population-based techniques
+Furthermore the GMO model demonstrates remarkable computational efficiency in specific cases
+This research emphasizes the potential of the GMO-based approach as a potent tool in the domain of truss structure optimization
+It holds the capability to revolutionize the manner in which engineers approach the intricate balance between structural integrity minimal weight and cost-effectiveness .

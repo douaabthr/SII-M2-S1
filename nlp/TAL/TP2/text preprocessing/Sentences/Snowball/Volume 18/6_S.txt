@@ -1,0 +1,11 @@
+deep reinforc learning-bas spatio-tempor graph neural network for solv job shop schedul problem
+the job shop schedul problem jssp is a well-known np-hard combinatori optim problem that focus on assign task to limit resourc while adher to certain constraint
+current deep reinforc learn drl base solut are be wide use to solv the jssp by defin the problem structur on disjunct graph
+some of the propos approach attempt to leverag the structur inform of the jssp to captur the dynam of the environ without consid the time depend within the jssp
+howev learn graph represent onli from the structur relationship of node result in a weak and incomplet represent of these graph which doe not provid an express represent of the dynam in the environ
+in this studi unlik exist framework we defin the jssp as a dynam graph to explicit consid the time-vari aspect of the jssp environ
+to this end we propos a novel drl framework that captur both the spatial and tempor attribut of the jssp to construct rich and complet graph represent
+our drl framework introduc a novel attent graph isomorph network attentive-gin base spatial block to learn the structur relationship and a tempor block to captur the time depend
+addit we design a gate fusion block that select combin the learn represent from the two block
+we train the model use the proxim polici optim algorithm of reinforc learn
+experiment result show that our train model exhibit signific perform enhanc compar to heurist dispatch rule and learning-bas solut for both random generat dataset and public benchmark .

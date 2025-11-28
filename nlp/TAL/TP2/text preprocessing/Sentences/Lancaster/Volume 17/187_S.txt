@@ -1,0 +1,9 @@
+a novel giant pac octop optim for real-world engin problem
+giant pac octop optim gpoo a new swarm computational-intelligence metah approach is a nat algorithm bas on the behavy of octopus as they struggle to liv in the environ
+the gpoo model which ar two prim techn search and attack prey ar off for algorithm optim
+the transit between the expl and exploit stag ar handl in a way that strikes an appropry bal
+a num of test ar carry out to ver the novel optim process s capac to ident the best solv to diff optim issu
+the gpoo model is evalu us 10 complex benchmark funct for cec2019 and 23 class benchmark funct
+addit the result ar comp to oth metah algorithm
+glob algorithm ar also employ to address pract engin techn issu
+the outcom show that gpoo demonst oth comp method in term of converg spee and success loc al or most local/glob optim .

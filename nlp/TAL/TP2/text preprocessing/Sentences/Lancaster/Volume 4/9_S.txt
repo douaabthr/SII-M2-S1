@@ -1,0 +1,9 @@
+on the rol of ag divers for effect ag op
+ag is a gen mech that som random search heur employ to increas the divers of their collect of search point
+a mor divers collect of search point is believ to improv the search heur s perform for difficult problem
+the most promin random search heur with ag ar evolv algorithm and art immun system
+whil it is known that random search heur with ag can be very much mor efficy than random search heur without ag the detail of the origin of such benefit ar difficult to understand
+we contribut to thi understand by pres a detail and structured analys of ag
+we prov that in addit to divers with respect to search point divers with respect to ag play a key rol
+we analys diff way of deal with ag divers by mean of theoret as wel as empir analys
+maj result includ a mor structured understand of ag and showcas wher ag divers can mak the diff between efficy and complet inefficy optim .

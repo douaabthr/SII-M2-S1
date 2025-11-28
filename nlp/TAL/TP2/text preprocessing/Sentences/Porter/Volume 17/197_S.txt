@@ -1,0 +1,13 @@
+a clustering-bas coevolutionari multi-object evolutionari algorithm for handl robust and noisi optim
+the presenc of uncertainti is commonplac in real-world scenario
+uncertainti can be present in both the object space and the decis space in optim problem
+these uncertainti can pose signific challeng for evolutionari algorithm
+for exampl perturb in decis variabl robust optim and nois in object function noisi optim
+despit the plethora of method propos for robust or noisi optim address both form of uncertainti concurr remain an open research question
+we introduc a novel approach base on teda-cmoea/d augment with cluster techniqu for descend gener in robust and noisi optim problem
+notabl the propos algorithm yield promis result for uncertainti simultan san the requir for sampl therebi reduc comput complex
+we leverag an extens of an exist test function gener for multi-object optim of the test
+the benchmark integr uncertainti in decis variabl and/or object function
+experiment evalu encompass vari nois intens elucid the impact of differ nois level on algorithm perform
+the result demonstr the superior perform of the propos approach compar to exist algorithm specif rnsga-ii and crmoea/d
+the propos algorithm emerg as a promis solut for robust and noisi multi-object optim problem .

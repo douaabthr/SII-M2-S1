@@ -1,0 +1,10 @@
+artifici intellig and game theori control autonom uav swarm
+autonom unman aerial vehicl uav oper as a swarm can be deploy in auster environ where cyber electromagnet activ often requir speedi and dynam adjust to swarm oper
+use of central control uavsynchron mechan or pre-plan set of action to control a swarm in such deploy would hinder it abil to deliv expect servic
+we introduc artifici intellig and game theori base flight control algorithm to be run by each autonomousuavto determin it action in near real-tim while reli onli on local spatial tempor and electromagnet em inform
+eachuavus our flight control algorithm posit itself such that the swarm maintain mobil ad-hoc network manet connect and uniform asset distribut over an area of interest
+typic task for swarm use our algorithm includ detect local and track of mobileemtransmitt
+we present a formal analysi show that our algorithm can guid a swarm to maintain a connectedmanet promot a uniform network spread while avoid overcrowd with other swarm member
+we also prove that they maintainmanetconnect and at the same time they can lead a swarm of autonomousuav to follow or avoid anemtransmitt
+simul experi inopnetmodel verifi the result of formal analysi that our algorithm are capabl of provid an adequ area coverag over a mobileemsourc and maintainmanetconnect
+these algorithm are good candid for civilian and militari applic that requir agil respons to the chang in dynam environ for task such as detect local and track mobileemtransmitt .

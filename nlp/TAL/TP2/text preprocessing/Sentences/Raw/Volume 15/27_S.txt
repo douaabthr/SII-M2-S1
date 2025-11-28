@@ -1,0 +1,11 @@
+A cloud model based symbiotic organism search algorithm for DG allocation in radial distribution network
+Recently metaheuristic algorithms have become popular in solving DG placement problems due to its advantages of simple implementation and ability to find the near optimal solution for complex and large-scale optimization problems
+Symbiotic organism search SOS is one of the latest metaheuristic algorithms introduced to solve DG placement problems
+Unlike many other metaheuristic algorithms SOS is simple to implement and does not use any control parameters which lead to enhancing performance stability
+However like other optimization algorithms SOS suffers with local optimal and stagnations which affects its accuracy and convergence especially in solving real world problems like DG placement problem
+This work attempts to enhance performance of SOS by combining with cloud-based model
+The proposed algorithm is named cloud based model symbiotic organism search CMSOS
+In CMSOS Cloud-based theories have been used to generate random number operator in mutualism phase of the original SOS
+To assess the performance of CMSOS in solving optimization problems 26 benchmark functions with different dimensions have been used
+The performance of the proposed algorithm has been tested for real world DG placement problems
+The performed analysis such as statistical convergence and complexity measures show superiority of the proposed algorithm compare to the studied algorithms .

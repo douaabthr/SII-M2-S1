@@ -1,0 +1,10 @@
+emperor penguin coloni a new metaheurist algorithm for optim
+a metaheurist is a high-level problem independ algorithm framework that provid a set of guidelin or strategi to develop heurist optim algorithm
+metaheurist algorithm attempt to find the best solut out of all possibl solut of an optim problem
+a veri activ area of research is the design of nature-inspir metaheurist
+natur act as a sourc of concept mechan and principl for design of artifici comput system to deal with complex comput problem
+in this paper a new metaheurist algorithm inspir by the behavior of emperor penguin which is call emperor penguin coloni epc is propos
+this algorithm is control by the bodi heat radiat of the penguin and their spiral-lik movement in their coloni
+the propos algorithm is compar with eight develop metaheurist algorithm
+ten benchmark test function are appli to all algorithm
+the result of the experi to find the optim result show that the propos algorithm is better than other metaheurist algorithm .

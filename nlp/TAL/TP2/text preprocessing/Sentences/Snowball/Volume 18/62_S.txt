@@ -1,0 +1,11 @@
+beyond public number a novel approach to academ rank use evolutionari program
+evalu the impact of research within a scientif communiti remain a complex and debat issu
+tradit metric such as public and citat count often fail to captur the multifacet natur of scholar influenc
+while sever indic such as the h-index and it variant have been propos they too face limit in reflect qualit and longitudin aspect of academ contribut
+this studi introduc a novel research rank framework that integr four distinct paramet normal citat score ncs complet career contribut ccc tempor citat input tci and collabor prestig cp
+these paramet are combin use two rank mechan the statist rank system srs base on mathemat model and the comprehens rank system crs which employ genet program gp to evolv domain-specif rank formula
+the methodolog was evalu across five dataset comput scienc mathemat neurosci civil engin and a combin dataset each balanc with equal number of awarde and non-awarde
+in srs model such as the lehmer mean and logarithm mean perform effect in highlight awarde
+in crs the evolv model achiev fit valu of up to 0.96 in comput scienc and 0.88 in mathemat with slight lower score in other domain
+the reduc perform on the combin dataset highlight the import of domain-sensit model
+the result suggest that the propos framework offer a flexibl and comprehens approach to research evalu that can adapt to domain-specif impact pattern provid an altern to convent rank metric .

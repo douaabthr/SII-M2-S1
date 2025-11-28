@@ -1,0 +1,14 @@
+The oyster collection algorithms
+This article focuses on the development of metaheuristic algorithms based on the search process and collection of the oysters living or non-living from the sea bed in the day time
+In the coastal belt during tides oysters are pushed by the water waves and gathered in specific places on the sea bed
+For living oysters they are generally found in the cold-water region but for non-living shells they can be found anywhere in the sea bed depending on the blow of the wind and the path of the water wave
+Since oysters have many economic values because indoor decoration ornaments and gift packs etc
+are made using these sea shells people from coastal zones usually collect them and plan for one of the best jobs trades in their social life
+Inspiring from the nature of the collection procedure of the shells we construct mathematical functions of the search path along which it can be available more
+Utilizing this procedure into the field of optimization we have found some noble results of a benchmark problem
+Basically we fit an appropriate test function for a benchmark problem then some numeric experimental results are computed via oyster collection algorithms
+A comparative study has also been made to validate the proposed approach
+Moreover considering the normality of the data we have studied confidence intervals and analyzed statistically for the global acceptance of the method
+It is also seen that the root mean square error RMSE for our proposed algorithms is 0.004007 and that for the other existing algorithms it becomes 0.007015
+This gives the excellence success rate in the field of optimization with respect to others all the time
+Indeed the graphical illustrations show the efficacy of the proposed algorithms and finally a conclusion is made about keeping some scope for future works .

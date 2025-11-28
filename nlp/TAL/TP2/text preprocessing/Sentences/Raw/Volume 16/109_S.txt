@@ -1,0 +1,12 @@
+An improved binary particle swarm optimization combing V-shaped and U-shaped transfer function
+Feature selection aims to find a best feature subset from all feature sets of a given dataset which represents the whole feature space to reduce redundancy and improve classification accuracy
+The evolutionary computation algorithm is often applied to feature selection but there exists low efficiency in the search process
+With the increase of the number of features solving the feature selection problem become more and more difficult
+Existing evolutionary algorithms have many defects such as slow convergence speed low convergence accuracy and easy to fall into local optimum
+Therefore the research of more effective evolutionary algorithms has important theoretical significance and application value
+Binary Particle Swarm Optimization BPSO is a kind of evolutionary computation algorithm and has a good performance in feature selection problems
+It uses transfer function to convert the continuous search space to the binary one
+Transfer function plays an important role in BPSO
+So this paper proposes an improved BPSO by combining V-shaped and U-shaped transfer function and introduces a new learning strategy and a local search strategy based on adaptive mutation
+The improved BPSO enhances its optimization ability in feature selection problem
+The experimental results show that the improved BPSO has better dimension reduction ability and classification performance than other algorithms .

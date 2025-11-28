@@ -1,0 +1,12 @@
+on evolutionari subspac cluster with symbiosi
+subspac cluster identifi the attribut support for each cluster as well as identifi the locat and number of cluster
+in the most general case attribut associ with each cluster could be uniqu
+a multi-object evolutionari method is propos to identifi the uniqu attribut support of each cluster while detect it data instanc
+the propos algorithm symbiot evolutionari subspac cluster s-esc borrow from symbiosi in the sens that each cluster solut is defin in term of a host singl member of the host popul and a number of coevolv cluster centroid or symbiont in an independ symbiont popul
+symbiont defin cluster and therefor attribut subspac wherea host defin set of cluster to constitut a non-degener solut
+the symbiot represent of s-esc is the key to make it scalabl to high-dimension dataset while an integr subsampl process make it scalabl to task with a larg number of data item
+benchmark is perform against a test suit of 59 subspac cluster task with four well known compar algorithm from both the full-dimension and subspac cluster literatur em mineclus proclus statpc
+perform of the s-esc algorithm was found to be robust across a wide cross-sect of properti with a common parameter util throughout
+this was not the case for the compar algorithm
+specif perform could be sensit to the particular data distribut or paramet sweep might be necessari to provid compar perform
+an addit evalu is perform against a non-symbiot ga with s-esc still return superior cluster solut .

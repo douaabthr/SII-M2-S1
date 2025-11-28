@@ -1,0 +1,8 @@
+an effici derivative-fre algorithm for bound constrain mixed-integ optim
+mix integ optim is veri import and complic task in the optim field which wide exist in the engin problem
+in order to improv the effici of derivative-fre algorithm when solv the mix integ optim problem we propos an effici derivative-fre algorithm which is base on the modifi minim posit base and the techniqu of search direct rotat
+the method use the modifi minim posit base onli need at most n 1 function evalu at everi iter compar with the derivative-fre algorithm base on the maxim 2nposit base whereni the number of variabl
+meantim the techniqu of search direct rotat we propos can overcom the disadvantag of the method base on the minim posit base which can caus undesir larg angl between some posit base direct and larg unexplor feasibl domain
+accord the converg to stationari point is prove
+to evalu the perform of our method we compar it with two classic algorithm on 50 benchmark problem
+the result of numer experi show that the method can reduc the number of function evalu and improv the effici of the algorithm .

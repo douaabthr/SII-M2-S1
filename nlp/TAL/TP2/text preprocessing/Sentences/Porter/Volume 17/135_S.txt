@@ -1,0 +1,10 @@
+an intellig quasi-opposit hbo techniqu to solv non-smooth non-convex econom dispatch problem
+in thi paper a modifi heap-bas optim hbo known as the quasi-opposit heap-bas optim qohbo method is endeavor to tackl the challeng problem of non-convex econom load dispatch problem eldp in large-scal power system
+the qohbo method leverag a heap data structur to emul the concept of corpor rank hierarchi
+the mathemat model of hbo is base on the three strategi first the interact between subordin and their direct superior second interact between contemporari third the employe self-contribut is adopt to perform both the explor and exploit in the search space
+to enhanc the solut qualiti and comput effici in solv eldp we integr the concept of quasi-opposit learn into hbo
+the propos qohbo techniqu effect address variou constraint includ transmiss line loss valve-point load effect gener gener limit prohibit oper zone power demand complianc and ramp rate limit
+the feasibl of the qohbo to solv eldp is evalu by conduct ten distinct case studi across nine divers test system featur gener unit rang from three to 140
+compar analysi with exist techniqu from the literatur highlight the superior perform of our propos method in solv large-scal eld problem
+subsequ non-parametr altern test specif the wilcoxon rank-sum test and the friedman test ha been conduct to verifi the efficaci of the propos qohbo
+moreov extens statist analysi reveal that the qohbo techniqu ha the abil to consist provid qualiti solut and it robust when compar to other state-of-the-art approach .

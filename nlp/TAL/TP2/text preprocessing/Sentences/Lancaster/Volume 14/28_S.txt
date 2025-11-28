@@ -1,0 +1,8 @@
+perform evalu of multilevel invert bas hybrid act filt us soft comput techn
+in thi pap a multilevel invert bas shunt hybrid act filt is us which is compos of pass filt and shunt act filt us for enh the qual of pow by reduc the tot harmon distort below 5% as per ieee-519 standard and man the react pow as wel as correct the pow fact
+the object of thi pap is to adv the pow qual by reduc the harmon distort in the distribut lin which ar affect becaus of util non-linear load across the load end
+for ref cur gen and for control the switch sign conv pi control was us with diff ref sign detect techn
+but with the evolv of diff intellig approach mad mor adv than the pi control
+in thi pap two art intellig method i. e art neur network and adapt neuro-fuzzy interf system anf ar apply
+comparison of the result of the propos method is analys us matlab simulink tool
+for ref cur gen synchron ref fram the is us and hysteres cur control techn is employ for gen the gat sign .

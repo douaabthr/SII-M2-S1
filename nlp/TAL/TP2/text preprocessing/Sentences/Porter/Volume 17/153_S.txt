@@ -1,0 +1,9 @@
+model analysi and applic case for complex multi-system evolutionari optim
+a complex system is made up of multipl relat and coupl subsystem
+each subsystem ha it own set of multipl constraint and object and is commonli found in real-world applic
+biogeography-bas complex system optim bbo/complex is a population-bas evolutionari intellig paradigm that ha been develop to solv complex system problem
+the paper first present the framework of the propos method that consist of within-subsystem migrat cross-subsystem migrat and mutat oper
+then a theoret model of the propos method is deriv use markov chain and the probabl transit matrix of each oper along with the gener multinomi theorem
+the model provid exact mathemat formula that predict the limit probabl of optim perform for each possibl popul in the propos method
+addit simul result of two sampl problem which includ multipl subsystem and multipl object confirm the markov model deriv
+final the perform of the propos method is investig on an applic of a batteri charg system and numer simul show that the propos method is a promis optim method for the studi complex system .

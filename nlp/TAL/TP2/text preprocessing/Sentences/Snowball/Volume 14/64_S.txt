@@ -1,0 +1,12 @@
+fpa clust evalu of the flower pollin algorithm for data cluster
+in this work a standalon approach base on the flower pollin algorithm fpa is propos for solv data cluster problem
+the fpa is a nature-inspir algorithm simul the behavior of flower pollin
+the propos approach is use to extract key inform in term of optim cluster center that are deriv from train sampl of the select databas
+these extract cluster center are then valid on test sampl
+three dataset from the uci machin learn data repositori and an addit multi-spectr real-tim satellit imag are chosen to illustr the effect and divers of the propos techniqu
+the fpa perform is compar with the k-mean a popular cluster algorithm and metaheurist algorithm name the genet algorithm particl swarm optim cuckoo search spider monkey optim grey wolf optim differenti evolut harmoni search and bat algorithm
+the result are evalu base on classif error percentag cep time complex and statist signific
+fpa has the lowest cep for all four dataset and an averag cep of 28% which is 5.5% lower than next best algorithm in that sens
+the fpa is the second quickest algorithm to converg after hs algorithm
+fpa also show a higher level of statist signific
+therefor the obtain result show that the fpa effici cluster the data and perform better than the state-of-the-art method .

@@ -1,0 +1,42 @@
+checkerbord is repere monde
+
+callibrage parametres etrinseque intrinseques
+
+
+intriseque son tfixe
+
+
+extrinsuqe change 3la 7sab image cuz repere camera et monde changent
+
+
+
+f(x)= nbr de pixels par unite de mesure (k) calates then as r and t produit monde --. pixel
+
+
+for each image appliquer methode optimisation pr trouver pw -->pixl 3lach ma y7sbouch :)
+NOT ALL IMAGES £LA DRBA CUZ EACH IMAGE HAS ITS R AND tinour cases we move camera 
+
+axis
+
+callibrate --> extrinseque seulement 
+
+prof a affiche 3,0,0 0,3,0  0,0,-3 (z inversé)
+
+so these coordonne project them to image ki l3ada so we know where to print them in oiur image (ici video each frame changes )
+so la boucle recupere rotation and translation of curren timage and recalculate  
+
+
+wait we cant go world --> pixel direct wheres camera 
+
+
+
+cube he didnt manually like in cours
+
+rodrigues vect rotation 3 --> matrice 
+remove project points and replave it with r= t= k= (stays the same ) 
+
+
+
+image --> pixel we cant find third dimension
+
+we need 2 images to determine depth --> stereo vision

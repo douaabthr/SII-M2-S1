@@ -1,0 +1,10 @@
+improv ant colony algorithm in path plan of a singl robot and multi-robots with multi-objective
+in ord to solv the problem of path plan of a singl robot and multi-robots with multi-objective an improv ant colony algorithm is propos . in the improv ant colony algorithm both loc and glob optim search ar consid
+in loc optim search grady distribut is us to init the pheromon cont to improv the converg spee of the algorithm
+the self-adaptive impact fact is us to enh bet fit of the algorithm in diff environ
+in glob optim search a reward and pun mech has been est to improv the pheromon upd strategy
+furtherm a nod rearrang strategy is adopt to increas the divers of solv
+accord to the improv colony algorithm the problem of path plan of a singl robot and multi-robots with multi-objective can be solv
+in two diff scenario comp expery show that the improv colony algorithm can obtain bet path leng converg spee and run tim than tradit ant colony algorithm aco and the improv ant colony algorithm iaco-sfla in path plan of a singl robot
+sim result also show that the improv ant colony algorithm has good abl in multi-objective path plan
+espec al robot can saf reach the target by mov simult and obstac can be effect avoid too .

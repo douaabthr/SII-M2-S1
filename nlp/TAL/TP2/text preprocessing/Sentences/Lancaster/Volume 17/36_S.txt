@@ -1,0 +1,11 @@
+emerg mat reserv problem with opt contract consid low carbon dispos cost
+in thi pap we study opt contract for emerg mat reserv due to unexpect ev
+cont occ random and the amount of real cannot be known until it break out
+theref it is import to stockpil som necess supply in adv
+howev a larg adv stockpil on the demand sid would int low-carbon dispos cost which ar not econom
+also the supply wil hav no int to stockpil for the demand due to low carbon dispos cost and produc cost
+theref we propos a contract approach with opt to stim supply to stockpil for his cli
+three model ar discuss bas on the consid of low-carbon dispos cost a cent decid cas a non-opt dec cas and a dec cas with opt
+the outcom demonst that the numb of first ord und the dec cas without opt is less than the ord quant und the cent cas
+moreov the siz of the first purchas volum in al three cas depend on the both party pract fact
+meanwhil the reason interv of opt fee is obtain by analys .

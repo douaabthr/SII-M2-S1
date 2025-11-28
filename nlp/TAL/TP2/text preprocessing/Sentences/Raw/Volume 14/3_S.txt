@@ -1,0 +1,15 @@
+Modified crash-minimization path designing approach for autonomous material handling robot
+The potentiality of particle swarm optimization PSO artificial potential field APF and improved PSO IPSO approaches are exploited in this paper for designing and generating the best possible optimum trajectory for a mobile material handling robot
+The paper has an aim to develop a robot which used to create a bridge between primary and secondary handling system
+This principally saves the transportation time so the total cycle time and manufacturing lead time can be reduced
+For performing simulation practice two practical surroundings has been developed with a layout of institute machine shop and advanced laboratory
+Objective of this study are to slash the track size computational time degree of crash risk travel time and better path smoothness
+To check the robustness and applicability of the approaches a comparison report has been prepared among their simulation and experimental outcomes
+For surrounding setup-I PSO algorithm provides 35.3568 m track length 20.778 s computational time and 280.098 s travel time
+Similarly the trajectory dimension computational time and travel time generated in APF approach is 44.1632 m 10.923 s and 343.441 s respectively
+33.6278 m track size 20.651 s computational time and 266.612 s travel time is developed by IPSO approach
+For surrounding setup-II PSO algorithm provides 14.7769 m track length 18.655 s computational time and 117.063 s travel time
+Similarly the trajectory dimension computational time and travel time generated in APF approach is 22.8645 m 27.623 s and 189.077 s respectively
+13.0859 m track size 18.507 s computational time and 103.769 s travel time is developed by IPSO approach
+From comparison study it is found that IPSO approach delivers smoother less collision risk associated path having less length and computational time irrespective to environment complexity
+The approaches are relying on computer programming commands which are written compiled and run using MATLAB software .

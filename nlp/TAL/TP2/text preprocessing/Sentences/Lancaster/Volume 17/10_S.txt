@@ -1,0 +1,5 @@
+apply research of intellig speech technolog in maritim command and control system
+accord to the requir of maritim command and control system a method us intellig speech technolog is put forward to improv the abl of command and control
+the architect of the system is design and the funct of speech recognit train analys process impl and respond ar design and ver
+the result of sim show that the abl of command and control can be improv effect
+thi method can be tak as a ref for improv the intellig abl of the marin command and control system .

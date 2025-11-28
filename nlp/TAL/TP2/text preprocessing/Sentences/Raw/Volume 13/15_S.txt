@@ -1,0 +1,5 @@
+Special issue on Intelligent and fuzzy systems in data science and big data
+In the era of big data intelligent as well fuzzy tools have become more important than ever
+Extracting intelligence from a huge amount of data has allowed to support decisions in many fields ranging from medicine to engineering
+On the other hand looking at such a context from a fuzzy perspective allowed in a certain sense to start ways of reasoning such as the interpretability of computing schemes which have been becoming more and more complex
+Yet successful applications of bio-mathematical modelling in a fuzzy environment showed a good alternative to mere black-box tools .

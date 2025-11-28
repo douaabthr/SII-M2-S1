@@ -1,0 +1,8 @@
+a new pareto multi-objective sin cosin algorithm for perform enh of rad distribut network by optim alloc of distribut gen
+the integr of distribut gen dgs is consid to be on of the best cost-effective techn to improv the efficy of pow distribut system in the rec dereg caus by continu load demand and transmit system cont
+in thi perspect a new multi-objective sin cosin algorithm is propos for optim dg alloc in rad distribut system with minim of tot act pow loss maxim of volt stabl index minim of an energy loss cost as wel as pollut gas emit without viol the system and dg op constraint
+the propos algorithm is enh by incorp expon vary of the convert paramet and the self-adapting levy mut to increas it perform dur diff it phas
+the contradict rel among the object mot the auth to gen an optim pareto set in ord to help the network op in tak fast appropry decid
+the propos approach is success apply to 33 bus and 69 bus distribut system und four pract load condit and is evalu in diff two-objective and three-objective optim cas
+the effect of the algorithm is confirm by comp the result against oth well-known multi-objective algorithm nam strength pareto evolv algorithm 2 non-dominated sort genet algorithm ii and multi-objective partic swarm optim
+the qual of pareto front from diff multi-objective algorithm is comp in term of certain perform ind such as gen dist spac met and spread met vardelt and it stat sign is ver by perform wilcoxon sign rank test .

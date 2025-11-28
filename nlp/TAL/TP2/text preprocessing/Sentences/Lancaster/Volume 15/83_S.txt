@@ -1,0 +1,11 @@
+bayes fus strategy for mov target detect in multichannel sar framework
+target detect is on of the import subfield in the research of synthet apert rad sar
+it fac many challeng due to the stat object lead to the pres of a scat sign
+many research hav been don on target detect and most of them pref filt bas techn
+in thi work the mov target detect in sar us decid fus method is propos
+the new develop scheme is nam bayes fus for mov target detect bf-mtd as the scheme util the bayes model for ident the target loc
+init the receiv sign from the sar ar fed through the short-time foury transform stft and the match filt for ident the target loc
+then the result ar fus togeth by the bayes fus strategy for find the act target
+for the fus the naiv bay class is us for determin the optim paramet for the target detect
+the sim of the propos bf-mtd model is evalu by vary target it puls repetit level and antenn turn veloc of the sar
+sim result rev that the propos bf-mtd has achiev sign perform for a detect tim miss target rat and mean squ er respect .

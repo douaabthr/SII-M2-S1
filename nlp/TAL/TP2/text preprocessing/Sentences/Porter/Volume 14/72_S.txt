@@ -1,0 +1,8 @@
+an imag segment method use logarithmickbestgravit search algorithm base superpixel cluster
+imag segment partit an imag into coher and non-overlap region
+due to variat of visual pattern in imag it is a challeng problem
+thi paper introduc a new superpixel-bas cluster method to effici perform the imag segment
+in the propos method initi superpixel from an imag are obtain
+the superpixel are further cluster into the requir number of region by a newli propos variant of gravit search algorithm name logarithmickbestgravit search algorithm
+experi are conduct on the berkeley segment dataset and benchmark bsds500
+it is affirm from both visual and numer analys that the propos method is efficaci and accur in segment an imag than the other consid segment method .

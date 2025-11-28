@@ -1,0 +1,8 @@
+a novel coevolv multi-objective partic swarm optim bas on decomposit
+to improv the perform of partic swarm optim pso and bal converg and divers we propos a coevolv multi-objective partic swarm optim bas on decomposit cmopso
+cmopso includ 3 strategies coevolv mech best-effort strategy and weight maxim approach
+coevolv mech is us to maintain converg whil pso op focus on divers
+best-effort strategy allow op that perform wel enough to execut again which improv the util of comput resourc
+weight maxim approach is an environ select strategy bas on decomposit which select by comp the maxim of weight object valu of the subproblem
+each new individ wil be comp with the best individ of al subproblem not on in the sub domain which help the pso op to maintain the divers in search process
+the cmopsod is test against 6 oth algorithm on the zdt and uf test problem the result show that the propos cmopsod has sign adv in term of converg and divers .

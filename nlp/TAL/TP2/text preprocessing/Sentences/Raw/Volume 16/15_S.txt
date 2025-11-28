@@ -1,0 +1,9 @@
+A method for fuzzy time series forecasting based on interval index number and membership value using fuzzy c-means clustering
+Fuzzy time series forecasting methods are very popular among researchers for predicting future values as they are not based on the strict assumptions of traditional forecasting methods
+Non-stochastic methods of fuzzy time series forecasting are preferred by the researchers over the years because these methods are capable to deal with real life uncertainties and provide significant forecast
+There are generally four factors that determine the performance of the forecasting method 1 number of intervals NOIs and length of intervals to partition universe of discourse UOD 2 fuzzification rules or feature representation of crisp time series 3 method of establishing fuzzy logic rule FLRs 4 defuzzification rule to get crisp forecasted value
+Considering first two factors to improve the forecasting accuracy we proposed a modified non-stochastic method of fuzzy time series forecasting in which interval index number and membership value are used as input features to predict future value
+We suggested a rounding-off range and large step-size method to find the optimal NOIs and used fuzzy c-means clustering process to divide UOD into intervals of unequal length
+We implement two techniques 1 regression by support vector machine and 2 neural network by multilayer perceptron to establish FLRs
+To test our proposed method by both techniques we conduct a simulated study on eight widely used real time series and compare the performance with some recently developed models
+Two performance measures RSME and SMAPE are used for performance analysis and observed better forecasting accuracy by the proposed model .

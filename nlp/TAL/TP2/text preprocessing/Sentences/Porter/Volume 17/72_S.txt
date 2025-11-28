@@ -1,0 +1,12 @@
+histogram-bas comparison of metric space use hmm
+comparison is a power tool for decis support
+mani measur have been propos for compar two metric space but they do not consid the data dispers in each metric space
+furthermor no dedic measur ha yet been propos for compar two metric space contain element belong to variou subtyp of a global datatyp
+in order to attenu the aforement limit thi paper propos a new techniqu for compar two metric space
+more formal given a metric spacex histogram are use for perform a gradual analysi of the data dispers insid the neighborhood of each element ofx
+thi is a refin of the neighborhood analysi realiz in an exist work
+then anoth exist techniqu is use for associ one hidden markov model lambda _x withxsuch that lambda _x learn the bin valu and the visual shape of the histogram deriv from the instanc inx
+meta-data deriv from lambda _x are then save as the compon of a descriptor vector overrightarrow x associ withx
+final the comparison between two metric space is perform through the comparison of their respect associ descriptor vector use exist distanc or similar measur between two vector
+the propos approach inherit the accuraci and the effici of the exist techniqu on which it reli
+therefor the experi realiz in thi paper are onli intend to show how it can be use for compar particular metric space contain geoloc or star in the celesti sphere .

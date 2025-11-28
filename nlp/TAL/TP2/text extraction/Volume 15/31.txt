@@ -1,0 +1,3 @@
+Correction to: A hybrid approach to energy efficient clustering and routing in wireless sensor networks
+
+Unfortunately, the author “Lakshmanan Kuppusamy” was missed to include as corresponding author. Now, correct author group with corresponding authorship is given below.Ushus Elizebeth Zachariah1· Lakshmanan Kuppusamy1.

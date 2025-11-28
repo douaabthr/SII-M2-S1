@@ -1,0 +1,9 @@
+SOMDROID android malware detection by artificial neural network trained using unsupervised learning
+Android has gained its popularity due to its open-source and number of freely available apps in its official play store
+Appropriate functioning of Android apps depends upon the permission or set of permissions which an app demands at the time of installation and run-time
+By taking the advantage of these permissions or set of permissions cybercriminals are developing malware-infected apps daily
+In this study we proposed a framework named as SOMDROID that work on the principle of unsupervised machine learning algorithm
+To develop an effective and efficient Android malware detection model we collect 5,00 000 distinct Android apps from promised repositories and extract 1844 unique features
+Further to select significant features or feature sets we applied six different feature ranking approaches in this study
+With the selected feature or feature sets we implement the Self-Organizing Map SOM algorithm of Kohonen and measure four distinct performance parameters i.e. Intra-cluster distance Inter-cluster distance Accuracy and F-measure
+Empirical result reveals that our proposed framework is able to detect 98.7% malware that belongs to unknown families and in addition to that the detection rate is higher by 2% when compared to commercial anti-virus scanners and frameworks proposed in the literature .

@@ -1,0 +1,15 @@
+delug base genet algorithm for featur select
+featur select method are use to identifi and remov irrelev and redund attribut from the origin featur vector that do not have much contribut to enhanc the perform of a predict model
+meta-heurist featur select algorithm use as a solut to this problem need to have a good trade-off between exploit and explor of the search space
+genet algorithm ga a popular meta-heurist algorithm lack exploit capabl which in turn affect the local search abil of the algorithm
+basic ga use mutat oper to take care of exploit which has certain limit
+as a result ga get stuck in local optima
+to encount this problem in the present work we have intellig blend the great delug algorithm gda a local search algorithm with ga
+here gda is use in place of mutat oper of the ga
+applic of gda yield a high degre of exploit through the use of perturb of candid solut
+the propos method is name as delug base genet algorithm dga
+we have appli the dga on 15 public avail standard dataset taken from the uci dataset repositori
+to show the classifi independ natur of the propos featur select method we have use 3 differ classifi name k-nearest neighbour knn multi-lay perceptron mlp and support vector machin svm
+comparison of dga has been perform with other contemporari algorithm like the basic version of ga particl swarm optimis pso simul anneal sa and histogram base multi-object ga hmoga
+from the comparison result it has been observ that dga perform much better than other in most of the case
+thus our main contribut in this paper are introduct of a new variant of ga for fs which use gda to strengthen it exploit abil and applic of the propos method on 15 well-known uci dataset use knn mlp and svm classifi .

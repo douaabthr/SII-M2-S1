@@ -1,0 +1,7 @@
+an optim pid control for a bipe robot walk on flat terrain use mciwo algorithm
+the design of appropri control play an import role in achiev the dynam balanc gait of the bipe robot
+the present paper deal with the tune of gain kp kdandki of the propos pid control use two non-tradit global optim algorithm name particl swarm optim pso and a variant of invas weed optim iwo call modifi chaotic invas weed optim mciwo algorithm which is newli propos by the author
+the effect of the newli propos mciwo algorithm has been verifi with the help of benchmark function by conduct the normal test parametr and non-parametr test
+further the develop mciwo algorithm is use to develop the optim pid control for the bipe robot
+onc the pid control are optim the perform of the control in term of various perform measur of the bipe robot are compar
+final the gait generat use the optim pid control are test on a real bipe robot .

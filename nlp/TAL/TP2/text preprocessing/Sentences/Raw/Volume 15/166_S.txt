@@ -1,0 +1,11 @@
+A new differential evolution algorithm for cooperative fuzzy rule mining application to anomaly detection
+Fuzzy classification rule mining can be considered as a challenging optimization problem with the purpose of extracting accurate and interpretable rules
+This paper deals with a Michigan cooperative approach for mining fuzzy rules
+The proposed algorithm named EDE-FRMiner uses an enhanced differential evolution that evolves population of individuals each one represents a single rule
+The whole population collaborates to generate in one shot an accurate and reduced number of rules
+EDE-FRMiner is an intelligent process of evolution that uses fast arithmetic operators and a new cooperative weights memory
+This latter allows sharing information between individuals
+In addition it uses a new threshold based fitness function using a redefined support and confidence measures
+The adaptive threshold mechanism used in the fitness function aims to adapt the miner system to problems with dynamic training data
+Experiments are carried out using the NSL-kdd 99 intrusion detection data set and other data sets from the UCI repository
+A comparative study with other competitive evolutionary rule based systems is performed and the results show the effectiveness of proposed algorithm .

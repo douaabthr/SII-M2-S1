@@ -1,0 +1,13 @@
+hgasa an improv hybrid self-adapt metaheurist approach for data cluster
+cluster data into coher group is a machin learn unsupervis techniqu that aim to partit the data object into cluster with maximum inter-clust distanc and minimum intra-clust distanc
+genet algorithm is a popular metaheurist algorithm with sever shortcom such as local optima trap prematur converg and genet drift problem
+consequ to maintain a balanc between intensif and diversif and to resolv the abov issu a new memet algorithm is propos in thi paper
+the propos approach hgasa is a hybrid of genet and simul anneal algorithm that explor the neighborhood search strategi of the simul anneal algorithm by incorpor it as a local search techniqu after the mutat phase of the genet algorithm
+to overwhelm the genet drift problem the propos algorithm s mutat rate is also adjust use a self-adapt factor that reli on the metaheurist search principl
+the propos techniqu is valid by compar it perform with a genet algorithm use standard benchmark function
+afterward the propos hgasa is simul on nine real-lif and synthet cluster data set
+the effici of the propos hybrid approach is prove by compar it with well-known standard metaheurist and recent publish hybrid algorithm use the sum of intra-clust distanc and converg speed as object function
+the effect of the propos algorithm is also test as an automat cluster algorithm
+comput find reveal that the hgasa cluster techniqu perform better than other metaheurist algorithm
+simul result demonstr the abil of the propos hgasa to produc compact and well-separ cluster
+addit the friedman statist test and two pair t-test are perform to verifi the suggest hgasa method s exist and find approv the surviv of the hgasa algorithm in the cluster area .

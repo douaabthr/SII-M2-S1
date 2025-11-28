@@ -1,0 +1,10 @@
+a heurist node placement strategi for extend network lifetim and ensur target coverag in mobil wireless sensor network
+prolong network lifetim has long been one of the most critic challeng in design wireless sensor network in general and mobil wireless sensor network in particular
+regard network lifetim one of the factor affect it the most is energi effici
+in a mobil wireless sensor network compar to stationari one energi manag has an even greater impact on the network lifetim sinc the movement of the sensor drain an enorm amount of energi
+moreov in target-bas wireless sensor network it is mandatori to ensur target coverag along with lifetim optim
+in this paper we investig a mobil sensor network model where stationari target must be continu monitor by mobil sensor
+in order to maxim network lifetim and guarante the coverag of all target in the monitor region we take sensor node movement into account
+we propos the lifetim effect movement algorithm a novel heurist approach consist of determin the optim region for sensor deploy and schedul sensor node movement to address this issu
+experiment result demonstr that our propos algorithm outperform two exist approach in term of network lifetim with an improv vari from 125% to 269%
+moreov the propos method produc an approxim ratio in the rang of 82.14 88.41% compar to the exact solut .

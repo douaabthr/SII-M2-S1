@@ -1,0 +1,15 @@
+foreword
+fogel db ed 1998 evolutionari comput the fossil record
+ieee press piscatawayfriedman gj 1956 select feedback comput for engin synthesi and nervou system analog
+msc dissert uclafriedberg rm 1958 a learn machin part i
+ibm j re dev 2 1 2 13articlemathscinetgoogl scholarklopf ah gose e 1969 an evolutionari pattern recognit network
+ieee tran syst sci cybernet 5 3 247 250articlegoogl scholarkampfn rr conrad m 1983 comput model of evolutionari learn process in the brain
+bull math biol 45 6 931 968mathgoogl scholarfogel lj owen a walsh m 1965 artifici intellig through a simul of evolut
+in maxfield m callahan a fogel lj ed biophys and cybernet system proceed of the 2nd cybernet scienc symposium
+spartan book pp 131 155holland jh reitman js 1978 cognit system base on adapt algorithm
+in waterman d hayes-roth f ed pattern-direct infer system
+academ press london pp 313 329googl scholarsmith sf 1980 a learn system base on genet adapt algorithm
+phd dissert
+univers of pittsburghforsyth r 1981 beagl a darwinian approach to pattern recognit
+kybernet 10 159 166articlegoogl scholarconrad m patte hh 1970 evolut experi with an artifici ecosystem
+j theor biol 28 393 409articlegoogl scholardownload refer

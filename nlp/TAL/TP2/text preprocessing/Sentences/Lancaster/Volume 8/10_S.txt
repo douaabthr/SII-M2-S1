@@ -1,0 +1,13 @@
+xcs-sl a rule-based genet learn system for sequ label
+sequ label is an interest class domain wher lik norm class every input has a class label but unlik norm class predict of an input s label may depend on the valu of oth input or their class and so a learn may nee to ref to input and class at diff tim stamp to class the cur input
+thi is mor difficult becaus a learn doe not know wher and how many input ar nee to class the cur input
+our interest is in learn gen rul for sequ label
+the xcs algorithm is a rule-based knowledg discovery system pow by a genet algorithm which has oft been us for class
+her we pres xcs-sl an extend of xcs class system which can be appl to sequ label
+toward an apply of learn class system lcs to sequ label we propos a new class condit with mem cal a variable-length condit and a rule-discovery system for the new class condit which en xcs to apply it to sequ label
+in xcs-sl class rul cal class her can includ extr condit on prevy input which act as mem
+in sequ label the numb of conditions/memory nee may be diff for each input hent us a fix numb of condit i.e. fixed-length condit for al class is not a good solv
+instead xcs-sl class hav a variable-length condit to provid mor or less mem
+the genet algorithm can grow and shrink condit to find a suit mem siz
+on two synthet benchmark problem xcs-sl learn optim class and on a real-world sequ label task it der high class acc and discov interest knowledg that show depend between input at diff tim
+the comprehend describ system is the first apply of a lcs to sequ label and we consid it a prom direct for fut work .

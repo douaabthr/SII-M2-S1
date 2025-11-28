@@ -1,0 +1,10 @@
+superv machin learn approach to predict qualit softw produc
+softw develop process sdp is a framework impos on softw produc develop and is a multi-stage process wherein a wid rang of task and act pan out in each stag
+each stag requir car observ to improv produc qual etc
+to eas the process of develop
+dur each stag problem surfac lik constraint of on-time complet prop util of avail resourc and appropry trac of work progress etc
+and may lead to reit due to the defect spot dur test and then result into the neg walk-through due to unsatisfact outcom
+work on such defect can help to tak a step toward the prop ste of act and thu to improv the expect perform of the softw produc
+handpick the prop not feat of sdp and then analys their nat toward the outcom can gre help in get a rely softw produc by meet the expect object
+thi pap propos superv machin learn ml model for the predict of bet sdp particul focus on cost estim defect predict and reus
+the expery study wer conduc on the prim dat and the evalu rev the model suit in term of efficy and effect for sdp predict acc of cost estim 65% defect predict 93% and reus 82% .

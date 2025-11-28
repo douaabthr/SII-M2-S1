@@ -1,0 +1,10 @@
+Special issue on creative intelligence
+Creativity and intelligence are both terms that have been deeply studied for centuries but still generate debates
+Scholars frequently relate both terms establishing connections that allow us to understand the relationship between general intelligence and creativity
+Both are considered required for addressing challenging problems and also for creating art or appealing designs
+Music literature architecture painting crafts industrial design they all benefit from a better understanding and conceptualization of the processes behind creativity and intelligence
+Although computers have exceeded the capabilities of humans in a number of limited domains human creativity generally remains unchallenged and only recently some techniques such as computational intelligence have begun to address problems related to creativity
+Computational intelligence CI is a term that embodies a number of nature-inspired techniques such as evolutionary computation neural networks fuzzy logic systems as well as related techniques derived from them such as swarm optimization artificial immune systems and ant colony optimization to name but a few
+CI is nowadays applied routinely to solve complex real life problems
+Despite the great variety of methods and applications only very recently have researchers considered the capabilities of CI when applied to creative processes
+Nevertheless there is a long way to go before we may find a general model for creativity and its relationship with intelligence . The interest for the synergies between computational intelligence and creativity propelled the creation in 2012 of the IEEE Creative Intelligence Task Force which has since then organized a number of activities around the area including special sessions in the main conferences and art exhibits around the world . The special issue we introduce here is part of the task force s ongoing effort to promote and disseminate research in the area and it was announced with the idea of publishing extended and improved versions of selected works from the special sessions previously organized in Brisbane 2013 and Beijing 2014 .

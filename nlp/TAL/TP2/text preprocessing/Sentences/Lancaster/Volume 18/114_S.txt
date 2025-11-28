@@ -1,0 +1,7 @@
+improv two-archive evolv algorithm for constrain multi-objective optim of wwtp bas on interg inform guid
+maintain the bal between feas converg and divers is a challeng in constrain multi-objective optim problem for the op perform of the wastew tre process wwtp
+thi pap propos an improv two-archive evolv algorithm for constrain multiobject optim c-taea bas on interg inform guid nam iig-c-taea
+first the propos algorithm propos a mat select mech to fair screen elit solv in three aspect feas converg and divers
+then the algorithm employ interg inform to guid offspr it by adjust crossov and mut prob and est neighb between interg pop
+fin an archive-driven mech is introduc to select high-quality solv and to est an assocy between arch bas on pop inform enh the bal of divers converg and feas
+the eff of the propos algorithm is confirm through comp analys conduc on benchmark problem and wastew optim problem demonst it supery ov oth constrain multi-objective optim evolv algorithm in comparison .

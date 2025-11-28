@@ -1,0 +1,4 @@
+An interdisciplinary perspective on artificial immune systems
+This review paper attempts to position the area of Artificial Immune Systems AIS in a broader context of interdisciplinary research
+We review AIS based on an established conceptual framework that encapsulates mathematical and computational modelling of immunology abstraction and then development of engineered systems
+We argue that AIS are much more than engineered systems inspired by the immune system and that there is a great deal for both immunology and engineering to learn from each other through working in an interdisciplinary manner .

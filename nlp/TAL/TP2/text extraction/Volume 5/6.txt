@@ -1,0 +1,3 @@
+Special issue on advances in learning classifier systems
+
+Learning Classifier Systems (LCS) constitute a uniquely adaptable class of learning framework existing at the intersection of machine learning and evolutionary computation. Fundamentally, an LCS combines genetic search with an appropriate learning strategy to evolve a rule set which collectively describes a temporal or spatial problem. Since their conceptualization, a variety of algorithmic architectures and mechanisms have been introduced with the objective of improved functionality or application to new problem domains. As technology advances, the power and versatility of LCS algorithms makes them increasingly appealing.

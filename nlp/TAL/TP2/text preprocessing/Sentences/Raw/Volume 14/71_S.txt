@@ -1,0 +1,9 @@
+An optimal feature selection method for histopathology tissue image classification using adaptive jaya algorithm
+Due to the complex background and heterogeneous structure classification of histopathological tissue images is a challenging problem
+Further the selection of appropriate features is an important phase of classification process as irrelevant and redundant features may result in high computation and degrade the performance
+Therefore a new adaptive jaya algorithm has been introduced in this paper which is used to obtain the prominent feature set from the extracted features
+The proposed adaptive jaya algorithm modifies the updation equation using the best and the worst solutions
+For the feature extraction a pre-trained AlexNet has been used due to its distinguishing performance in the image classification
+Moreover the performance of five different classifiers have been analyzed over the selected features in context of classifying the histopathological tissue images into four categories namely epithelium tissue nervous tissue connective tissue and muscular tissue
+Experimental results validate that the proposed adaptive jaya algorithm attains better optimal values on CEC2015 functions
+The proposed method eliminates 91.3% features from the extracted features which is maximum among other considered methods and also achieves high classification accuracy .

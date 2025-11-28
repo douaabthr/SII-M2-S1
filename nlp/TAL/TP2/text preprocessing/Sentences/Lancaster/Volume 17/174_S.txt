@@ -1,0 +1,8 @@
+comparison of optim approach on linear quadr reg design for traject track of a quadrot
+linear quadr reg lqr is on of the most prev method us in the control of unman aer vehic
+lqr control ar common employ in the control of both linear and non-linear system due to their adv such as easy-to-apply and high-performance structure
+howev ther is on main difficul that play a sign rol in the man of determin the gain for the control sign choos appropry weight mat
+the select of thes mat that direct affect the control perform is gen perform by tri and er which is lab and time-consuming
+accord vary optim algorithm hav been util to determin the weight mat of the lqr control
+in thi pap the weight mat of the design lqr control wer obtain us standard genet algorithm diff evolv partic swarm optim and grey wolf optim algorithm
+the obtain weight mat of the lqr control wer test on an unman aer vehic sim and the perform of optim algorithm wer pres comp .

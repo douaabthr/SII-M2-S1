@@ -1,0 +1,13 @@
+quantum entangl inspir grey wolf optim algorithm and it applic
+meta-heurist optim algorithm are becom increas popular for their simplic and effici
+grey wolf optim gwo is one such effect algorithm that was propos recent
+it has been research extens owe to it impress characterist easi to understand and implement few paramet to be tune capabl to balanc explor and exploit and high solut accuraci
+but in solv high depend or complex optim problem gwo can stagnat into local optima owe to poor explor strategi and can converg prematur
+to overcom these drawback of gwo we propos quantum entangl enhanc grey wolf optim qegwo
+quantum entangl is particular use in signific improv the treatment of multimod and high depend problem
+one more element local search is use and is help in the search intensif
+the qegwo algorithm is benchmark on 12 standard benchmark function unimod as well as multimod and result are compar with some exist variant of gwo
+further it is also benchmark on congress of evolutionari computing-2019 cec 19 benchmark set consist of 10 shift and rotat function
+further the applic of the qegwo is test over harmon estim design problem
+a bench of smooth and noisi function is employ to test estim accuraci of qegwo
+the result reveal that qegwo perform signific better as compar to other gwo variant .

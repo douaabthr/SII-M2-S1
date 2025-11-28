@@ -1,0 +1,10 @@
+aesthet qualiti model of the form of natur element in the environ of urban park
+assess the aesthet qualiti of the landscap especi in natur ecosystem of urban area with the aim of util manag can be an effect step toward optim and sustain use of the urban park environ and servic
+the lack of studi on the form of landscap element and combin of natur attribut in landscap beauti is a main shortcom in thi field
+therefor the purpos of thi studi is to develop an artifici neural network model and tool to predict the aesthet qualiti of the landscap contain water and plant in differ form and volum
+therefor we record 6 landscap characterist in 100 landscap in 10 urban park
+multi-lay perceptron model mlp repres the highest valu of r2in train 0.98 and test 0.94 data set
+accord to the sensit analysi the valu of tree plant form water hedg grass water bodi form and tree were determin respect as the input influenc the mlp model output
+the urban park landscap with more tree in the form of strip or group and water bodi and less hedg and grass would like attract park visitor attract
+the design graphic user interfac in matlab softwar make mlp an environment decis support system tool for landscap design and it is a platform to predict the qualiti of environ and the futur research should be on discuss or the relationship between spatial for of landscap attribut
+in practic the design environment decis support system tool is appli by landscap manag to predict the aesthet qualiti of landscap in design new park .

@@ -1,0 +1,13 @@
+giz pyramid construct an ancient-inspired metah algorithm for optim
+nowaday many optim issu around us cannot be solv by prec method or that cannot be solv in a reason tim
+on way to solv such problem is to us metah algorithm
+metah algorithm try to find the best solv out of al poss solv in the shortest tim poss
+spee in converg acc and problem-solving abl at high dimend ar charact of a good metah algorithm
+thi pap pres a new population-based metah algorithm inspir by a new sourc of inspir
+thi algorithm is cal giz pyramid construct gpc inspir by the ant past has the charact of a good metah algorithm to deal with many issu
+the ancient-inspired is to observ and reflect on the leg of the ant past to understand the optim method technolog and strategies of that er
+the propos algorithm is control by the mov of the work and push the ston block on the ramp
+thi algorithm is comp with fiv standard and popul metah algorithm
+for thi purpos thirty diff and divers benchmark test funct ar util
+the propos algorithm is also test on high-dimensional benchmark test funct and is us as an apply in im seg
+the result show that the propos algorithm is bet than oth metah algorithm and it is success in solv high-dimensional problem espec im seg .

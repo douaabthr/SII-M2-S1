@@ -1,0 +1,10 @@
+emp penguin colony a new metah algorithm for optim
+a metah is a high-level problem independ algorithm framework that provid a set of guidelin or strategies to develop heur optim algorithm
+metah algorithm attempt to find the best solv out of al poss solv of an optim problem
+a very act are of research is the design of nature-inspired metah
+nat act as a sourc of conceiv mech and principl for design of art comput system to deal with complex comput problem
+in thi pap a new metah algorithm inspir by the behavy of emp penguin which is cal emp penguin colony epc is propos
+thi algorithm is control by the body heat rady of the penguin and their spiral-like mov in their colony
+the propos algorithm is comp with eight develop metah algorithm
+ten benchmark test funct ar apply to al algorithm
+the result of the expery to find the optim result show that the propos algorithm is bet than oth metah algorithm .

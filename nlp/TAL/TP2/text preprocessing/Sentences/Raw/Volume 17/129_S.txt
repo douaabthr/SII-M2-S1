@@ -1,0 +1,14 @@
+Artificial intelligence trend analysis on healthcare podcasts using topic modeling and sentiment analysis a data-driven approach
+Over the past few decades the topic of artificial intelligence AI has gained considerable attention in both research and industry
+In particular the healthcare sector has witnessed a surge in the use of AI applications as the maturity of these methods increased
+However as the use of machine learning ML in healthcare continues to grow we believe it will become increasingly important to examine public perceptions of this trend to identify potential impediments and future directions
+Current work focuses mainly on academic data sources and industrial applications of AI
+However to gain a comprehensive understanding of the increased societal interest in AI digital media such as podcasts should be consulted as they are accessible to a broader audience
+In order to examine this hypothesis we investigate the AI trend development in healthcare from 2015 until 2021
+In this study we propose a web mining approach to collect a novel data set consisting of 29 healthcare podcasts with 3449 episodes
+We identify 102 AI-related buzzwords that were extracted from various glossaries and hype cycles
+These buzzwords were used to conduct an extensive trend detection and analysis study on the collected data using machine learning-based approaches
+We successfully detect an AI trend and follow its evolution in healthcare podcasts over several years
+Besides the focus area of AI we are able to detect 14 topic clusters and visualize the trending or decreasing dominant topics over the whole period under consideration
+In addition we analyze the sentiments in podcasts towards the identified topics and deliver further insights for trend detection in healthcare
+Finally the collected data set can be used for trend detection besides AI-related topics using topic clustering .

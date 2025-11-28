@@ -1,0 +1,5 @@
+multi-criteria decid mak in lingu valu of neutrosoph trapezoid fuzzy multi-numbers
+neutrosoph trapezoid fuzzy multi-numbers ntfmn ar a particul cas of neutrosoph fuzzy numb on a real numb set which ar us to predict the solv for multi-criteria decid mak problem
+in thi pap we in the definit for ntfmn and form a multipl criter decision-making problem in which the altern ar ntfmn
+expect valu is us for rank neutrosoph trapezoid fuzzy multi-numbers and for select of best altern
+fin a num exampl is giv to just the pract and efficy of the propos method .

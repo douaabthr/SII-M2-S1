@@ -1,0 +1,3 @@
+A new bats echolocation-based algorithm for single objective optimisation
+
+Bats sonar algorithm (BSA) as a swarm intelligence approach utilises the concept of echolocation of bats to find prey. However, the algorithm is unable to achieve good precision and fast convergence rate to the optimum solution. With this in mind, an adaptive bats sonar algorithm is introduced with new paradigms of real bats echolocation behaviour. The performance of the algorithm is validated through rigorous tests with several single objective optimisation benchmark test functions. The obtained results show that the proposed scheme outperforms the BSA in terms of accuracy and convergence speed and can be efficiently employed to solve engineering problems.

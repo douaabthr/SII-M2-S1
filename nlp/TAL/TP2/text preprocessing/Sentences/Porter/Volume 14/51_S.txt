@@ -1,0 +1,17 @@
+predict bipolar disord and schizophrenia base on non-overlap genet phenotyp use deep neural network
+comput psychiatri is an emerg field of scienc
+it focus on identifi the complex relationship between the brain s neurobiolog
+mental ill ha recent becom an import problem to be address as the number of peopl affect is increas over time
+schizophrenia and bipolar disord are two major type of psychiatr disord
+most of the peopl are experienc these ill in their lifetim
+but diagnos psychiatr disord is even more a complex problem
+genet factor play a vital role in develop mental ill
+interestingli few psychiatr disord have common genet overlap between each other
+it caus detriment effect on diagnos the ill accur
+to overcom thi exist issu a rank base gene biomark identif and classif framework is propos to identifi the overlap and non-overlap gene pattern of bipolar disord and schizophrenia
+the dataset use in thi experi is obtain from gene express omnibu databas
+as an outcom of thi experi seven biomark are identifi as the overlap gene
+also 60 and 68 inform gene biomark are identifi on bipolar disord and schizophrenia dataset as featur subset to discrimin the sampl
+overlap gene are elimin to increas the diagnost accuraci of the disord
+the perform of the propos system is evalu with standard exist machin learn algorithm
+thi propos framework attain 97.01% and 95.65% accuraci on bipolar disord and schizophrenia dataset with deep neural network model outperform other benchmark algorithm and prove it efficaci .

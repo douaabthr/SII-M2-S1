@@ -1,0 +1,8 @@
+Special issue on advances in Learning Classifier Systems
+Learning Classifier Systems LCS belong to the rule-based class of machine learning algorithms which typically combine evolutionary computing with a problem relevant learning strategy
+LCS research since its inception more than three decades ago continues to inspire and lead research in the emerging discipline of evolutionary machine learning
+Recent LCS research has focused on the improvement of system performance including model accuracy compactness and learning speed among others for large and complex problems
+Pattern mining and data classification remain amongst the key problem areas of interest for LCS application
+New LCS algorithms are being developed to deal with a variety of different problem domains
+However Stewart Wilson s Michigan-style accuracy-based XCS and the closely related UCS algorithm specifically adapted for supervised learning tasks dominate the focus of the field
+This special issue presents revised versions of selected papers presented at the 16th International Workshop on Learning Classifier Systems IWLCS 2013 and at the Genetic Based Machine Learning GBML Track of the 2013 Genetic and Evolutionary Computation Conference GECCO .

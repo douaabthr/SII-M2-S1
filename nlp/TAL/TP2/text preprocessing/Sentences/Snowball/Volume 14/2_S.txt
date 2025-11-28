@@ -1,0 +1,9 @@
+differenti evolut algorithm tune tilt integr deriv control with filter control for automat generat control
+a differenti evolut de tune tilt integr deriv control with filter tidf has been implement to a multi area reheat thermal power system for automat generat control by take the physic constraint like generat rate constraint and governor dead band nonlinear
+initi dissimilar integr control are consid in each area and the integr control gain have been optim by integr of time multipli by absolut valu of error ita criterion exploit differ strategi of de algorithm
+in next step the control paramet such as step size and crossov probabl of de for the best strategi can be chosen with multipl iter of the algorithm systemat for variat in each control paramet and de propos the control paramet
+further pi/pid/tidf type control scheme have been modifi and their gain have been optim by optim de
+furthermor to improv the transient system respons tidf control coordin unifi power flow control upfc has been investig
+the simul result reveal that the minimum ita valu is obtain when upfc is place in area-5 onli
+final sensit analysi has been done by chang the oper load condit along with the time constant of system paramet from the simul result it has been examin that there is no need to reset the control paramet from their nomin set for these variat
+the propos control scheme effect is also observ by consid random step load disturb and sinusoid load disturb .

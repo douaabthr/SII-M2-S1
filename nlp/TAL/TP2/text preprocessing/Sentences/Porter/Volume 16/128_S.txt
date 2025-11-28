@@ -1,0 +1,8 @@
+multi-object algorithm base on tissu p system for solv tri-object optim problem
+thi paper present a multi-object algorithm base on tissu p system mo tp for short for solv the tri-object vehicl rout problem with time window vrptw
+unlik most of the work where just the accuraci or extens of the solut is the core the propos algorithm focus on search the boundari of solut set and ensur the solut have better extens and uniformli distribut
+in mo tp the cell of the tissu p system are divid into two group
+the first group consist of onli one cell aim at approach to the pareto front by the nsga-ii while second group consist of six cell focus on search boundari by the artifici bee coloni algorithm with differ priorit rule
+the main idea of the mo tp are to util the evolut of two group of cell with differ function in the tissu p system for search the boundari of solut set obtain solut set which are uniformli distribut and have better extens and approach to the pareto front on the premis of preserv the elit boundari
+56 solomon benchmark are util to test algorithm perform
+experiment result show that on the premis of ensur accuraci the propos approach outperform compar algorithm in term of three metric .

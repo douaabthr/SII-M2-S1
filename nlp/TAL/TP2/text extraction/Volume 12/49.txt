@@ -1,0 +1,6 @@
+Optimal FOPID/PID controller parameters tuning for the AVR system based on sine–cosine-algorithm
+
+To enhance the controller performance, an advanced sine–cosine-algorithm (SCA) is employed for Fractional order PID (FOPID) controller tuning in this paper.
+ The SCA-FOPID controller is based on model-based controller design method of physical systems to get better performance. The FOPID controller is designed by SCA optimization technique using the time domain objective function for AVR system.
+ The SCA technique is responsible to optimize five parameters of FOPID controller based on minimum value of objective function of the controller design. The proposed SCA-FOPID controller is design at a global optimum of objective function is acheived.
+ Then, the AVR system has good regulation of terminal voltage at the output to meet desired performance. The proposed method has a good reference tracking ability and frequency responses. This method is compared with the PID and FOPID controller designs of AVR system in the recent years, the proposed SCA-FOPID controller gives an excellent performance from the extensive simulations studies.

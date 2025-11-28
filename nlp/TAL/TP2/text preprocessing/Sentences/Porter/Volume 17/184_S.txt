@@ -1,0 +1,7 @@
+unveil the many-object dragonfli algorithm s maoda efficaci in complex optim
+in the field of multi-object optim algorithm moa a primari challeng is identifi an optim solut that effect converg to the true pareto front while maintain a high level of divers especi in the initi phase of evolut
+to tackl thi challeng thi studi introduc a novel algorithm name many-object dragonfli algorithm maoda
+thi method incorpor refer point nich preserv and inform feedback mechan for maintain better balanc between converg and divers
+through thi studi the maoda effect is establish by use the wfg1-wfg9 test suit for 4 6 and 8 object and five real-world rwmaop1 rwmaop5 design problem
+the find demonstr that maoda outperform it peer many-object algorithm like maotlbo maojaya maopso and nsga-iii in most test scenario in term of gd igd sp sd hv and rt metric
+it is shown that maoda achiev better converg as well as enhanc divers and spread compar to peer .

@@ -1,0 +1,10 @@
+optim reconfigur of distribut network feeder consid electr vehicl and distribut gener
+penetr of electr vehicl and distribut gener resourc in distribut network is increas and it is need to investig their effect on system s oper scheme reliabl
+but the simultan presenc of electr vehicl and distribut gener resourc requir meticul plan becaus lack of access to an applic can reduc the lifetim of these technolog lead to multipl blackout in the power grid
+therefor thi studi propos the dynam distribut network reconfigur in the presenc of distribut gener unit and electr vehicl with variou object function includ energi loss oper cost and energi not suppli
+moreov the time of use mechan as a demand respons applic is introduc to enhanc the power usag of subscrib
+in order to gener the propos approach time vari electr price and differ load level are consid to provid accur product plan of distribut gener resourc and electr vehicl in the real space of the electr network
+the inher complex of the distribut feeder reconfigur problem ha made the present of solut techniqu a topic of ongo research
+therefor a hybrid improv particl swarm optim artifici bee coloni optim algorithm ha been present to allevi the complex of the optim problem
+the resent method is test on the 95 bu system and a comparison is drawn between it outcom and that of other method includ particl swarm optim artifici bee coloni optim and enhanc gravit search
+the review of the result manifest that the propos method is superior to other evolutionari algorithm .

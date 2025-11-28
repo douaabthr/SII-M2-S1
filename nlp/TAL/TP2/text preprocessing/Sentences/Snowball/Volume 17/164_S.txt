@@ -1,0 +1,6 @@
+enhanc dna sequenc design with learn pso
+dna comput is a novel comput technolog with high storag densiti and parallel and promis applic
+the reliabl of dna comput reli on data encod dna sequenc but design qualifi dna sequenc is a veri complex task
+to accomplish this task more effect a learn particl swarm optim lpso is propos
+lpso use improv refract opposition-bas learn robl to enhanc the local exploit improv salat learn sl to consolid the global explor then gaussian mutat gm is introduc to improv the popul divers and bring the popul closer to the global optim solut
+the feasibl of lpso is demonstr by result of dna encod sequenc optim experi then the help of three strategi to improv pso algorithm is discuss through ablat studi .

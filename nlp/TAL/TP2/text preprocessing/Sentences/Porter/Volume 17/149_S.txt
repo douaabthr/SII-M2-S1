@@ -1,0 +1,14 @@
+sustain multipl travel salesman problem solv by refer point aspir level base multi object quasi opposit jaya algorithm under uncertain environ
+carbon emiss vari from vehicl to vehicl along with the rout select for travel curb weight vehicl speed etc . are uncertain
+consid appropri rout and vehicl to reduc carbon emiss is import for eco-friendli transport
+in the present studi the green multipl travel salesman problem mtsp is solv by the propos refer point aspir level-bas multi-object quasi opposit jaya rpal-bas moqo jaya algorithm
+in green mtsp with risk and carbon constraint multipl salesman are use to travel and all have to return to the depot start citi
+two model are solv i.e. expect valu ev and optimist valu ov model sinc the natur of the travel cost time risk and carbon emiss are uncertain the problem is solv under an uncertain environ
+green mtsp is consid by take risk and carbon emiss as constraint in thi model
+a real-lif exampl of surat citi is consid for 10 and 50 citi node so the effect of select a singl salesman versu multipl salesmen is observ
+the data collect for surat citi from googl map and googl earth is evalu consid road traffic condit and speed of vehicl
+the problem is solv by rpal-bas moqo jaya algorithm
+the supremaci of the propos method is establish through it comparison with other method for tsplib as well as for the real exampl solv by the propos method and compar with al-bas moqo jaya fuzzi program techniqu fpt hybrid ga rao algorithm
+further sensit analysi is perform with respect to confid level
+the perform of rpal-bas moqo jaya is check by calcul gd igd hv and coverag
+the propos algorithm can be easili adapt to solv suppli chain problem ship rout problem vrp etc .

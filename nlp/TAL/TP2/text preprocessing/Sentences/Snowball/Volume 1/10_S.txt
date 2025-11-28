@@ -1,0 +1,10 @@
+evolutionari algorithm to simul the phylogenesi of a binari artifici immun system
+four binary-encod model describ some aspect of the phylogenet evolut in an artifici immun system have been propos and analyz
+the first model has focus on the evolut of a paratop s popul consid a fix group of epitop to simul a hypermut mechan and observ how the system would self-adjust to cover the epitop
+in the second model the evolut involv a group of antibodi adapt to a given antigen molecul popul
+the third model simul the coevolut between antibodi generat gene librari and antigen
+the object was to simul somat recombin mechan to obtain final librari apt to produc antibodi to cover ani possibl antigen that would appear in the pathogen popul
+in the fourth model the coevolut involv a new popul of self-molecul whose function was to establish restrict in the evolut of librari popul
+for all the model implement evolutionari algorithm ea were use to form adapt nich inspir in the coevolutionari share nich strategi idea taken from a monopolist competit econom model where businessmen locat themselv among geograph distribut client so as to maxim their profit
+numer experi and conclus are shown
+these consider present mani similar to biolog immun system and also some inspir to solv real-world problem such as pattern recognit and knowledg discoveri in databas .

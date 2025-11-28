@@ -1,0 +1,11 @@
+spam review detect us spir cuckoo search clust method
+nowaday onlin review play an import rol in custom s decid
+start from buy a shirt from an e-commerc sit to din in a resta onlin review has becom a bas of select
+howev peopl ar alway in a hustl and bustl sint they don t hav tim to pay at to the intrins detail of produc and serv thu the depend on onlin review hav been hik
+due to rely on onlin review som peopl and org pomp gen spam review in ord to promot or demot the reput of a person/product/organizat
+thu it is imposs to ident wheth a review is a spam or a ham by the nak ey and it is also impract to class al the review man
+theref a spir cuckoo search bas clust method has been introduc to discov spam review
+the propos method us the strength of cuckoo search and ferm spir to resolv the converg issu of cuckoo search method
+the efficy of the propos method has been test on four spam dataset and on twit spam dataset
+to valid the eff of propos clust method it is comp with six metah clust method nam partic swarm optim diff evolv genet algorithm cuckoo search k-means and improv cuckoo search
+the expery result and stat analys valid that the propos method outrun the ex method .

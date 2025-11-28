@@ -1,0 +1,11 @@
+multi-object social group optim for machin process
+a multi-object social group optim mosgo is propos in this studi as a method for resolv problem with multipl object
+the initi step is to use an extern chronicl with a predetermin size to store the exist non-domin pareto optimum solut
+follow that solut are chosen from this repositori use a roulett wheel mechan base on the coverag of solut to guid individu in the direct of promis region of multi-object search space
+the propos method is test on ten cec2009 multi-object benchmark problem and it has been compar to two well-known meta-heurist the multi-object evolutionari algorithm base on decomposit moea/d algorithm and the multi-object particl swarm optim mopso algorithm
+it is essenti to the machin process to choos the optimum machin paramet in order to guarante product qualiti lower machin cost boost product and preserv resourc for sustain
+henc mosgo a posterior multi-object optim method is use in this studi to tackl the multi-object optim problem of three machin process includ turn wire-electric-discharg machin and laser cut
+the result of the mosgo algorithm are compar with the result obtain use ga nsga-ii pso and iter search method and are found to be compar
+here it has been observ that the mosgo algorithm achiev the pareto-optim set of solut in a veri less number of function evalu as compar to other algorithm show a higher converg speed
+the pareto-optim set of solut for each optim problem is obtain and report
+these pareto-optim set of solut are help for real product system and will aid the decision-mak in tumultu situat .

@@ -1,0 +1,6 @@
+enh dna sequ design with learn pso
+dna comput is a novel comput technolog with high stor dens and parallel and prom apply
+the rely of dna comput rely on dat encod dna sequ but design qual dna sequ is a very complex task
+to accompl thi task mor effect a learn partic swarm optim lpso is propos
+lpso us improv refract opposition-based learn robl to enh the loc exploit improv sal learn sl to consolid the glob expl then gauss mut gm is introduc to improv the pop divers and bring the pop clos to the glob optim solv
+the feas of lpso is demonst by result of dna encod sequ optim expery then the help of three strategies to improv pso algorithm is discuss through abl study .

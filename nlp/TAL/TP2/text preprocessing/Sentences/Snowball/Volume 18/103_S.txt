@@ -1,0 +1,16 @@
+implement of a novel enhanc hybrid multi-object osprey optim algorithm for off-grid hybrid system size
+a novel enhanc hybrid multi-object osprey optim algorithm ehmoooa is propos in this research work
+it is use here for the optimum size of an off-grid composit renew energi sources-bas framework compris a photovolta pv system wind turbin generat wts and batteri energi storag system bess
+the system is model to suppli the administr block of kalyani govern engin colleg kalyani india
+the novelti includ the integr of the quasi-oppositional-bas learn mechan composit solution-ori differenti evolut algorithm csodea and brownian motion concept into the osprey optim algorithm ooa
+the contribut lie in the develop of two novel mutat mechan three new scale coeffici and advanc extract strategi for the core vector and the primari predecessor solut of the differ vector
+the final stage of the exploit process present a novel scheme for the locat upgrad of the solut employ brownian motion
+a mathemat configur has been built to minim three primari fit function loss of power suppli probabl lpsp level cost of electr energi lcoe and net present cost npc
+for valid purpos the perform of the propos hybrid meta-heurist algorithm are compar with five other power optim algorithm
+eight standard cec benchmark function and three cec2020 actual scenario-constrain optim problem function are employ here for the evalu of the propos algorithm
+the suggest composit methodolog yield the lowest and optimum valu of lcoe 0.3029 kwh npc 0.9184 e 05 and lpsp 0.000541
+the optimum contribut made by pv wt and bess are 80.9% 10% and 9.1% respect
+valid of the suggest techniqu has been further carri out by conduct statist perform analysi through standard deviat
+the propos techniqu yield the lowest standard deviat valu 7.4330 e 04 lcoe 376.8249 npc and 1.9901 e 06 lpsp respect
+further to valid the outcom the shapiro-wilk test is conduct follow by the welch-lik anova and games-howel post-hoc test
+moreov a sensit test is perform to evalu the robust of ehmoooa .

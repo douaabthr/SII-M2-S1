@@ -1,0 +1,10 @@
+student psycholog base optim algorithm integr differenti evolut and hierarch learn for solv data cluster problem
+how to accur and effici perform data cluster in complex multidimension data analysi and process task is a challeng research problem
+tradit optim algorithm often need help with the problem of quickli fall into local optimum and insuffici global search abil when deal with high-dimension multi-peak and complex structur data
+in order to solv thi challeng a student psycholog base optim algorithm gdlspbo that integr differenti evolut and hierarch learn mechan wa propos aim to improv the accuraci stabil and global optim abil of data cluster
+gdlspbo enhanc the popul divers and prevent the algorithm from fall into local optimum by introduc the differenti evolut mechan
+simultan the hierarch learn strategi improv the algorithm s search effici and local optim abil
+the experi are valid on the cec-bc-2017 benchmark function
+sever real dataset and the result show that gdlspbo achiev an f-measur of 0.9595 and an adjust rand coeffici of 0.8578 on the cancer dataset and the cluster accuraci on the iri dataset reach 93.33% which is significantli better than that of other classic optim algorithm
+thi indic that gdlspbo ha a more substanti cluster effect and higher solut accuraci in solv complex data cluster problem
+the experiment result verifi that the global search abil and optim accuraci of gdlspbo on multidimension complex data set have been significantli improv demonstr it broad applic and robust in practic data cluster applic .

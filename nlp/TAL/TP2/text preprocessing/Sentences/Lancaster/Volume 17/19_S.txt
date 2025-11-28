@@ -1,0 +1,7 @@
+impact analys of platform posit and ory er on war weapon target strike
+in ord to evalu the weapon strike effect in the joint of ship form thi pap discuss the influ of platform posit and ory er on weapon strike effect
+bas on the mathem model the dam expect of platform posit and ory er the long-range strike acc of shipboard missil and the target ind acc of cross-platform ar analys quantit
+the model includ weapon strike lik the navig posit er model and er transf model of ship platform
+the sim was be perform in matlab environ
+the larg the posit and ory er is the mor cross platform target sign er wil increas
+and the acquisit prob and weapon strike effect of missil long-range attack wil reduc .

@@ -1,0 +1,9 @@
+fus model bas on entrop by us optim dcnn and it see for multil detect
+the rec progress in the dsa led to the progress of adv lan detect system for prev accid
+the inform about the lan is detect which is us for the vehic control and provid warn to the driv
+thi pap propos the multi-lanes detect bas on an entropy-based fus approach
+the main us of the propos model for combin the result obtain by the ew-csa bas dcnn and it see bas on reg for provid efficy multil detect
+init the lan ar detect us a deep learn techn that is train us an optim algorithm ew-csa
+simil the approach nam seg bas on reg is us for the detect of multi-lane
+depend on the result of the two approach an fus model bas on entrop is propos for mak the best result bas on a pre-defined threshold
+the propos method perform is evalu bas on the met such as spec acc and sensit which outperform with valu 0.887 0.991 and 0.992 respect .

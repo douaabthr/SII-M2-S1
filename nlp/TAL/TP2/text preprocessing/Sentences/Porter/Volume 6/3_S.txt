@@ -1,0 +1,5 @@
+knowledg extract and rule set compact in xc for non-markov multi-step problem
+the applic of the xc famili of classifi system within multi-step problem ha shown promis but xc classifi system usual solv those problem with a larg number of classifi
+if they can gener compact and readili interpret solut when use in multi-step problem it will enhanc their applic and use in a wide rang of robot control and knowledg discoveri task
+in thi paper we describ some method develop for xc to compact the rule set and acquir explicit polici knowledg for multi-step problem especi non-markov problem
+experiment result show the abil to obtain a veri compact rule set out of the final popul of classifi with littl or no degrad of overal perform .

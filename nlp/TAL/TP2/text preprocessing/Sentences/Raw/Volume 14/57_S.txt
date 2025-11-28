@@ -1,0 +1,10 @@
+Intrusion detection system for cloud forensics using bayesian fuzzy clustering and optimization based SVNN
+Intrusion detection has emerged as one of the major challenges involved in the cloud forensics
+This work introduces an intrusion detection framework for the cloud environment with clustering and two-level classifiers
+In the first step of the process a Bayesian fuzzy clustering is used for clustering the nodes in the cloud
+And in the next step two-level gravitational group search-based support vector neural network GG-SVNN classifier identifies intrusion in clusters
+GG-SVNN is a novel optimization scheme proposed in this work by combining the group search optimizer and gravitational search algorithm
+The intrusion information provided by level 1 classifier is arranged to form compact data and provided to the level 2 classifier
+The level 2 classifier finally identifies total nodes affected by the intruders
+The simulation of the proposed intrusion detection is done with the help of KDD cup dataset
+From the simulation results it is evident that the proposed GG-SVNN classifier has achieved overall best performance by achieving high accuracy value of 92.41% and low false alarm rate of 4.75% respectively .

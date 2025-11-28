@@ -1,0 +1,9 @@
+Simulation of urban pattern evolution trend based on satellite GIS and remote sensing
+Existing hyperspectral remote sensing image classification methods have separate feature extraction and classifiers
+At the same time separate training will increase network complexity and be very time-consuming
+Therefore a deep learning space-spectrum combined with hyperspectral remote sensing image classification algorithm is proposed
+First mathematical transformation is used to stabilize the growth rate of remote sensing image radiation value and reduce the standard deviation of spatial distribution characteristics of GIS information DN value so as to increase the growth rate of remote sensing spectral radiation value in suburban areas
+Then a band combination strategy LSTM algorithm that focuses on global features is selected to regroup the bands of the spectral vector of each pixel of the hyperspectral data which can effectively extract the context features between adjacent spectra
+Finally principal component analysis is performed on the satellite remote sensing image and retain the first few principal components to achieve dimensionality reduction the multiscale convolutional neural network is applied to extract the spatial features of the satellite remote sensing image after dimensionality reduction
+The end-to-end structure is used to extract spectral features and spatial features simultaneously to realize satellite remote sensing image analysis
+The simulation experiment proves that the calculation accuracy of the urban pattern change trend of the algorithm in this paper is high and the calculation results are more convergent which can provide more accurate trends of the urban pattern change and play a guiding role in the future construction of the city .

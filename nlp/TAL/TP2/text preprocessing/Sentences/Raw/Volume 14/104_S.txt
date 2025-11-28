@@ -1,0 +1,11 @@
+A hybrid evolutionary approach for identifying spam websites for search engine marketing
+With the increased digital usage web visibility has become critically essential for organizations when catering to a larger audience
+This visibility on the web is directly related to web searches on search engines which is often governed by search engine optimization techniques liked link building and link farming amongst others
+The current study identifies metrics for segregating websites for the purpose of link building for search engine optimization as it is important to invest resources in the right website sources
+These metrics are further used for detecting websites outliers for effective optimization and subsequent search engine marketing
+Two case studies of knowledge management portals from different domains are used having 1682 and 1070 websites respectively for validation of the proposed approach
+The study evolutionary intelligence by proposing a k-means chaotic firefly algorithm coupled with k-nearest neighbor outlier detection for solving the problem
+Factors like Page Rank Page Authority Domain Authority Alexa Rank Social Shares Google Index and Domain Age emerge significant in the process
+Further the proposed chaotic firefly variants are compared to K-Means integrated firefly algorithm bat algorithm and cuckoo search algorithm for accuracy and convergence showing comparable accuracy
+Findings indicate that the convergence speeds are higher for proposed chaotic firefly approach for tuning absorption and attractiveness coefficients resulting in faster search for optimal cluster centroids
+The proposed approach contributes both theoretically and methodologically in the domain of vendor selection for identifying genuine websites for avoiding investment on untrustworthy websites .

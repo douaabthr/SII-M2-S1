@@ -1,0 +1,13 @@
+enhanc snow ablat optim use advanc quadrat and newton interpol with taylor neighbourhood search and second-ord differenti perturb strategi for high-dimension featur select
+featur select is essenti in data mine and machin learn signific enhanc classif accuraci and reduc comput overhead
+as dataset increas in size identifi optim featur subset becom more complex necessit the use of metaheurist optim techniqu
+unlik tradit method these techniqu effect navig extens search space
+the snow ablat optim sao a novel and wide adopt nature-inspir metaheurist is recogn for it simplic and optim efficaci
+nevertheless sao like other nature-inspir algorithm encount limit such as accuraci constraint restrict popul divers and prematur converg particular in complex high-dimension dataset
+to address these limit this studi propos an improv variant of the recent optim algorithm known as the enhanc snow ablat optim esao along with a wrapper-bas featur select fs method that util the k-nearest neighbour knn classifi
+in the initi phase the propos algorithm employ a posit updat mechan use advanc quadrat and newton interpol oper to navig complex search space and acceler converg
+taylor neighbourhood strategi broaden the search scope enhanc explor and solut discoveri while minim the risk of local optima
+second-ord differenti perturb strategi further improv explor and exploit by captur object function nonlinear ensur more accur and effici optim and promot divers solut
+the sao algorithm origin formul for continu search space current employ eight transfer function s-shape v-shape z-shape and three u-shap custom to address optim challeng within binari space
+it efficaci was valid use 21 high-dimension dataset and compar against eight competitor algorithm
+subsequ the techniqu for order of prefer by similar to ideal solut topsi method assess optim transfer function base on classif accuraci highlight signific progress with accuraci rang from 88 to 100% .

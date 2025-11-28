@@ -1,0 +1,9 @@
+LVP extraction and triplet-based segmentation for diabetic retinopathy recognition
+Till now the detection of diabetic retinopathy seems to be one of the sensitive research topics since it is related to health care of any individual
+A number of contributions in terms of detection already exists in the dice still there present some problems regarding the detection accuracy
+This issue motivates to develop a new detection model of diabetic retinopathy and moreover this model tells the severity of retinopathy from the given fundus image
+The proposed model includes preprocessing segmentation feature extraction and classification stages
+Here Triplet Half band Filterbank THFB Segmentation is performed local vector pattern LVP is used for extracting the features principle component analysis PCA procedure is used to reduce the dimensions of the feature vector and neural network NN is used for classification purpose
+The proposed model compares its performance over other conventional classifiers like support vector machine SVM k nearest neighbor k-NN and Navies Bayes NB in terms of positive and negative measures
+The positive measures are accuracy specificity sensitivity precision negative predictive value NPV F1-Score and Matthews Correlation Coefficient MCC
+Similarly the negative measures are the false positive rate FPR false negative rate FNR and false discovery rate FDR and the efficiency of the proposed model is proven .

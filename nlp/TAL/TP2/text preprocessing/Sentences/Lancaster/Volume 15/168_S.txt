@@ -1,0 +1,10 @@
+transmit expand plan us composit teach learn bas optim algorithm
+with the ev increas demand and stressed op condit resourc expand is the on way to hav sustain elect grid
+transmit system expand is on of the import aspect in thi regard
+in the rec year expand problem has been address by sev research
+meta-heuristic techn hav been apply to solv expand problem
+in thi pap a new vary of teach learn bas optim tlbo algorithm is propos by ad a sin funct bas divers in the teach phas
+the propos vary is nam as composit tlbo c-tlbo
+the eff of the propos vary has been evalu on standard benchmark funct and then it is evalu on two standard elect network with cas of includ of uncertainty and demand burst
+the result obtain from optim process hav been evalu with the help of sev analys and stat test
+result affirm that the propos mod enh the perform of the algorithm in a subst man .

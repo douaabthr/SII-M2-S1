@@ -1,0 +1,12 @@
+improv gbest artifici bee coloni algorithm for the constraint optim problem
+live be in natur are most intellig creation of natur as they evolv with time and tri to find optimum solut for each problem individu or collect
+artifici bee coloni algorithm is natur inspir algorithm that mimic the swarm behaviour of honey bee and success solv variou optim problem
+solut qualiti in artifici bee coloni depend on the step size dure posit updat
+randomli decid step size alway ha high possibl of miss out the exact solut
+it popular variant name gbest-guid artifici bee coloni algorithm tri to balanc it and accomplish effect for unconstrain optim problem but not satisfactori for the constrain optim problem
+further in the gbest-guid artifici bee coloni individu which are go to updat their posit attract toward the current best solut in the swarm which sometim lead to prematur converg
+to avoid such situat as well as to enhanc the effici of gbest-guid artifici bee coloni to solv the unconstrain continu optim problem an improv variant is propos here
+the improv gbest-guid artifici bee coloni propos modif in the posit updat dure both the phase i. e
+employ and onlook bee phase to introduc diversif in search space addit intensif of the identifi region
+the perform of new algorithm is evalu for 21 benchmark optim problem
+base on statist analys it is shown that the new variant is a viabl altern of gbest-guid artifici bee coloni for the constraint optim problem .

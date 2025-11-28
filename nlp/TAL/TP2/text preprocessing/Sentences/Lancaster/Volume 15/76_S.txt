@@ -1,0 +1,9 @@
+optim support vect neur network and contourlet transform for im steganograph
+im steganograph is on of the prom and popul techn us to sec the sensit inform
+ev though ther ar num steganograph techn for hid the sensit inform ther ar stil a lot of challeng to the research regard the effect hid of the sensit dat
+thu an effect pixel prediction-based im steganograph method is propos which us the er depend svnn class for effect pixel id
+the suit pixel ar effect ident from the med im us the svnn class us the pixel feat such as edg inform pixel cov text wavelet energy gab and scat feat
+her the svnn is train optim us the ga or ms algorithm bas on the minim er
+then the ct is apply to the predict pixel for embed
+fin the invers ct is employ to extract the secret mess from the embed im
+the expery of the propos im steganograph is perform us the brat databas depend on the perform met psnr ssim and correl coefficy which acquir 89.3253 db 1 and 1 for the im without nois and 48.5778 db 0.6123 and 0.9933 for the im affect by nois respect .

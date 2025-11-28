@@ -1,0 +1,10 @@
+a novel multilevel thresholding algorithm bas on quant comput for abdomin ct liv im
+im seg is consid on of the import task for extract us inform from an im
+multilevel thresholding im seg is on of the effect techn for im seg
+the comput tim grow expon of tradit multilevel thresholding method such as kap with the numb of thresholds
+meta-heuristic algorithm bas on swarm intellig hav prov their efficy in solv the multilevel thresholding optim problem
+in thi pap a new hybrid algorithm bas on quant comput qc and optim for algorithm of for multilevel im seg is pres
+the main charact of the propos quant optim for algorithm qof is the integr of quant op such as interf with the optim process of of to get a prop bal between expl and exploit phas
+the feas of the propos multilevel im seg algorithm has been evalu and test on real abdomin ct liv im
+al the result ar analys qualit and quantit to evalu the effect and the robust of the propos algorithm
+the expery result rev that the propos algorithm is a very prom algorithm and it can provid bet seg result comp with the standard of .

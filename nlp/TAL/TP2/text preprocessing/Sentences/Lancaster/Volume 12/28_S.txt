@@ -1,0 +1,8 @@
+research on cloud comput in the resourc shar system of univers libr serv
+as a combin of technolog and apply cloud technolog bring new opportun for libr dat stor
+cloud comput in the resourc shar system of libr serv are has first propos the cloud libr platform to achiev resourc shar among digit libr
+first thi pap nee to build cloud libr platform architect and then we introduc the cloud comput rel technolog such as hadoop
+fin the system is apply it to thi map
+the build of the libr constitut a loc libr cloud platform us web technolog to achiev the scheduling of loc libr and then impl the most common resourc retriev serv in the libr on the cloud platform framework and fin discuss issu that nee at in the follow-up develop of the platform
+fin a multi-agent shar model for educ inform resourc und the cloud-computing environ has est to serv the construct of libr inform resourc bet
+in addit thi artic innov put forward the funct of libr construct of employ inform serv for colleg stud which is bet to serv colleg stud .

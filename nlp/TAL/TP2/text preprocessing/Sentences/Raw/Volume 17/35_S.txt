@@ -1,0 +1,5 @@
+Multi-criteria decision making in linguistic values of neutrosophic trapezoidal fuzzy multi-numbers
+Neutrosophic trapezoidal fuzzy multi-numbers NTFMN are a particular case of neutrosophic fuzzy numbers on a real number set which are used to predict the solution for multi-criteria decision making problems
+In this paper we initiate the definition for NTFMN and formulate a multiple criteria decision-making problems in which the alternatives are NTFMN
+Expected value is used for ranking neutrosophic trapezoidal fuzzy multi-numbers and for selection of best alternative
+Finally a numerical example is given to justify the practicality and efficiency of the proposed method .

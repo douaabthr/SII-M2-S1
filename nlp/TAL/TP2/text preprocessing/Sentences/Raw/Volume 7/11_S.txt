@@ -1,0 +1,5 @@
+Foreword
+Alan Turing was seemingly the first person to suggest that natural evolution may provide inspiration for approaches to artificial intelligence in the famous Intelligent Machinery report he produced in 1948 e.g. see 1
+The first implementations of such evolutionary computing emerged during the following decades e.g. see 3 including pioneering work in the UK by Richard Forsyth with his BEAGLE system 4
+The first event dedicated to evolutionary computing in the UK was held as part of the Society for the Study of Artificial Intelligence and Simulation of Behaviour AISB 1994 Convention in Leeds organised by Terry Fogarty
+The workshop continued to be held at the annual convention for a number of years thereafter with the proceedings entitled Evolutionary Computing published by Springer each year e.g. see 2 .

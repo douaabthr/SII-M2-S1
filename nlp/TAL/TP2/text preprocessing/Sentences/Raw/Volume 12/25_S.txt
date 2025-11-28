@@ -1,0 +1,6 @@
+Imbalanced data classification algorithm with support vector machine kernel extensions
+Learning from the imbalanced data samples so as to achieve accurate classification is an important research content in data mining field
+It is very difficult for classification algorithm to achieve a higher accuracy because the uneven distribution of data samples makes some categories have few samples
+A imbalanced data classification algorithm of support vector machines KE-SVM is proposed in this article this algorithm achieve the initial classification of data samples by training the maximum margin classification SVM model and then obtaining a new kernel extension function
+based on Chi square test and weight coefficient calculation through training the samples again by the new vector machine with kernel function to improve the classification accuracy
+Through the simulation experiments of real data sets of artificial data set it shows that the proposed method has higher classification accuracy and faster convergence for the uneven distribution data .

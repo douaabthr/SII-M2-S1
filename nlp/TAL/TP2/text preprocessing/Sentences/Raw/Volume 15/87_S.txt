@@ -1,0 +1,12 @@
+Analysis on dual algorithms for optimal cluster head selection in wireless sensor network
+Clustering is the approach which is utilized for aggregating the nodes as a group called clusters which is used for reducing the routing overheads
+This is a fundamental approach to extend the life expectancy of Wireless Sensor Network
+However the main challenge in WSN is the cluster head selection while taking the energy stabilization into account
+Optimization within the WSN is the outstanding concern to provide intellect for the extensive period of network lifetime
+Since clustering is a topological control method to decrease the process of SNs it extensively improves overall system scalability and energy efficiency
+Moreover the appropriate selection of CH plays crucial role for attaining sustainable WSN
+This paper proposes the firefly contribution with Firefly Cyclic Randomization FCR for the selection of cluster head in WSN
+The randomly created solution in this algorithm is found based on three distribution functions like Uniform Normal and Gamma distributions
+Moreover the analysis is made on the second algorithm Firefly Cyclic Grey Wolf Optimization FCGWO by modifying r 1 and r 2 random vectors of Grey Wolf Optimization
+In reality the FCR and FGCGWO algorithms are planned on selecting the optimal cluster head by concentrating mainly on minimization of delay minimization of the distance between nodes and stabilization of energy
+The analysis is performed and explained in terms of alive nodes network lifetime and energy efficiency under the three distributions .

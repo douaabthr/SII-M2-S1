@@ -1,0 +1,11 @@
+hybrid machin learn method combin with comput vis approach to estim biophys paramet of past
+with pop grow the search for technolog that en improv in produc respect the environ and peopl s heal has becom an ess point for socy
+in thi context thi pap pres a study bas on comput vis techn and machin learn ml to extract inform from pasturespanic maximumcv
+brs zur to assist in the man and research on past condit possibilitando a obtenção de informaçõ da
+comput vis approach ar us to extract biophys paramet from im acquir orthogon from the canop of veget
+the extract inform serv as input for machin learn ml method to predict past height and biomass
+the contribut of thi pap is develop a poss new solv comp to tradit method in the large-scal study of plant biophys paramet which can be lab and cost and sometim depend on destruct harvest
+for thi three techn wer us support vect regress multi-layer perceptron mlp and least absolv shrinkage and select
+in addit the diff evolv techn was us to select the best model
+thirty independ run of the diff evolv techn wer perform to assess the approach s perform
+the cross-validation method result show the mlp obtain the best result reach an av of coefficy of determin r 2 eq 0.496 to estim biomass and 0.656 to estim the past height .

@@ -1,0 +1,8 @@
+gauss hybrid fuzzy clust and rad bas neur network for autom brain tum class in mri im
+magnet reson im mri is an emerg research are employ extend in radiolog for the diagnos of vary neurolog diseas
+her as the class of mri gain sign import for the tum diagnos vary techn ar develop in the lit for the autom class of mri im
+in thi pap a clust scheme nam gauss hybrid fuzzy clust ghfc is develop by hybrid the fuzzy c-means fcm clust and spars fcm along with the gauss funct for the seg purpos
+aft seg the im the suit feat ar extract from the im and giv to the expon cuckoo bas rad bas neur network expon cuckoo bas rbnn class
+the feat serv as the train inform for the expon cuckoo bas rbnn class and it fin detect the train class
+sim of the propos work is don us brat and simbr databas and the result ar comp with sev state-of-art techn
+sim result depict that the propos ghfc along with the rbnn class achiev improv acc and mean squ er result with the valu of 0.8952 and 0.0074 respect for the brat dataset and 0.8719 and 0.0036 for the simbr dataset .

@@ -1,0 +1,8 @@
+improv the perform of evolutionari algorithm in grid-bas puzzl resolut
+this paper propos sever modif to exist hybrid evolutionari algorithm in grid-bas puzzl use a-priori probabl of 0 1 occurr in binari encod
+this calcul of a-priori probabl of bit is possibl in grid-bas problem puzzl in this case due to their special structur with the solut confin into a grid
+the work is focus in two differ grid-bas puzzl the japanes puzzl and the light-up puzzl each one have special characterist in term of constraint which must be taken into account for the probabl of bit calcul
+for these puzzl we show the process of a-priori probabl calcul and we modifi the initi of the ea to improv their perform
+we also includ novel mutat oper base on a-priori probabl which make more effect the evolutionari search of the algorithm in the tackl puzzl
+the perform of the algorithm with these new initi and novel mutat oper is compar with the perform without them
+we show that the new initi and oper base on a-priori probabl of bit make the evolutionari search more effect and also improv the scalabl of the algorithm .

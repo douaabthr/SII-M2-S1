@@ -1,0 +1,7 @@
+Use a sequential gradient-enhanced-Kriging optimal experimental design method to build high-precision approximate model for complex simulation problem
+The surrogate model based on Kriging has been widely used to approximate simulation problems of expensive computing
+Although the accuracy of the gradient enhanced Kriging GEK is often higher than that of ordinary Kriging designers cannot avoid more time consuming during gradient calculation of GEK
+To this end a sequential gradient-enhanced-Kriging optimal experimental design method with the Gaussian correlation function GCF is investigated to approximate complex black-box simulation problems by introducing gradient information of Kriging parameters
+Due to the differentiable GCF the gradient information can be simply evaluated
+This characteristic make the proposed method effectively improve the modeling accuracy and efficiency of GEK
+As expected the test results from benchmark functions and the cycloid gear pump simulation show the feasibility stability and applicability of the proposed method .

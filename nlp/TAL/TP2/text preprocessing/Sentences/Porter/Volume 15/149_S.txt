@@ -1,0 +1,7 @@
+optim research on the site select of fire safeti for mega project site base on multi-object particl swarm
+there are larg fire safeti hidden danger in the construct site of mega-project
+in order to improv the abil of fire safeti emerg respons on site in thi paper the number of demand point on the construct site are firstli determin and through use risk assess of oper condit method the risk is evalu and the risk level is determin
+secondli accord to the construct site layout criteria and fire safeti technic criteria and take the economi distanc time and coverag of fire safeti site select as the basic factor a multi-object site select optim model for fire safeti point is establish
+multi-object particl swarm optim is use to solv the multi-object site select model and a seri of fire safeti point site select scheme are obtain
+final the analyt hierarchi process is use to select the best scheme from a seri of scheme
+the research idea and conclus of thi paper provid a scientif and reason analysi framework and idea for site select of fire safeti point for mega project which ha certain applic and practic .

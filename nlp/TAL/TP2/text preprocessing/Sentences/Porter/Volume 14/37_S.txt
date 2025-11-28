@@ -1,0 +1,16 @@
+a profici remot inform respons check protocol in multi-cloud environ
+remot inform respect is one of the test issu in the distribut storag framework which guarante to deal with the re-appropri inform secur without download the entir inform
+becaus of some use circumst there is a need to spare the custom s inform is distribut over multi-cloud server
+in the interim the inform honesti confirm convent ought to viabl for diminish the verifi cost
+exist inform respect approach depend on hash capac and advanc mark which are not fit for the remot multi-cloud condit becaus of high comput over-burden and remot in natur
+furthermor anoth current issu is that aggressor can hack the inform in few occas from the cloud regardless of the way that inform respect check convent wa present
+rememb these issu in thi work we anticip a multi-cloud confin inform respect check convent
+the propos techniqu offer consist assert toward the custom and assess the data which is immov settl with the help of the new inform respect check convent
+at the point when an aggressor attempt to take the data in multi-cloud the propos continu review system will help the verifi to execut squar dimens check to ensur the inform respect through the one-round test-respons or test reaction techniqu
+a multi-cloud data integr verif protocol is present in test plan that depend on signatur and symmetr key
+use the propos method the client can test the engag inform in one phase test reaction interact with littl transmiss cost
+in addit it empow public audit and help dynam inform preserv that enabl the client to adjust and eras the data with minim execut overhead
+for evalu the execut of the propos techniqu interm of inform trustworthi a broad arrang of experiment happen
+the propos work enabl variou client to manag remot cloud inform
+the execut of the propos method is verifi concern updat verifi and inquiri time cost
+from the accomplish outcom it is discov that the propos techniqu ensur the natur of administr and fix secur by have reason refresh time and a strict confirm rule separ .

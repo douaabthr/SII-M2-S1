@@ -1,0 +1,14 @@
+hybrid chaotic system-ori artifici fish swarm neural network for imag encrypt
+accord to the research work of the refer on chaotic cryptanalysi mani recent chaotic imag encrypt algorithm cannot resist chosen-plaintext attack
+although some chaotic imag encrypt algorithm introduc plain-imag inform they still violat some design requir of modern cryptosystem
+the tradit imag encrypt algorithm ha the disadvantag of low secur and time-consum
+therefor after analyz mani literatur relat to chaotic imag encrypt and aim to improv the secur of ciphertext and effect resist plaintext attack we propos a hybrid chaotic system-ori artifici fish swarm neural network method for imag encrypt
+firstli base on the nonlinear combin theori the logist tent and sine map are use to design the hybrid complex chaotic system
+accord to the pixel valu of plaintext it gener the initi valu to output the chaotic sequenc
+take a chaotic sequenc as the input layer the artifici neural network is introduc to train and learn the chaotic sequenc
+it elimin the chaotic period and output the neural network sequenc
+the artifici fish swarm algorithm is use to optim the initi weight and threshold of the elman neural network
+the set obfusc method is defin to scrambl the plaintext
+a quantiz method is construct to quantifi the neural network sequenc and obtain the key flow
+the mix imag are classifi the key flow is combin the pixel valu is chang and the ciphertext is output by design the piecewis diffus technolog
+experiment result show that compar with the current state-of-the-art imag encrypt method the propos algorithm ha higher secur and resist plaintext attack abil .

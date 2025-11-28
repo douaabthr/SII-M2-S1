@@ -1,0 +1,11 @@
+Grey wolf assisted SIFT for improving copy move image forgery detection
+Copy-move forgery is a general widespread type of digital image forgery where a segment of an image is attached into a new portion of the similar image to hide or replicate the parts which are called forgered image
+The forgered image appears original as the objective region in spite of being forged has attained the fundamental qualities of the similar image itself
+The capability of the copy-move forgery detection CMFD technique is lacked due to some post-processing functions like JPEG compression scaling or rotation etc
+Therefore this paper intends to develop a CMFD using Scale-invariant feature transform SIFT best-fin-first algorithm BBF and RANdom SAmple Consensus RANSAC directed by grey wolf optimization GWO algorithm
+Initially the keypoints are selected using SIFT principle and BBF algorithm identifies the matched keypoints using keypoint threshold
+Further SIFT feature descriptor is determined and the final extracted paired keypoints are given to RANSAC algorithm to remove all the mismatched keypoints
+In this CMFD model the parameters such as parameters keypoint threshold maximum distance of inliers in RANSAC and distance threshold in SIFT features are optimized using GWO
+The foremost purpose of this research work is maximizing the number of paired keypoints
+Hence the proposed model is termed as GWO-based parameter optimization for CMFD GWPO-CMD
+The proposed model is compared over several other meta-heuristic-based keypoint threshold selections and proves its efficiency through diverse analysis .

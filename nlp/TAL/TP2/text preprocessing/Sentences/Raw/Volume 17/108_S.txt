@@ -1,0 +1,11 @@
+Multi-objective social group optimization for machining process
+A multi-objective social group optimization MOSGO is proposed in this study as a method for resolving problems with multiple objectives
+The initial step is to use an external chronicle with a predetermined size to store the existing non-dominated Pareto optimum solutions
+Following that solutions are chosen from this repository using a roulette wheel mechanism based on the coverage of solutions to guide individuals in the direction of promising regions of multi-objective search spaces
+The proposed method is tested on ten CEC2009 multi-objective benchmark problems and it has been compared to two well-known meta-heuristics the multi-objective evolutionary algorithm based on decomposition MOEA/D algorithm and the multi-objective particle swarm optimization MOPSO algorithm
+It is essential to the machining processes to choose the optimum machining parameters in order to guarantee product quality lower machining costs boost productivity and preserve resources for sustainability
+Hence MOSGO a posterior multi-objective optimization method is used in this study to tackle the multi-objective optimization problems of three machining processes including turning wire-electric-discharge machining and laser cutting
+The results of the MOSGO algorithm are compared with the results obtained using GA NSGA-II PSO and iterative search methods and are found to be comparable
+Here it has been observed that the MOSGO algorithm achieved the Pareto-optimal set of solutions in a very less number of function evaluations as compared to other algorithms showing a higher convergence speed
+The Pareto-optimal set of solutions for each optimization problem is obtained and reported
+These Pareto-optimal sets of solutions are helpful for real production systems and will aid the decision-maker in tumultuous situations .

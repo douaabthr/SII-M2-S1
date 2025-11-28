@@ -1,0 +1,7 @@
+distribut optim dispatch of integr elect and nat gas system consid the pipelin stor charact
+as an import form of multi-energy compl the integr elect and nat gas system ieg is a new carry for renew energy accommod
+first bas on the nat gas pipelin model the buff effect of nat gas pipelin stor charact in respons to nat gas load fluctu is analys
+then consid the pipelin stor charact a dad-ahead econom dispatch model for iegss with a high proport of wind pow is est
+and the extrem scenario optim method is us in thi model to deal with the uncertainty of wind pow
+furtherm a distribut solv method bas on the improv altern direct method of multiply is propos to accel the converg of distribut solv
+cas study ar conduc on a mod ie 39 bus system and a belg 20 nod nat gas system to ver the effect of model and algorithm .

@@ -1,0 +1,8 @@
+Designing a multi-agent system architecture for managing distributed operations within cloud manufacturing
+Cloud manufacturing CM is a challenging scenario in the fourth stage of industrial production i. e
+Industry 4.0
+In this context the fusion of physical and virtual worlds in cyber-physical production systems transforms manufacturing resources into homogeneous services that can be shared and distributed in collaborative environments
+CM systems are characterized by intelligent capability management and manufacturing cloud service-management
+An interesting research topic in these areas is the production planning with a decentralized pool of homogeneous resources
+The distributed Task Scheduling Problem in CM has been partially tackled in the current literature but some issues such as the dynamic task arrival the downtime of machines the anomalous tasks identification have not been addressed
+Armed with such a vision we discuss the design of a multi-agent system for managing and monitoring homogeneous manufacturing services in a CM system based on Additive Manufacturing Technologies .

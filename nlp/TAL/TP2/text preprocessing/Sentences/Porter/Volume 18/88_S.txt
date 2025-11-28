@@ -1,0 +1,14 @@
+bird of prey-bas optim bpbo a metaheurist algorithm for optim
+optim is a critic challeng across sever engin and scientif disciplin
+thi paper introduc a uniqu bird of prey-bas optim bpbo algorithm which wa influenc by the astut hunt techniqu of predatori bird
+the approach util both individu and group hunt techniqu while select target weaker bird to effect balanc explor and exploit strategi
+by incorpor a dynam reloc strategi to access more suitabl prey thi method enhanc popul divers and mitig the risk of prematur converg
+the integr of these strategi in light of the ongo dynam shift enabl the bpbo algorithm to effect address a wide rang of problem
+thi includ success applic to both small-scal problem with specif constraint and large-scal problem with dimens extend up to 1000
+to thoroughli assess bpbo s effect we conduct an in-depth analysi use 23 optim benchmark of which 13 are design as scalabl
+the cec-2014 benchmark function are consid a more complex test set
+furthermor bpbo algorithm is util in practic engin design challeng such as optim weld beam three-bar truss gear train cantilev beam and speed reduc
+compar analys were conduct util nine and eight algorithm across two set of standard test function
+the comparison of the result across all case util robust algorithm substanti the propos algorithm s effect perform in explor the feasibl space of the problem
+thorough analys have been conduct to enhanc the understand of the behavior exhibit by the algorithm paramet
+the sourc code of the bpbo algorithm are publicli avail athttp nimakhodadadi . com/algorithm 2b code .

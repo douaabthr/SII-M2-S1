@@ -1,0 +1,7 @@
+A robust fault-tolerant control algorithm based on a novel modeling method for quadrotor application with accurate fault estimation
+This article tries to lower the load of computations and increase the robustness of a fault-tolerant control algorithm for quadrotors
+In this method neglecting the uncertainties the quadrotor s dynamics is broken into two simple nonlinear models
+A robust unscented Kalman filter is utilized for the fault estimation and reinforces a 2 Sliding Mode Controller
+In this case the unknown faults in multi-actuators are estimated
+According to the Lyapunov theory stability analysis is performed to discuss the reliability of the closed-loop FTC method
+In the simulation results comparing the performance of the proposed method with the performances of passive FTCs and augmented UKF estimators show the lighter computations and higher robustness of the presented algorithm for quadrotors resistant to unknown faults due to the testing scenarios .

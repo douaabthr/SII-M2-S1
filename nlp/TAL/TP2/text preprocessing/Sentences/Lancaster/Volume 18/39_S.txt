@@ -1,0 +1,10 @@
+multi-objective optim for ord assign in the food cart evalu system
+the rapid grow of the food delivery industry driv by increas busy lifestyl pres custom with the challeng of find high-quality food at an optim pric
+thi decision-making process is mad mor difficult by the lack of a trustworthy food cart evalu system
+thi study propos a model that en custom to evalu food cart bas on serv qual food qual and cost-effectiveness
+the model apply multi-objective optim to bal thes fact us three evolv algorithm non-dominated sort genet algorithm ii strength pareto evolv algorithm 2 and indicator-based evolv algorithm
+the propos system gen pareto-optimal solv that guid custom in select the best food cart
+addit the effect of the propos food cart evalu system can be valid by comp it with oth algorithm in term of pareto optim result hypervolum gen dist invert gen dist and epsilon ind
+the model was valid by swiggy food chain dat which demonst that our approach effect minim cost whil maxim food cart rat
+the result demonst that the propos system can sign enh custom decision-making in select food cart off a pract tool for both consum and the food delivery industry
+fin us stat techn we pres a comp study of the result with the cur zomato and swiggy food chain dat rat .

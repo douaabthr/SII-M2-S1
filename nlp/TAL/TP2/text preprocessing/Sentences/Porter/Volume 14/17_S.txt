@@ -1,0 +1,11 @@
+gray level run length matrix base on variou illumin normal techniqu for textur classif
+textur classif under vari illumin condit is one of the most import challeng
+thi paper present a new textur classif approach by take the combin of robust illumin normal techniqu appli on gray level run length matrix glrlm for textur featur extract
+the purpos of select the grlm as textur descriptor is that it extract inform of an imag from it gray level run
+a set of consecut collinear pictur point have the same gray level valu is consid as a gray level run
+the textur materi usual go through a deep chang in their imag with variat in illumin and camera pose
+for instanc keep all the paramet fix but just chang the scale and rotat can result in a complet new textur
+henc chang in gray level valu also occur
+deal with these variat success by util grlm descriptor for textur classif is the main purpos of thi paper
+in the suggest approach 2d wavelet tan and trigg tt normal method are employ to compens illumin variat
+experiment result on the brodatz vistex stex and alot databas show that the suggest approach improv the perform significantli as compar to the classic glrlm descriptor .

@@ -1,0 +1,15 @@
+stochast gradient-caviar-bas deep belief network for text categor
+text categor is defin as the process of assign tag to text accord to it content
+some of the text classif approach are document organ spam email filter and news group
+thi paper introduc stochast gradient-caviar-bas deep belief network for text categor
+the overal procedur of the propos approach involv four step such as pre-process featur extract featur select and text categor
+at first the pre-process is carri out from the input data base on stem stop-word remov and then the featur extract is perform use a vector space model
+onc the extract is done the featur select is carri out base on entropi
+subsequ the select featur are given to the text categor step
+here the text categor is done use the propos sg-cav-bas deep belief network sg-cav-bas dbn
+the propos sg-cav is use to train the dbn which is design by combin condit autoregress valu at risk and stochast gradient descent
+the perform of the propos sgcav dbn is evalu base on the metric such as recal precis f-measur and accuraci
+also the perform of the propos method is compar with the exist method such as naiv bay k-nearest neighbour support vector machin and deep belief network dbn
+from the analysi it is depict that the propos sgcav dbn method achiev the maxim precis of 0.78 the maxim recal of 0.78 maxim f-measur of 0.78 and the maxim accuraci of 0.95
+among the exist method dbn achiev the maximum precis recal f-measur and accuraci for 20 newsgroup databas and reuter databas
+the perform of the propos system is 10.98% 11.54% 11.538% and 18.33% higher than the precis recal f-measur and accuraci of the dbn for 20 newsgroup databas and 2.38% 2.38% 2.37% and 0.21% higher than the precis recal f-measur and accuraci of the dbn for reuter databas .

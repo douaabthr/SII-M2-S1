@@ -1,0 +1,8 @@
+neural network with adapt evolutionari learn and cascad support vector machin for fault local and diagnosi in power distribut system
+fault diagnosi and classif in electr power system is necessari to maintain a protect oper of power system
+the classif of this signal is complex due to the larg dataset comput complex and limit real time perform
+this paper focus on the detect and classif of electr power transmiss use neural network with adapt evolutionari learn and cascad support vector machin svm with wavelet descriptor of the signal to overcom such limit
+initi the wavelet decompos fault signal are extract from the simul signal
+the receiv signal consist of normal signal and fault signal such as transient sag and swell signal respect
+the wavelet descriptor of differ dataset are appli to the cascad svm for better classif
+this real experi of this paper show that this cascad svm provid good general and much fast speed compar with tradit svms .

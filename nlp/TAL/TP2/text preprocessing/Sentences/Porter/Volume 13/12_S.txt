@@ -1,0 +1,10 @@
+messag broadcast by opportunist commun on unit disk graph
+opportunist commun is one of the key technolog in the area of advertis inform share disast evacu guidanc in delay-toler network dtn vehicular ad hoc network vanet and so on
+the effici of opportunist commun is correl with the movement pattern
+random walk are often use as the movement pattern of a pedestrian
+even amongst those lévi walk that is a famili of random walk is attract attent as a human movement pattern
+there are lot of work of lévi walk in the context of target detect in swarm robot analyz human walk pattern and model the behavior of anim forag in recent year
+accord to these result it is known as an effici method to search and come across one anoth in a two-dimension plane
+howev all these work assum a continu plane and hardli ani result on graph are avail
+in thi paper we assum agent move on a unit disk graph and show the impact of the movement pattern base on lévi walk and homesick lévi walk to the effici of messag broadcast by them
+our simul result show that the configur of lévi walk and homesick lévi walk movement pattern with the smaller scale paramet diffus a messag effici compar to it with the larger one .

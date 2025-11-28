@@ -1,0 +1,8 @@
+characteris order book evolut use self-organis map
+trade on major financi market is typic conduct via electron order book whose state is visibl to market particip in real-tim
+a signific research literatur has emerg concern order book evolut focuss on characterist of the order book such as the time seri of trade price movement in the bid-ask spread and chang in the depth of the order book at each price point
+the latter two item can be characteris as order bookshapewher the book is view as a histogram with the size of the bar at each price point correspond to the volum of share demand or offer for sale at that price
+order book shape is of interest to market particip as it provid insight as to current and potenti futur market liquid
+question such as what shape are common observ in order book and whether order book transit between certain shape pattern over time are of evid interest from both a theoret and practic standpoint
+in this studi use high-frequ equiti data from the london stock exchang we appli an unsupervis cluster methodolog to determin cluster of common order book shape and also attempt to assess the transit probabl between these cluster
+find indic that order book for individu stock display intraday season exhibit some common pattern and that transit between order book pattern over sequenti time period is not random .

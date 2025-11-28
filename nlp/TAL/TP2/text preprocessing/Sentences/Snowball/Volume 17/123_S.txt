@@ -1,0 +1,9 @@
+chaotic gradient base optim for solv multidimension unconstrain and constrain optim problem
+gradient-bas optim grad belong to the recent develop population-bas metaheurist algorithm inspir by the develop of newton-typ method
+despit it new emerg there are mani success applic of this optim in the exist literatur howev chao integr version of this algorithm has not been extens studi yet
+in his studi twenty-on differ chaotic map have been incorpor into the standard grad algorithm to maintain a reliabl balanc between explor and exploit mechan which is not robust construct within the origin algorithm
+first ninety-nin thirti dimension artifici generat optim benchmark problem compris of sixty-eight multimod and thirty-on unimod function have been solv by these chaotic variant of the grad algorithm to determin the five best perform method between them
+clear domin of the chaotic algorithm is clear observ over the entir rang of benchmark case in term of solut accuraci and robust
+then to valid the optim capabl of the chao integr grad algorithm the best method among them is test on fourteen constrain real world engin problem and it respect feasibl result are benchmark against those obtain from cut edg metaheurist optim
+it is seen that the chaotic grad algorithm is abl to effect compet with other state-of-art algorithm on both solv unconstrain and constrain engin problem
+moreov it is observ that the chebyshev chaotic map improv grad algorithm outperform it contemporari in both unconstrain and constrain case .

@@ -1,0 +1,9 @@
+AA-CDNB adaptive autoregressive CAVIAR-dragonfly optimization with Naive Bayes for reason identification
+Sentiment analysis is the critical process which generates the subjective information from the text documents that are available online
+Literature presents various kinds of task like sentiment classification affect classification reason identification and predictive analysis and so on for sentiment analysis
+This work brings the reason identification system from the classified sentiment and the affect classes through the automation of the optimization techniques
+The proposed adaptive autoregressive conditional autoregressive value at risk-dragonfly optimization with Naive Bayes AA-CDNB algorithm finds the reasons behind the sentiments present in the tweets by joining the dragonfly algorithm and the Naive Bayes classifier
+Also the proposed model utilizes the tangential weighted moving average TWMA model for predicting the sentiment reasons to appear shortly
+The experimentation of the proposed work utilizes the BITS PILANI tweets database for the simulation and further the results are compared with various models
+The proposed AA-CDNB model has outclassed other models with the values of 1 0.888 and 0.920 for the sensitivity specificity and accuracy metrics respectively
+Also the results of the TWMA prediction model is compared with the other models based on the error performance and it is proved that the TWMA model has improved results .

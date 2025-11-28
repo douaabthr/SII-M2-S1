@@ -1,0 +1,10 @@
+the hybrid of aco ga and rvns algorithm for solv the time-depend travel salesman problem
+the time-depend travel salesman problem is a class of combinatori optim problem
+natur metaheurist is a suitabl approach to solv the problem with larg size in short comput time
+previous sever metaheurist have been propos for solv the problem
+these algorithm might have a strong search intensif and their diversif mechan may not be suffici
+due to the random natur population-bas algorithm improv on the chanc of find a global
+in this paper we propos a population-bas algorithm that combin an ant coloni algorithm aco genet algorithm ga and neighborhood descent with random neighborhood order rvnd
+in the algorithm the aco and ga are use to explor the promis solut area that are yet to refin while the rvnd exploit them with the hope of improv a solut
+therefor our metaheurist algorithm balanc between explor and exploit
+extens numer experi and comparison with the state-of-the-art metaheurist algorithm in the literatur show that the propos algorithm reach better solut in mani case .

@@ -1,0 +1,11 @@
+dynam kidney pair exchang us mod multivers optim
+kidney exchang is among the effect method that may perm supply an import platform for incompat donor-candidate pair to exchang org to achiev mut benefit and guar tre to peopl with kidney fail
+howev build a dynam model for kidney pair exchang has becom an increas urg issu for aug the numb of avail kidney in the field of org transpl
+ther has not been mad a lot of research on the kidney exchang problem in a dynam situ
+mathem maxim the poss kidney exchang for a giv pool can be consid as an optim problem and has attract the at of the commun of research in the past few year
+thu optim approach lik natural-inspired algorithm can help kidney pair exchang in defin which transpl should be mad among al incompat pair accord to som object
+in thi pap a new nat stochastic-based algorithm cal a multivers optim is introduc to develop adv dynam approach for kidney pair exchang
+the object of the propos approach is to maxim the numb of feas cyc and chain among the pool pair ov tim
+the effect of the propos method is confirm by provid the best perform comp to the result of genet and antl algorithm which ar the on stochastic-based optim algorithm apply to the kidney exchang
+furtherm we apply mor stochastic-based optim algorithm for kidney pair exchang to confirm the overal perform supery of our propos method
+the perform of the propos method in a dynam situ demonst the competit of the propos method .

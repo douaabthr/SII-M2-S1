@@ -1,0 +1,13 @@
+Chaotic vortex search algorithm metaheuristic algorithm for feature selection
+The Vortex Search Algorithm VSA is a meta-heuristic algorithm that has been inspired by the vortex phenomenon proposed by Dogan and Olmez in 2015
+Like other meta-heuristic algorithms the VSA has a major problem it can easily get stuck in local optimum solutions and provide solutions with a slow convergence rate and low accuracy
+Thus chaos theory has been added to the search process of VSA in order to speed up global convergence and gain better performance
+In the proposed method various chaotic maps have been considered for improving the VSA operators and helping to control both exploitation and exploration
+The performance of this method was evaluated with 24 UCI standard datasets
+In addition it was evaluated as a Feature Selection FS method
+The results of simulation showed that chaotic maps particularly the Tent map are able to enhance the performance of the VSA
+Furthermore it was clearly shown the fitness of the proposed method in attaining the optimal feature subset with utmost accuracy and the least number of features
+If the number of features is equal to 36 the percentage of accuracy in VSA and the proposed model is 77.49 and 92.07
+If the number of features is 80 the percentage of accuracy in VSA and the proposed model is 36.37 and 71.76
+If the number of features is 3343 the percentage of accuracy in VSA and the proposed model is 95.48 and 99.70
+Finally the results on Real Application showed that the proposed method has higher percentage of accuracy in comparison to other algorithms .

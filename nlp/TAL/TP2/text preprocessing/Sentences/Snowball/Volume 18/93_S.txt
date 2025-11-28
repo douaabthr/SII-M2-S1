@@ -1,0 +1,9 @@
+pythagorean fuzzi similar measur with signific in mcdm and transport challeng
+a potent extens of intuitionist fuzzi set that tackl ambigu and uncertainti at a higher level is the pythagorean fuzzi set mathbb p_yf
+when assess the degre of similar between two fuzzi set the similar measur is a help tool
+it is use in typic decision-mak scenario
+in this studi a new way to determin the degre of similar is present and contrast with previous method
+all of the shortcom of the exist measur can be mitig by the newli suggest measur
+the use of this measur in use the modifi vlekriterijumsko kompromisno rangiranj vikor approach to handl decision-mak problem is illustr with a few instanc
+addit relev exampl are provid to illustr how it could be use to challeng relat to transport
+the suggest method accomplish the primari object of the transport problem which is reduc transport cost when compar to other option .

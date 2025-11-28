@@ -1,0 +1,9 @@
+turn-based evolv in a simpl model of art cre process
+evolv comput has oft been pres as a poss model for cre in comput
+in thi pap evolv is discuss in the light of a theoret model of hum art process rec pres by the auth
+som cruc diff between hum art cre and nat evolv ar observ and discuss also in the light of oth cre process occur in nat
+as a tract way to overcom thes limit a new kind of evolv impl of cre is propos bas on a simpl vert of the prevy pres model and the result of init expery ar pres and discuss
+art cre is her model as an it turn-based process altern between a conceiv repres and a mat repres of the work-to-be
+evolv comput is propos as a heur solv to the princip step in thi process transl back and for between the two kind of repres
+thos step ar impl going from conceiv to mat form and re-conceptualization form a new conceiv repres bas on the cur mat form
+the adv and disadv of thi approach ar discuss and conclud from the init expery it is a very prom path wel wor furth expl .

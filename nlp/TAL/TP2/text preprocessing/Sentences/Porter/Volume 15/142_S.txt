@@ -1,0 +1,5 @@
+construct of cascad depth model base on boost featur select and classif
+artifici intellig is an import research direct in the field of comput scienc
+it vision is to better understand the world around us
+in thi paper the specif featur transform featur select and classifi algorithm use in the framework are studi and analyz and a cascad depth model is construct
+through detail analysi of the featur transform featur select and classif method use in the framework an effect cascad depth model base on featur extract and featur select is success implement and the effect of the propos featur combin method is verifi .

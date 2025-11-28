@@ -1,0 +1,14 @@
+multi-object three level parallel pso algorithm for structur align of complex rna sequenc
+thi paper introduc a cach enabl parallel multi-object tri-level particl swarm optim algorithm mo-3 lppso with object to address a challeng np-hard problem from bioinformat i. e
+structur align of complex rna sequenc
+mo-3 lppso implement master-slav topolog base commun strategi on the paral connect machin via messag pass interfac mpi
+level 1 of the propos algorithm acquir the optim align of the sequenc distribut on slave processor in the order of their complex
+further the align sequenc along with their align score are store on the master processor
+in the second level the secondari structur of all thegbestalign sequenc of level 1 is obtain
+each sequenc set is distribut on a slave processor that construct secondari structur of all sequenc from the set
+the align score and secondari structur score obtain from level 1 and level 2 now move toward level 3 form a bi-object optim problem with the object to maxim sequenc similar score and minim free energi score for most stabl rna secondari structur
+the top-level non-domin solut are extract further in level three and the extern archiv in ctrie is updat
+the improv from mo-tlpso to mo-3 lppso ha been remark in the sens inclus of ctrie enabl the algorithm to work with multi-cli environ for handl rna structur align queri implement of parallel facilit structur align of highli complex massiv dataset of rna sequenc
+further the differ between the time taken by mo-tlpso and mo-3 lppso is found extrem signific as confirm by non-parametr statist test mann-whitney u test
+further the structur align of highli complex sequenc set is perform by mo-3 lppso which is test for predict accuraci and process time
+the algorithm is found produc highli accur result at significantli lesser process time .

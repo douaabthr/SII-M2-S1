@@ -1,0 +1,7 @@
+3S optimizer a new meta heuristic global optimization algorithm
+In this research an original algorithm called 3S optimizer 3SO is presented which is inspired by swarm intelligence SI techniques
+This novel proposed 3SO algorithm takes both the local exploitation and the global exploration into consideration so it has satisfactory convergence speed and good solution accuracy
+In order to evaluate the search ability of 3SO algorithm this paper uses a set of famous test functions including 23 functions of CEC-BC-2005 and 29 test functions of CEC-BC-2017
+It proves that the 3SO algorithm has a great competitiveness with the most advanced optimization methods in terms of solution accuracy convergence speed and stability from the experimental results
+In order to fully demonstrate the practical application potential of the new technique the 3SO algorithm is successfully applied to four engineering design problems
+The simulation results show that the proposed 3SO algorithm can effectively deal with practical application problems .

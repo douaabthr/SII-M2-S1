@@ -1,0 +1,11 @@
+Solving multi-objective truss structural optimization problems considering natural frequencies of vibration and automatic member grouping
+Minimizing the mass of a structure and maximizing its first natural frequency of vibration are conflicting objectives of real interest in structural design
+To avoid problems with resonance which can lead to their collapse structures can be designed by making the first natural frequency of vibration high
+Furthermore it is crucial to stay away from excitation frequencies
+Here we formulate and solve multi-objective structural optimization problems of trusses with these conflicting objectives
+This type of problem is uncommon in the literature since the natural frequencies of vibration are generally set as constraints rather than as objective functions
+The generalized differential evolution 3 GDE3 the nondominated sorting genetic algorithm II NSGA-II decision space-based niching DN-NSGA-II the competitive mechanism-based multi-objective particle swarm optimizer CMOPSO and the MOPSO with multiple search strategies MMOPSO are the algorithms used in this paper
+Additionally cardinality constraints are used to manage the difficulty of discovering the best member grouping which is very effective in addressing the problems analyzed in this paper
+The experiments refer to the 10 25 72 and 200 bar trusses
+Each involves two analyses taking into account the performance indicators and the use of a multi tournament decision MTD method to extract the desired solutions
+Furthermore the design variables of each extracted solution including its optimized topology are provided .

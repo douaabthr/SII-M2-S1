@@ -1,0 +1,18 @@
+mine of multipl ailment correl to diabet mellitus
+effici and user friend databas technolog have enabl the digit of inform pertain to the medic domain
+this has not onli eas the smooth record manipul but also attract man a research to explor certain challeng to solv through implement of data mine tool and techniqu
+among the natur of ailment the inform relat to diabet mellitus dm are found to be the maxim digit
+this has provid a challeng but buzz platform for the research to do in-depth analysi and present modern edg solut which can lead to earli diagnosi of the fatal ailment
+there aris numer side-effect to a human bodi when it is affect by dm
+these multipl ailment attack a human bodi with the direct or indirect influenc of dm and it s correspond drug intak
+thus there has been a demand for a generic scheme which can predict the likeli of certain multipl ailment that a dm patient is suppos to be attack by in near futur
+in this work a suitabl scheme has been propos in the same direct
+this scheme provid a viabl platform where the probabl of multipl ailment for a dm patient can be comput
+the propos scheme also provid the probabl of occurr of individu ailment as well as the probabl of occurr of certain combin of the ailment
+occurr of three of the major ailment are be comput in this work
+these are retin disord kidney malfunct and heart diseas
+a fuzzi logic strategi has been use for match sever diseas constraint and produc a decis outcom
+certain number of novel heurist function are present which take these output and provid a probabilist accur predict of occurr of the said ailment
+suitabl experiment evalu have been made with proper data input
+the propos scheme has also been compar with compet scheme
+an overal rate of accuraci of 97% is calcul base on a k-fold cross valid perform metric .

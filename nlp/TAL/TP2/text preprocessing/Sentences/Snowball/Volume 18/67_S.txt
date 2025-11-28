@@ -1,0 +1,15 @@
+dskn deep spike kroneck network for leaf type classif and multi-class leaf diseas detect in internet of thing base sustain agricultur
+plant diseas detect is particular a critic complex in the agricultur farm field
+earlier and precis detect of leaf diseas in plant aid in enhanc crop product and economi while reduc environment damag
+diseas prognosi in plant requir more work and inform on plant diseas
+therefor plant diseas detect is the major potenti techniqu in agricultur that is gain essenti interest in farm as well as comput communiti
+to subdu this issu a systemat framework is propos for multi-class leaf diseas detect in the internet of thing iot base sustain agricultur use the deep spike kroneck network dskn
+the iot node are simul and then rout is perform by the multi-object fraction artifici bee coloni algorithm algorithm
+at base station multi-class leaf diseas detect is execut
+the imag is pre-process by a gaussian filter
+the crop leaf diseas area segment is carri out by unext and then imag augment is done use posit and color augment
+afterward featur extract is perform
+thereaft leaf-typ classif is accomplish by the propos dskn
+after the identif of type the detect of multi-class crop leaf diseas is achiev use the propos dskn
+the perform of the propos dskn is evalu use accuraci true posit rate tpr and fals posit rate fpr metric base on plant villag databas https github . com/spmohanty/plantvillage-dataset/tree/master/raw/color and crop diseas imag dataset https www . kaggl . com/datasets/jawadali1045/20k-multi-class-crop-disease-imag
+it observ that the propos method obtain best outcom of 90.76% 90.75% and 9.35% for accuraci tpr and fpr use the plant villag databas .

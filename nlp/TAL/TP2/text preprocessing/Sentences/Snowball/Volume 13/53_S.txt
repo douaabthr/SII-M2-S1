@@ -1,0 +1,10 @@
+an adapt hybrid algorithm for social network to choos group with independ member
+choos a committe with independ member in social network can be name as a problem in group select and independ in the committe is consid as the main criterion of this select
+independ is calcul base on the social distanc between group member
+although there are mani solut to solv the problem of group select in social network such as select of the target set or communiti detect just one solut has been propos to choos committe member base on their independ as a measur of group perform
+in this paper a new adapt hybrid algorithm is propos to select the best committe member to maxim the independ of the committe
+this algorithm is a combin of particl swarm optim algorithm with two local search algorithm
+the goal of this work is to combin the explor and the exploit to improv the effici of the propos algorithm and obtain the optim solut
+addit to combin local search algorithm with particl swarm optim an effect select mechan is use to select a suitabl local search algorithm to combin with particl swarm optim dure the search process
+the result of experiment simul are compar with the well-known and success metaheurist algorithm
+this comparison show that the propos method improv the group independ by at least 21% .

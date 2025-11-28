@@ -1,0 +1,7 @@
+wrapper scan chain design algorithm for test of embed core base on chaotic dragonfli algorithm
+as embed pre-design and pre-valid core in system-on-chip soc design have increas usag the wrapper scan chain design wscd for the embed core is one of the fundament way to reduc the soc test time
+in thi paper a chaotic dragonfli algorithm cda for wscd is propos to minim the test time of embed core by balanc the packag scan chain wsc . sinc the wscd problem is non-continu we improv the dragonfli algorithm da with integ code to make it suitabl for the wscd problem
+in order to improv popul divers and prevent fall into local optimum state we introduc chaotic strategi into da
+furthermor a repair oper that consid the specif knowledg is ad to the da
+sinc the cda is a swarm intellig method it is expect to effect solv the np-hard problem
+the experiment result on itc 02 soc benchmark show that the propos algorithm can improv the balanc result and shorten the test time compar with the exist algorithm .

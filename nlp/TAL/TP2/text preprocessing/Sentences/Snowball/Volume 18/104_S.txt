@@ -1,0 +1,11 @@
+hybrid meta-heurist strategi base on firefli and coyot optim for area coverag enhanc in direct sensor network
+direct sensor network dsn util direct sensor with a limit field of view for focus monitor
+this direct enhanc energi effici by reduc unnecessari sens and data transmiss
+these sensor enabl precis monitor of specif area while minim data redund
+optim sensor orient is crucial for maxim area coverag in random deploy network particular in inaccess terrain
+effect orient ensur maximum coverag enhanc monitor effici and reduc the need for cost redeploy in challeng environ
+this paper propos a novel hybrid firefly-coyot optim algorithm hf-coa to address this problem
+a grid-bas mathemat framework is propos to evalu area coverag
+the propos hf-coa achiev superior perform in maxim area coverag due to it effect balanc of explor and exploit
+experiment result demonstr that hf-coa achiev superior coverag perform compar to standalon fa and coa under vari sensor paramet
+the propos method offer a reliabl solut for enhanc monitor effici in complex and dynam environ .

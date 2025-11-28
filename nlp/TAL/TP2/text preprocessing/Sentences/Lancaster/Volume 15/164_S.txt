@@ -1,0 +1,9 @@
+a comp analys of meta-heuristic optim algorithm for feat select and feat weight in neur network
+feat select and feat weight ar frequ us in machin learn for process high dimend dat
+it reduc the numb of feat in the dataset and mak the class process easy
+meta-heuristic algorithm ar wid adopt for feat select and feat weight due to their enh search abl
+thi pap comp fiv diff meta-heuristic optim algorithm that ar rec introduc for feat select and feat weight in art neur network
+thi includ chimp optim algorithm tun swarm algorithm bear smel search algorithm antl optim algorithm and mod antl optim algorithm
+expery evalu ar perform on fiv diff dataset to illust the sign improv observ dur class process of al the algorithm util in the comp analys
+both tun swarm algorithm and chimp optim algorithm has gain bet class acc than oth algorithm
+howev al thes algorithm ar found to be mor effect for feat select and feat weight process .

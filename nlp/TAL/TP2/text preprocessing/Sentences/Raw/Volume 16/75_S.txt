@@ -1,0 +1,8 @@
+Genetic algorithm based bi-objective optimization of sigmoidal utility and throughput in ad-hoc wireless networks
+With the rapid growth of ad-hoc wireless technology amidst the huge demands of high data-rates the simultaneous optimization of overall networking throughput and utility-proportional resource allocation is of utmost significance
+The design of infrastructure-less ad-hoc wireless network with highly dynamic operating conditions can be intelligently modeled by using the artificial intelligence algorithms and machine learning techniques
+In this work we employ the meta-heuristic computational method of genetic algorithm for multi-criterion optimization of sigmoidal utility maximization and throughput efficiency
+The iterative implementation of the evolutionary genetic algorithm is effectively enforced by considering the comprehensive application of eight disparate combinations of individual creation selection mutation and crossover operations
+Through the simulation experiments the impact of execution of these feasible composite models on the derived two-dimensional Pareto-optimal frontier the criteria satisfaction ratio and the average spread of individual solutions is extensively investigated
+Furthermore these diverse genetic operations for retrieving the optimal solution to the proposed problem formulation are compared in terms of the estimated precision and time complexity metrics
+Finally the efficacy of our optimization model is significantly compared with the previous works in terms of achievable throughput .

@@ -1,0 +1,8 @@
+a mod unconscy search algorithm for dat clust
+clust is a wid us dat min techn with a divers set of apply
+sint clust is an np-hard problem find high-quality solv for large-scal clust problem can be an ardu and comput expend task
+theref many metah ar util to solv thes problem efficy
+in thi pap a mod unconscy search us and it k-means hybrid for dat clust ar propos with two main mod 1 gen init pop by combin solv of k-means and random solv 2 replac the us loc search step of the origin us by an ex heur search method
+mod us is test on the sev follow well-known benchmark from the uc machin learn direct ir win glass cant vowel cmc and ecol
+the result ar then comp against metah such as genet algorithm partic swarm optim pso black hol algorithm hybrid of pso k-means and accel chaot pso
+the result of expery show that on av the qual of best solv obtain by the propos method on al sev dataset is 0.176% bet than the qual of the oth six algorithm apply for expery .

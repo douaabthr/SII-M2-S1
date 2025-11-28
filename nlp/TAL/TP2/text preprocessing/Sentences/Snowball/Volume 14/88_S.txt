@@ -1,0 +1,7 @@
+enhanc cartesian genet program through preferenti select of larger solut
+we demonstr how the effici of cartesian genet program method can be enhanc through the preferenti select of phenotyp larger solut among equal good solut
+the advantag is demonstr in two qualit differ problem the eight-bit pariti problem and the paig regress problem
+in both case the preferenti select of larger solut provid an advantag in term of the perform and of speed i. e
+number of evalu requir to evolv optim or high-qual solut
+perform can be further enhanc by self-adapt the mutat rate through the one-fifth success rule
+final we demonstr that for problem like the paig regress in which neutral play a smaller role perform can be further improv by preferenti select larger solut also among candid with similar fit .

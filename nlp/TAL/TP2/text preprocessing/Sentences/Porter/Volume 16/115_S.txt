@@ -1,0 +1,11 @@
+build detect algorithm in multi-scal remot sens imag base on attent mechan
+the seismic fortif intens requir of build of variou height are differ
+identifi the height of differ build use a specif method can reduc secondari disast such as build damag and hous collaps caus by destruct earthquak
+the tradit build object detect model use the featur express of the dataset base on manual sketch the shape of the build in the remot sens imag which will caus less acquir imag inform unclear target featur of build and the decreas of target detect accuraci of identifi build type
+the real-tim target detect algorithm yolo ha fast detect speed and high accuraci but it main disadvantag is the inaccur posit of the build bound box and the misjudg of partial overlap build object
+imag featur retriev use larg data set domain adapt fast algorithm is a new research hotspot in current imag recognit
+thi research propos a multi-branch network with the addit of a modul use attent mechan to coordin the salient and sub-sali inform of imag
+the algorithm add channel and spatial attent mechan to the featur extract network and use weight and filter method to perform residu fusion on the origin featur vector in imag
+the model is deploy on the remot sens geograph inform evalu platform to conduct variou build target detect experi
+the averag detect accuraci of the urban build can reach 81.8% and the detect speed for remot sens segment imag is 26 per second
+the map@0.5 of the yolov5 algorithm with the attent mechan is 12% higher than that of the unimprov yolov5 algorithm on the urban street view imag dataset .

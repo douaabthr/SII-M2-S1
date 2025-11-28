@@ -1,0 +1,13 @@
+self a stacked-bas ensembl learn framework for breast cant class
+nowaday breast cant is the most prev and jeopard diseas in wom aft lung cant
+dur the past few decad a subst amount of cant cas hav been report throughout the world
+breast cant has been a wid acknowledg categ of cant diseas in wom due to the lack of aw
+accord to the world cant survey report 2020 about 2.3 mil cas and 685,000 death hav been report worldwid
+as the patient-doctor ratio pdr is very high consequ ther is an utmost nee for a machine-based intellig breast cant diagnos system that can detect cant at it ear stag and cur it mor efficy
+the plan is to assembl sci in both the rest and the machin learn field to progress toward thi clin apply
+thi pap pres self a stacked-bas ensembl learn framework to class breast cant at an ear stag from the histopatholog im of tum cel with computer-aided diagnos tool
+in thi work we us the breakh dataset with 7909 histopatholog im and wisconsin breast cant databas wbcd with 569 inst for the perform evalu of our propos framework
+we hav train sev distinct class on both dataset and select the best fiv class on the bas of their acc meas to cre our ensembl model
+we us the stack ensembl techn and consid the extr tre random forest adaboost grady boost and knn9 class as the bas learn and the log regress model as a fin estim
+we hav evalu the perform of self on the breakh dataset and wbcd dataset and achiev test acc of approxim 95% and 99% respect
+the result of the oth perform paramet on the breakh and the wbcd dataset also show that our propos framework outperform with f1-score roc and mcc scor .

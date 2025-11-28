@@ -1,0 +1,6 @@
+limaçon inspir artifici bee coloni algorithm for numer optim
+the artifici bee coloni algorithm abca has establish itself as a signatur algorithm in the area of swarm intellig base algorithm
+the hybrid of the local search techniqu enhanc the exploit capabl in the search process of the global optim strategi
+in this articl an effect local search techniqu that is design by take inspir by limaçon curv is incorpor in abca and the design strategi is name limaçon inspir abc labc algorithm
+the exploit capabl of the labc strategi is test over 18 complex benchmark optim problem
+the test result are compar with similar state-of-art algorithm and statist analysi show the labc can be consid an effect variant of the abc algorithm to solv the complex optim problem .

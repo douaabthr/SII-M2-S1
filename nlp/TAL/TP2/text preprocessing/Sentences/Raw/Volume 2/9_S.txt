@@ -1,0 +1,10 @@
+A study on diversity for cluster geometry optimization
+Diversity is a key issue to consider when designing evolutionary approaches for difficult optimization problems
+In this paper we address the development of an effective hybrid algorithm for cluster geometry optimization
+The proposed approach combines a steady-state evolutionary algorithm and a straightforward local method that uses derivative information to guide search into the nearest local optimum
+The optimization method incorporates a mechanism to ensure that the diversity of the population does not drop below a pre-specified threshold
+Three alternative distance measures to estimate the dissimilarity between solutions are evaluated
+Results show that diversity is crucial to increase the effectiveness of the hybrid evolutionary algorithm as it enables it to discover all putative global optima for Morse clusters up to 80 atoms
+A comprehensive analysis is presented to gain insight about the most important strengths and weaknesses of the proposed approach
+The study shows why distance measures that consider structural information for estimating the dissimilarity between solutions are more suited to this problem than those that take into account fitness values
+A detailed explanation for this differentiation is provided .

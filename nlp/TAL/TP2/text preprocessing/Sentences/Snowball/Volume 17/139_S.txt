@@ -1,0 +1,11 @@
+on the comput of delaunay triangul via genet algorithm
+in this work we introduc a new approach for comput delaunay triangul
+delaunay triangul have numer applic in geoloc communic and other ict system or practic applic
+have avail various type of approach for comput such structur is rather desir from an implement and comput point of view
+we adopt genet algorithm for comput delaunay triangul and present the design and evalu of our novel approach
+we consid a set of point in the plane as vertic and connect them with edg creat the point graph
+we have develop in c an applic framework base on genet algorithm calleddelaunay_genet which produc the delaunay triangul structur of a given set of point in the plane . delaunay_geneticconsid a novel graph-bas chromosom represent of desir solut creat an initi popul of individu chromosom an initi generat and produc from the origin popul generat new generat of individu in each repetit of the genet process of reproduct
+each new generat emerg more robust than the previous one
+our evalu have reveal that the delaunay triangul yield bydelaunay_genet achiev an accuraci of 98 100% of the optim delaunay triangul while maintain good converg speed
+despit it limit in comput time and space the propos novel approach exhibit sever complementari benefit to comput geometri base approach such as allow the insert of new point in the triangul dynam lead to seamless adapt to new condit parallel of the comput process and toler to nois regard the coordin of the point
+therefor this work provid a use altern approach for comput delaunay triangul .

@@ -1,0 +1,13 @@
+self a stacked-bas ensembl learn framework for breast cancer classif
+nowaday breast cancer is the most preval and jeopard diseas in women after lung cancer
+dure the past few decad a substanti amount of cancer case have been report throughout the world
+breast cancer has been a wide acknowledg categori of cancer diseas in women due to the lack of awar
+accord to the world cancer survey report 2020 about 2.3 million case and 685,000 death have been report worldwid
+as the patient-doctor ratio pdr is veri high consequ there is an utmost need for a machine-bas intellig breast cancer diagnosi system that can detect cancer at it earli stage and cure it more effici
+the plan is to assembl scientist in both the restor and the machin learn field to progress toward this clinic applic
+this paper present self a stacked-bas ensembl learn framework to classifi breast cancer at an earli stage from the histopatholog imag of tumor cell with computer-aid diagnosi tool
+in this work we use the breakhi dataset with 7909 histopatholog imag and wisconsin breast cancer databas wbcd with 569 instanc for the perform evalu of our propos framework
+we have train sever distinct classifi on both dataset and select the best five classifi on the basi of their accuraci measur to creat our ensembl model
+we use the stack ensembl techniqu and consid the extra tree random forest adaboost gradient boost and knn9 classifi as the base learner and the logist regress model as a final estim
+we have evalu the perform of self on the breakhi dataset and wbcd dataset and achiev test accuraci of approxim 95% and 99% respect
+the result of the other perform paramet on the breakhi and the wbcd dataset also show that our propos framework outperform with f1-score roc and mcc score .

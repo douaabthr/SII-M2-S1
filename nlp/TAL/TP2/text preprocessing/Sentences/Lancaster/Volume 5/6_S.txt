@@ -1,0 +1,5 @@
+spec issu on adv in learn class system
+learn class system lcs constitut a un adapt class of learn framework ex at the intersect of machin learn and evolv comput
+funda an lcs combin genet search with an appropry learn strategy to evolv a rul set which collect describ a temp or spat problem
+sint their conceiv a vary of algorithm architect and mech hav been introduc with the object of improv funct or apply to new problem domain
+as technolog adv the pow and versatil of lcs algorithm mak them increas ap .

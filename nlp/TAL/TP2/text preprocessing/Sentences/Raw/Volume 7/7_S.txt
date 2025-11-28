@@ -1,0 +1,8 @@
+Beyond black-box optimization a review of selective pressures for evolutionary robotics
+Evolutionary robotics ER is often viewed as the application of a family of black-box optimization algorithms evolutionary algorithms to the design of robots or parts of robots
+When considering ER as black-box optimization the selective pressure is mainly driven by a user-defined black-box fitness function and a domain-independent selection procedure
+However most ER experiments face similar challenges in similar setups the selective pressure and in particular the fitness function is not a pure user-defined black box
+The present review shows that because ER experiments share common features selective pressures for ER are a subject of research on their own
+The literature has been split into two categories goal refiners aimed at changing the definition of a good solution and process helpers designed to help the search process
+Two sub-categories are further considered task-specific approaches which require knowledge on how to solve the task and task-agnostic ones which do not need it
+Besides highlighting the diversity of the approaches and their respective goals the present review shows that many task-agnostic process helpers have been proposed during the last years thus bringing us closer to the goal of a fully automated robot behavior design process .

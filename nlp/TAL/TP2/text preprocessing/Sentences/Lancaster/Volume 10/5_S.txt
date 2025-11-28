@@ -1,0 +1,7 @@
+survey on evolv comput method for cybersec of mobl ad hoc network
+in thi pap a comprehend survey of evolv comput ec method for cybersec of mobl ad hoc network manet is pres
+typ ec method ar nam bas on the nat process inspir them such as swarm intellig e.g. ant colony optim art bee colony and partic swarm optim evolv algorithm e.g. genet algorithm genet program gram evolv and diff evolv art immun system and evolv gam analys strategic interact among diff pop typ
+we introduc thes method with their typ apply and common us algorithm to improv cybersec within the scop of manet
+ongo and speedy topolog chang multi-hop commun non-hierarchical org and pow and comput limit ar among the intrins charact of manet caus cybersec vuln
+we describ bas defens mech in manet for vuln detect attack deter prev and recovery and risk mitig
+we class princip apply of ec as intrud detect trust man and cryptograph in cybersec system to count meas advers act .

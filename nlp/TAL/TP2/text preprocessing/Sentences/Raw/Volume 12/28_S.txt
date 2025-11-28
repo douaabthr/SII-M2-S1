@@ -1,0 +1,8 @@
+Research on cloud computing in the resource sharing system of university library services
+As a combination of technology and application cloud technology brings new opportunities for library data storage
+Cloud computing in the resource sharing system of library service area has first proposed the cloud library platform to achieve resource sharing among digital libraries
+First this paper needs to build cloud library platform architecture and then we introduce the cloud computing related technology such as Hadoop
+Finally the system is applied it to this map
+The building of the library constitutes a local library cloud platform uses Web technology to achieve the scheduling of local libraries and then implements the most common resource retrieval service in the library on the cloud platform framework and finally discusses issues that need attention in the follow-up development of the platform
+Finally a multi-agent sharing model for educational information resources under the cloud-computing environment has established to serve the construction of library information resources better
+In addition this article innovatively puts forward the function of library construction of employment information services for college students which is better to serve college students .

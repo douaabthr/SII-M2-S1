@@ -1,0 +1,9 @@
+Achieving improved performance in construction projects advanced time and cost optimization framework
+The management of construction projects has long emphasized the delicate balance between time and cost as these factors play a critical role in achieving optimal project outcomes
+To address this challenge stochastic optimization algorithms have emerged as valuable tools
+One such algorithm moth-flame optimization MFO leverages its capacity to navigate complex and unknown search spaces
+When combined with the tournament selection TS method which is designed to maintain diversity and control the convergence rate by providing equal opportunities for all individuals to be selected it demonstrates remarkable potential and competitiveness in solving challenging problems with constraints
+This research introduces an enhanced version of the MFO model called TMFO as an innovative approach to address time cost trade-off TCTO problems in construction project management
+To assess its performance three benchmark test problems are employed including two case studies involving 7 activities and one case study with 18 activities
+The results reveal that TMFO outperforms other optimization algorithms when applied to TCTOs in small-scale projects
+These findings underscore the effectiveness and relevance of the TMFO algorithm within the domain of construction project management .

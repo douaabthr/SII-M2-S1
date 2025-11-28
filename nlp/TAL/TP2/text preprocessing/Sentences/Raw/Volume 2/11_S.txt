@@ -1,0 +1,12 @@
+Special issue on simulated evolution and learning
+The field of natural computation is one of the fastest growing areas in computer science and engineering
+Although its origins can be traced back to the cybernetics movement of the 1950s it has undergone a renaissance since the mid-1980 s primarily due to the fundamental work by pioneers for example John Holland Ken De Jong David Goldberg John Koza Lawrence Fogel in the genetic and evolutionary algorithms domain . Problem solving techniques based on simulated evolution and learning encapsulate a wide variety of natural computation implementations
+These algorithms implemented as computer simulations typically include a two-step iterative process the generation of random variation followed by selection
+As the model is iterated good optimal solutions emerge
+Evolutionary algorithms typically do not make assumptions about the underlying search space
+As such they provide a means for tackling hard practical problems ones involving large complex search spaces
+Over the past decades evolutionary optimization and learning algorithms have been applied successfully to a wide variety of real-world problems . This Special Issue brings together recent contributions in the evolutionary optimisation and learning domains spanning a diverse range of topics
+The four papers included in this Special Issue were among the invited submissions from SEAL08 the 7th International Conference on Simulated Evolution and Learning
+Each of the submitted papers was substantially revised and extended based on the original conference version
+The extended papers were then rigorously reviewed in two rounds by at least three anonymous reviewers
+The high quality contributions introduced below clearly reflect the strong interest in simulated evolution and learning as a practical problem solving vehicle .

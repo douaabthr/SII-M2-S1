@@ -1,0 +1,12 @@
+A novel method to solve visual tracking problem hybrid algorithm of grasshopper optimization algorithm and differential evolution
+To provide effective resolutions for complex real-life problems and other optimization problems abundant various procedures have been presented in the last few decades
+This paper proposes a simple but efficient hybrid evolutionary algorithm called GOA-DE for solving visual tracking problems
+In the proposed hybrid algorithm Grasshopper Optimization Algorithm GOA operates in refining the vector
+In contrast the Differential Evolution DE algorithm is used for transforming the decision vectors based on genetic operators
+The improvement in maintaining the balance between exploration and exploitation abilities is made by incorporating genetic operators namely mutation and crossover in GOA
+The success of GOA-DE is estimated by 23 classical benchmark functions CEC05 functions and CEC 2014 functions
+The GOA-DE algorithm results prove that it is very viable associated with the metaheuristic up-to-date procedures
+Similarly visual tracking problems are resolved by the GOA-DE algorithm as a real challenging case study
+Visual tracking several objects robustly in a video stream with complex backgrounds and objects are beneficial in subsequent generation computer vision structures
+But in exercise it is problematic to plan an effective video-based visual tracking scheme owing to the fast-moving objects probable occlusions and diverse light circumstances
+Investigational outcomes indicate that the GOA-DE-based tracker can energetically track a random target in many thought-provoking cases .

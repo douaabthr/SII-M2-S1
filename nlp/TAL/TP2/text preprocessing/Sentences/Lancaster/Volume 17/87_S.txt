@@ -1,0 +1,9 @@
+genet algorithm the genet op solv and apply
+a genet algorithm ga is an evolv algorithm inspir by the nat select and biolog process of reproduc of the fittest individ
+ga is on of the most popul optim algorithm that is cur employ in a wid rang of real apply
+init the ga fil the pop with random candid solv and develop the optim solv from on gen to the next
+the ga apply a set of genet op dur the search process select crossov and mut
+thi artic aim to review and summ the rec contribut to the ga research field
+in addit the definit of the ga ess conceiv ar review
+furtherm the artic survey the real-life apply and rol of ga
+fin fut direct ar provid to develop the field .

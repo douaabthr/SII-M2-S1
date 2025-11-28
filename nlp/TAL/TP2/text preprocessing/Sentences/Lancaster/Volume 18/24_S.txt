@@ -1,0 +1,14 @@
+multi-strategy enh art rabbit optim algorithm for solv engin optim problem
+to address the limit of the art rabbit optim aro algorithm in handl complex and large-scal optim problem thi pap propos an enh multi-strategy algorithm maro
+the propos algorithm integr sev strategies includ elit opposition-based learn levy flight random walk and adapt weight fact to sign improv the search cap and converg acc of aro
+first the algorithm apply the elit opposition-based learn strategy in each it to gen opposit solv which enrich pop divers and enh glob search capac effect prev the algorithm from becom trap in loc optim
+second it incorp levy flight and random walk strategies to increas search random dur the expl phas thu improv the prob of find the glob optim
+fin the adapt weight fact is introduc dur the exploit phas to dynam adjust the search direct bas on diff stag achiev a bal between glob expl and loc exploit
+expery result demonst that maro consist outperform aro and oth popul algorithm across multipl intern benchmark test suit
+on the cec2005 test funct maro show sign improv ov cma and lshade on 9 funct
+for the cec2017 suit maro achiev the best av rank on near three-quarters of the test funct with an av rank of 1.38 sign outperform cma 3.48 and lshade 3.52
+on the cec2019 suit maro rank first in 70% of the test funct
+stat sign test includ the friedm and wilcoxon test confirm that maro s p-values ar less than 0.05 when comp with benchmark algorithm valid the algorithm s effect
+moreov maro also exhibit outstand optim perform in real-world engin problem such as press vessel design and reservoir scheduling optim
+the main contribut of thi pap lie in the introduc of an innov multi-strategy optim framework which enh both expl and exploit cap
+thi framework effect address the shortcom of ex aro algorithm in handl complex problem provid a mor competit solv for pract optim task .

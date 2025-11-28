@@ -1,0 +1,5 @@
+simult vers incr learn of multipl skil by modul robot
+thi pap is concern with the problem of learn multipl skil by modul robot
+the main quest we address is wheth it is bet to learn multipl skil simult all-at-once or incr one-by-on
+we conduc an expery study with modul robot of vary morpholog that nee to acquir three diff but correl skil efficy locomot navig toward a target point and obstac avoid us a real-time on-board evolv as the learn method
+the result ind that the one-by-on strategy is mor efficy and mor stabl than the all-at-once strategy .

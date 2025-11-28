@@ -1,0 +1,8 @@
+sale switch decis to the onlin platform of liquefi petroleum gas enterpris with asymmetr inform
+with the develop of the internet technolog mani energi compani sell product via onlin platform e.g. irv oil gift card are sold at amazon
+liquefi petroleum gas lpg as an import kind of energi is wide use in mani area where the natur gas can not reach especi in the develop countri
+although the sale of the lpg need the order inform from the custom and the order can be sent through the onlin platform the onlin platform s cost inform is unknown to the lpg
+in this paper we consid the switch problem of lpg sale to the onlin platform and establish the lpg enterpr s optim switch model with asymmetr inform
+then we deriv the optim solut through the analysi of the incent constraint and the particip constraint to the onlin platform
+moreov the comparison with the optim solut with symmetr inform is also address
+final a numer exampl is given to illustr the effect of the propos model and the switch strategi .

@@ -1,0 +1,10 @@
+metah anophel search algorithm
+today vary optim problem hav been solv us diff optim techn such as linear program nonlinear program and dynam program
+thes method main try to find optim solv in the proxim of start point
+due to increas in complex of optim problem and numb of optim point efficy of thes method in find glob optim has decreas
+the ment challeng enco research to introduc novel method inspir by nat phenomen
+in thi study anophel metah search algorithm which is inspir by transmit of malar diseas by anophel mosquito is propos
+our propos method might be util in engin optim problem with continu design vary
+the algorithm expl search spac us random search in ord to elimin unnecess inform
+the efficy of anophel optim algorithm is evalu us fam optim problem
+also the perform of the propos method is comp with oth optim method .

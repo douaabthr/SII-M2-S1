@@ -1,0 +1,6 @@
+a novel art elect field strategy for econom load dispatch problem with renew penet
+thi artic pres an innov method to address the econom load dispatch eld problem in pow system incorp renew energy sourc within therm unit
+employ the 2 m point estim techn for determin renew energy output pow the propos approach effect address challeng assocy with renewable-based eld by util the art elect field method
+inspir by the electrost forc principl among charg partic thi approach guid partic toward optim solv within the search spac
+valid on pow system feat 3 5 6 15 and 40 unit demonst supery perform comp to est algorithm confirm by the wilcoxon signed-rank test
+the research contribut to the adv of sustain and efficy pow system .

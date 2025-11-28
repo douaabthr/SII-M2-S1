@@ -1,0 +1,15 @@
+pres a novel hybrid method for dynam economic/emission dispatch consid renew energy unit and energy stor system
+the integr of renew energy sourc ress and energy stor es system into pow grid has introduc sign challeng particul in term of econom and environ dispatch
+the intermit nat of ress and uncertainty rel to their output mak it difficult for tradit dynam economic/emission dispatch dee method to ens optim pow gen
+the prim goal of dee problem is to efficy man the produc of elect energy whil satisfy vary op and system constraint such as ramp rat rr limit and the valv point effect vpe
+thi optim is achiev by minim both the overal fuel cost and emit of pow gen unit
+to address thes challeng thi pap propos a novel hybrid optim approach that incorp demand respons program drp alongsid es and res to enh system flex
+by lev drp consum particip in shift or reduc their demand is consid lead to a mor bal and cost-effective dispatch strategy
+the propos optim framework employ a hybrid method that combin partic swarm optim pso and mod shuffl frog leap algorithm msfla to effect solv the dee problem
+addit a fuzzy-based approach is util to achiev a trade-off between econom and environ object ens an optim bal between fuel cost reduc and emit minim
+the effect of the propos methodolog is valid on a test system with 10 gen unit ov a 24 h period
+the num result ind that comp to conv techn such as grasshop optim go pso shuffl frog leap algorithm sfla and oth method report in the lit the propos strategy achiev sign improv trade-off solv
+the incorp of drp furth enh the adapt of the system by reduc peak demand and improv cost efficy mak it a pract and effect solv for real-world pow system op
+spec the integr of drp led to a 5% decreas in fuel cost and a 4% declin in emit comp to cas without drp highlight it rol in improv both econom efficy and environ sustain within the dee framework
+the result demonst that hpso-msfla is a high effect optim techn for the dee problem in modern pow grid with high level of renew energy sourc and drp
+when comp to tradit method lik pso and sfla hpso-msfla consist del bet perform .

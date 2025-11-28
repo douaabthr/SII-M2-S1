@@ -1,0 +1,6 @@
+dimension reduct of hyperspectr imag use signal entropi and spatial inform in genet algorithm with discret wavelet transform
+band select is be perform in hyperspectr imageri as a dimension reduct measur to enhanc the effici of process and analysi of the data
+in this paper a genet algorithm base method is propos that use weight combin of signal entropi and imag spatial inform in the object function
+the spatial dimens that also includ huge redund has been reduc use discret wavelet transform to make the method more time effici without compromis the qualiti of the output
+the perform of the method is evalu by classifi the hyperspectr imag with select band and measur the accuraci of the classifi output
+the propos method is also compar with other state of the art method and found to be more effici in select inform rich band in the hyperspectr data .

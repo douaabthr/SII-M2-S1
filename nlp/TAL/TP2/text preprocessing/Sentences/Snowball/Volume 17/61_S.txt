@@ -1,0 +1,9 @@
+reduc task execut time in heterogen distribut system use improv coa algorithm
+task schedul in heterogen distribut system is an np-complet problem which use exact algorithm it is not possibl to achiev the optim solut at the right time to solv it
+in such case meta-heurist algorithm can be effect
+on the other hand in the matter of schedul creat a balanc between maxim parallel and minim communic cost is one of the main goal
+in this paper an improv coa algorithm has been use to schedul task in heterogen distribut system and to increas parallel and reduc communic cost
+the improv coa algorithm consid a larger number of egg for the sampl that has the highest fit after the cuckoo lay stage and the sampl are identifi
+three standard graph fft gaussian and molecular were use to evalu the propos model
+experiment result indic that slr speedup and perform have improv with map in these three standard graph
+the result total show 5.91% improv compar the moscoa 4.4% compar ega-t and also 3.86% compar e-coa so they show that improv the abov criteria lead to reduc the total execut time and improv the perform of the coa algorithm .

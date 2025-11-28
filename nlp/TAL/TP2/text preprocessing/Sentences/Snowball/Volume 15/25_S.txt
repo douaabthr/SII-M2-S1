@@ -1,0 +1,7 @@
+a quantum class topper optim algorithm to solv combin emiss econom dispatch problem
+a combin emiss and econom dispatch problem is refer as a complex multi-object problem relat to power system
+in this articl an hybrid version of class topper optim known as quantum class topper optim is propos to solv this problem
+in quantum class topper optim quantum mechan is use to enhanc the search abil of the propos algorithm
+the explor exploit and converg behavior of quantum class topper optim is valid use benchmark function
+later four test case on combin emiss and econom dispatch are use to test the effect of quantum class topper optim
+these four test prove that the propos optim algorithm is effect to solv this real time optim problem .

@@ -1,0 +1,9 @@
+estim of spread sequenc in lc-ds-cdma signal base on spars auto-encod
+a method base on a spars auto-encod sae network for the estim of spread sequenc in long-cod direct-sequ code-divis multipl access lc-ds-cdma signal is propos
+first a network classif model base on sae and softmax classifi is establish
+next the effect of the propos method is verifi by estim walsh sequenc and m sequenc
+to estim the spread sequenc the lc-ds-cdma signal is divid into fragment
+then each user s spread sequenc is separ by the fast independ compon analysi fast-ica algorithm and the amplitud fuzzi is elimin by the delay-and-multipli method
+final the spread sequenc are estim by the sae model
+experiment result show that the propos algorithm could effect estim the spread sequenc of lc-ds-cdma signal
+compar to the exist match algorithm and fast-ica algorithm the estim time requir by the propos algorithm wa shorter and it estim perform at low signal-to-nois ratio wa superior .

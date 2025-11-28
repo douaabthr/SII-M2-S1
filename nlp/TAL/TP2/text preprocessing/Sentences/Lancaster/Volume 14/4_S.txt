@@ -1,0 +1,12 @@
+fuzzy clust algorithm bas on mod whal optim algorithm for automobl ins fraud detect
+fuzzy c-means fcm clust method is us for perform the task of clust
+thi method is the most wid us among vary clust techn
+howev it get easy stuck in the loc optim
+whal optim algorithm woa is a stochast glob optim algorithm which is us to find out glob optim of a provid dataset
+the woa is furth mod to achiev bet glob optim
+in thi pap a fuzzy clust method has been propos by us the strengths of both mod whal optim algorithm mwo and fcm
+the effect of the propos clust techn is evalu by consid som of the well-known ex met
+the propos hybrid clust method bas on mwo is employ as an und sampl method to optim the clust centroid in the propos automobl ins fraud detect system aifd
+in the aifd first the maj sampl dat set is trim by remov the out us propos fuzzy clust method and then the mod dataset is undergon with som adv class such as catboost xgboost random forest lightgbm and decid tre
+the class ar evalu by meas the perform paramet such as sensit spec and acc
+the propos aifd consist of fuzzy clust bas on mwo and catboost perform bet than oth comp method .

@@ -1,0 +1,9 @@
+tool combin model bas on task sequ us an optim ory genet algorithm
+as an apply field of serv sci cloud manufact cm has been wid study in vert and horizont serv
+at pres cm s vert serv research is limit to the techn research of spec process and manufact and giv less consid to the background of horizont integr serv
+the research on horizont serv judg the effect of the combin on accord to qual of serv qos attribut
+in the act process process the combin s effect depend not on on qos but also on the geograph aspect company and oth attribut
+bas on thi we propos a tool combin model bas on the task sequ tcmbts
+the tcmbts est the assocy ontolog model of tool resourc and task and propos a map method to provid vert serv for cm
+then propos optim ory genet algorithm opog to solv the combin optim and recommend problem of tcmbts and provid horizont serv for cm
+fin an expery is perform to ver opog with valid and efficy .

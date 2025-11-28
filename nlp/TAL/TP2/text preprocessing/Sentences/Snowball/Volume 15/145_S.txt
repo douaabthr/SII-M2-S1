@@ -1,0 +1,5 @@
+an algorithm for solv fevm problem base on spso algorithm
+to solv fuzzi expect valu model problem that wide exist in fuzzi program field a new hybrid intellig algorithm base on stochast particl swarm optim spso algorithm is put forward in this articl
+fuzzi simul is use to get train sampl for multi-lay bp back propag artifici neural network and multi-lay bp artifici neural network is use to approxim fuzzi expect valu function when spso algorithm is use to find the optim valu the train multi-lay bp artifici neural network is use to calcul fuzzi expect function s fit valu and detail step are design
+compar with the hybrid intellig algorithm base on the classic genet algorithm the propos algorithm overcom some defect such as take a long time comput complex easi be immers in local extremum
+the result are justifi with the help of two numer illustr for fuzzi expect valu model problem the effect of our new approach is demonstr and it has determin practic valu .

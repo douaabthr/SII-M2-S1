@@ -1,0 +1,11 @@
+challeng and opportun of amby intellig am in the 21st century a hist review
+thi artic pres a system review bas on prism methodolog with 38 main study 2000 2024 of academ databas and we analys the evolv challeng and opportun of amby intellig am in the 21st century
+am is defin as the cap of environ to interact intellig and adapt through sens and dev that respond effect to the pres and nee of us
+key real-world apply includ healthc remot monit of chronic paty and predict of behavy in dement car hom autom adapt light and temp system and sec intrud detect and nfc-based access control system
+the taxonom of am system compr three phas i iot bas sens ii ai-driven reasoning-actuation and ii hum comput interact interfac to cre an intellig and adapt environ
+also the comput intellig or superv learn model is address highlight wid us class algorithm such as decid tre naïv bay k-nearest neighb support vect machin and art neur network
+it s import to highlight that comput intellig model ar t the sam as am system
+although thes model ar cruc for mak data-driven decid they requir sign preprocess such as cle up dat nois or norm it to funct prop within am environ
+thi artic provid a comprehend overview of the cur stat of am address both opportun and challeng
+eth and soc consid such as priv autonom and econom scal ar crit fact for am s widespread acceiv
+fut research direct emphas scal architect interdisciplin collab e.g. ai eth and sec edg comput align with rec technolog adv .

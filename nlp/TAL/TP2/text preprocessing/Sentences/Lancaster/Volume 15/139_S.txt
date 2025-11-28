@@ -1,0 +1,5 @@
+a new l1-lrc bas model for orang origin id with near infr spectr dat
+in ord to est an acc and efficy model for geograph origin id of orang a new model bas on l1-norm linear regress class l1-lrc is propos
+the propos l1-lrc for orang origin id is bas on minim reconstruct er us the l1-norm regul learn method which can combin the feat select and class learn and can rev the structure charact of spect inform effect
+the expery result show that the propos l1-lrc model can achiev high acc rat of 92.35% and perform much bet than ex model when us on a few train sampl
+thu thi work would lead to a new method for fast and efficy id of geograph origin with near infr nir spectroscop .

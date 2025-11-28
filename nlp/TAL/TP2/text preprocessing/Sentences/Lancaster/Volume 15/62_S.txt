@@ -1,0 +1,10 @@
+robust and lossless dat priv preserv optim key bas dat sanit
+privacy-preserving dat min ppdm is the most sign approach on dat sec in which mor research work is und progress
+thi pap intend to propos a new ppdm model that includ two phas dat sanit and rest
+init assocy rul get extract for process the ment phas
+the first and foremost tact on the propos priv preserv model is the gen of the optim key that is us to produc the sanit dat from the origin dat
+the sam key tak complet respons for process the dat rest process by the receiv
+as the key extract play a maj rol thi pap intend to propos a new hybrid algorithm tri bas upd on whal and partic swarm algorithm tu-wpa for select the optim key
+the propos method is the combin of partic swarm optim and whal optim algorithm
+mor import the research issu such as hid fail rat inform preserv rat fals rul gen and degr of mod ar minim through the propos sanit and rest process
+fin the perform of the propos tu-wpa model is ver ov oth conv model .

@@ -1,0 +1,8 @@
+comparison of optim approach on linear quadrat regul design for trajectori track of a quadrotor
+linear quadrat regul lqr is one of the most preval method use in the control of unman aerial vehicl
+lqr control are commonli employ in the control of both linear and non-linear system due to their advantag such as easy-to-appli and high-perform structur
+howev there is one main difficulti that play a signific role in the manner of determin the gain for the control signal choos appropri weight matric
+the select of these matric that directli affect the control perform is gener perform by trial and error which is labori and time-consum
+accordingli variou optim algorithm have been util to determin the weight matric of the lqr control
+in thi paper the weight matric of the design lqr control were obtain use standard genet algorithm differenti evolut particl swarm optim and grey wolf optim algorithm
+the obtain weight matric of the lqr control were test on an unman aerial vehicl simul and the perform of optim algorithm were present compar .

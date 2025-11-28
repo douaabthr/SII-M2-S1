@@ -1,0 +1,7 @@
+multi-stag fuzzi evalu in evolutionari robot vision for face detect
+this paper propos a method of evolutionari robot vision base on a local genet algorithm base on cluster lgac and multi-stag fuzzi evalu
+in order to improv the communic capabl of human-friend partner robot the human face should be extract as correct as possibl
+first we discuss the concept of evolutionari robot vision in dynam environ
+next we propos grow neural gas for preprocess as a bottom up process and local genet algorithm base on cluster for templat match in human face detect as a top down process
+in order to improv the perform of the human face detect we use multi-stag fuzzi evalu for evalu the degre of human face
+final we show sever experiment result and discuss the effect of the propos method .

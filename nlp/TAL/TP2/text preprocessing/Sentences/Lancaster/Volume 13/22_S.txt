@@ -1,0 +1,8 @@
+min traff congest prop pattern bas on spatio-temporal co-location pattern
+traff congest is a direct reflect of the imb between supply and demand for a certain period of tim
+ow to the complex of traff road and the prop of congest the evacu of traff congest for loc road sect alon cannot achiev sign result
+bas on the meas dat of traff flow thi pap combin the topolog of the road network and the ex tim of congest to judg the spatio-temporal correl of congest between road sect
+we propos a spatio-temporal co-location congest pattern min method to discov the ord set of road with congest prop in urb traff and meas it influ in congest ev
+the propos method not on rev the process of congest prop but also uncov the main prop path lead to the large-scal congest
+fin we expery with the algorithm on the traff dataset in guiyang city
+the expery result rev the traff congest rul in guiyang city includ the prev co-occurrence of congest prop pattern and their influ in congest ev .

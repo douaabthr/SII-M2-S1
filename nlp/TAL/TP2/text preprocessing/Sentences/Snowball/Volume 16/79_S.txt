@@ -1,0 +1,8 @@
+tree optim algorithm toa a novel metaheurist approach for solv mathemat test function and engin problem
+this studi present a new metaheurist optim algorithm name tree optim algorithm toa for solv mathemat benchmark function and engin problem
+this algorithm which is inspir from the growth of tree start from a random initi popul and improv their perform accord to the growth pattern of tree
+inde the purpos of this new optim method is to find the highest leaf of a tree by util the posit of the best leaf and also replac yellow dri leav by new random fresh green one
+these strategi prevent the algorithm from the prematur converg and get stuck in local minima
+this modern optim method is evalu by solv sever mathemat test function and a real world constrain design problem
+the obtain result are compar with those of some promin evolutionari algorithm introduc in the literatur
+the numer and simul result verifi the superior of the toa in term of the solut accuraci and the converg speed .

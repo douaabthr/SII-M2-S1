@@ -1,0 +1,9 @@
+quasi-dynamic opposit learn enh runge-kutta optim for solv complex optim problem
+the runge-kutta optim rung algorithm is a rec propos metaphor-free metah optim borrow pract mathem found of the fam runge-kutta diff equ solv
+despit it rel new emerg thi algorithm has sev apply in vary branch of sci field
+howev ther is stil much room for improv as it suff from prem converg result from inefficy search spac expl
+to overcom thi algorithm drawback thi research study propos a brand-new quasi-dynamic opposition-based learn qdop mech to be impl in a standard runge-kutta optim to elimin the loc minim point ov the search spac
+enh the asymmet search hyperspac by tak adv of vary posit of the cur solv within the domain is the crit novel to enrich gen divers in the pop sign improv the algorithm s overal expl cap
+to valid the effect of the propos runge-qdopp method thirty-four multidimend optim benchmark problem compr of unimod and multimod test funct with vary dimend hav been solv and the correspond result ar comp against the predict obtain from the oth opposition-based learn vary as wel as som state-of-art lit optim
+furtherm six constrain engin design problem with diff funct charact hav been solv and the respect result ar benchmark against thos obtain for the well-known optim
+comparison of the solv outcom with lit optim for constrain and unconstrain test problem rev that the propos qdop has sign adv ov it counterpart regard solv acc and efficy .

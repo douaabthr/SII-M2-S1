@@ -1,0 +1,5 @@
+neuroevolv reinforc learn for gen control of sim helicopt
+thi artic pres an extend cas study in the apply of neuroevolv to gen sim helicopt hov an import challeng problem for reinforc learn
+whil neuroevolv is wel suit to cop with the domain s complex transit dynam and high-dimensional stat and act spac the nee to expl efficy and learn on-line pos unus challeng
+we propos and evalu sev method for three increas challeng vary of the task includ the method that won first plac in the 2008 reinforc learn competit
+the result demonst that 1 neuroevolv can be effect for complex on-line reinforc learn task such as gen helicopt hov 2 neuroevolv excel at find effect helicopt hov policy but not at learn helicopt model 3 due to the difficul of learn rely model model-based approach to helicopt hov ar feas on when domain expert is avail to aid the design of a suit model repres and 4 rec adv in efficy resampl can en neuroevolv to tackl mor aggress gen reinforc learn task .

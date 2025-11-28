@@ -1,0 +1,12 @@
+analysi on dual algorithm for optim cluster head select in wireless sensor network
+cluster is the approach which is util for aggreg the node as a group call cluster which is use for reduc the rout overhead
+thi is a fundament approach to extend the life expect of wireless sensor network
+howev the main challeng in wsn is the cluster head select while take the energi stabil into account
+optim within the wsn is the outstand concern to provid intellect for the extens period of network lifetim
+sinc cluster is a topolog control method to decreas the process of sn it extens improv overal system scalabl and energi effici
+moreov the appropri select of ch play crucial role for attain sustain wsn
+thi paper propos the firefli contribut with firefli cyclic random fcr for the select of cluster head in wsn
+the randomli creat solut in thi algorithm is found base on three distribut function like uniform normal and gamma distribut
+moreov the analysi is made on the second algorithm firefli cyclic grey wolf optim fcgwo by modifi r 1 and r 2 random vector of grey wolf optim
+in realiti the fcr and fgcgwo algorithm are plan on select the optim cluster head by concentr mainli on minim of delay minim of the distanc between node and stabil of energi
+the analysi is perform and explain in term of aliv node network lifetim and energi effici under the three distribut .

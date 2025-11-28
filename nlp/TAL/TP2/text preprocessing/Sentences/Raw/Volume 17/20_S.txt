@@ -1,0 +1,6 @@
+Quality control strategies of the supply chain based on stochastic differential game
+This paper focuses on the stochastic disturbance on quality control strategies with a two-echelon supply chain
+A state equation is described to the change of product quality and the stochastic differential game models with quality disturbance are designed according to different cooperation modes between the manufacturer and the retailer
+The paper aims to investigate the relationship between the quality disturbance with quality control strategies of the supply chain members
+After the construction and analysis of the evolutionary process of the product quality to stochastic differential model the optimal equilibrium solutions and subsidy ratio is solved by using the dynamic programming method
+The result shows The product quality is inversely proportional to the quality investment cost and the depreciation rate and is proportional to the marginal revenue of the quality The cooperative game model has the better performance in improving the input of the supply chain members to product quality .

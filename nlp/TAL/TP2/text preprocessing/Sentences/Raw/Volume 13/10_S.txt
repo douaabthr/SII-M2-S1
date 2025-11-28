@@ -1,0 +1,7 @@
+Energy consumption laxity-based quorum selection for distributed object-based systems
+In object based systems an object is an unit of computation resource
+Distributed applications are composed of multiple objects
+Objects in an application are replicated to multiple servers in order to increase reliability availability and performance
+On the other hand the large amount of electric energy is consumed in a system compared with non-replication systems since multiple replicas of each object are manipulated on multiple servers
+In this paper the energy consumption laxity-based quorum selection ECLBQS algorithm is proposed to construct a quorum for each method issued by a transaction so that the total electric energy consumption of servers to perform methods can be reduced in the quorum based locking protocol
+The total electric energy consumption of servers the average execution time of each transaction and the number of aborted transactions are shown to be more reduced in the ECLBQS algorithm than the random algorithm in evaluation .

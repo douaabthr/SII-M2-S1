@@ -1,0 +1,8 @@
+sub-classif of invas and non-invas cancer from magnif independ histopatholog imag use hybrid neural network
+histopatholog play a crucial role in help clinician to manag patient s health effect
+to improv diagnost accuraci from histopatholog thi studi evalu the potenti of the pre-train deep-learning-bas model on a larg dataset for discrimin among sub-class of breast cancer
+a hybrid model is propos by combin the pre-train model xception and vgg16 along with convent machin learn classifi to achiev highest accuraci in the classif of breast cancer without consid the magnif factor of the histopatholog imag
+real-tim data augment is also appli to the dataset in order to reduc the problem of overfit
+the perform of develop hybrid model is compar for achiev the highest classif accuraci with an optimum run time
+it ha been found that vgg16 acquir an accuraci precis recal f-score area under the receiv oper characterist auc averag precis score of 78.67% 0.76 0.75 0.75 0.86 0.60 with a run time of 39.72 min when use in conjunct with logist regress which is further enhanc by the xception model to 82.45% 0.83 0.82 0.82 0.90 0.70 with a run time of 36.57 min
+the most optimum perform of the xception model suggest that it can be util as an autom system for the earli diagnosi of breast cancer .

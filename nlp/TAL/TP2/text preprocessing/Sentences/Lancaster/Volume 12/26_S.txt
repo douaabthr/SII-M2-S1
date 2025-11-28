@@ -1,0 +1,6 @@
+remov of rain video bas on temp intens and chromatic constraint of raindrop
+an improv algorithm of fram tim diff is propos and apply to raindrop remov of video im . thi pap analys the temp intens waveform and chromatic constraint property of raindrop and the method is optim by thes two property
+we mak us of the diff between rain and non-rain mov object in the pixel intens chang which real a broad class between the rain and non-rain mov object pixel
+the candid raindrop pixel ar optim in combin with the chromatic constraint property
+the expery result show that the propos algorithm has a bet effect of rainy day in video im rest than garg s and it is simpl and effect
+the algorithm has a strong appl and it can be furth us for many apply such as air pollut control man outdo surveil remot sens and intellig vehic .

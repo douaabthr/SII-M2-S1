@@ -1,0 +1,15 @@
+New localization approach based on the development of a personalized dynamic model for a car-like vehicle Robucar
+Future autonomous driving and next-generation vehicle control require further advances in vehicle dynamic state estimation
+This paper describes a new localization approach based on the development of a personalized dynamic model for an autonomous car-like vehicle called Robucar
+The proposed approach is used within a framework for the development of a Robucar Simulator Platform
+This approach is firstly used offline due to the computation time constraint employing recorded odometric data to study and validate some developed applications related to the navigation function such as obstacle avoidance target tracking etc
+However this approach can be used online to obtain a good localization in real time by using a powerful embedded system or simplifying some aspects not easily influenced in the proposed dynamic model
+Localization issues have been discussed while analyzing some methods used in mobile robotics and describing the background and choices made in this paper
+Using an appropriate tire-road contact model dynamic equations of the forces and torques acting on the Robucar have been determined
+The proposed dynamic model discussed in this paper has 18 Degrees of Freedom DoF considering fine technical characteristics related to the electrical motion the geometry of the bi-steering system and the tire-road contact type
+Secondly the developed dynamic model has been exploited to provide the Robucar s position in outdoor environments using odometric measurements adjusting several internal parameters
+Simulations are carried out to evaluate the behavior of the developed dynamic model
+Furthermore an experimental test has been realized outdoors for a distance of 513 m to validate our new localization approach
+The obtained experimental results are interesting and promising showing clearly the effectiveness of the new approach adopted for localization in offline mode
+The accuracy provided by the proposed dynamic model compared to the kinematic model is highlighted
+Moreover the developed dynamic model can be used in several fields other than localization such as motion planning control and Robucar stability study .

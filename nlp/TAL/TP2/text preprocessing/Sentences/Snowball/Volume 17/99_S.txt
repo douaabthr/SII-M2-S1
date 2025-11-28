@@ -1,0 +1,12 @@
+strengthen teach learning-bas optim algorithm for numer optim task
+the teach learning-bas optim algorithm tlbo is an effici optim
+howev it has sever shortcom such as prematur converg and stagnat at local optima
+in this paper the strengthen teach learning-bas optim algorithm stlbo is propos to enhanc the basic tlbo s explor and exploit properti by introduc three strengthen mechan the linear increas teach factor the elit system compos of new teacher and class leader and the cauchi mutat
+subsequ seven variant of stlbo are design base on the combin deploy of the three improv mechan
+perform of the novel stlbos is evalu by implement them on thirteen numer optim task includ the seven unimod task f1 f7 and six multimod task f8 f13
+the result show that stlbo7 is at the top of the list signific better than the origin tlbo
+moreov the remain six variant of stlbo also outperform tlbo
+final a set of comparison are implement between stlbo7 and other advanc optim techniqu such as hs pso mfo ga and hho
+the numer result and converg curv prove that stlbo7 clear outperform other competitor has stronger local optim avoid faster converg speed and higher solut accuraci
+all the abov manifest that stlbos has improv the search perform of tlbo
+data avail statement all data generat or analyz dure this studi are includ in this publish articl and it supplementari inform file .

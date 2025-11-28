@@ -1,0 +1,10 @@
+covid-19 pneumon level detect us deep learn algorithm and transf learn
+the first covid-19 confirm cas was report in wuh chin and spread across the glob with an unprec impact on hum
+sint thi pandem requir pervas diagnos develop smart fast and efficy detect techn is sign
+to thi end we hav develop an art intellig engin to class the lung inflam level mild progress sev stag of the covid-19 confirm paty
+in particul the develop model consist of two phas in the first phas we calc the volum and dens of les and opac of the ct scan im of the confirm covid-19 paty us morpholog approach
+the second phas class the pneumon level of the confirm covid-19 paty
+we us a mod convolv neur network cnn and k-nearest neighb we also comp the result of both model to the oth class algorithm to prec class lung inflam
+the expery show that the cnn model can provid test acc up to 95.65% comp with exit class techn
+the propos system in thi work can be apply efficy to ct scan and x-ray im dataset
+also in thi work the transf learn techn has been us to train the pre-trained mod cnn model on a smal dataset than the origin dataset the mod cnn achiev 92.80% of test acc for detect pneumon on chest x-ray im for the rel extend dataset .

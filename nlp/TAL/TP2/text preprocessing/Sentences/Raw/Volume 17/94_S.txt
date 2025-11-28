@@ -1,0 +1,9 @@
+Optimization of active power dispatch considering unified power flow controller application of evolutionary algorithms in a fuzzy framework
+This paper presents an optimal active power dispatch OAPD problem that unlike common economic dispatch problems precludes unwanted mismatches on realistic power systems
+The OAPD is formulated by considering the unified power flow controller UPFC a versatile device from the flexible AC transmission systems
+However the resultant turns into a highly nonlinear and complex optimization problem which requires a powerful evolutionary algorithm to determine the optimal solutions
+Toward this end this paper explores the use of comprehensive learning particle swarm optimization and differential evolution as ahybrid configurationin a fuzzy framework called hybrid fuzzy-based improved comprehensive learning particle swarm optimization-differential evolution to address the proposed problem
+To demonstrate the performance of the proposed algorithm a set of benchmark problems including real-world constrained optimization problems as well as a profound analysis of Schwefel problem 2.26 are provided
+Moreover to authenticate its effectiveness in solving power and energy-related problems with quite a few decision variables four different power systems 3 unit 6 unit IEEE 30 bus 10 unit and 40 unit systems are implemented
+The IEEE 30 bus system is opted for profoundly analyzing the performance of the proposed algorithm in handling the optimal power dispatch problem considering security constraints and UPFC device where an enhancement at least 74,000 saving in a 365 day horizon in total generation cost is obtained
+Simulation results also validate that evolutionary algorithms need to beimproved/hybridizedto achieve betterequilibriumbetweenexploration and exploitationprocesses in a timely manner while solving power and energy-related problems .

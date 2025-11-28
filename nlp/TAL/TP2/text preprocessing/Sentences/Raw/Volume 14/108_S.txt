@@ -1,0 +1,8 @@
+Novel operators for quantum evolutionary algorithm in solving timetabling problem
+Timetabling is a well-known combinatorial optimization problem which belongs to the class of NP hard problems
+Quantum Evolutionary Algorithms QEA are highly suitable for the class of combinatorial optimization problems but since proposed they have not been used in solving this problem
+In this paper we develop new operators for QEA to improve its performance in solving timetabling problem
+The first operator we develop is a reinitialization operator which checks the population and when it is converged reinitializes it to maintain the diversity
+The other operator is called the Diversity Preserving operator which monitors the q-individuals and if it finds more than one q-individuals searching around the same local optimum reinitializes some of them to make sure different q-individuals are exploiting different regions in the search space
+In this paper we also study the population size and the population structure of QEA in solving timetabling problem
+In order to test the proposed algorithm we perform experiments and compare the proposed algorithm to the existing algorithms on some well-known benchmark functions .

@@ -1,0 +1,15 @@
+sea lion with enhanc explor phase for optim of polynomi fit with sem in lean technolog
+with the establish of lean manufactur myriad industri implement the lean manufactur principl and guidelin
+to train the profession base on certain polici to achiev continu improv in term of product and minim wastag
+howev the complex such as variabl sustain multi-dimension view factori size to name just a few neg influenc the perform of deploy lean manufactur in industri
+it is therefor veri import for compani to recogn and understand the critic success factor for success implement lean manufactur
+henc thi paper plan to develop a model on concern the analysi of lean manufactur to find the most import factor regard the technolog among the industri
+with thi intent thi paper is analyz through three phase
+in the first phase the prepar questionnair is distribut to the profession in variou compani
+in the questionnair all the mandatori question are includ
+then the profession are recommend to fill the precis inform as far as possibl
+in the second phase the respons from the concern practition associ with the industri are consid for analysi
+herein the analysi is carri out base on structur equat model approach with the contribut of higher order statist analysi which is perform use the input factor such as the lean awar lean technolog organiz support organiz perform employe involv and manag commit among the industri via attain better maximum likelihood valu of the questionnair
+in the third phase the predict of polynomi fit of the respons i. e
+the object function is achiev with the aid a novel optim algorithm slno-e model sea lion with enhanc explor phase which is the extend version of slno sea lion optim
+final the propos slno-e model is evalu over tradit slno model in term of certain perform evalu to exhibit the improv in predict accuraci .

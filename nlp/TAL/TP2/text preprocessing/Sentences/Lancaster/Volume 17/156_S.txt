@@ -1,0 +1,7 @@
+optim convolv neur network us elit firef algorithm for remot sens class
+thi artic expl the apply of a new optim convolv neur network cnn to seg remot sens
+the pap design a mod vert of the firef algorithm to provid an optim structure of the cnn
+the method is then apply to seg the remote-sensing im
+the auth comp the propos method with sev oth architect on two multispect remot sens dataset evalu model perform and acc
+the find demonst that the project cnn method provid the most efficy outcom and can be a viabl opt for remot sens analys and class due to their rel eas of train and high acc rat
+furtherm the auth discuss the pot for furth request of cnns in remot sens stat analys .

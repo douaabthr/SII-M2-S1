@@ -1,0 +1,9 @@
+Gas outburst prediction model using rough set and support vector machine
+This paper is concerned with the problem of gas outburst prediction in coal mine working face
+To predict the gas outburst accurately this paper uses the rough set theory RS and support vector machine SVM to establish the prediction model
+Firstly based on the analysis of influencing factors of gas outburst 10 factors including coal thickness variations geological structures and gas change are selected as the influencing factors
+By using the attribute reduction algorithm to eliminate redundant information the gas outburst influencing factors as input to the prediction model are reduced from 10 to 6 in decision table
+Secondly by applying the particle swarm optimization PSO algorithm to optimize penalty parameter and kernel function of SVM and improve the generalization performance of model the nonlinear relationship between main influencing factors and intensity of gas outburst is established
+Finally 60 sets of data of Jiulishan Coal Mine in Henan are used as training and testing samples to verify the proposed prediction model and the discriminant results is compared with that of RBF model and SVM model
+The results show that the prediction accuracy of the proposed model is 93% which is improved compared with the other two models
+The RS-PSOSVM model can reduce data redundancy avoid the model to fall into the local extremum and can predict the risk level of gas outburst effectively .

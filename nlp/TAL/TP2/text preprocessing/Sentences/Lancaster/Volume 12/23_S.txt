@@ -1,0 +1,9 @@
+research on period disturb suppress method in print pap fold mech bas on disturb observ algorithm
+the qual of the fin print in electronic-shaft paper-folding machinessery influ by the mech period disturb
+thi pap tak the period shock-disturbance and sinusoid disturb in the electronic-shaft paper-folding machinea as the research object
+disturb observ is design bas on propot integr diffr pid control algorithm
+first thi pap est a model of the system with mtalab system id tool in the process of est the control system
+second the pap invers thi est model
+in ord to approxim the mod and guar the stabl of the invers model zero-phase error-tracking control zpetc has been design to remov the inst zero-point of the origin model
+fin the pap construct the disturb observ of the est revers model bas on pid control algorithm
+the sim on expery platform show that the resist of paper-folding machin to the extern disturb has been improv impress and the propos pid algorithm disturb observ has been prov can be us in period disturb suppress in the electronic-shaft paper-folding machin .

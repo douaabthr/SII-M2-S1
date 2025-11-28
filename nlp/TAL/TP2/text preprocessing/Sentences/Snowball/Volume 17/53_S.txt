@@ -1,0 +1,11 @@
+solv multi-object truss structur optim problem consid natur frequenc of vibrat and automat member group
+minim the mass of a structur and maxim it first natur frequenc of vibrat are conflict object of real interest in structur design
+to avoid problem with reson which can lead to their collaps structur can be design by make the first natur frequenc of vibrat high
+furthermor it is crucial to stay away from excit frequenc
+here we formul and solv multi-object structur optim problem of truss with these conflict object
+this type of problem is uncommon in the literatur sinc the natur frequenc of vibrat are general set as constraint rather than as object function
+the general differenti evolut 3 gde3 the nondomin sort genet algorithm ii nsga-ii decis space-bas nich dn-nsga-ii the competit mechanism-bas multi-object particl swarm optim cmopso and the mopso with multipl search strategi mmopso are the algorithm use in this paper
+addit cardin constraint are use to manag the difficulti of discov the best member group which is veri effect in address the problem analyz in this paper
+the experi refer to the 10 25 72 and 200 bar truss
+each involv two analys take into account the perform indic and the use of a multi tournament decis mtd method to extract the desir solut
+furthermor the design variabl of each extract solut includ it optim topolog are provid .

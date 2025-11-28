@@ -1,0 +1,9 @@
+A recurrent ANFIS tuned by modified differential evolution for efficient prediction of software reliability
+Software failure prediction is a crucial task in software quality assurance
+Although time series forecasting techniques and conventional software reliability models are used for the prediction of software reliability very often these models fail to provide accurate predictions
+Therefore an accurate model for software reliability prediction is imperative
+The objective of this paper is to introduce a hybrid model that merges a recurrent adaptive neuro-fuzzy inference system RANFIS and modified differential evolution MDE for software reliability prediction
+The model employs inner spatial feedback loops and delayed output feedback to improve the conventional neuro-fuzzy system s prediction abilities while dealing with time series software failure data
+The hybrid model is trained by MDE where a new scheme of crossover and mutation has been proposed
+We conduct an extensive simulation on a few publicly available benchmark datasets for computing the predicting ability of our hybrid model
+Simulation results along with statistical analysis illustrate that our hybrid model predicts more precisely the time between successive failures in software and outperforms other traditional models .

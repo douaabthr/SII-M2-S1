@@ -1,0 +1,9 @@
+evolv dict bas senty scor framework for paty auth text
+in rec day the govern and oth org ar focus on provid bet heal car to peopl
+understand the paty expery of care-received is key for provid bet heal car
+with prevail us of soc med apply paty ar express their expery ov soc med
+thi paty auth text is a free-unstructured dat which is avail ov soc med in larg chunk
+to extract the senty from thi hug dat a domain-specific dict is requir to get bet acc
+the propos approach defin a new domain-specific dict and us thi in senty scor to enh the overal senty class on paty auth text
+we conduc expery on the propos approach us nhs cho dataset and comp it with popul class lik linear regress stochast grady desc dictionary-based approach vad and afin
+the result prov that the propos approach is an effect strategy for senty analys ov paty auth text which help in improv the class acc .

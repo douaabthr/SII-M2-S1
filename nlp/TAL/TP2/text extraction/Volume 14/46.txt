@@ -1,0 +1,3 @@
+Correction to: Visual topic models for healthcare data clustering
+
+The algorithms in section 5 were missing in the online published article. Now, section 5 text is given below.

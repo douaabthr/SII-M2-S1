@@ -1,0 +1,10 @@
+incr docu clust us fuzzy-based optim strategy
+the techn adv in the inform system contribut toward the mass avail of the docu stor in the electron databas such as e-mails internet and web pag
+thu it becom a complex task for arrang and brows the requir docu
+thi pap propos an incr docu clust method for perform effect docu clust
+the propos model undergo three step for docu clust nam pre-processing feat extract and incr docu categ
+the pre-processing step is carry out for remov the artifact and redund dat from the docu by undergo stop word remov process and stem process
+then the next step is the feat extract bas on term frequency-inverse docu frequ tf idf and wordnet feat
+her the feat is select us support meas nam modsupport and then the incr docu clust is perform bas on the hybrid fuzzy bound degr and rider-moth flam optim algorithm rmfo us the bound degr
+her the rmfo aim at the select of the optim weight for the bound degr model and is design by integr rid optim algorithm roa with moth flam optim mfo
+the perform of the propos rmfo outperform the ex techn us acc f-measure precid and recal with maxim valu 93.98% 94.876% 93.958% and 93.964% respect .

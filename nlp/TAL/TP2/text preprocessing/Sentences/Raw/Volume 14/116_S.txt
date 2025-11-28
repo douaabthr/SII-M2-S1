@@ -1,0 +1,6 @@
+Numerical solution of Bagley Torvik equations using Legendre artificial neural network method
+In this article we have used the Legendre artificial neural network to find the solution of the Bagley Torvik equation which is a fractional-order ordinary differential equation
+Caputo fractional derivative has been considered throughout the presented work to handle the fractional order differential equation
+The training of optimal weights of the network has been carried out using a simulated annealing optimization technique
+Here we have presented three examples to exhibit the precision and relevance of the proposed technique with comparison to the other numerical methods with error analysis
+The proposed technique is an easy highly efficient and robust technique for finding the approximate solution of fractional-order ordinary differential equations .

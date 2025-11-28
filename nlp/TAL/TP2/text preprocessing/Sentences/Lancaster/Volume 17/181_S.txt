@@ -1,0 +1,15 @@
+a hybrid optim algorithm for energy-aware multi-objective task scheduling in heterog multiprocess system
+in ord to success address the multiprocess work scheduling issu a novel hybrid approach is pres in thi pap
+execut a group of task on a smal numb of process is the main goal of a task scheduling method
+the job scheduling issu is view as a multi-objective optim issu in thi study
+the goal of thi optim challeng ar to determin the system s least energy consum and minim makesp the sum of the schedule length for each task s execut
+in ord to low the process energy us the dynam volt frequ scal dvfs level has the task scheduling issu en
+to determin the goal a hybrid algorithm cal hybrid grey wolf crow search optim hgwcso is suggest
+the grey wolf optim gwo and crow search optim cso algorithm ar combin to cre the hgwcso algorithm
+the soc structure and hunt strategy of wolv serv as the inspir for the gwo metah algorithm
+the cso on the oth hand is a metah algorithm that was mot by crow clev conduc
+the propos hybrid approach is put into pract us task that ar produc at random and the result of thi comparison ar class method
+the propos method s sim result ar contrast with thos from fiv ex wid us method
+the propos techn has also been contrast with som new cre metah algorithm us vary real-world dat set
+accord to the sim result hgwcso outperform oth algorithm in term of low makesp and energy us
+the propos algorithm has success improv the makesp and energy consum with a maxim of 31.07% and 58.36% respect comp to oth algorithm .

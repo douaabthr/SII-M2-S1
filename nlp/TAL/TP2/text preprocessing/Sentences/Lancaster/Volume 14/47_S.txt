@@ -1,0 +1,9 @@
+architect for distribut query process us the rdf dat in cloud environ
+from past decad the adv in the field of rdf dat man pos many challeng to research
+process larg volum of rdf dat is very difficult task in the cloud
+the rdf dat act contain complex graph along with larg numb of schemas
+distribut the rdf dat with tradit approach or partit them with conv mech lead to faul distribut as wel as gen larg numb of join op
+to address the abov issu thi pap develop architect for distribut query process us the adapt hash partit approach along with hash join op
+thi pap also develop an algorithm for execut the query by minim the join
+thi pap pres an evalu of the propos model with oth standard model
+the expery result prov that the propos method had fast respons tim comp to the oth standard model .

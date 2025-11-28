@@ -1,0 +1,8 @@
+many-objective optim of wireless sens network deploy
+rec the efficy deploy of wireless sens network wsns has becom a lead field of research in wsn design optim
+pract scenario rel to wsn deploy ar oft consid as optim model with multipl conflict object that ar simult enh
+in the rel lit it had been shown that mov from mono-objective to multi-objective resolv of wsn deploy is benef
+howev sint the deploy of real-world wsns encompass mor than three object a multi-objective optim may harm oth deploy criter that ar conflict with the already consid on
+thu our aim is to go furth expl the model and the resolv of wsn deploy in a many-objective i.e. optim with mor than three object fash and espec exhibit it ad valu
+in thi context we first propos a many-objective deploy model involv sev conflict object and then we solv it us an adapt of the decomposition-based evolv algorithm thet dea
+the develop adapt is nam wsn thet dea and is valid through a detail expery study .

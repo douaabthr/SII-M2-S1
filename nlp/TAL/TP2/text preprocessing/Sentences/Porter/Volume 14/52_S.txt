@@ -1,0 +1,8 @@
+analysi of net asset valu predict use low complex neural network with variou expans techniqu
+net asset valu nav is a crucial measur that reveal the financi condit of a mutual fund and it predict becom import in decis make especi for fund manag
+for thi purpos sever work have been done use flann for nav predict
+howev when it come to flann model the choic of variou paramet and expans function ha huge impact on the perform of the predict must be consid
+thi studi focus on the object of find the optim paramet for each model built with one type of function expans and compar them to find the most suitabl for nav predict
+comparison made on the learn rate the slide widow s size the number of expans reveal that these paramet must be found by heurist test for each expans
+the analysi on the number of day ahead of predict show that legendr expans is more appropri for short term predict wherea power seri expans give good result for both short and long-term predict
+in case of converg power seri follow by chebyshev expans converg faster than the other model .

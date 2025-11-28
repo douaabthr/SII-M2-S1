@@ -1,0 +1,13 @@
+function approxim with lwpr and xcsf a compar studi
+function approxim also call regress is an import tool in numer mathemat and engin
+the most challeng approxim problem aris when the function class is unknown and the surfac ha to be approxim onlin from incom sampl
+one way to achiev good approxim of complex non-linear function is to cluster the input space into small patch appli linear model in each nich and recombin these model via a weight sum
+while it is rather simpl to optim fit a linear model to given data it is fairli complex to find a reason structur of the input space in order to exploit linear in the underli function
+we compar two non-parametr regress algorithm that are abl to approxim multi-dimension non-linear function onlin
+the xcsf learn classifi system is a modifi version of xc which is agenetics-bas machin learn algorithm
+local weight project regress is astatistics-bas machin learn techniqu that is mainli use for function approxim task in robot
+for both algorithm the relev conflict perform criteria areaccuracyandpopul size that is the number of local model
+we explor the trade-off between those criteria on three benchmark problem by mean of intens grid search for pareto optim solut
+detail learn behavior is investig use select pareto optim paramet
+the illustr of final input space cluster shed light on the structur capabl
+a discuss of advantag and drawback complet thi compar studi .

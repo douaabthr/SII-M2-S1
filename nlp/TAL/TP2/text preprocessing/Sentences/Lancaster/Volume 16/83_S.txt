@@ -1,0 +1,7 @@
+a new hybrid optim techn bas on antl and grasshop optim algorithm
+thi pap propos a new hybrid algorithm that merg the main feat of two well-known metah algorithm grasshop optim algorithm goa and antl optim alo algorithm
+alo is strong in exploit due to the mech of antl in hunt oth insect
+on the oth hand the soc forc in goa repres the strong cap of expl al ov the search spac
+so thes feat giv the chant to combin alo and goa in on hybrid algorithm that sign enh the perform of both method
+the propos hybrid algorithm is test on 32 well-known benchmark test funct 13 funct of the challeng cec2015 funct and two real problem in antenn array synthes wher the el excit amplitud and phas ar optim to minim the maxim sidelob level and impos nul at spec angl
+comparison show that the propos algorithm outperform 18 well-known optim method includ alo and goa in the maj of thes test with hug diff in som of them which prov the stabl robust and efficy of the propos method ov oth robust algorithm .

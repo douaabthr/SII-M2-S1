@@ -1,0 +1,15 @@
+A novel arithmetic optimization algorithm based on chaotic maps for global optimization
+Chaotic maps are effective in developing evolutionary algorithms EAs to avoid local optima and speed convergence
+Because of this capability of chaotic maps these maps have been hybridized with various optimization algorithms
+In this study a new optimization method based on the combination of chaotic maps and arithmetic optimization algorithm CAOA is proposed
+AOA represents the behavior of four basic arithmetic operators
+Therefore AOA performs the optimization process in a wide search space with its mathematical model
+Therefore AOA has an effective convergence capability
+In addition ten different chaotic maps are applied on the AOA
+In this study 7 scenarios were created with chaotic maps taking into account different phases of AOA
+The proposed CAOA is tested on eighteen benchmark problems
+CAOA produces successful and promising results in solving optimization problems compared to original AOA algorithm
+The proposed CAOA is also compared with the original AOA
+The superior aspects of CAOA over AOA are discussed
+CAOA convergence performance is also discussed
+The statistical significance of the proposed hybrid algorithm is tested with the Wilcoxon sign-rank method .

@@ -1,0 +1,7 @@
+adapt wideband sens scheme bas on bayes expery design
+in thi pap we investig the problem of wideband sens for cognit radio
+due to resourc constraint a cognit nod target at find a giv numb of spectr hol which is study und a novel wideband sens architect
+spec the cognit nod can dynam foc it sens meas on diff port of contigu channel
+an adapt wideband sens scheme is propos und the standard bayes expery design framework via three step 1 defin a bayes cost that incorp the numb of desir spectr hol 2 design hypothes test rul to detect access opportun and 3 ident a scheme to adapt the meas dur the sens process
+in ord to facilit impl we furth propos an approxim bayes expery design scheme to reduc the comput complex
+the perform gain of our wideband sens scheme is demonst via num sim .

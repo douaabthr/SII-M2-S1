@@ -1,0 +1,11 @@
+Using machine learning and RNA to enhance the efficacy of anti-tumor immunotherapy
+RNA Ribonucleic Aci plays a crucial role in a variety of physiological and pathological processes
+Over the past few decades researchers have designed many types of RNAs and their derivatives and applied them to different fields of biology
+Studies have confirmed that RNA molecules play an important role in tumor growth metastasis metabolism and immune escape
+Based on the research of tumor-associated RNA and the application of related technologies RNA has been designed and applied in tumor immunotherapy
+Machine learning ML algorithms can be used to solve tumor type classification predictions with the large-scale data some with high prediction accuracy and others with limited accuracy
+For the early detection of tumors this paper proposes to use machine learning and RNA technology to establish a tumor type prediction model to enhance the effect of anti-tumor immunotherapy
+The model first preprocesses the data
+Then this paper uses an improved principal component analysis algorithm to perform feature dimensionality reduction and data fusion on the RNA expression and DNA methylation data of patients with 32 tumor types
+Finally the data is fed into a tumor type classifier based on the CNN-LSTM model for training and prediction
+The experimental results show that the method proposed in this paper has excellent performance in tumor classification and has important guiding significance for the early diagnosis and treatment of tumor patients which further indicates that the intelligent ML method can be used for data analysis in the field of tumor type prediction .

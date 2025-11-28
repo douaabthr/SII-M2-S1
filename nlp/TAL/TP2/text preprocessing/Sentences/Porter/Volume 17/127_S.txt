@@ -1,0 +1,7 @@
+the multi-criteria evalu of research effort base on etl softwar from busi intellig approach to big data and semant approach
+mani industri and academia have devot a lot of effort and money to creat and/or use good extract-transform-load etl softwar suitabl for their data analysi purpos sinc it is consid a key to their success
+as a result we find the valuabl intervent of research effort base on etl softwar are divid accord to well-known approach such as busi intellig big data and/or semant
+as a result problem aris in keep up with chang and handl the signific divers in featur across these approach
+which result in disorient in the find evalu and choic of an etl for industri and academia face their approach need
+these problem inspir us to provid a contribut that use the systematic-literature-review slr method to collect 207 paper from three databas name sciencedirect springer and ieee date from 2010 to 2022 group base on both etl approach and their commonli use criteria afterward use an exist method that automat identifi the adequ multicriteria method for thi studi which give us the analytical-hierarchy-process method to provid the best research paper accord to the requir of scientif literatur
+the result impli the great signific of thi studi in multipl way provid a global idea of research paper about etl approach allow custom to elimin uncertainti from select an etl accord to their specif approach need prefer and interest and also enabl futur research and develop of etl to decid when to focu and how to make innov contribut to fill gap in the literatur .

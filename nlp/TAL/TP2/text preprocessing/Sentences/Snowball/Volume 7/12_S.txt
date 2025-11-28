@@ -1,0 +1,6 @@
+neuroevolut evolv heterogen artifici neural network
+neuroevolut is the applic of evolutionari algorithm to the train of artifici neural network
+current the vast major of neuroevolutionari method creat homogen network of user defin transfer function
+this is despit neuroevolut be capabl of creat heterogen network where each neuron s transfer function is not chosen by the user but select or optimis dure evolut
+this paper demonstr how neuroevolut can be use to select or optimis each neuron s transfer function and empir show that do so signific aid train
+this result is import as the major of neuroevolutionari method are capabl of creat heterogen network use the method describ .

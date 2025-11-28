@@ -1,0 +1,12 @@
+solv the capacit facil locat problem with servic distanc and outsourc use a custom artifici bee coloni algorithm
+this articl consid a variant of the capacit facil locat problem where each custom has a non-neg demand and each facil has a non-neg capac limit and a servic distanc beyond which it cannot serv custom
+a fix number of facil are open from potenti locat
+the open facil can onli provid servic to the custom incur servic cost
+due to the capac limit and servic distanc of facil all the custom may not be servic by the open facil and these custom can be outsourc incur outsourc cost
+each custom has it own non-neg outsourc cost
+the goal is to minim the sum of servic and outsourc cost
+this problem is term the capacit facil locat problem with servic distanc and outsourc cflpsdo
+a 0-1 integ linear program formul for cflpsdo is present in this articl
+for experiment 45 instanc are generat from real-world maxim cover locat problem instanc
+these are solv use the exact solver cplex to creat benchmark solut
+then a custom artifici bee coloni abc algorithm-bas metaheurist with two oper for enhanc search space explor and exploit is employ and found to produc optim solut effici .

@@ -1,0 +1,10 @@
+autom face retriev use bag-of-featur and sigmoid grey wolf optim
+a content base imag retriev system is one of the prime research field due to the exponenti increas of multimedia data over internet especi imag
+although a number of content base imag retriev method have been introduc it is still a challeng task special for face recognit
+therefor this work present an autom face retriev system use an enhanc bag-of-featur framework
+the bag-of-featur framework has been modifi by incorpor a new sigmoid grey wolf optim algorithm
+the sigmoid grey wolf optim algorithm use a sigmoid decreas function to escap it from local optima
+the effici of the propos sigmoid grey wolf optim algorithm has been analyz over various standard benchmark function for averag fit valu and converg behavior
+furthermor it has success been use to generat the codeword in bag-of-featur framework
+the modifi bag-of-featur has been util in content base imag retriev for oracl research laboratori orl face databas
+the simul result repres that the propos method effect retriev the face as compar to other nature-inspir base method .

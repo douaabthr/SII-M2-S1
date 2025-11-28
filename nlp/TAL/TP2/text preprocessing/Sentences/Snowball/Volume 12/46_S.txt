@@ -1,0 +1,7 @@
+a direct method for solv calculus of variat problem use the whale optim algorithm
+a numer algorithm for solv problem of calculus of variat is propos and analyz in the present paper
+the method is base on direct minim the function in it discret form with finit dimens
+to solv the result optim problem the recent propos whale optim algorithm is use and adopt
+the method propos in this work is capabl of solv constrain and unconstrain problem with fix or free endpoint condit
+numer exampl are given to check the valid and accuraci of the propos method in practic
+the result show the superior accuraci and effici of the propos techniqu as compar to other numer method .

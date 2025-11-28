@@ -1,0 +1,12 @@
+fpa clust evalu of the flow pollin algorithm for dat clust
+in thi work a standalon approach bas on the flow pollin algorithm fpa is propos for solv dat clust problem
+the fpa is a nature-inspired algorithm sim the behavy of flow pollin
+the propos approach is us to extract key inform in term of optim clust cent that ar der from train sampl of the select databas
+thes extract clust cent ar then valid on test sampl
+three dataset from the uc machin learn dat reposit and an addit multi-spectral real-time satellit im ar chos to illust the effect and divers of the propos techn
+the fpa perform is comp with the k-means a popul clust algorithm and metah algorithm nam the genet algorithm partic swarm optim cuckoo search spid monkey optim grey wolf optim diff evolv harmony search and bat algorithm
+the result ar evalu bas on class er perc cep tim complex and stat sign
+fpa has the lowest cep for al four dataset and an av cep of 28% which is 5.5% low than next best algorithm in that sens
+the fpa is the second quickest algorithm to converg aft hs algorithm
+fpa also show a high level of stat sign
+theref the obtain result show that the fpa efficy clust the dat and perform bet than the state-of-the-art method .

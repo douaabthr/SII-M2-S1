@@ -1,0 +1,8 @@
+gold jack optim algorithm with a pop qual improv framework for real-world engin optim problem
+in thi study a pop qual improv pqi framework to enh the perform of the rec emerg nature-inspired metah algorithm nam gold jack optim gjo algorithm for solv real-world engin optim problem is propos
+first the maximin lhs strategy is employ to gen the init pop which can efficy enh the search spac in the ear stag
+then a non-linear pop reduc mech is apply to screen out the individ with unsatisfy solv and it can also reduc the comput complex
+meanwhil a novel circul mut strategy is introduc which can dynam adjust the algorithm to expl in a wild spac or to exploit deep thi method can not on accel the converg of the optim but also reduc the risk of trap in the loc optim
+moreov the propos framework show tremend pot in apply to oth population-based search algorithm due to that the algorithm ar improv whil remain the inh mathem structure and search strategy
+the expery result demonst that the propos framework can efficy improv the perform of gjo on solv real-world engin optim problem and the propos pqi gjo algorithm can sav 196.7001 h 0.3595 mw and 0.0552 p. u
+in comparison with the state-of-art algorithm jay in solv opf problem for ieee-57 bus system .

@@ -1,0 +1,6 @@
+A novel artificial electric field strategy for economic load dispatch problem with renewable penetration
+This article presents an innovative method to address the economic load dispatch ELD problem in power systems incorporating renewable energy sources within thermal units
+Employing the 2 m point estimation technique for determining renewable energy output power the proposed approach effectively addresses challenges associated with renewable-based ELD by utilizing the artificial electric field method
+Inspired by the electrostatic force principle among charged particles this approach guides particles toward optimal solutions within the search space
+Validation on power systems featuring 3 5 6 15 and 40 units demonstrates superior performance compared to established algorithms confirmed by the Wilcoxon signed-rank test
+The research contributes to the advancement of sustainable and efficient power systems .

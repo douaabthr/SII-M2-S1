@@ -1,0 +1,15 @@
+improv many object optim algorithm us object dimend reduc
+many-objective optim problem maop hav rec receiv a consid at from research
+due to the larg numb of object maop bring sery difficul to ex multi-objective evolv algorithm moea
+the maj difficul includ the poor scal the high comput cost and the difficul in vis
+a numb of many-objective evolv algorithm maoea has been propos to tackl maop but ex maoea hav stil fac with the difficul when the numb of object increas
+real-world maop oft hav redund object that ar not on iness to describ the pareto-optimal front but also detery maoea
+a common approach to the problem is to us object dimend reduc algorithm to elimin redund object
+by remov redund object object reduc algorithm can improv the search efficy reduc comput cost and support for decid mak
+the perform of an object dimend reduc strongly depend on nondomin solv gen by moeas/maoea
+the impact of object reduc algorithm on moea and vic vers hav been wid investig
+howev the impact of object reduc algorithm on maoea and vic vers hav been rar investig
+thi pap study the interdepend of object reduc algorithm on maoea
+expery result show that combin an object reduc algorithm with an moe can on success remov redund object when the tot numb of object is smal
+in contrast combin the object reduc algorithm with an maoe can success remov redund object ev when the tot numb of object is larg
+expery result also show that object reduc algorithm can sign improv the perform of maoea .

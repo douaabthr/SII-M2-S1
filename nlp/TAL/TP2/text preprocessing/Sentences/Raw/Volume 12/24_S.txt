@@ -1,0 +1,6 @@
+A polychromatic sets theory based algorithm for the input/output scheduling problem in AS/RSs
+This paper proposes a hybrid polychromatic sets theory based genetic algorithm GA for the input/output scheduling problem of automated storage and retrieval systems AS/RSs
+In order to overcome the drawbacks of precocious phenomena and lack of stability of the GA a novel hybrid model through integration of genetic algorithm GA and polychromatic sets theory PS is proposed
+During the solution process polychromatic sets contour matric is used to assign input/output goods location reasonably to improve the quality of initial population
+During the iterative process simulate anneal algorithm SA is invoked to jump out of the local optimum to obtain a satisfactory solution
+The experiment results showed that the hybrid PS-SA-GA genetic algorithm has obvious advantages in solving the input/output scheduling problems the introduction of contour matrix constraint module can effectively improve the quality of initial population the simulated annealing algorithm is invoked to reduce the possibility of premature convergence and the global optimal solution can be obtained efficiently .

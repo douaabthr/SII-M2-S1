@@ -1,0 +1,10 @@
+an up and low cus for sign norm in the dendrit cel algorithm
+sign norm is a part of sign form which is a vit dat pre-processing constraint requir for the funct of the dendrit cel algorithm
+in ex apply most norm algorithm ar develop purpos for a spec apply with draw on hum domain expert and very few algorithm ar design for gen problem
+thi mak it difficult for the inexpery us to exploit ex approach to anoth problem particul when the init inform about the problem is limit
+theref thi study propos a new sign norm method for the dendrit cel algorithm that us the stat up and low cum sum so that the algorithm can be apply to gen class problem
+in addit a new method to calc the anoma threshold bas on the av mature-contact antig valu is pres to suit the propos algorithm
+the propos model is evalu by apply it to eight univers class dataset and assess it perform accord to four meas met detect rat spec fals alarm rat and acc
+it perform is comp with that of the ex dendrit cel algorithm and four non-bio-inspired class nam rough set decid tre naïv bay and multilay perceptron
+the result show that the propos model outperform the ex model and the oth class as wel as demonst a sign improv in term of spec fals alarm rat and acc for al dataset
+thi ind that the propos norm approach can be apply to gen class problem and can improv detect perform .

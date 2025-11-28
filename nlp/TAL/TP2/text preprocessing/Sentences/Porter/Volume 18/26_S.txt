@@ -1,0 +1,13 @@
+a method for obstacle-rang estim base on echo-loc use high-end sound with applic
+effici map algorithm have been implement in differ field of robot applic
+some of those applic are in the map of environ with difficult access the plan of servic or emerg assist robot or as support tool in help peopl with disabl
+in those exampl the essenti task of a map algorithm is to detect obstacl which may interfer in motion path
+one of the most wide use characterist in pulse-echo rang estim is the time of flight
+howev the ultrason frequenc rang from 30 to 120 khz are poorli suitabl for the long distanc face in in-door applic
+in view of the import of develop effici map algorithm the present manuscript report on an effici method base on high-frequ wave in order to rang static object under a control environ
+in the present approach the signal acquisit is made out-of-band of the process algorithm
+thi process is carri out by use an activ speaker to throw the control ping sound
+the result audio is captur through a unidirect dynam microphon shure sv100
+the audio signal process is base on select filter via gabor model and wavelet decim de-nois
+the propos method is compar against two common methodolog for rang estim in robot base on ultrason and infrar sensor
+the current methodolog demonstr a competit and in some case better perform than the standard method .

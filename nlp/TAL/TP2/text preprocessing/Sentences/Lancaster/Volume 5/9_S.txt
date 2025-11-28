@@ -1,0 +1,9 @@
+analys biohel us challeng bool funct
+in thi work we pres an extend empir analys of the biohel genetics-based machin learn system us the k-disjunctive norm form k-dnf famy of bool funct
+thes funct pres a broad set of poss challeng for most machin learn techn such as diff degr of spec class imb and nich overlap
+moreov as the id solv ar known it is poss to assess if a learn system is abl to find them and how fast
+spec we study two aspect of biohel it sensit to the cov breakpoint paramet that determin the degr of gen press apply by the fit funct and the impact of the default rul policy
+the result show that biohel is high sensit to the cho of cov breakpoint and that us a default class suit for the problem allow the system to learn fast than us oth default class policy e. g
+the maj class policy
+moreov the expery ind that biohel s scal depend direct on bothk the spec of the k-dnf term and the numb of term in the problem
+in the last part of the pap we discuss altern policy to adjust the cov breakpoint paramet .

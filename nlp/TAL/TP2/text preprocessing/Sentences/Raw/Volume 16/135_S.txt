@@ -1,0 +1,11 @@
+Cloud-based solution approach for a large size logistics network planning
+During the last two decades due to environmental laws and the competitive environment the formulation of effective closed-loop supply chain networks has attracted researchers attention
+On the other hand although there are many metaheuristics applied for these NP-hard problems applying more efficient and effective algorithms with tailor-made local searches and solution representation is inevitable
+In this paper mixed-integer linear programming is assumed to deliver the final product to customers in the forward direction from suppliers through manufacturers and distribution centers DCs
+Simultaneously collecting recycled products from customers and entering them into the recovery or landfilling cycle is examined
+Mathematical modeling of this problem aims to minimize both the costs of opening facilities at potential locations as well as the optimal flow of materials across the network layers
+Due to the NP-hard nature of the problem a cloud-based simulated annealing algorithm CSA has been applied for the first time in this area
+Moreover a spanning tree-based method which occupies the least number of arrays regarding the other methods of the literature has been adopted
+To analyze the accuracy and the speed of the investigated algorithm we have compared its performance with the genetic algorithm GA and the simulated annealing SA algorithm which were applied in the literature
+The results regarding cost function show that the CSA algorithm provides more effective results than the other two ones
+Moreover regarding CPU time although the CSA shows better results than GA statistically it failed to show more efficient results than SA .

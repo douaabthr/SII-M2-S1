@@ -1,0 +1,12 @@
+reconstruct biolog gen reg network wher optim meet big dat
+the import of big dat in biolog is increas as vast quant of dat ar being produc from high-throughput expery
+techn such as dna microarray ar provid a genome-wid pict of gen express level allow us to investig the structure and interact of gen network in biolog system
+inf of gen reg network grn is an underdetermin problem suit to metah algorithm which can op on limit inform
+thu grn inf off a platform for investig into dat intend sci and larg scal optim problem
+her we examin the link between dat intend research and optim problem for the revers engin of grns
+brief we detail the benefit of the dat delug and the study of al for model grns as wel as their reconstruct
+we discuss how metah can solv big dat problem and the inf of grns off real world problem for both area of research
+we overview som cur reconstruct algorithm and investig som model and comput limit of the inf process and suggest som area for develop
+furtherm we ident link and synergy between optim and big dat e.g. dynam uncertain and larg scal optim problem and discuss the pot benefit of mult and many-objective optim
+we stress the import of dat integr techn in ord to maxim the dat avail particul for the cas of infer grns from microarray dat
+such multi-disciplinary research is vit as biolog is rapid becom a quantit dat intend sci .

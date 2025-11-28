@@ -1,0 +1,9 @@
+the effect of time-varying reward on the evolv of coop
+understand how coop behavy emerg within a pop of autonom individ has been the foc of a gre deal of research in biolog econom and mor rec in the multi-agent system domain
+howev ther ar stil many op quest
+in thi pap we address som of thes quest by investig the effect of time-varying non-symmetric reward on the evolv of coop in the spat prison s dilemm gam
+the rat behind thi approach is bas on the not that the assocy payoff from pursu certain strategies do vary among memb of real-world pop
+in our model ag with limit cognit capac play the gam with their loc neighbo
+in addit to it gam play strategy each ag has addit attribut that can be us to control the numb of round of the gam the ag act particip in as wel as the magnitud of any reward that it receiv
+num sim show that dynam upd to payoff valu induc a chang in equilibr coop level
+thi suggest that heterog payoff valu and soc divers within a cost-benefit context ar import fact in the promot of coop in the spat prison s dilemm gam .

@@ -1,0 +1,6 @@
+autom cloud servic base qualiti requir classif for softwar requir specif
+the scale of softwar is grow rapid for organ begin to deploy their busi on internet
+it is a need of avoid ambigu between engin and user and to avoid mistak in softwar requir
+and provid automat requir analysi techniqu for model and analyz requir formal and save manpow
+in this paper propos cloud servic method for autom detect of qualiti requir in softwar requir specif
+this paper also present novel approach for process of automat classif of softwar qualiti requir base on supervis machin learn techniqu appli for the classif of train document and predict target document softwar qualiti requir .

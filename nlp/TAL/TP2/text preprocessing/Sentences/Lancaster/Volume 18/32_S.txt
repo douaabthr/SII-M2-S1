@@ -1,0 +1,9 @@
+art intellig in the diagnos of should injury through magnet reson im a scop review
+the main object of thi review is to summ the evid about the art intellig model in the assess of should magnet reson im . thi scop review includ observ study focus on the us of art intellig to improv the diagnos of should injury in magnet reson im
+the study that mix joint or whos approach was theoret wer exclud
+regard the analys of each study the dat includ wer study typ pop profil sampl siz method of deep learn outcom vary acc meas and stat sign . 26 study with a tot of 9019 subject wer includ
+sev study focus on the acc of seg thirteen on the diagnos fiv on the im qual and on on the acquisit tim
+for thes purpos al study bet on convolv neur network with sev choos the 3d u-net model and sev opt for mor spec model such as 1 lipschitz neur network v-net vivgg19 or capsnet
+furtherm six study opt for the conjunct of model such as block-based alexnet googlenet inceiv v3 resnet or squeezenet with the 3d u-net model
+thes model obtain stat sign improv in im qual p 0.001 0.028 and acc of seg p 0.001 0.043
+howev despit obtain a slight optim of diagnost sensit thes diff wer not sign in al study p 0.001 0.99 . deep learn stand out as a prom tool in the man of im test in should patholog but mor research is requir to draw consist conclud .

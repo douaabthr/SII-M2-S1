@@ -1,0 +1,10 @@
+supervis machin learn approach to predict qualit softwar product
+softwar develop process sdp is a framework impos on softwar product develop and is a multi-stag process wherein a wide rang of task and activ pan out in each stage
+each stage requir care observ to improv product qualiti etc
+to eas the process of develop
+dure each stage problem surfac like constraint of on-tim complet proper util of avail resourc and appropri traceabl of work progress etc
+and may lead to reiter due to the defect spot dure test and then result into the negat walk-through due to unsatisfactori outcom
+work on such defect can help to take a step toward the proper steer of activ and thus to improv the expect perform of the softwar product
+handpick the proper notabl featur of sdp and then analyz their natur toward the outcom can great help in get a reliabl softwar product by meet the expect object
+this paper propos supervis machin learn ml model for the predict of better sdp particular focus on cost estim defect predict and reusabl
+the experiment studi were conduct on the primari data and the evalu reveal the model suitabl in term of effici and effect for sdp predict accuraci of cost estim 65% defect predict 93% and reusabl 82% .

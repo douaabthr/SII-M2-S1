@@ -1,0 +1,11 @@
+grey wolf assist sift for improv copi move imag forgeri detect
+copy-mov forgeri is a gener widespread type of digit imag forgeri where a segment of an imag is attach into a new portion of the similar imag to hide or replic the part which are call forger imag
+the forger imag appear origin as the object region in spite of be forg ha attain the fundament qualiti of the similar imag itself
+the capabl of the copy-mov forgeri detect cmfd techniqu is lack due to some post-process function like jpeg compress scale or rotat etc
+therefor thi paper intend to develop a cmfd use scale-invari featur transform sift best-fin-first algorithm bbf and random sampl consensu ransac direct by grey wolf optim gwo algorithm
+initi the keypoint are select use sift principl and bbf algorithm identifi the match keypoint use keypoint threshold
+further sift featur descriptor is determin and the final extract pair keypoint are given to ransac algorithm to remov all the mismatch keypoint
+in thi cmfd model the paramet such as paramet keypoint threshold maximum distanc of inlier in ransac and distanc threshold in sift featur are optim use gwo
+the foremost purpos of thi research work is maxim the number of pair keypoint
+henc the propos model is term as gwo-bas paramet optim for cmfd gwpo-cmd
+the propos model is compar over sever other meta-heuristic-bas keypoint threshold select and prove it effici through divers analysi .

@@ -1,0 +1,7 @@
+selfvarbl a stacking-based ensembl learn framework with vary numb of base-learners
+stack is on of the most popul ensembl learn techn that combin the predict of multipl base-learners bls us a meta-learner to improv the overal perform of the model
+to build a stacking-based ensembl most of the ex work select top-k-performing model as the base-learners without consid the comput resourc requir of the system
+thi work pres a stacking-based ensembl learn framework with a vary numb of base-learners selfvarbl which is cap of find the trade-off between comput resourc requir and system perform by autom select a suit numb and combin of base-learners
+addit the propos framework doe not requir excess comput resourc to achiev the optim solv
+the propos framework is valid us three cas study with divers dataset the agricult domain the audio dat analys domain and the self-generated synthet dataset
+the expery result show the effect of the propos framework .

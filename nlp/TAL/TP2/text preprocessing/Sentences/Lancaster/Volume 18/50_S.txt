@@ -1,0 +1,10 @@
+elen epigenet learn through evolv neur adapt
+despit the success of metah algorithm in solv complex network optim problem they oft struggle with adapt espec in dynam or high-dimensional search spac
+tradit approach can becom stuck in loc optim lead to inefficy expl and suboptim solv
+most of the wid acceiv adv algorithm do wel eith on high complex or smal search spac due to the lack of adapt
+whil rec approach hav attempt to address adapt through vary mech they typ requir problem-specific tun or sacr gen cap for perform fail to maintain consist efficy across diff optim task and vary problem scal
+to address thes limit we pres elen epigenet learn through evolv neur adapt a new evolv framework that incorp epigenet mech to enh the adapt of the cor evolv approach
+elen lev compress repres of learn paramet improv dynam through epigenet tag that serv as adapt mem
+three epigenet tag mut resist crossov affin and stabl scor assist with guid solv spac search facilit a mor intellig hypothes landscap expl
+to assess the framework s perform we conduc expery on three crit network optim problem the travel salesm problem tsp the vehic rout problem vrp and the maxim cliqu problem mcp
+expery ind that elen achiev competit result oft surpass state-of-the-art method on network optim task .

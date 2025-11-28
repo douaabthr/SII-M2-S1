@@ -1,0 +1,12 @@
+multi-object optimum design of propel use the blade element theori and evolutionari algorithm
+a multi-object optimum design of propel is present
+tradit the definit of propel is done by choos model that alreadi exist on the market
+howev with the advanc of technolog such as 3d print and comput numer control the possibl for the design to seek an optim propel for hi design is increasingli feasibl
+in thi scenario thi paper aim to propos a methodolog that allow the design to find altern propel design
+the methodolog compris the creation refin and extens of an airfoil databas avail from the literatur
+the aerodynam analysi use the blade element theori and the optim with evolutionari algorithm
+seven multi-object constrain optim problem were formul with two three and four conflict object function concern the propel aerodynam and geometr inform such as the thrust coeffici the bend coeffici the effici and the volum of the propel
+among them for instanc two propos formul are i maxim the thrust and minim the bend coeffici simultan ii maxim the thrust coeffici minim the bend coeffici minim the volum of the propel and minim the effici simultan
+the experi analyz the optim of small propel for two differ engin combust and electr brushless
+five evolutionari algorithm were use to solv these problem and solut were extract from the pareto front use multi-criteria decision-mak accord to the decision-mak prefer
+final the complet data of the extract solut are provid such as dimens angl shape and perform characterist .

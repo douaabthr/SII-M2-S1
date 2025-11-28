@@ -1,0 +1,10 @@
+a multi-task meta-learner-bas ensembl for robust facial express recognit in-the-wild
+facial express recognit is a topic of signific interest in affect comput
+howev prior dataset and studi have primarili focus on recogn facial express in control environ limit their generaliz to realist context
+thu despit recent advanc recogn facial express accur in wild scenario remain a challeng task
+in thi work we propos an ensembl model base on multi-task meta-learn that util a pool of cnn classifi while dynam select and fuse the optim ensembl in order to recogn facial express more effect in the wild
+the suggest scheme leverag the output probabl of base learner as meta-featur and integr multi-label classif into dynam ensembl select
+as best as we know thi is the first investig of multi-task learn at the meta-learn level in the context of facial express recognit
+in particular we introduc an effect meta-learn that combin the strength of stack and dynam ensembl select
+the propos approach ha been evalu exhaust on sever challeng dataset includ raf-db fer2013 and ferplu and the obtain result demonstr that the ensembl cnn outperform individu cnn model consist while achiev high perform across all dataset
+we further demonstr the generaliz of the propos approach by perform cross-dataset evalu .

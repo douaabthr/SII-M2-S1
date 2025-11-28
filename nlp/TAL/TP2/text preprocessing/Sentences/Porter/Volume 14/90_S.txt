@@ -1,0 +1,8 @@
+self-adapt learn for hybrid genet algorithm
+local search can be introduc into genet algorithm to creat a hybrid but ani improv in perform is depend on the learn mechan
+in the lamarckian model a candid solut is replac by a fitter neighbour if one is found by local search
+in the baldwinian model the origin solut is retain but with an upgrad fit if a fitter solut is found in the local search space
+the effect of use either model or a variabl proport of the two within a hybrid genet algorithm is affect by the topolog of the fit function and the detail of the hybrid algorithm
+thi paper investig an intellig adapt approach to decid on the learn mechan to be use by an individu over the cours of the search
+evolut is use to self-adapt both the frequenc of a steepest-desc local search and the rel proport of lamarckian and baldwinian inherit
+experi have shown that thi form of adapt learn can improv the abil to find high-qual solut and can acceler the hybrid search without the need to find optim control paramet for the learn process .

@@ -1,0 +1,8 @@
+charact ord book evolv us self-organising map
+trad on maj fin market is typ conduc via electron ord book whos stat is vis to market particip in real-time
+a sign research lit has emerg concern ord book evolv focuss on charact of the ord book such as the tim sery of trad pric mov in the bid-ask spread and chang in the dep of the ord book at each pric point
+the lat two item can be charact as ord bookshapewh the book is view as a histogram with the siz of the bar at each pric point correspond to the volum of shar demand or off for sal at that pric
+ord book shap is of interest to market particip as it provid insight as to cur and pot fut market liquid
+quest such as what shap ar common observ in ord book and wheth ord book transit between certain shap pattern ov tim ar of evid interest from both a theoret and pract standpoint
+in thi study us high-frequency equ dat from the london stock exchang we apply an unsuperv clust methodolog to determin clust of common ord book shap and also attempt to assess the transit prob between thes clust
+find ind that ord book for individ stock display intraday season exhibit som common pattern and that transit between ord book pattern ov sequ tim period is not random .

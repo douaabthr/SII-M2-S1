@@ -1,0 +1,11 @@
+Hybrid machine learning methods combined with computer vision approaches to estimate biophysical parameters of pastures
+With population growth the search for technologies that enable improvements in production respecting the environment and people s health has become an essential point for society
+In this context this paper presents a study based on computer vision techniques and Machine Learning ML to extract information from pasturesPanicum maximumcv
+BRS Zuri to assist in the management and research on pasture conditions possibilitando a obtenção de informações da
+Computer vision approaches are used to extract biophysical parameters from images acquired orthogonally from the canopy of vegetation
+The extracted information serves as input for Machine Learning ML methods to predict pasture height and biomass
+The contribution of this paper is developing a possible new solution compared to traditional methods in the large-scale study of plant biophysical parameters which can be laborious and costly and sometimes depend on destructive harvesting
+For this three techniques were used Support Vector Regression Multi-Layer Perceptron MLP and Least Absolute Shrinkage and Selection
+In addition the Differential Evolution technique was used to select the best model
+Thirty independent runs of the Differential Evolution technique were performed to assess the approach s performance
+The cross-validation method results show the MLP obtained the best results reaching an average of Coefficient of Determination R 2 equal 0.496 to estimate biomass and 0.656 to estimate the pasture height .

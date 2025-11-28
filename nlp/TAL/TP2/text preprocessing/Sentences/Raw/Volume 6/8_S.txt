@@ -1,0 +1,12 @@
+Performance analysis of rough set ensemble of learning classifier systems with differential evolution based rule discovery
+Data mining and specifically supervised data classification is a key application area for Learning Classifier Systems LCS
+Scaling to larger classification problems especially to higher dimensional problems is a key challenge
+Ensemble based approaches can be applied to LCS to address scalability issues
+To this end a rough set based ensemble of LCS is proposed which relies on a pre-processed feature partitioning step to train multiple LCS on feature subspaces
+Each base classifier in the ensemble is a Michigan style supervised LCS
+The traditional genetic algorithm based rule evolution is replaced by a differential evolution based rule discovery to improve generalisation capabilities of LCS
+A voting mechanism is then used to generate output for test instances
+This paper describes the proposed ensemble algorithm in detail and compares its performance with different versions of base LCS on a number of benchmark classification tasks
+Analysis of computational time and model accuracy show the relative merits of the ensemble algorithm and base classifiers on the tested data sets
+The rough set based ensemble learning approach and differential evolution based rule searching out-perform the base LCS on classification accuracy over the data sets considered
+Results also show that small ensemble size is sufficient to obtain good performance .

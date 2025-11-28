@@ -1,0 +1,9 @@
+fuzzy dragon deep believ neur network for act recognit us hierarch skeleton feat
+in comput vis hum act recognit is an act research are for diff context such as hum comput interact healthc milit apply and sec surveil
+act recognit is perform to recogn the goal and act of on or mor peopl from a sequ of observ bas on the act and the environ condit
+stil ther ar numb of challeng and issu which mot the develop of new act recognit method to enh the acc und mor real condit
+thi pap propos an error-based fuzzy dragon deep believ network error-based ddbn which is the integr of fuzzy with ddbn class to recogn the hum act from a complex and divers scenario for which the keyfram ar gen bas on the bhattachary coefficy from the set of fram of the giv video
+the key fram from the bhattachary ar extract us the scal inv feat transform col histogram of the spatio-temporal interest domin point and hierarch skeleton
+fin the feat ar fed to the class wher the class is don us the propos error-based fuzzy ddbn to recogn the person
+the expery is perform us two dataset nam kth and weizman for analys the perform of the propos class
+the expery result rev that the propos class perform the act recognit in a bet way by obtain the maxim acc of 1 a sensit of 0.99 and the spec of 0.991 .

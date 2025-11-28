@@ -1,0 +1,6 @@
+rul bas and adapt fuzzy op coop learn of mamdan fuzzy system with multi-objective genet algorithm
+in thi pap we pres an evolv multi-objective learn model achiev coop between the rul bas and the adapt fuzzy op of the inf system in ord to obtain simpl mor compact and stil acc lingu fuzzy model by learn fuzzy inf adapt op togeth with rul
+the multi-objective evolv algorithm propos gen a set of fuzzy rul bas system with diff trade-offs between interpret and acc allow the design to select the on that involv the most suit bal for the desir apply
+we develop an expery study test our approach with som vary on nin real-world regress dataset find the adv of coop comp to sequ model as wel as multi-objective comp with single-objectiv model
+the study is elab comp diff approach by apply non-parametric stat test for pair-wise
+result confirm the us of the propos approach .

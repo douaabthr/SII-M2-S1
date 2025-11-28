@@ -1,0 +1,9 @@
+A multi-core parallelization strategy for statistical significance testing in learning classifier systems
+Permutation-based statistics for evaluating the significance of class prediction predictive attributes and patterns of association have only appeared within the learning classifier system LCS literature since 2012
+While still not widely utilized by the LCS research community formal evaluations of statistical confidence are imperative to large and complex real world applications such as genetic epidemiology where it is standard practice to quantify the likelihood that a seemingly meaningful statistic could have been obtained purely by chance
+Learning classifier system algorithms are relatively computationally expensive on their own
+The compounding requirements for generating permutation-based statistics may be a limiting factor for some researchers interested in applying LCS algorithms to real world problems
+Technology has made LCS parallelization strategies more accessible and thus more popular in recent years
+In the present study we examine the benefits of externally parallelizing a series of independent LCS runs such that permutation testing with cross validation becomes more feasible to complete on a single multi-core workstation
+We test our python implementation of this strategy in the context of a simulated complex genetic epidemiological data mining problem
+Our evaluations indicate that as long as the number of concurrent processes does not exceed the number of CPU cores the speedup achieved is approximately linear .

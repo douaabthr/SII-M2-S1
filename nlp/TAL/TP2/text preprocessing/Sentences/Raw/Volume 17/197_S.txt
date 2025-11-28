@@ -1,0 +1,13 @@
+A clustering-based coevolutionary multi-objective evolutionary algorithm for handling robust and noisy optimization
+The presence of uncertainty is commonplace in real-world scenarios
+Uncertainties can be present in both the objective space and the decision space in optimization problems
+These uncertainties can pose significant challenges for evolutionary algorithms
+For example perturbations in decision variables Robust Optimization and noise in objective functions Noisy Optimization
+Despite the plethora of methods proposed for Robust or Noisy Optimization addressing both forms of uncertainty concurrently remains an open research question
+We introduce a novel approach based on TEDA-CMOEA/D augmented with clustering techniques for descendant generation in Robust and Noisy Optimization problems
+Notably the proposed algorithm yields promising results for uncertainty simultaneously sans the requirement for sampling thereby reducing computational complexity
+We leverage an extension of an existing test function generator for Multi-Objective Optimization of the tests
+The benchmark integrates uncertainties in decision variables and/or objective functions
+Experimental evaluations encompassed varying noise intensities elucidating the impact of different noise levels on algorithmic performance
+The results demonstrate the superior performance of the proposed approach compared to existing algorithms specifically RNSGA-II and CRMOEA/D
+The proposed algorithm emerges as a promising solution for Robust and Noisy Multi-Objective Optimization problems .

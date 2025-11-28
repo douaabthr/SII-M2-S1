@@ -1,0 +1,6 @@
+an island-bas hybrid evolv algorithm for caloric-restricted diet
+the most popul and success way to maintain a healthy body is to hav a rich and bal diet combin with phys exerc
+sint the diet dilemm was propos sev work in the lit suggest calc a diet that respect the nutrit nee of each person
+in the caloric-restricted diet problem crdp the goal is to find a reduced-calorie diet that meet thes nutrit nee en weight loss
+thi pap propos an island-bas hybrid evolv algorithm ibhe that us a genet algorithm ga and a diff evolv de algorithm with diff paramet set in diff island commun through sev migr policy to solv the crdp
+comput expery show that ibhe outperform mor than 5% comp with non-distributed and non-hybrid impl gen a gre vary of diet with a smal cal count .

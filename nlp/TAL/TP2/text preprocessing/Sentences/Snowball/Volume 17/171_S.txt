@@ -1,0 +1,7 @@
+a robust fault-toler control algorithm base on a novel model method for quadrotor applic with accur fault estim
+this articl tri to lower the load of comput and increas the robust of a fault-toler control algorithm for quadrotor
+in this method neglect the uncertainti the quadrotor s dynam is broken into two simpl nonlinear model
+a robust unscent kalman filter is util for the fault estim and reinforc a 2 slide mode control
+in this case the unknown fault in multi-actu are estim
+accord to the lyapunov theori stabil analysi is perform to discuss the reliabl of the closed-loop ftc method
+in the simul result compar the perform of the propos method with the perform of passiv ftcs and augment ukf estim show the lighter comput and higher robust of the present algorithm for quadrotor resist to unknown fault due to the test scenario .

@@ -1,0 +1,11 @@
+mobl robot monocul vision-based obstac avoid algorithm us a deep neur network
+in rec decad obstac avoid has been on of the main challeng in autonom vehic navig which has been us in a wid rang of diff autonom dev and it is also a funda requir for mobl robot
+in thi pap a novel method is propos and evalu for mobl robot navig in an unknown environ whil avoid collid with unexpect obstac
+thi mobl robot has been equip with a mono-vision sens which commun with the environ
+theref the decision-making unit is entir vision-based and no oth sens is us to commun with the environ
+the deep neur network method has been us to inform the robot about the suit direct of mov but cent decision-making unit wil do som preprocess on the output command bef send it to the op unit
+in thi research vary techn ar investig to train the convolv neur network in a bet way to gen mor acc command for the mobl robot s mov toward the saf are without collid into any obstac
+besid lot of vary method hav been us to increas the perform of the neur network
+the most import on is us an adjust learn rat
+the result show the vit rol of learn rat in network perform
+the design network attain a 96.88% acc and a 0.14 loss which ind that thi approach could success improv the neur network perform and reason solv the obstac avoid problem .

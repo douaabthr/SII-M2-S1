@@ -1,0 +1,13 @@
+chaotic vortex search algorithm metaheurist algorithm for featur select
+the vortex search algorithm vsa is a meta-heurist algorithm that has been inspir by the vortex phenomenon propos by dogan and olmez in 2015
+like other meta-heurist algorithm the vsa has a major problem it can easili get stuck in local optimum solut and provid solut with a slow converg rate and low accuraci
+thus chao theori has been ad to the search process of vsa in order to speed up global converg and gain better perform
+in the propos method various chaotic map have been consid for improv the vsa oper and help to control both exploit and explor
+the perform of this method was evalu with 24 uci standard dataset
+in addit it was evalu as a featur select fs method
+the result of simul show that chaotic map particular the tent map are abl to enhanc the perform of the vsa
+furthermor it was clear shown the fit of the propos method in attain the optim featur subset with utmost accuraci and the least number of featur
+if the number of featur is equal to 36 the percentag of accuraci in vsa and the propos model is 77.49 and 92.07
+if the number of featur is 80 the percentag of accuraci in vsa and the propos model is 36.37 and 71.76
+if the number of featur is 3343 the percentag of accuraci in vsa and the propos model is 95.48 and 99.70
+final the result on real applic show that the propos method has higher percentag of accuraci in comparison to other algorithm .

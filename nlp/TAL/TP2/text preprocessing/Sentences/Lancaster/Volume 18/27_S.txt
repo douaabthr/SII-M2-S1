@@ -1,0 +1,9 @@
+an intellig approach for analys the effect of norm tum immun unhealthy diet model through unsuperv phys inform neural-networks integr with meta-heuristic algorithm
+thi pap pres the develop of integr intellig comput us physics-informed neur network to solv the mathem normal-tumor immune-unhealthy diet model
+the model consid vitamin interv as a mod fact within on day
+a nonlinear act funct cal sigmoid was us for the model across three diff scenario to defin the fit or er funct
+for comput the optim bias and weight of physics-informed neur network hybrid of heur algorithm particul partic swarm optim and neur network algorithm ar employ from 10 to 10
+the propos techn s acc rely and valid ar demonst by consist match the result obtain us ndsolve from mathem built-in funct as a ref solv
+addit stat analys includ absolv and mean squ er ar conduc to confirm furth the precid and acc of the physics-informed neur network
+it is observ that the absolv er and mean squ er between the ref solv and propos techn rang from 10 2 to 10 9 and rang from 10 6 to 10 11 for distinct cas
+the novel of thi study highlight the import of physics-informed neur network for a bal diet rich in vitamin for reduc the risk of dead diseas particul cant and the pot of machin learn algorithm in model and analys complex biolog system .

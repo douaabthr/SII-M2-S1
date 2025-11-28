@@ -1,0 +1,10 @@
+intrus detect system for cloud forens use bayesian fuzzi cluster and optim base svnn
+intrus detect has emerg as one of the major challeng involv in the cloud forens
+this work introduc an intrus detect framework for the cloud environ with cluster and two-level classifi
+in the first step of the process a bayesian fuzzi cluster is use for cluster the node in the cloud
+and in the next step two-level gravit group search-bas support vector neural network gg-svnn classifi identifi intrus in cluster
+gg-svnn is a novel optim scheme propos in this work by combin the group search optim and gravit search algorithm
+the intrus inform provid by level 1 classifi is arrang to form compact data and provid to the level 2 classifi
+the level 2 classifi final identifi total node affect by the intrud
+the simul of the propos intrus detect is done with the help of kdd cup dataset
+from the simul result it is evid that the propos gg-svnn classifi has achiev overal best perform by achiev high accuraci valu of 92.41% and low fals alarm rate of 4.75% respect .

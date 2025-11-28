@@ -1,0 +1,7 @@
+Robot path optimization in warehouse management system
+The integration of warehouse management systems with robotics and Evolutionary Intelligence EVIN technology is currently in the focus as a way to optimize warehouse operation and reduce assembly costs
+This study proposes an EVIN-based solution towards warehouse management system design
+A neural network-based analytical unit used in the system allows predicting the optimal number of robots in the warehouse
+The proposed approach was evaluated by comparing the performance of systems with and without an analytical unit and ant colony optimization
+In all cases the use of the neural network gives the same amount of applications to be completed by fewer auxiliary robots in less time and it results in reduction of the number of collisions during the movement of robots
+The emergence of this structure improves navigation efficiency and allows reducing production maintenance costs .

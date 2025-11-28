@@ -1,0 +1,11 @@
+extend water wave optim ewwo techniqu a propos approach for task schedul in iomt and healthcar applic
+the internet of medic thing iomt is a version of the internet of thing
+it is get the attent of research becaus it can be use in a wide rang of smart healthcar system
+one of the main advanc employ recent is the iomt-cloud which allow user to access cloud servic remot over the internet
+these cloud servic requir an effici task schedul approach that satisfi the qualiti of servic paramet with a low energi consumpt
+this paper present an overview of the integr of iomt and cloud comput technolog
+besid this work propos an effici extend water wave optim ewwo task schedul in the iomt cloud for healthcar applic
+ewwo algorithm perform base on it oper propag refract and break
+the propos ewwo schedul techniqu minim the energi consumpt makespan time execut time and increas the resourc util
+cloudsim simul is use to simul the iomt-cloud environ to verifi the effect of ewwo techniqu
+the perform has been evalu base on various paramet such as energi consumpt makespan time and execut time .

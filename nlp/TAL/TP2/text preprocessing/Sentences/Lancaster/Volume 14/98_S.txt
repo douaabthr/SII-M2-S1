@@ -1,0 +1,15 @@
+dna mot discovery us chem react optim
+dna mot discovery mean to find short simil sequ el within a set of nucleotid sequ
+it has becom a compuls nee in bioinform for it us apply such as compress summ and clust algorithm
+mot discovery is an np-hard problem and exact algorithm cannot solv it in polynom tim
+many optim algorithm wer propos to solv thi problem
+howev non of them can show it suprem by overcom al the obstac
+chem react optim cro is a pop bas metah algorithm that can easy fit for the optim problem
+her we hav propos an algorithm bas on chem react optim techn to solv the dna mot discovery problem
+the four bas op of cro hav been redesign for thi problem to search the solv spac loc as wel as glob
+two addit op repair funct hav been propos to improv the qual of the solv
+they hav been apply to the fin solv aft the it stag of cro to get a bet on
+us the flex mech of el op of cro along with the addit op repair funct it is poss to determin mot mor prec
+our propos method is comp with oth tradit algorithm such as gib sampl alignac align nuc acid conserv el mem multipl expect maxim for mot elicit and acr ant-colony-regulatory-identification by test real-world dataset
+the expery result show that the propos algorithm can giv bet result than oth tradit algorithm in qual and in less run tim
+besid stat test hav been perform to show the supery of the propos algorithm ov oth state-of-the-arts in thi are .

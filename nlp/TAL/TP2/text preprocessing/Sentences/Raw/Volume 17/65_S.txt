@@ -1,0 +1,10 @@
+Single candidate optimizer a novel optimization algorithm
+Single-solution-based optimization algorithms have gained little to no attention by the research community unlike population-based approaches
+This paper proposes a novel optimization algorithm called Single Candidate Optimizer SCO that relies only on a single candidate solution throughout the whole optimization process
+The proposed algorithm implements a unique set of equations to effectively update the position of the candidate solution
+To balance exploration and exploitation SCO is integrated with the two-phase strategy where the candidate solution updates its position differently in each phase
+The effectiveness of the proposed approach is validated by testing it on thirty three classical benchmarking functions and four real-world engineering problems
+SCO is compared with three well-known optimization algorithms i.e. Particle Swarm Optimization Grey Wolf Optimizer and Gravitational Search Algorithm and with four recent high-performance algorithms Equilibrium Optimizer Archimedes Optimization Algorithm Mayfly Algorithm and Salp Swarm Algorithm
+According to Friedman and Wilcoxon rank-sum tests SCO can significantly outperform all other algorithms for the majority of the investigated problems
+The results achieved by SCO motivates the design and development of new single-solution-based optimization algorithms to further improve the performance
+The source code of SCO is publicly available at https uk . mathworks . com/matlabcentral/fileexchange/116100-single-candidate-optimizer .

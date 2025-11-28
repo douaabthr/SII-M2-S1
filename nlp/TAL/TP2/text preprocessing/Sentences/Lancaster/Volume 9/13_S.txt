@@ -1,0 +1,7 @@
+enh multiobject population-based incr learn with apply in risk treaty optim
+the purpos of thi pap is to revisit the multiobject population-based incr learn method and show how it perform can be improv in the context of a real-world fin optim problem
+the propos enh lead to both bet perform and improv in the qual of solv which can repres mil of doll for the ins company in term of recovery
+it perform was assess in term of runtim and speedup when parallel
+also met such as the av numb of solv the av hypervolum and cov hav been us in ord to comp the pareto fronty obtain by both the origin and enh method
+result ind that the propos method is 22.1% fast pres mor solv in the av bet defin the pareto fronty and oft gen solv hav larg hypervolum
+the method achiev a speedup of 15.7 on 16 cor of a dual socket intel multi-core machin when solv a reins contract optim problem involv 15 lay or sub-contracts .

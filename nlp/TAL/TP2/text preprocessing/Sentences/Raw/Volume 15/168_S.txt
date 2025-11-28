@@ -1,0 +1,10 @@
+Transmission expansion planning using composite teaching learning based optimisation algorithm
+With the ever increasing demand and stressed operating conditions resource expansion is the only way to have sustainable electric grid
+Transmission system expansion is one of the important aspects in this regard
+In the recent years expansion problem has been addressed by several researchers
+Meta-heuristic techniques have been applied to solve expansion problems
+In this paper a new variant of Teaching Learning Based Optimization TLBO Algorithm is proposed by adding a sine function based diversity in the teaching phase
+The proposed variant is named as Composite TLBO C-TLBO
+The efficacy of the proposed variant has been evaluated on standard benchmark functions and then it is evaluated on two standard electrical networks with cases of inclusion of uncertainty and demand burst
+The results obtained from optimization processes have been evaluated with the help of several analytical and statistical tests
+Results affirm that the proposed modification enhances the performance of the algorithm in a substantial manner .

@@ -1,0 +1,11 @@
+hybrid machin learn method combin with comput vision approach to estim biophys paramet of pastur
+with popul growth the search for technolog that enabl improv in product respect the environ and peopl s health has becom an essenti point for societi
+in this context this paper present a studi base on comput vision techniqu and machin learn ml to extract inform from pasturespanicum maximumcv
+brs zuri to assist in the manag and research on pastur condit possibilitando a obtenção de informaçõ da
+comput vision approach are use to extract biophys paramet from imag acquir orthogon from the canopi of veget
+the extract inform serv as input for machin learn ml method to predict pastur height and biomass
+the contribut of this paper is develop a possibl new solut compar to tradit method in the large-scal studi of plant biophys paramet which can be labori and cost and sometim depend on destruct harvest
+for this three techniqu were use support vector regress multi-lay perceptron mlp and least absolut shrinkag and select
+in addit the differenti evolut techniqu was use to select the best model
+thirti independ run of the differenti evolut techniqu were perform to assess the approach s perform
+the cross-valid method result show the mlp obtain the best result reach an averag of coeffici of determin r 2 equal 0.496 to estim biomass and 0.656 to estim the pastur height .

@@ -1,0 +1,9 @@
+Mining high influence co-location patterns from instances with attributes
+A spatial co-location pattern describes coexistence of spatial features whose instances frequently appear together in geographic space
+Numerous studies have been proposed to discover interesting co-location patterns from spatial data sets but most of them only use the location information of instances
+As a result they cannot adequately reflect the influence between instances
+In this paper we take additional attributes of instances into account in the process of co-location pattern mining and propose a new approach for discovering the high influence co-location patterns
+In our approach we consider the spatial neighboring relationships and the similarity of instances simultaneously and utilize the information entropy approach to measure the influence of any instance exerting on its neighbors and the influence of any feature in a co-location pattern
+Then an influence index for measuring the interestingness of a co-location pattern is proposed and we prove the influence index measure satisfies the downward closure property that can be used for pruning the search space and thus an efficient high influence co-location pattern mining algorithm is designed
+At last extensive experiments are conducted on synthetic and real spatial data sets
+Experimental results reveal the effectiveness and efficiency of our method .

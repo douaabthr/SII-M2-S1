@@ -1,0 +1,8 @@
+An evolutionary multitasking optimization algorithm via reference-point based nondominated sorting approach
+Multiobjective multifactorial evolutionary algorithm MOMFEA which solves multiple tasks simultaneously based on a single population has received considerable attention in recent decades
+However the negative transmission usually leads to slower convergence or worse distribution
+To make use of the potential similarity between different tasks this paper proposes an enhanced version for the MOMFEA using a reference-point based nondominated sorting approach denoted as MFEA-RP
+By using Multiple Dimensional Scaling subtasks in different dimensions can be optimized simultaneously with a single set of reference points
+The efficiency of the method is substantiated by multiobjective benchmark problems and practical instances
+In most of the test probability MFEA-RP converges faster to the true Pareto front
+Better-distributed solutions are successfully found which indicates the better representativeness to the solution space .

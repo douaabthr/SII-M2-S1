@@ -1,0 +1,10 @@
+modifi norm fish swarm algorithm for optim power extract in photovolta system
+background accord to asean centr of energi 2020 report electrif rate in certain asean countri are consider low
+the energi sector face issu of unreli suppli undersuppli and high electr rate
+as power suppli is an import sourc of daili requir thi research work aim to improv the effici of solar power gener effici
+in line with the aim we propos a modifi norm fish swarm algorithm mnfsa and appli it to maximum power point track mppt process in photovolta pv applic system
+signific modif have been made to the origin nfsa includ the remov of unnecessari featur the formul of modifi behavior the refin of adapt paramet as well as set and the implement of the mppt architectur . result a complet pv system model is construct for simul in which 10 pv array with differ shade level are connect in seri in the pv panel
+for a consist evalu 10 set of data on maximum extract power were collect dure mppt simul process
+the statist data were record for comprehens perform check
+overal mnfsa wa compar with 6 other optim algorithm includ 5 state-of-the-art algorithm and 1 relat evolutionari algorithm . conclus the result demonstr that mnfsa outperform other compar algorithm in term of maximum extract power and rel percentag error demonstr higher compat and effect of mnfsa for mppt
+the statist result support that mnfsa is one of the most robust algorithm and best suit for mppt applic .

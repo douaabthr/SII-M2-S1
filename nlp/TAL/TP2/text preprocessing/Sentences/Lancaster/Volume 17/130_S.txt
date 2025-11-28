@@ -1,0 +1,16 @@
+clust bas act learn for class of evolv streams
+class of imb unlabel dat streams with conceiv drift in evolv streams has pos many challeng rec
+learn perform from the min class is poor at high imb degr
+thi caus drift detect to fail
+theref the ex model cannot be upd result in poor class perform
+detect drift is typ don through superv learn
+they ar impract despit their effect in detect drift
+in real-world apply on a port of the dat stream can be label as orac assist is pricey and lab
+to allevy thes problem a novel techn which is a clust bas act learn for class imb and conceiv drift cbal is pres in the pap
+adapt sampl strategies ar us for solv high imb degr
+a two-layer drift detect strategy is us for detect drift wher the first lay is unsuperv and the second lay is superv
+to reduc the label cost thi framework us a clust techn for query the label
+extend expery ov synthet and real-world dat streams exhibit bet class perform
+cbal detect the drift with few fals alarm and with less orac interv
+for high imb cas i.e. 10% the perform of cbal is 53% and high wherea the perform of the oth algorithm is zero or nil
+the numb of drift detect by cbal is much mor acc and it also reduc the label cost by 90% .

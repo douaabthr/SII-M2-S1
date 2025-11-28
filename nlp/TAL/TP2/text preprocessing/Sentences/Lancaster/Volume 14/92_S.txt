@@ -1,0 +1,10 @@
+chaot mult vers optim bas fuzzy log control for frequ control of microgrid
+thi pap repres an arrang of fuzzy pd and der filt bas pid control fpidf with it optim design memb funct and is employ for the load frequ control lfc of isol mult microgrid
+the perform of a rec develop mult vers optim mvo algorithm is improv by introduc chaot map appropry in the algorithm
+the improv algorithm nam as cmvo algorithm is apply to tun the proport integr der pid control gain for the lfc of microgrid
+the supery of the propos cmvo algorithm is examin by it supery perform comp to mvo pid rec publ iay pid jay pid and ga pid in the microgrid system
+furth cmvo bas fpidf with it optim memb posit fpidf-om outperform comp to cmvo bas fpidf ijay tun fpid and fpd/pi-pd control in microgrid system
+bet dynam perform ar found with the propos techn for stochast typ wind pow sol irrady and load vary in the microgrid comp with fpidf and pid
+the robust of the propos techn is est by the sensit analys
+the propos design approach has been extend to a microgrid model includ bioga turbin gen biodiesel engin gen and aqu electrolys along with fuel cel unit
+fin opal-rt bas hardware-in-the-loop sim of propos techn has been don .

@@ -1,0 +1,10 @@
+A nearest neighbor query method for searching objects with time and location informations based on spatiotemporal similarity
+It is crucial for users to find lots of information with time and geographical tags on the Internet
+Therefore a nearest neighbor query method called STR-kNN is proposed
+Using the method of calculating the spatiotemporal similarity between two objects the spatiotemporal variables of the data object are normalized and mapped to the three-dimensional space
+The distance similarity between two data objects in the three-dimensional space is used to approximate their actual spatiotemporal similarity
+In this way a three-dimensional STR-tree index is built for the data object in the three-dimensional space
+This index can effectively combine the spatial temporal variables of the data object ensuring that each data object is traversed no more than once during query processing
+Finally an accurate searching algorithm of STR-kNN is designed to find up to the top-k query results through a single calculation
+In the experiment when the data volume is 6 million the query times of STR-kNN 3DR k NN and RT-k NN algorithms are 12 ms 43 ms and 55 ms respectively
+When k is taken as 50 the query times of the three algorithms are 12 ms 43 ms and 55 ms respectively indicating that the new algorithm can greatly improve the query efficiency .

@@ -1,0 +1,8 @@
+a neural network approach for the solut of van der pol-mathieu-duf oscil model
+the concept of oscil problem find it indispens presenc in numer dynam system
+machin learn techniqu for handl dynam system is a challeng and rapidli expand field of research
+in thi regard a machin learn approach name symplect artifici neural network model ha been use for handl the non-linear system aris in dusti plasma model
+the primari object of thi articl is to investig the dynam of van der pol-mathieu-duf oscil problem for differ excit function use the meshfre symplect artifici neural network algorithm
+the numer simul and graphic represent are carri out to establish the accuraci of the present algorithm
+also the obtain simul result are compar with the exist numer solut
+in addit the statist assess studi at variou test point confirm an excel agreement between the present simul result and the exist result .

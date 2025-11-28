@@ -1,0 +1,11 @@
+cluster method and sine cosin algorithm for imag segment
+thi articl present a new imag segment approach base on the principl of cluster optim by the meta-heurist algorithm name sca algorithm sinu cosin
+thi algorithm use a mathemat model base on trigonometr function to solv optim problem
+such an approach wa develop to solv the drawback exist in classic cluster techniqu such as the initi of cluster center and converg toward the local optimum
+in fact to obtain an optim cluster center and to improv the imag segment qualiti we propos thi techniqu which begin with the gener of a random popul
+then we determin the number of cluster to exploit
+later we formul an object function to maxim the interclass distanc and minim the intra-class distanc
+the resolut of thi function give the best overal solut use to updat the rest of the popul
+the perform of the propos approach are evalu use a set of refer imag and compar to sever classic cluster method like k-mean or fuzzi c-mean and other meta-heurist approach such as genet algorithm and particl swarm optim
+the result obtain from the differ method are analyz base on the best fit valu psnr rmse sc xb pc s sc ce and the comput time
+the experiment result show that the propos approach give satisfactori result compar to the other method .

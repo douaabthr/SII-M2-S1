@@ -1,0 +1,14 @@
+data driven intellig action recognit and correct in sport train and teach
+with the develop of world economi sport develop has also becom a symbol of nation strength
+nowaday sport competit has becom an import activ for all countri to show their strength and also an import bridg to connect all countri and build friendship
+in the process of challeng the limit human be gradual master the action essenti of various sport and the action differ of athlet direct affect the grade of the competit
+therefor in the process of sport train athlet of various countri will focus on the standard of action of each athlet
+in tradit sport train veteran athlet with rich experi are usual use as coach to guid athlet empir
+howev the differ of coach will also lead to the differ of sport effect
+at the same time coach grasp of athlet action standard is more base on subject observ which cannot be accur measur so there may be larg differ and error in their grasp of action standard
+in this paper we propos an intellig action recognit and correct system to assist coach to measur and evalu athlet action more accur and give correct suggest accord to standard action
+our system use rgb-d sensor to analyz athlet skeleton key point in real time
+the differ between the athlet s action and the standard action is calcul through the connect between the joint key point
+in this paper we also use the time track algorithm to comprehens evalu the consist of the action with the standard
+we verifi the feasibl of the recognit correct system through the actual movement and measur of athlet
+the experi show that our system can accur measur the movement of athlet and has more accur measur result and correct suggest than the tradit coach nake eye measur .

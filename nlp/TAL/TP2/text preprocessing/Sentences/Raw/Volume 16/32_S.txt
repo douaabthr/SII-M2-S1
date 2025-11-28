@@ -1,0 +1,6 @@
+Machine learning algorithms for diabetes detection a comparative evaluation of performance of algorithms
+Recently machine learning algorithms are widely used for the prediction of different attributes and these algorithms find widespread applications in a variety of domains
+Machine learning in health care has been one of the core areas of research where machine learning models are used on the medical datasets to predict different attributes
+This work provides a comparative evaluation of different classical as well as ensemble machine learning models which are used to predict the risk of diabetes from two different datasets i.e. PIMA Indian diabetes dataset and early-stage diabetes risk prediction dataset
+From the comparative analysis it is found that the superlearner model provides the best accuracy i. e
+86% for PIMA Indian diabetes dataset and it provides 97% accuracy for diabetes risk prediction dataset .

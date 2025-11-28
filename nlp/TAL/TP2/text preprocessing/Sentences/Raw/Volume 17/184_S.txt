@@ -1,0 +1,7 @@
+Unveiling the Many-Objective Dragonfly Algorithm s MaODA efficacy in complex optimization
+In the field of multi-objective optimization algorithms MOAs a primary challenge is identifying an optimal solution that effectively converges to the true Pareto Front while maintaining a high level of diversity especially in the initial phases of evolution
+To tackle this challenge this study introduces a novel algorithm named Many-Objective Dragonfly Algorithm MaODA
+This method incorporates reference point niche preserve and information feedback mechanism for maintaining better balance between convergence and diversity
+Through this study the MaODA effectiveness is established by using the WFG1-WFG9 test suite for 4 6 and 8 objectives and five real-world RWMaOP1 RWMaOP5 design problems
+The findings demonstrate that MaODA outperforms its peer many-objective algorithms like MaOTLBO MaOJAYA MaOPSO and NSGA-III in most test scenarios in terms of GD IGD SP SD HV and RT metrices
+It is shown that MaODA achieves better convergence as well as enhanced diversity and spread compared to peers .

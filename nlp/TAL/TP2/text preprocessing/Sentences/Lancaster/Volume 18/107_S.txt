@@ -1,0 +1,9 @@
+matrix-based partic swarm optim with hybrid strategy for multi-traveling salesm problem
+the multipl travel salesm problem mtsp is an extend of the travel salesm problem which involv multipl salespeopl visit a set of city with each city being visit on ont
+it is wid us in log distribut traff scheduling and mult robot collab but fac challeng such as high comput complex difficult task alloc and suscept to loc optim solv
+most ex method foc on find solv from scratch prim aim to minim the tot travel dist with insufficy at paid to bal travel cost among salespeopl
+thi artic propos a matrix bas mult strategy integr partic swarm optim algorithm which improv efficy through matrix repres and parallel comput and introduc a dynam divers mech to bal loc and glob search cap
+in addit a new fit evalu funct has been design to effect address sign rout diff among salespeopl
+among the fiv typ tsp problem the perform of thi algorithm is supery to mpso hjspso and standard pso algorithm
+it sign improv solv efficy and enh result bal
+thi study provid an efficy and robust solv for the mtsp problem which has import theoret sign and pract apply valu .

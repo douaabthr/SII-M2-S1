@@ -1,0 +1,7 @@
+draco lizard optim a novel metah algorithm for glob optim problem
+thi research introduc a novel meta-heuristic optim techn term the draco lizard optim dlo ground in the distinct behavy exhibit by the draco lizard particul it proficy glid mech and adapt ecolog strategies
+the dlo algorithm ingeny transl thes surv techn into an efficy search paradigm aim at resolv int glob optim problem
+to assess the optim eff of the dlo algorithm we embark on a comp expery framework incorp 29 benchmark funct sourc from the prestigy cec2017 test suit alongsid a select of fiv cutting-edge metah algorithm
+the analys of the expery outcom highlight the adv of the dlo algorithm which achiev an av rank of 1.62 on the cec2017 benchmark set plac it in the top posit
+addit the av comput tim of the dlo algorithm is one-third that of the second-rank cpo algorithm confirm that the dlo algorithm not on possess exceiv glob search perform but also demonst high search efficy comp to contemp optim algorithm
+sourc cod for dlo algorithm https github . com/xiaoweiwang-ai/dlo

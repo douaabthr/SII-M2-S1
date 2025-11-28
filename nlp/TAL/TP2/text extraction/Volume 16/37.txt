@@ -1,0 +1,3 @@
+Fast partial image encryption with fuzzy logic and chaotic mapping
+
+The proposed technique offers an automated image encryption as an alternate to the manual selective encryption of color images. Fuzzy rules based on color details are applied to select the area to encrypt. It can be used for secure communication of sensitive parts of the image, without disturbing the remaining part of the image. Strength of this algorithm is its speed, immunity to differential attacks and entropy. It is six times faster as compared to the normal encryption. This algorithm is more suitable for satellite images and medical images. It finds an application in the area of information security and data forensics, where images are larger in size.

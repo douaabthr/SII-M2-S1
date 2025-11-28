@@ -1,0 +1,10 @@
+decad research on text detect in images/video a review
+text present in an imag or a video is a good repres as it provid semant inform of a respect imag or video frame
+nowaday detect of textual inform from video are veri challeng and excit research area in video process and machin learn field
+text detect find a vital role in current applic such as index easi and effici retriev keyword base imag search and event identif
+howev the text region detect from video has sever challeng like low resolut complex background align of text and variat in size color style
+the ampl of work have been done on text detect and all these consid differ properti to distinguish the text region from it background in a video frame
+the main aim of this paper is to demonstr the comprehens studi of decad research on various video text detect method which are categor into horizont text detect arbitrarili orient text detect and multilingu text detect indian scenario and non-indian scenario method
+differ kind of challeng are explain with exampl and various type of applic are discuss to know the import of the text detect process
+tabl are demonstr for all categori to provid use inform for the reader
+final possibl futur direct are discuss with respect to all categori and method are evalu use dataset such as icdar 2003 icdar 2013 icdar 2015 nusdataset trecvid yvt msrrc svt msra kaist hau s neocr dataset orient scene text dataset artifici text dataset and own horizont arbitrarili orient multilingu text dataset .

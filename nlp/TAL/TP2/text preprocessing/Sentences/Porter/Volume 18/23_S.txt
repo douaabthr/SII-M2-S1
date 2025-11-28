@@ -1,0 +1,9 @@
+address class imbal in remot sens use deep learn approach a systemat literatur review
+class imbal is one of the major issu for the applic of deep learn for remot sens imageri
+high-resolut remot sens imag sampl set are prone to caus the problem of sampl imbal among class due to the skew distribut of ground featur which ha been a huge challeng to machin learn and data mine and arous strong attent
+despit the emerg interest in deep learn dl empir research on it effect with imbalanc data in remot sens remain scarc
+therefor thi studi aim to systemat review exist studi use dl approach for handl class imbalanc data in the field of remot sens focus on it signific in critic applic such as land use land cover classif pixel-wis segment and object detect
+thi studi present the most wide use balanc algorithm publish from 2016 to 2024
+thi survey divulg that while use dl technolog either the data augment can be appli to the minor class imag to gener more vari sampl or use algorithm-level method by incorpor modif to the loss function such as cross-entropi focal loss dice loss by assign higher weight to minor class sampl ensur the model pay more attent to underrepres class dure train
+while tradit techniqu such as data sampl and cost-sensit learn continu to be relev emerg method such as gan which leverag neural network featur learn capabl show promis
+our discuss identifi research gap and provid insight to guid futur effort in util dl for imbalanc data in remot sens applic .

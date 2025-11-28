@@ -1,0 +1,12 @@
+deep learn base dynam task offload in mobil cloudlet environ
+the mobil comput world is migrat from 4g to 5g and one of the major offer of 5g is the seamless comput power and it is the major set back in the current scenario
+the major difficulti that need to be address are comput qualiti of servic
+speed power and secur
+thi research paper aim in address the issu of task manag in the mobil system that is directli relat to qualiti
+the articl propos a deep learning-bas algorithm that perform dynam task offload in the mobil cloudlet sinc cloudlet aid in the reduct of the delay that occur in the wlan
+the delay in perform task is one of the major drawback of cloudlet that it is depriv of resourc when compar to cloud server due to which the task that are to be perform are divid and is design to mobil devic differ cloud server and cloudlet itself
+therefor to determin the combin of devic requir to perform differ task deep learn algorithm are consid
+the algorithm is respons to identifi the subtask the subtask that ha to be computed/execut in which devic or cloudlet or cloud server
+the propos algorithm is name deep learn base dynam task offload in mobil cloudlet dldto
+the algorithm is implement and compar with cloudlet base dynam task offload cdto
+the overal analysi and comparison with the exist cdto for job alloc prove that the perform of the propos dldto algorithm is better in term of energi consumpt and complet time .

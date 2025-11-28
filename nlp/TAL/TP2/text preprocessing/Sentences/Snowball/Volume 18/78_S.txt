@@ -1,0 +1,8 @@
+an applic of a two-level genet search for the soft-clust vehicl rout problem
+we propos a two-level hybrid genet search hgs for the soft-clust vehicl rout problem softcluvrp an extens of the capacit vrp where custom are group into cluster that vehicl can enter and exit multipl time to reduc cost
+the method decompos the problem into cluster-level and node-level subproblem each optim via tailor local search
+node-level rout are refin by solv a travel salesman problem for each rout enhanc by seven well-known neighborhood
+cluster-level optim repres cluster as sequenc of consecut visit to their node model with a newli introduc sequenc chromosom and optim through a sequence-bas best-insert strategi
+a polar sector-bas inter-rout swap further boost effici
+test on benchmark instanc the algorithm achiev competit result set 191 new upper bound across 232 case and demonstr strong converg behavior and scalabl
+code avail at https github . com/vlatorre847/hgs-softcluvrp .

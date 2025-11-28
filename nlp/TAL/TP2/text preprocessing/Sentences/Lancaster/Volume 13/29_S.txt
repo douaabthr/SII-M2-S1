@@ -1,0 +1,9 @@
+a study on metah approach for gen select in microarray dat algorithm apply and op challeng
+in the rec decad research hav introduc an abund of feat select method many of which ar study and analys ov the high dimend dataset typ tiny numb of inst and hundr or thousand of gen
+feat select method provid a way of reduc comput cost improv predict perform and bet understand of the dat structure
+howev it is a challeng task due to two reason such as the consid solv spac and feat interact
+a divers of feat select method is est and apply on high dimend dataset which includ the metah algorithm
+in thi pap we foc on the bas algorithm structures of metah for feat select that rev the predomin gen cal biomark in microarray gen express dat sery with limit resourc
+in addit mor than hundr artic ar car screened to prep the up-to-date comprehend work on the metah approach for feat select and also discuss a rang of op issu of rec metah approach for feat select
+furtherm we hav apply som metah techn for feat select on gen express dataset to demonst the appl of method
+bas on thi comprehend survey thi artic suggest som cruc recommend to research for choos a suit method from the reposit of feat select method .

@@ -1,0 +1,6 @@
+data storag in cellular dna contextu divers encod scheme
+natur has been use dna to store biolog data for million of year and final human are learn to use the same medium for our own data
+in this paper we survey the field of cellular dna encod where encod scheme are use to insert data into pcdna and ncdna area while bypass the biolog restrict associ with those area
+we first character the uniqu bio-restrict associ with exist cellular dna encod scheme then we contrast the scheme with respect to the restrict they meet support featur and implement detail
+we discuss the pros and con of the implement of each encod scheme and make recommend accord
+final we highlight exist gap and provid our insight into futur research direct .

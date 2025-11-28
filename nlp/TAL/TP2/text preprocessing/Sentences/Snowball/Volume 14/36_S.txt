@@ -1,0 +1,11 @@
+an effici method for group key manag in internet of thing use machin learn approach
+internet of thing iot repres a network of pervas devic with differ characterist and featur
+it is import to provid secur in iot as internet play a promin role in the communic process
+in this paper a novel group and hierarch group key manag scheme is propos
+the devic are found into group and place into various level of hierarchi
+the group leader share a key to the member in the group and the key need to be updat base on the entri and exit of the member into and out of the group
+also the machin learn techniqu are use to make the system adapt to the provis of the key to the devic which enter into the group
+increment gaussian mixtur model is use to determin whether the particular devic belong to the group or not
+the propos algorithm machin learn base group and hierarch key manag is simul and compar with the group and hierarch key manag scheme for solv secur problem in iot in term of throughput and delay with vari no
+of group and overal cost with respect to no
+of node and mobil speed .

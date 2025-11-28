@@ -1,0 +1,10 @@
+A novel hybrid bat algorithm with a fast clustering-based hybridization
+Bat algorithm BA is a new and promising metaheuristic search algorithm which could outperform existing algorithms
+However BA can be easily trapped in a local optimum regarded to low exploration ability
+The present study proposed a new local-search-based hybrid heuristic to escape such scenario
+The proposed hybrid BA hBA uses a clustering-based hybridization method which detects the early convergence of BA population by analyzing similarities among individuals
+The main motivation for such an analysis is that when BA is continually converging the similarity among individuals becomes higher
+The proposed hBA is extensively evaluated on CEC2017 benchmark suite
+The Experiments demonstrate that the algorithm achieves better results than continues variants of BA in every way
+Moreover as a case study a binary version of the proposed hBA hBBA is applied to the well-known feature selection problem
+The recorded results on 13 datasets demonstrate that hBBA would be considered as a new state-of-art in metaheuristic-based wrapper feature selection methods .

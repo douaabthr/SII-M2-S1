@@ -1,0 +1,10 @@
+numer optim and feed-forward neural network train use an improv optim algorithm multipl leader salp swarm algorithm
+metaheurist are one of the most promis techniqu for solv optim problem
+salp swarm algorithm ssa is a new swarm intellig base metaheurist
+to improv the perform of ssa this paper introduc multipl leader salp swarm algorithm mlssa which has more exploratori power than ssa
+the algorithm is test on sever mathemat optim benchmark function
+result are compar with some well known metaheurist
+the result repres the capabl of mlssa to converg toward the optimum
+in recent studi mani metaheurist techniqu are appli to train feed-forward neural network
+in this paper mlssa is also appli for neural network train and is analys for thirteen differ dataset
+perform is compar with ssa particl swarm optim differenti evolut genet algorithm ant coloni optim and evolut strategi .

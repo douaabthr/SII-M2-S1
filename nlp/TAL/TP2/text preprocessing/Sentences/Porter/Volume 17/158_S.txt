@@ -1,0 +1,12 @@
+dynam of rapid evolut on the basi of phenotyp adapt and ecolog opportun
+recent studi have demonstr that evolut can be observ in a few dozen gener especi when speci occupi a new ecolog opportun due to environment chang
+there are sever factor that induc thi rapid evolut and are relat to the phenotyp and it respons to the environ
+thi respons is then determin by phenotyp variat becaus if pattern of divers in a popul produc a rapid respons to an environment chang then rapid adapt to the new environ can occur
+thi paper aim to investig pattern of evolut of speci in an artifici ecosystem and to highlight some pattern that promot rapid evolut
+understand how rapid evolut occur is not onli of fundament import in understand evolutionari process and speci conserv but also to provid support for improv the resolut of certain type of problem especi those in which the solut is time-vari
+to achiev the object of thi paper a comput model of adapt radiat wa design use the concept of biogeograph comput an area of knowledg that studi ecosystem as inform processor a fundament principl of natur comput
+habitat are repres by adapt surfac which in turn are compos of differ ecolog opportun
+the result show for exampl that dramat chang in ecosystem can lead to a rapid respons and a rapid adapt to new ecolog opportun mainli becaus of the emerg and self-sustain behaviour promot by the continu speciat extinct and adapt of speci
+thi emerg dynam support the thesi that rapid environment chang can lead to rapid evolut
+thi behaviour in turn is highli desir when consid time-vari problem solv
+if solut to a problem are chang over time sometim it is necessari to rapidli find new solut .

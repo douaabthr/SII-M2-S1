@@ -1,0 +1,15 @@
+sea lion with enh expl phas for optim of polynom fit with sem in lean technolog
+with the est of lean manufact myriad industry impl the lean manufact principl and guidelin
+to train the profess bas on certain policy to achiev continu improv in term of produc and minim wast
+howev the complex such as vary sustain multi-dimensional view fact siz to nam just a few neg influ the perform of deploy lean manufact in industry
+it is theref very import for company to recogn and understand the crit success fact for success impl lean manufact
+hent thi pap plan to develop a model on concern the analys of lean manufact to find the most import fact regard the technolog among the industry
+with thi int thi pap is analys through three phas
+in the first phas the prep questionnair is distribut to the profess in vary company
+in the questionnair al the mand quest ar includ
+then the profess ar recommend to fil the prec inform as far as poss
+in the second phas the respons from the concern practit assocy with the industry ar consid for analys
+herein the analys is carry out bas on structural equ model approach with the contribut of high ord stat analys which is perform us the input fact such as the lean aw lean technolog org support org perform employ involv and man commit among the industry via attain bet maxim lik valu of the questionnair
+in the third phas the predict of polynom fit of the respons i. e
+the object funct is achiev with the aid a novel optim algorithm slno-ee model sea lion with enh expl phas which is the extend vert of slno sea lion optim
+fin the propos slno-ee model is evalu ov tradit slno model in term of certain perform evalu to exhibit the improv in predict acc .

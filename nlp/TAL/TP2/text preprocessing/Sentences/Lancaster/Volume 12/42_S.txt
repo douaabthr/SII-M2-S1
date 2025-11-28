@@ -1,0 +1,15 @@
+unsuperv genet program bas link rul ugplr min for ent link in sem web
+in the past decad the sem web dat commun has focus on publ and interlink dat
+dat publ is now wid don act but mor effort nee to be devot to interlink dat sourc
+org hav been publ dat us diff dat cur and publ policy that hav result in the prol of dat sourc
+thi prol has brought sev challeng in interlink dat sourc
+diff dat sourc us diff property describ to describ the sam ent
+ent link problem is at the cor of dat interlink it ident and link inst record refer to the sam real-world ent
+the state-of-the-art ent link approach ar bas on superv learn
+superv approach rely on the label dat for a bet learn model and suff in the abs of label dat
+the cost of label is high and it is infeas to carry out man label process for dataset hav bil of record
+in thi work the auth hav propos a simpl heuristic-based approach to gen the label dat
+the propos approach us autom gen label dat to train an und genet program bas link rule-learning model
+the propos approach is scal for larg dataset and achiev comp perform to oth superv approach whil elimin the nee for label dat
+the propos approach work in the unsuperv ful autom way at the sam tim keep the adv of superv approach such as high acc and less complex
+expery analys prov that the propos approach is effect than many stat of the art approach .

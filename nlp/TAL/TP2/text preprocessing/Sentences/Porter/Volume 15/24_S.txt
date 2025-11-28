@@ -1,0 +1,8 @@
+a multi-object approach for solv transmiss expans plan problem consid wind power uncertainti
+security-constrain transmiss expans plan sctep is a vital power system problem
+in last year to attain energi sustain wind power ha receiv signific attent as one of the popular renew energi resourc
+thi paper solv multi-object optim of tep consid uncertainti of wind power
+the uncertainti is model by weibul probabl distribut function and monte-carlo simul is employ to consid the uncertainti into the problem
+in the problem the object are invest cost of new line and expect energi not suppli obtain by n-1 secur constraint criterion
+sinc sctep is a complex large-scal mixed-integ and non-linear combinatori optim problem multi-object crow search algorithm and multi-object particl swarm optim are util to find pareto front
+on modifi 24 bu ieee system the optim framework is investig and the result are discuss .

@@ -1,0 +1,10 @@
+cross domain associ use transfer subspac learn
+transfer learn has gain more attent recent by util knowledg acquir from one domain to advanc a learn perform in anoth domain
+exist homogen transfer learn method have progress to a point where featur space are common in train and test domain
+howev heterogen transfer learn is still in it nascent stage where featur of train and test domain are differ
+take this into account bregman diverg regular is use to minim the probabl distribut differ between train and test domain and to take them togeth to a share subspac
+to discrimin data within individu domain a project matrix is obtain use fisher linear discrimin analysi subspac learn algorithm
+experiment is perform on two effici use biometr the face and fingerprint
+two type of cross-domain set are use 1 face finger2fing where train sampl come from face label sampl and fingerprint unlabel sampl data set while test is perform on a fingerprint dataset
+2 finger face2fac where train sampl come from fingerprint label sampl and face unlabel sampl data set while test is perform on a face dataset
+this paper propos a cross domain associ between face and fingerprint that find util in forens applic .

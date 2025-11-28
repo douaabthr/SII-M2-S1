@@ -1,0 +1,6 @@
+imbalanc data classif algorithm with support vector machin kernel extens
+learn from the imbalanc data sampl so as to achiev accur classif is an import research content in data mine field
+it is veri difficult for classif algorithm to achiev a higher accuraci becaus the uneven distribut of data sampl make some categori have few sampl
+a imbalanc data classif algorithm of support vector machin ke-svm is propos in this articl this algorithm achiev the initi classif of data sampl by train the maximum margin classif svm model and then obtain a new kernel extens function
+base on chi squar test and weight coeffici calcul through train the sampl again by the new vector machin with kernel function to improv the classif accuraci
+through the simul experi of real data set of artifici data set it show that the propos method has higher classif accuraci and faster converg for the uneven distribut data .

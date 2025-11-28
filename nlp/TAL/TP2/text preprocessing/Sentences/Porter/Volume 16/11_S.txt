@@ -1,0 +1,7 @@
+optim fuzzi base symbiot organ search algorithm for engin design problem
+symbiot organ search so is a novel metaheurist algorithm base on reciproc behaviour of organ in environ by consid three imper relationship such as mutual commens and parasit
+the mutual phase of so algorithm contempl benefit factor bf which influenc the so algorithm
+in thi work two novel approach are introduc to enhanc the compet of so algorithm to exquisit preserv the balanc between explor and exploit
+sine cosin algorithm sca is use to decid relev influenti paramet of so algorithm such as bf and further sca optim fuzzi infer system is use for thi purpos
+the efficaci and effect of propos algorithm are demonstr over other recent propos algorithm by solv benchmark function engin design problem and predict of next day close price of dji market
+the propos sca optim fuzzi adapt so algorithm is substanti with the result which outperform other algorithm hypothet by use wilcoxon rank sum test .

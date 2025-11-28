@@ -1,0 +1,12 @@
+covid-19 sever detect use machin learn techniqu from ct-imag
+covid-19 ha spread worldwid and the world health organ wa forc to list it as a public health emerg of intern concern
+the diseas ha sever impact most of the peopl becaus it affect the lung and caus sever breath problem and lung infect
+differenti other lung ailment from covid-19 infect and determin the sever is a challeng process
+doctor can give vital life-sav servic and support patient live onli if the sever of their condit is determin
+thi work propos a two-step approach for detect the covid-19 infect from the lung ct imag and determin the sever of the patient s ill
+to extract the featur pre-train model are use and by analyz them integr the featur from alexnet densenet-201 and resnet-50
+the covid-19 detect is carri out by use an artifici neural network ann model
+after the covid-19 infect ha been identifi sever detect is perform
+for that imag featur are combin with the clinic data and is classifi as high moder low with the help of cubic support vector machin svm
+by consid three sever level patient with high risk can be given more attent
+the method wa test on a publicli avail dataset and obtain an accuraci of 92.0% sensit of 96.0% and an f1-score of 91.44% for covid-19 detect and got overal accuraci of 90.0% for covid-19 sever detect for three class .

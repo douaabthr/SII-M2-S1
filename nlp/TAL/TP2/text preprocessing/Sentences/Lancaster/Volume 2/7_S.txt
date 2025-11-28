@@ -1,0 +1,12 @@
+evolv of vis control for obstac avoid in mobl robot
+the purpos of thi work is to autom design vis algorithm for a mobl robot adapt to it cur vis context
+in thi pap we address the particul task of obstac avoid us monocul vis
+start from a set of primit compos of the diff techn found in the lit we propos a gen structure to repres the algorithm us standard resolv video sequ as an input and veloc command to control a wheel robot as an output
+gramm rul ar then us to construct correct inst of algorithm that ar then evalu us diff protocol evalu of traject perform in a goal reach task or imit of a hand-guid traject
+a genet program is apply to evolv pop of algorithm in ord to optim the perform of the control
+the first result obtain in a sim environ show that the evolv produc algorithm that can be easy interpret and which ar clear adapt to the vis context
+howev the result traject ar oft er and the gen capac ar poor
+to improv the result we propos to us a two-phase evolv combin imit and goal reach evalu and to ad som constraint in the gramm rul to enforc a mor gen behavy
+the result obtain in sim show that the evolv algorithm ar mor efficy and mor gen
+fin we apply the imit bas evolv on real sequ and test the evolv algorithm on a real robot
+though simpl by drop the goal reach constraint the result algorithm behav wel in a corrid cent task and show certain gen capac .

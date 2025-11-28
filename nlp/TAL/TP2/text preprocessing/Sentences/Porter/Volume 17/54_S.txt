@@ -1,0 +1,10 @@
+the novel multi-swarm coyot optim algorithm for automat skin lesion segment
+coyot optim algorithm coa is one of population-bas swarm intellig algorithm inspir by the swarm behavior of coyot
+howev coa show it effect in solv the global optim problem it suffer from prematur converg and stagnat in local optima espici in a complex space
+in thi paper the multi-swarm topolog is employ where the popul is divid into sever sub-swarm
+the perform of multi-swarm coyot optim algorithm mcoa is evalu on a set of benchmark function provid in the ieee cec 2005 and ieee cec 2017 special session
+also it is evalu for solv multi-level threshold problem where 44 skin dermoscop imag obatin from ph2 benchmark dataset are use
+the experiment result show that employ mutli-swarm topolog can significantli improv the popul divers and thu the explor abil
+also the result reveal that propos mcoa ha the advantag of remark stabil and high accuraci compar with it classic version and other state-of-art meta-heurist optim algorithm
+addit a new skin lesion segment model base on mcoa is propos as well
+the result illustr the effect and effici of the propos model and it can be further use for skin diseas diagnosi and treatment plan .

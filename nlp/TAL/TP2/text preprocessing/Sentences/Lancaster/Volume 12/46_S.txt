@@ -1,0 +1,7 @@
+a direct method for solv calcul of vary problem us the whal optim algorithm
+a num algorithm for solv problem of calcul of vary is propos and analys in the pres pap
+the method is bas on direct minim the funct in it discret form with finit dimend
+to solv the result optim problem the rec propos whal optim algorithm is us and adopt
+the method propos in thi work is cap of solv constrain and unconstrain problem with fix or fre endpoint condit
+num exampl ar giv to check the valid and acc of the propos method in pract
+the result show the supery acc and efficy of the propos techn as comp to oth num method .

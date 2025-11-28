@@ -1,0 +1,7 @@
+improv normal graph cut with gener data for enhanc segment in cervic cancer detect
+cervic cancer must be detect at an earlier stage sinc the late diagnosi reduc the probabl of surviv among the women popul of the world
+in thi paper improv normal graph cut with gener data for enhanc segment ingc-gd mechan wa propos for effect detect of the cytoplasm and nucleu boundari of the pap smear cell in order to detect the cervic cancer in an optim manner
+thi propos ingc-gd approach is implement over the pap smear cervix cell in order to analyz it hazi and overlap boundari for superior detect of cervic cancer cell
+in thi ingc-gd approach the preprocess cervic imag is convert into an improv normal graph cut set for combin the merit of spatial and intens inform relat to the process imag use for analysi
+the method of maximum flow algorithm is appli over the deriv normal graph cut set for determin the optim pixel point that aid in superior detect of cervic cancer
+the result of the propos ingc-gd mechan is determin to be predomin in enhanc the classif accuraci rate by 28% superior to the investig graph cut-bas segment approach .

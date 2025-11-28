@@ -1,0 +1,13 @@
+extrins evolv system for breast cant detect
+standard method of assess breast cant is a tripl test assess
+in thi method init a thorough med examin and paty hist is evalu second im of the breast us x-rays and/or ultrasound is don and fin a preop cytodiagnos is don that is eith fin needl aspir cytolog fnac or cor needl biopsy cnb or both
+fnac being a minim invas and rapid perform test is prefer in many cas ov cnb that is mor invas
+if a tripl test giv posit result in any on of the three step then the result is tak posit
+fnac involv determin the cel siz and shap paramet and bas on their valu a cas is class as benign or malign
+to autom the process of decid mak a novel techn has been propos
+in thi techn a digit log circuit was evolv us cartes genet program cgp
+a cgp network was train and then test with fnac feat dat from the breast cant wisconsin dataset
+the dataset consist of 669 sampl of which 350 sampl wer us for train purpos and then the train system was evalu with 349 test sampl
+a numb of expery wer perform each with a diff set of network paramet
+the best evolv network class the sampl with an acc of 99.42% which is high than that produc with most of the contemp techn
+the network so produc can be impl on re-configurabl hardw .

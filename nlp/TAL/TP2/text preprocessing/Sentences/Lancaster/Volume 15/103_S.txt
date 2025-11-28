@@ -1,0 +1,9 @@
+a new improv salp swarm algorithm us logarithm spir mech enh with chao for glob optim
+rec salp swarm algorithm ssa has emerg as a new population-based meta-heuristic techn in the are of optim
+it is main inspir from the navig and for behavio of salp swarm
+the af algorithm weak is stagn in loc optim and low converg rat
+to overcom thes drawback we propos a new improv spir chaot salp swarm algorithm cal isc-ssa
+comp with origin ssa isc-ssa includ logarithm spir mech incorp with chaot search method cap to enh furth it perform
+the funct of isc-ssa algorithm is first test on 20 unimod multimod and composit mathem optim problem with ten diff chaot map to select the most appropry on for isc-ssa mod
+then the algorithm is apply to solv sev engin optim problem
+the comp expery result with competit metah algorithm rev that isc-ssa algorithm can gen the best solv .

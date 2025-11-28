@@ -1,0 +1,10 @@
+decad research on text detect in images/video a review
+text pres in an im or a video is a good repres as it provid sem inform of a respect im or video fram
+nowaday detect of text inform from video ar very challeng and excit research are in video process and machin learn field
+text detect find a vit rol in cur apply such as index easy and efficy retriev keyword bas im search and ev id
+howev the text reg detect from video has sev challeng lik low resolv complex background align of text and vary in siz col styl
+the ampl of work hav been don on text detect and al thes consid diff property to distinct the text reg from it background in a video fram
+the main aim of thi pap is to demonst the comprehend study of decad research on vary video text detect method which ar categ into horizont text detect arbit ory text detect and multil text detect ind scenario and non-ind scenario method
+diff kind of challeng ar explain with exampl and vary typ of apply ar discuss to know the import of the text detect process
+tabl ar demonst for al categ to provid us inform for the read
+fin poss fut direct ar discuss with respect to al categ and method ar evalu us dataset such as icd 2003 icd 2013 icd 2015 nusdataset trecvid yvt msrrc svt msra kaist hau s neocr dataset ory scen text dataset art text dataset and own horizont arbit ory multil text dataset .

@@ -1,0 +1,12 @@
+evolv intellig driv styl recognit of engl novel bas on text analys
+novel styl recognit is of gre ref sign for analys the qual and read of work
+writ styl is the analys of an auth s writ styl through stat method
+in thi pap our main purpos is to ident the styl of engl novel bas on text analys method
+we us the method of inform entrop calc which is an evolv intellig method to ident the styl of engl novel so as to provid ref for bet grasp the cont of lit work
+we foc on how to process text dat and min text intrins feat to bet ident engl novel styl
+to bet solv the problem we design follow strategies in our propos method
+first we nee to collect and process engl novel sampl
+then tok the text and consid the object cont that nee to be analys
+the next step is to count the numb of word and calc the inform entrop
+fin the dat is process and analys to get a conclud
+the expery result prov that the method propos in thi pap has good evalu perform .

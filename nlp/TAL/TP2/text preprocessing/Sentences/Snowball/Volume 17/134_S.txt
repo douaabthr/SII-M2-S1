@@ -1,0 +1,13 @@
+fan a framework for featur select in sentiment classif use a modifi firefli algorithm
+sentiment classif is a preval task in text mine in which a text classifi into posit negat or neutral class
+sentiment classif is an essenti issu of decision-mak for peopl compani etc
+featur select is the most influenti stage in sentiment classif
+due to the np-hard natur of the problem and a huge of exist text the tradit featur select techniqu such as statist techniqu generat sub-optim solut
+swarm intellig algorithm are extens devot to optim problem
+these algorithm produc featur by increas the classif perform and decreas the comput complex and featur set size
+in this studi the author propos a framework use the modifi multi-object firefli algorithm name fan firefli algorithm naïv bay sentiment
+the two target are decreas the naïv bay error classifi and the k-nearest neighbor
+a neural network is use as the final classifi
+the three dataset on movi review and twitter domain are appli to evalu the fan
+the fan outperform it counterpart regard precis accuraci and recal
+the fan yield 96.88% precis 97.65% accuraci and 96.54% recal .

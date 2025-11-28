@@ -1,0 +1,8 @@
+a two-objective evolv approach to design lossy compress algorithm for tiny nod of wireless sens network
+sint tiny nod of a wireless sens network wsn ar typ pow by battery with due to miny and cost a limit capac with the aim of extend the lifetim of wsns and mak the exploit of wsns ap a lot of research has been devot to sav energy
+although a numb of fact contribut to pow consum radio commun has been gen consid it main caus and thu most of the techn propos for energy sav hav main focus on limit transmission/recept of dat for inst through dat compress
+as sens nod ar equip with limit comput and stor resourc en compress requir to develop purposely-designed algorithm
+to thi aim we propos an approach to gen lossy compress to be deploy on singl nod bas on a diff puls cod mod scheme with quant of the diff between consecut sampl
+the quant level and thresholds which allow achiev diff trade-offs between compress perform and inform loss ar determin by a two-objective evolv algorithm
+we test our approach on four dataset collect by real wsn deploy
+we show that the lossy compress gen by our approach can achiev sign compress ratio despit neglig reconstruct er and outperform ltc a lossy compress algorithm purpos design to be embed in sens nod .

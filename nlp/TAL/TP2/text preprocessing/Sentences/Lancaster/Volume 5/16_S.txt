@@ -1,0 +1,9 @@
+kernel repres for evolv continu funct
+to paramet continu funct for evolv learn we us kernel expand in nest sequ of funct spac of grow complex
+thi approach is particul pow when deal with non-convex constraint and discontinu object funct
+kernel method off a numb of benef property for paramet continu funct such as smooth and loc which mak them attract as a bas for mut op
+beyond such pract consid kernel method mak heavy us of in produc in funct spac and off a wel est regul framework
+we show how evolv comput can profit from thes property
+search funct spac of it increas complex allow the solv to evolv from a simpl first guess to a complex and high refin funct
+at transit point wher the evolv strategy is confront with the next level of funct complex the kernel framework can be us to project the search distribut into the extend search spac
+the feas of the method is demonst on challeng traject plan problem wher redund robot hav to avoid obstac .

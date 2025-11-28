@@ -1,0 +1,9 @@
+mesh smooth of complex geometry us vary of cohort intellig algorithm
+sev approach includ optim bas method wer develop for mesh qual improv us on nod mov keep intact the el connect
+in thi research a socio-inspired optim approach refer to as cohort intellig ci was investig for mesh smooth
+minim of sum of condit numb of al el was the fin aim
+the geomet bound of the object defin the surfac and edg constraint for mov of extern nod
+mov of intern nod was complet govern by vary of ci algorithm viz
+roulet wheel follow best follow bet aly and random select follow worst and follow itself
+the approach was demonst with pentagon prism hexagon prism and hexagon prism with hol
+the perform of follow best and roulet wheel vary of ci algorithm was observ to be satisfact as comp to oth vary of the algorithm .

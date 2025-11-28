@@ -1,0 +1,10 @@
+stochast pfrcossim lay for solv filt redund problem in cnns apply on plant diseas class
+convolv neur network cnns hav achiev remark success in vary art intellig domain particul in pattern recognit im process and speech recognit
+howev the grow complex of thes model introduc challeng rel to paramet redund sign impact cnn perform
+thi pap address the issu of increas paramet redund focus on the spec problem of filt redund dur cnn train
+the propos approach involv regul of the init filt to reduc redund at each convolv lay
+a novel lay pfrcossim is introduc comput the cosin simil between filt us in cnn train to ens filt homog
+we reset the filt us an orthogon init bas on the random cho of kernel concern al filt in the sam lay
+the method is test on a three-layer cnn model and extend to common architect lik lenet and vgg16
+valid is perform through plant diseas class us dataset plant patholog 2020 and plant diseas recognit
+the apply of thi approach yield sign acc improv excess 99 .

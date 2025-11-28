@@ -1,0 +1,6 @@
+exploratori data analysi with artifici immun system
+we use a modifi version of the clonalg algorithm to perform exploratori data analysi
+sinc we wish to compar result from a number of method we onli report on linear project which have uniqu solut
+we incorpor a type of gram schmidt orthogonalis 15 into the affin matur process to captur multipl compon
+we combin the new algorithm with reinforc learn 17,20 and with cross entropi maxim 13,19
+final we combin sever differ non-standard adapt method use bag and show that we get reliabl converg to accur filter .

@@ -1,0 +1,11 @@
+risk neut in learn class system
+both econom and biolog hav com to agr that success behavy in a stochast environ respond to the vary of pot outcom
+unfortun when biolog and econom paradigm ar mat togeth in a learn class system lcs decision-making ag cal class typ simply ign risk
+sint a funda problem of learn is risk man lcs hav not alway perform as wel as theoret predict
+thi pap develop a novel model of risk-neutral reinforc learn in a tradit bucket brigad credit-allocation market und the press of a genet algorithm
+i demonst the appl of the bas model to the class lcs design and reexamin two bas issu wher tradit lcs perform fail to meet expect default hierarchy and long chain of coupl class
+risk-neutrality and noisy prob auct cre dynam inst in both area whil id pref result in market fail in default hierarchy and expon attenu of pric sign down class chain
+despit the limit of simpl risk-neutral class i show they re cap of cheap short-run em of mor rat behavy
+stil risk-neutral inform market ar a dead end
+the model suggest a path toward a new typ of lcs built on stabl heterog and risk-averse pref und efficy auct and access to mor complet market exploit by compet risk man strategies
+thi wil requir a rad rethink of the evolv and econom algorithm but ultim herald a return to a market-based approach to lcs .

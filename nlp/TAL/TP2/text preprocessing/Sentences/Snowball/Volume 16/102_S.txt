@@ -1,0 +1,10 @@
+big data-driven english teach for social media a neural network-bas approach
+big data and intellig artifici have great broaden the channel for peopl to acquir knowledg
+the practic applic of artifici intellig technolog in colleg english classroom can not onli help teacher prepar more scientif and advanc teach plan and also effect improv the qualiti of colleg english teach
+in this paper we employ deep neural network to design a big data-driven english teach improv scheme
+the propos method can help teacher and student improv teach strategi and assist student to learn more accur and effici
+first we analyz the current defici and reason in english teach
+second we analyz the applic of artifici intellig in text corpus construct
+third we use neural network to design an intellig face recognit system for teacher to improv the attend rate
+forth by analyz the student write we design a write score method base on the neural network model which can evalu student write content
+final we experiment evalu and verifi the effect of the propos method in this paper .

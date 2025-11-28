@@ -1,0 +1,10 @@
+cybernet a hybrid deep cnn with n-gram featur select for cyberbulli detect in onlin social network
+cyberbulli is an experi that creat negat impact on individu
+becaus of the begin of the social network cyberbulli becom serious issu
+state of art machin learn base approach outperform to provid the maximum accuraci at charact level detect of abus word caus cyberbulli
+to achiev the promin accuraci in this paper we adopt the deep learn mechan with seven layer convolut neural network cnn model with n-gram featur select name as hybrid deep cnn hdcnn
+by util this model in four stage architectur the word level and charact level cyberbulli detect perform effect
+even though the attack creat the negat impact on social network use varieti of uncategor and abus word
+to solv this problem this research work major focus on synonym-charact level cyberbulli detect which is refer as cybernet model here after
+the propos cybernet model train with synonym of all word with charact to prevent malici user from send cyberbulli text in no possibl way
+experiment result conduct on real world dataset the qualit result analysi prove that the propos approach provid much better perform compar to the convent approach .

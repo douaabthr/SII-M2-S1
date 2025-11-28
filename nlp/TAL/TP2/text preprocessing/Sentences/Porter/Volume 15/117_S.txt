@@ -1,0 +1,7 @@
+optimum-path forest stacking-bas ensembl for intrus detect
+machin learn techniqu have been extens research in the last year mainli due to their effect when deal with recognit or classif applic
+typic one can comprehend use a machin learn system to autonom deleg routin save human effort and produc great insight regard decision-mak task
+thi paper introduc and valid a stacking-bas ensembl approach use optimum-path forest classifi in intrus detect task
+instead of onli use the famou nsl-kdd dataset we propos a new dataset call unespi which we believ will fill the gap concern new intrus detect dataset
+both dataset were evalu under sever classifi includ logist regress decis tree support vector machin optimum-path forest and compar against optimum-path forest stacking-bas ensembl
+experiment result show an optimum-path forest stacking-bas ensembl classif suitabl particularli when consid it abil to gener larg volum of data while sustain it perform .

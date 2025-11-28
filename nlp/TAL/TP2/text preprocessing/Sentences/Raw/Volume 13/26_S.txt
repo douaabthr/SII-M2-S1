@@ -1,0 +1,8 @@
+An initialization method for the latent vectors in probabilistic matrix factorization for sparse datasets
+Recommendation-based e-commerce applications have been utilized by many companies to increase their sales performance
+Probabilistic matrix factorization PMF is a widely-used method for collaborative filtering in recommendation systems
+Although the method s performance has been demonstrated successfully in many challenging datasets including Netflix they are not able to perform well in large sparse datasets where there is considerably low number of rating information
+As a remedy numerous advancements of PMF were proposed which incorporated side information into latent vectors as priors in order to ensure richer prior information in them
+However in cases where such side information is inaccessible PMF-based algorithms do not perform well
+In this study we propose two new initialization methods for PMF which take into consideration the distribution statistics of user product ratings to enrich latent vectors
+The experiments show that the proposed solutions give better results to those in the literature in very sparse datasets .

@@ -1,0 +1,10 @@
+applic of interv laplac transform in a product system with price and qualiti depend demand via water cycl algorithm
+laplac transform is a potent mathemat approach utilis in mani disciplin includ mathemat engin physic and control theori
+it is gener use to simplifi challeng mathemat issu and solv differenti equat
+interv uncertainti is a notion use in decis theori risk analysi and statist to express and manag uncertainti in a more flexibl and less specif fashion
+it is also known as interval-valu uncertainti or interv uncertainti analysi
+it differ from point estim and precis probabl and is especi help when there is littl knowledg of a variabl s specif valu or when work with uncertain data
+here we appli the concept of interv laplac transform for solv a manufactur model as well as demand function is taken as interv form on sell price and the qualiti of the item
+we have solv the develop interv valu product model with the help of one numer exampl interv order relat and water cycl algorithm wca
+in order to justifi the result from wca we have compar the result from other popular metaheurist algorithm
+lastli an investig of post optim is be research to offer some manageri insight .

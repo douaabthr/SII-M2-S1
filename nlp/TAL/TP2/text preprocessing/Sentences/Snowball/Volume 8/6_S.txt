@@ -1,0 +1,4 @@
+a brief histori of learn classifi system from cs-1 to xcs and it variant
+the direct set by wilson s xcs is that modern learn classifi system can be character by their use of rule accuraci as the util metric for the search algorithm s discov use rule
+such search typic take place within the restrict space of co-act rule for effici
+this paper give an overview of the evolut of learn classifi system up to xcs and then of some of the subsequ develop of wilson s algorithm to differ type of learn .

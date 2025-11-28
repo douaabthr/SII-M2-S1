@@ -1,0 +1,6 @@
+on the complex of the el farol bar gam a sensit analys
+in thi pap we carry out a sensit analys for an agent-based model of the us of publ resourc as manifest by the el farol bar problem
+an ear study us the sam model has shown that a good-society equilibr charact by both econom efficy and econom eq can be achievedprobabilisticallyby a von neuman network and can be achievedsurelywi the pres of som ag hav soc pref such as the inequity-averse pref or the keeping-up-with-the-joneses pref
+in thi study we examin thi funda result by expl the inh complex of the model spec we address the effect of the three key paramet rel to siz nam the network siz the neighb siz and the mem siz
+we find that soc pref stil play an import rol ov al the siz consid
+nonetheless it is also found that when network siz becom larg the paramet the bar capac the attend threshold may also play a determin rol .

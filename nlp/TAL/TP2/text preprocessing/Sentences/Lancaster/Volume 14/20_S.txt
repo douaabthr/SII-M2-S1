@@ -1,0 +1,13 @@
+a novel improv predict of protein structural class us deep recur neur network
+for last few decad sequ arrang of amino acid hav been util for the predict of protein second structure
+rec method hav apply high dimend nat langu bas feat in machin learn model
+perform meas of machin learn bas model ar sign affect by dat siz and dat dimend
+it is a hug challeng to develop a gen model which can be train to perform both for smal and larg siz dataset in a low dimend framework
+in the pres research we suggest a low dimend repres for both smal and larg siz dataset
+a hybrid spac of atchley s fact ii iv v electron ion interact pot and skipgram bas word2vec hav been employ for amino acid sequ repres
+subsequ stockwel transform is apply to the repres to preserv feat both in tim and frequ domain
+fin deep gat recur network with dropout categorical-cross entrop er estim and adam optim is us for class purpos
+the introduc method result in bet predict acc for both smal 204,277 and 498 and larg siz pdb25 protein 640 and fc699 bench mark dat set of low sequ simil 25 40%
+the obtain class acc for pdb25 640 fc699 498 277 204 dataset ar 84.2% 94.31% 93.1% 95.9% 94.5% and 85.36% respect
+the maj contribut in thi research is that for the first tim we ver the protein second structural class predict in a very low dimend 18 d feat spac with a novel feat repres method
+second we also ver for the first tim the behavio of deep network for low dimend smal siz dat set .

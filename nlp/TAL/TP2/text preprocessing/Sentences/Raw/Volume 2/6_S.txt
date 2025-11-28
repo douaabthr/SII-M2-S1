@@ -1,0 +1,5 @@
+Special issue on genetic fuzzy systems new advances
+After almost forty years of development fuzzy systems have demonstrated their superb ability to solve different problems arising in various application domains
+In the last two decades the cooperative framework established made the research interest move to augment fuzzy systems with learning and adaptation capabilities
+Since the first pioneer works dated back to 1991 1 4 one of the most successful approaches to hybridize fuzzy systems with learning and adaptation methods apart of course from fuzzy neural networks has resulted in the so-called Genetic Fuzzy Systems GFSs 5 9
+These hybrid computational intelligence techniques augment the approximate reasoning method of fuzzy systems with the learning capabilities of evolutionary algorithms .

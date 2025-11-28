@@ -1,0 +1,10 @@
+enhanc forens speaker verif perform use the ica-ebm algorithm under noisi and reverber environ
+forens speaker verif perform reduc significantli under high level of nois and reverber
+multipl channel speech enhanc algorithm such as independ compon analysi by entropi bound minim ica-ebm can be use to improv noisi forens speaker verif perform
+although the ica-ebm wa use in previou studi to separ mix speech signal under clean condit the effect of use the ica-ebm for improv forens speaker verif perform under noisi and reverber condit ha not been investig yet
+in thi paper the ica-ebm algorithm is use to separ the clean speech from noisi speech signal
+featur from the enhanc speech are obtain by combin the feature-warp mel frequenc cepstral coeffici with similar featur extract from the discret wavelet transform
+the ident vector i-vector length normal gaussian probabilist linear discrimin analysi is use as a classifi
+the australian forens voic comparison and qut-nois corpora were use to evalu forens speaker verif perform under noisi and reverber condit
+simul result demonstr that forens speaker verif perform base on ica-ebm improv compar with that of the tradit independ compon analysi under differ type of nois and reverber environ
+for surveil record corrupt with differ type of nois car street and home at 10 db signal to nois ratio the averag equal error rate of the propos method base on ica-ebm is better than that of the tradit ica by 12.68% when the interview record are kept clean and 7.25% when the interview record have simul room reverber .

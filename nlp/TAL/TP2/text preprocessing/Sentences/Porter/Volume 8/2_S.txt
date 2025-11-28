@@ -1,0 +1,7 @@
+a semant network-bas evolutionari algorithm for comput creativ
+we introduc a novel evolutionari algorithm ea with a semant network-bas represent
+for enabl thi we establish new formul of ea variat oper crossov and mutat that we adapt to work on semant network
+the algorithm employ commonsens reason to ensur all oper preserv the meaning of the network use conceptnet and wordnet knowledg base
+the algorithm can be interpret as a novel memet algorithm ma given that 1 individu repres piec of inform that undergo evolut as in the origin sens of memet as it wa introduc by dawkin and 2 thi is differ from exist ma where the word memet ha been use as a synonym for local refin after global optim
+for evalu the approach we introduc an analog similarity-bas fit measur that is comput through structur map
+thi setup enabl the open-end gener of network analog to a given base network .

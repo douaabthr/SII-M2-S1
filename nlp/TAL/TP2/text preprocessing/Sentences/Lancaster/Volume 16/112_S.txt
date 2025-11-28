@@ -1,0 +1,22 @@
+class model for metic pres of heart diseas through nca us machin learn
+for the design and impl of clin decid support system comput tim and prognost acc ar very import
+to analys the larg collect of a dataset for detect and diagnos diseas machin learn techn ar us
+accord to the report of world heal org heart diseas is a maj caus of dea and kil in urb and rur area or worldwid
+the main reason for thi is a short of doct and delay in the diagnos
+the outcom pres of thi diseas is a very challeng job
+thi propos work us the approach of self-diagnosis algorithm fuzzy art neur network and nca and pca and imput method
+by the us of thi techn reduc the comput tim for predict of coron heart diseas
+for the impl of thi the two dataset ar us such as cleveland and statlog dataset
+in thi research work heart diseas is a diagnos by us the clin paramet of paty for ear stag
+class us for that random forest algorithm an and k-nn algorithm
+the dataset for the diseas predict meas ar us to acc calc the diff between vary and to determin wheth they ar correl or not
+for thi class model the perform meas is calc in requisit of their acc precid recal and spec
+thi approach is evalu on the heart diseas dataset for improv the acc perform result obtain
+the expery result obtain by nca provid gre perform in term of perform met for the multipl class lik rf dt nb svm
+the aim of thi study to develop the class model as wel as show a comp analys between ex system is discuss
+in thi pap for cleveland dataset has tak 303 inst and 14 attribut ar us
+thi dataset has preprocess dataset
+thi pap depict the high acc scor with the multipl class such as random forest svm and nb us nca is 99.34 and for dt is 98
+overal nca is best in term of class acc
+the result show not on acc for the propos method but obtain bet result for multipl class that exhibit their rely . in med sci thi approach is us to predict heart diseas at it ear stag . the outcom for knn sda nca fuzzy an for cleveland dataset acc achiev 98.56% and for statlog dataset 98.66%
+thi result describ the hybrid method us for predict of heart diseas and achiev bet result .

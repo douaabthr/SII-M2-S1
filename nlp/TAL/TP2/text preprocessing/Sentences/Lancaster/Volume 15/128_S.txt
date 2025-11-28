@@ -1,0 +1,12 @@
+a new approach for soc navig and interact us a dynam proxem model
+thi pap tre the problem of soc navig and hum robot interact
+in most prevy work address thi issu the proxem conceiv has been consid stat with regard to the act s nat
+furtherm the f-formation typ is not consid
+the diff act of peopl can not be consid simil
+for exampl the way to navig soc without disturb a group drink coff or discuss a post is diff just lik the interact loc when serv coff or explain a post
+the main contribut of thi pap is to propos a dynam proxem model approach dpma for soc navig and interact
+it is bas on proxem and spat model which allow the robot to navig soc by consid the comfort of peopl and to interact in appropry interact condit
+it consid the f-formation typ and the nat of the act addit to the diff soc spac and the navig and interact constraint
+then it us a soc map to encod them
+the perform and the efficy dpma ar evalu both in three sim environ us the ros stag sim and on a real robot us as a serv robot in a medy ev exampl
+prom result ar giv in thi pap .

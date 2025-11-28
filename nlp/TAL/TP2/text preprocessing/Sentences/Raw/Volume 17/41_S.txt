@@ -1,0 +1,10 @@
+Diabetic risk prognosis with tree ensembles integrating feature attribution methods
+Tree ensemble machine learning models offer particular promise for medical applications because of their ability to handle both continuous and categorical data their faculty for modeling nonlinear relationships and ease with which hyperparameters can be adapted to improve performance
+Modern methods include Random Forests XGBoost and LightGBM which are robust across many areas of diagnosis prognosis and medical treatments
+Yet a critical limiting factor of ensembles is that they are difficult to interpret due to their complex inner workings
+In medicine the ability to explain and interpret a model can be vital for clinical acceptance and trust
+Diabetes and cardiovascular disease are two of the main causes of death in the United States
+Identifying and predicting these diseases in patients is the first step towards stopping their progression
+Utilizing the NHANES diabetes mortality data set it is shown that the Random Forests ensemble with optimized hyperparameters yields a strong prognosis model
+Importantly conjoining Random Forests with SHapley Additive exPlanations SHAP yields reliable interpretability of the contributions and interactions among the features
+SHAP results are compared to the recently proposed Agnostic Permutation algorithm .

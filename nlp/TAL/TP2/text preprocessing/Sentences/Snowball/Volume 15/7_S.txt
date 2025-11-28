@@ -1,0 +1,8 @@
+a hybrid harri hawks-nelder-mead optim for practic nonlinear ordinari differenti equat
+differenti equat can often be seen in mani field of scientif research and engin
+typic find the analyt exact solut is expens task in term of comput effort and may not an attain task for some complex task
+to effect handl a wide varieti of linear and nonlinear differenti equat this paper present an approxim methodolog base on hybrid harri hawk nelder mead optim algorithm with the aim to achiev accur and reliabl solut
+the propos methodolog is introduc on basi of fourier seri expans and harri hawk nelder mead optim algorithm
+in this sens the differenti equat is repres as an optim model by the mean of the weight residu function cost function that need to be minim where the boundari and initi condit of the differenti equat are consid as the constraint of the optim model
+the practic and effici of the propos algorithm are demonstr through six differenti equat with differ natur as well as four mechan engin differenti equat
+the comparison against differ algorithm by use the generat distanc metric and wilcoxon sign rank test show the effect of the propos algorithm .

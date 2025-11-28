@@ -1,0 +1,9 @@
+hybrid ant lion with whale optim algorithm for compress sens mr imag reconstruct vial1minim an alwoa strategi
+in the field of imag compress the compress sens imag reconstruct ha made great achiev due to proper use of the imag sparsiti without the nyquist sampl law constraint
+for imag inform distribut great deal of research indic that there exist obviou structur and statist prior s regular and by the tradit compress algorithm it is difficult to achiev
+in thi paper we propos a compress sens imag reconstruct algorithm base on hybrid alwoa strategi which combin the ant lion optim algorithm and the whale optim algorithm
+the hybrid algorithm produc a global search with faster converg
+by continu learn the propos hybrid method can find optim solut
+the object function for the imag reconstruct process is taken as thel1minim problem
+the reconstruct imag is obtain by solv thel1minim problem
+extens simul have been conduct and the result show that the propos method ha achiev better perform when compar with tradit reconstruct algorithm .

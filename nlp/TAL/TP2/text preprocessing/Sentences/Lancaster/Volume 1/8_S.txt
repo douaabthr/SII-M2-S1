@@ -1,0 +1,8 @@
+the dca som comparison
+the dendrit cel algorithm dca is an immune-inspired algorithm develop for the purpos of anoma detect
+the algorithm perform multi-sensor dat fus and correl which result in a context aw detect system
+prevy apply of the dca hav includ the detect of pot malicy port scan act wher it has produc high rat of tru posit and low rat of fals posit
+in thi work we aim to comp the perform of the dca and of a self-organizing map som when apply to the detect of syn port scan through expery analys
+a som is an id candid for comparison as it shar simil with the dca in term of the dat fus method employ
+it is shown that the result of the two system ar comp and both produc fals posit for the sam process
+thi show that the dca can produc anoma detect result to the sam standard as an est techn .

@@ -1,0 +1,7 @@
+hyperspect im class us support vect machin a spect spat feat bas approach
+rec spect spat inform bas algorithm ar gain mor at becaus of it robust acc and efficy
+in thi pap an svm bas class method has been propos which extract feat consid both spect and spat inform
+the propos method exploit svm to encod spect spat inform of pixel and also us for class task
+a cle comparison of rel gain achiev with includ of spat feat with it spect counterpart is also investig
+the expery has been perform us three benchmark dataset ind pin pav univers and salina
+expery show that the propos method outperform the class algorithm k nearest neighb linear discrimin analys naiv bay and decid tre .

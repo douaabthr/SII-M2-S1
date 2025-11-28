@@ -1,0 +1,16 @@
+bio-inspir motiv architectur for autonom robot use glucos and insulin theori
+abstractmotiv and emot have been area of interest for philosoph psychologist and neuroscientist
+research and scientist want to have human like intellig robot which are self-awar and self-motiv
+motiv robot are autonom and intellig which can set goal and then take action to achiev their goal independ
+moreov intellig in robot is not possibl without autonomi and autonomi is incorpor in robot through motiv
+nowaday attent is be paid to build robot which have comput and energi autonomi
+in literatur various motiv architectur have been present but none seem to focus on the develop of human inspir motiv in robot comprehens
+these architectur tri to achiev mere function motiv in limit way some consid onli time for the regul of drive other fail to incorpor physiolog and psycholog aspect of human motiv
+to the best of our knowledg no architectur is truli base on the physiolog and psycholog of human has been consid in the literatur
+to solv this problem this paper propos a motiv architectur for autonom robot to make them independ in decid the goal and take action
+the propos architectur is primarili base on physiolog and psycholog of human motiv through basic human drive hunger thirst and sleep emot and glucose-insulin theori
+the whole process of drive regul is base on stimul and satiat
+the intens of the drive and the emot state help in set the goal and accord a suitabl action is taken to meet the particular goal
+empir result show that glucos and insulin have direct relationship with basic drive and emot in the process of intrins motiv generat
+the propos architectur has applic in industri educ and autonom robot
+the propos motiv architectur has signific advantag over sever state-of-the-art architectur in term of autonomi through intrins motiv .

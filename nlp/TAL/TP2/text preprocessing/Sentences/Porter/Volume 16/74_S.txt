@@ -1,0 +1,6 @@
+an improv imag cluster algorithm base on kernel method and tchebychev orthogon moment
+in thi paper we introduc a new cluster algorithm call improv kernel possibilist fuzzi c-mean algorithm imkpfcm base on the kernel method and possibilist approach
+the propos imkpfcm algorithm correct sever fcm pfcm and gpfcm algorithm shortcom reliabl detect cluster center and allow in addit to use euclidean distanc the employ of other more power addit norm abl to handl variou complex situat
+in thi studi we appli imkpfcm algorithm as a new imag cluster method on the basi of tchebychev orthogon moment to extract featur vector and then compar it with fcm pfcm and gpfcm algorithm to evalu it perform
+the compar studi result appli to sever imag dataset reveal that the imkpfcm cluster algorithm improv the cluster accuraci over the fcm pfcm and gpfcm method
+therefor we conclud that the imkpfcm algorithm is more effici and produc satisfactori imag cluster result .

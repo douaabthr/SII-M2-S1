@@ -1,0 +1,15 @@
+Foreword
+Fogel DB ed 1998 Evolutionary computation the fossil record
+IEEE Press PiscatawayFriedman GJ 1956 Selective feedback computers for engineering synthesis and nervous system analogy
+MSc Dissertation UCLAFriedberg RM 1958 A learning machine part I
+IBM J Res Dev 2 1 2 13ArticleMathSciNetGoogle ScholarKlopf AH Gose E 1969 An evolutionary pattern recognition network
+IEEE Trans Syst Sci Cybernet 5 3 247 250ArticleGoogle ScholarKampfner RR Conrad M 1983 Computational modeling of evolutionary learning processes in the brain
+Bull Math Biol 45 6 931 968MATHGoogle ScholarFogel LJ Owens A Walsh M 1965 Artificial intelligence through a simulation of evolution
+In Maxfield M Callahan A Fogel LJ eds Biophysics and cybernetic systems proceedings of the 2nd cybernetic sciences symposium
+Spartan Books pp 131 155Holland JH Reitman JS 1978 Cognitive systems based on adaptive algorithms
+In Waterman D Hayes-Roth F eds Pattern-directed inference systems
+Academic Press London pp 313 329Google ScholarSmith SF 1980 A learning system based on genetic adaptive algorithms
+PhD Dissertation
+University of PittsburghForsyth R 1981 BEAGLE a Darwinian approach to pattern recognition
+Kybernetes 10 159 166ArticleGoogle ScholarConrad M Pattee HH 1970 Evolution experiments with an artificial ecosystem
+J Theor Biol 28 393 409ArticleGoogle ScholarDownload references

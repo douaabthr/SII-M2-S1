@@ -1,0 +1,8 @@
+gpu impl of a road sign detect bas on partic swarm optim
+road sign detect is a maj goal of the adv driv assist system
+most publ work on thi problem shar the sam approach by which sign ar first detect and then class in video sequ ev if diff techn ar us
+whil detect is us perform us class comput vis techn bas on col and/or shap match most oft class is perform by neur network
+in thi work we pres a novel modul and scal approach to road sign detect bas on partic swarm optim which tak into account both shap and col to detect sign
+in our approach in particul the optim of a singl fit funct allow both to detect a sign belong to a certain categ and at the sam tim to estim it posit with respect to the camer ref fram
+to spee up process the algorithm impl exploit the parallel comput cap off by modern graph card and in particul by the comput un dev architect by nvid
+the effect of the approach has been assess on both synthet and real video sequ which hav been success process at or clos to ful fram rat .

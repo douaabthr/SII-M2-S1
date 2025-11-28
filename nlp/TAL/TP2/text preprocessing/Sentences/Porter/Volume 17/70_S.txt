@@ -1,0 +1,11 @@
+fire and manoeuvr optim for flow shop schedul problem
+the purpos of thi paper is to introduc a new rich sourc of idea and techniqu that could be use to build new algorithm capabl to solv numer encount optimis problem in differ field of scienc and engin
+the art of war is one of the most rich disciplin in term of alreadi experi strategi and tactic that can inspir research to design new power and effici metaheurist
+the framework of the propos method are inspir by the main war phase and contain seven compon initi intellig concept suppress advanc assault and exploit
+the basic fire and manoeuvr tactic is adopt in the suppress and advanc phase
+the propos fire and manoeuvr algorithm fma is a hybrid of a greedi algorithm with a multi-neighbour search procedur
+the develop algorithm ha been employ to minim makespan of the classic flow shop schedul problem
+a mathemat model is present to describ the studi optimis problem
+compar experi on taillard s data set confirm that the fma result are more accur than alreadi publish data
+a comparison between the fma and other popular nature-inspir algorithm ha been conduct
+it wa reveal that the propos metaheurist outperform the classic genet algorithm the migrat bird optimis and the whale optimis algorithm .

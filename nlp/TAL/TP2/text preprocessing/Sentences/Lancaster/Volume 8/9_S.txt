@@ -1,0 +1,8 @@
+xcsf with til cod in discontinu action-value landscap
+til cod is an effect reinforc learn method that us a rath ingeny gen mech bas on 1 a car design paramet set and 2 the assum that nearby stat in the problem spac wil correspond to simil payoff predict in the action-value funct
+prevy we extend xcsf with til cod predict and comp it to tabul til cod show that 1 xcsf perform as wel as parameter-optimized til cod whil also 2 evolv individ paramet set in each problem subspac
+our comparison was bas on a set of well-known reinforc learn environ 2d gridworld and the mountain car that involv no action-value discontinu and so pos no challeng to tabul til cod
+in thi pap we go a step furth and test xcsf with til cod on a set of problem design to challeng til cod by introduc discontinu in the act valu landscap
+the new testb cal mazeworld extend 2d gridworld with impenet obstac a conceiv simpl mod that can dram increas the problem complex for tabul til cod
+we comp four vert of xcsf with til cod each adapt a diff set of paramet to tabul til cod on four problem of increas complex
+we show that our system 1 nee few train problem than standard til cod to reach an optim policy 2 it can evolv adequ cod paramet in each subspac without any prevy knowledg and that 3 ev when xcsf is not allow to evolv thes paramet the genet algorithm wil stil adapt class condit to prop decompos the problem into subspac thu being much less sensit to the paramet set than tabul til cod .

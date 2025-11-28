@@ -1,0 +1,11 @@
+an option contract on emerg materi reserv consid qualiti catastroph chang
+this paper investig an option contract for emerg materi reserv becaus of qualiti catastroph chang
+the qualiti catastroph chang happen random and the realiz number can not be observ until it happen
+thus it is necessari to reserv some emerg materi beforehand
+howev the demand is not qualifi to make the storag
+meanwhil the supplier has no motiv to make storag for the demand
+thus an option contract is propos to encourag the supplier to make backup for the demand and share the shortag cost if the backup less than the realiz option order quantiti
+three model are discuss the central model without option the decentr model without option and the decentr model with option
+the result demonstr that the order quantiti for the first time under the central scenario is greater than that under the decentr model without option
+and the order of the purchas quantiti for the first time under the three scenario depend on the paramet decid by the both player
+meanwhil through analys the effect rang of option fee is prove to be limit to an interv .

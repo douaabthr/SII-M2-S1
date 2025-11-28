@@ -1,0 +1,8 @@
+gaussian mixtur model for train bayesian convolut neural network
+bay by backprop is a variat infer method base on the reparametr trick to assur backpropag in bayesian neural network
+gener the approxim distribut use in bay by backprop method are made unimod to facilit the use of the reparametr trick
+but frequent the model of some task requir more sophist distribut
+thi paper describ the bay by backprop algorithm with a multi-model distribut for train bayesian convolut neural network
+specif we illustr how to reparameter the cnn paramet for a gaussian mixtur model
+we then show that the result compar favour to exist variat algorithm on variou classif dataset
+final we illustr how to use thi distribut to estim epistem and aleator uncertainti .

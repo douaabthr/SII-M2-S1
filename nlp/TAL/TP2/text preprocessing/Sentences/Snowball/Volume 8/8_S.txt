@@ -1,0 +1,10 @@
+exstrac 2.0 descript and evalu of a scalabl learn classifi system
+algorithm scalabl is a major concern for ani machin learn strategi in this age of big data
+a larg number of potenti predict attribut is emblemat of problem in bioinformat genet epidemiolog and mani other field
+previous exstrac was introduc as an extend michigan-styl supervis learn classifi system that combin a set of power heurist to success tackl the challeng of classif predict and knowledg discoveri in complex noisi and heterogen problem domain
+while michigan-styl learn classifi system are power and flexibl learner they are not consid to be particular scalabl
+for the first time this paper present a complet descript of the exstrac algorithm and introduc an effect strategi to dramat improv learn classifi system scalabl
+exstrac 2.0 address scalabl with 1 a rule specif limit 2 new approach to expert knowledg guid cover and mutat mechan and 3 the implement and util of the turf algorithm for improv the qualiti of expert knowledg discoveri in larger dataset
+perform over a complex spectrum of simul genet dataset demonstr that these new mechan dramat improv near everi perform metric on dataset with 20 attribut and made it possibl for exstrac to reliabl scale up to perform on relat 200 and 2000 attribut dataset
+exstrac 2.0 was also abl to reliabl solv the 6 11 20 37 70 and 135 multiplex problem and did so in similar or fewer learn iter than previous report with smaller finit train set and without use build block discov from simpler multiplex problem
+furthermor exstrac usabl was made simpler through the elimin of previous critic run paramet .

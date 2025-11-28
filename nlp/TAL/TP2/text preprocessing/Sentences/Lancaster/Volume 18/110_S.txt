@@ -1,0 +1,9 @@
+adapt ant colony optim for solv dynam vehic and dron rout with tim window constraint
+thi pap propos a novel extend to the tradit vehic rout problem by introduc the dynam vehic rout problem with dron consid tim window
+thi new problem incorp dynam request handl and the innov us of dron to address delivery challeng within spec tim constraint
+to tackl dynam vehic rout problem with dron consid tim window we develop an adapt ant colony optim algorithm
+in which init rout ar construct to handl known request est a baselin solv
+the algorithm adapt to real-time request in the dynam phas by transfer pheromon valu between tim step to find the best solv at each it
+thi mech effect exploit past solv and expl high-quality rout for new request with strict tim window
+our propos algorithm is valid through extend expery scenario that sim vary spat distribut and time-sensitiv demand
+result show that our method produc high-quality solv comp to ex heur and nature-inspired method particul in complex environ with random request and tight tim constraint .

@@ -1,0 +1,14 @@
+mrmr-ssa a hybrid approach for optim featur select
+a critic issu in data mine and machin learn is featur select
+the crucial part is how to specifi the emin problem-relev featur out of a collect of featur contain in a dataset
+featur select process goe with the pre process step in knowledg revel kdd process
+it aid in elimin the unnecessari redund and unrel irrelev featur in order to improv the fulfil of classifi algorithm
+it choos the most optim count of featur that is best suit to classif model which in turn advanc the learn process
+as such the correct accuraci of classif increas
+thu in thi paper we have propos a two-stag hybrid arrang of model that contain filter-bas approach in the first stage to filter out the unnecessari and unrel featur and then provid these acquir featur as input to the next stage that is the wrapper method by avail the recent swarm base algorithm name salp swarm algorithm or ssa
+the propos model is name as mrmr-ssa
+the binari version of ssa is util to evalu the featur that can either take the featur as 1 or discard it as 0
+specif classifi like xgboost adaboost randomforest and logisticregressionar made in use in thi paper
+accuraci is consid to measur the perform of each classifi
+an analog is made for the propos hybrid featur select approach with a few familiar algorithm specif mrmr-pso mrmr-ga mrmr-alo and mrmr-aco
+the propos hybrid approach leav behind other given hybrid method .

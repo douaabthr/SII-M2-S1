@@ -1,0 +1,8 @@
+an im seg method us logarithmickbestgravit search algorithm bas superpixel clust
+im seg partit an im into coh and non-overlapping reg
+due to vary of vis pattern in im it is a challeng problem
+thi pap introduc a new superpixel-based clust method to efficy perform the im seg
+in the propos method init superpixel from an im ar obtain
+the superpixel ar furth clust into the requir numb of reg by a new propos vary of gravit search algorithm nam logarithmickbestgravit search algorithm
+expery ar conduc on the berkeley seg dataset and benchmark bsds500
+it is affirm from both vis and num analys that the propos method is eff and acc in seg an im than the oth consid seg method .

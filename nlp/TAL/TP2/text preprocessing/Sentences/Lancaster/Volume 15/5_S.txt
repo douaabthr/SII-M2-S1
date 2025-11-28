@@ -1,0 +1,12 @@
+fab class of acut leukem us an ensembl of neur network
+acut leukem is the most frequ occur malign pres in hum blood and a kind of liquid cant
+thi hematolog disord can imp on bon marrow and lymph system
+accord a computer-aided class system is propos for french am brit class of acut leukem us an ensembl of neur network which is valid on 180 microscop blood im tak from onlin benchmark dataset
+as per the requir of patholog in real-life examin scenario vary object ar form as i correct nucle seg in blood cel im ii correct class of fab class of acut leukem l1 l2 l3 m2 m3 and m5
+to accompl thes research object the propos method consist of seg sect feat extract sect feat prun sect and class sect
+the class of the propos method consist of two subsect as subsection1 is compr of singl six class pca bas neur network as pca-nn0 l1/l2/l3/m2/m3/m5 and subsect 2 contain an ensembl of 15 bin pca bas neur network class as pca-nn1 l1/l2 pca-nn2 l1/l3 pca-nn3 l1/m2 pca-nn4 l1/m3 pca-nn5 l1/m5 pca-nn6 l2/l3 pca-nn7 l2/m2 pca-nn8 l2/m3 pca-nn9 l2/m5 pca-nn10 l3/m2 pca-nn11 l3/m3 pca-nn12 l3/m5 pca-nn13 m2/m3 pca-nn14 m2/m5 pca-nn15 m3/m5
+the achiev acc for expery 1 is 86.4% us pca-nn0
+the output of two most plaus class predict by pca-nn0 is pass to oth bin pca bas neur network i. e
+pca-nn1 to pca-nn15
+aft pass al the test im to subsect 2 the achiev acc is 94.2% from the exhaust expery 2
+the outcom of the work ver the cap of computer-aided class system to substitut the conv diagnost system .

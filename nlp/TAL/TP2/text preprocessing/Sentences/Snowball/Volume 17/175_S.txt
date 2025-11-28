@@ -1,0 +1,11 @@
+posit of new mobil tower use circl pack problem
+the circl pack problem determin a circl of the largest area that can fit into the vacant space when varvec n arbitrary-s non-overlap given circl are place insid a given contain
+one of it numer applic is to determin the optim posit of mobil tower in a citi
+this constrain nonlinear optim problem is solv use four variant of the real code genet algorithm
+these four variant are creat by the combin of two well-known real-cod crossov oper arithmet crossov and hybrid crossov and two well-known real-cod mutat oper uniform mutat and discret uniform mutat
+the perform of these algorithm is evalu use the mean standard deviat best worst of the object function valu and friedman s mean rank test is appli when 30 run of each variant are carri out
+on the basi of the comput analysi the perform of the variant of rcga have arithmet crossover-uniform mutat ax-um outperform all other rcgas consid in this studi in term of faster converg and better accuraci of the solut
+in a practic demonstr this methodolog is implement to a case studi in roorke citi in uttarakhand of northen india
+current there are 14 exist mobil tower in roorke citi
+howev there are certain region in which internet connect is unsatisfactori
+therefor base on the recommend of this studi ax-um is recommend to instal three new mobil tower .

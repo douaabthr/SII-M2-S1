@@ -1,0 +1,13 @@
+veloc adapt base pso for local in wireless sensor network
+wireless sensor network are a network of sensor interconnect through a wireless medium
+wireless sensor network are util for mani array of applic where determin precis locat of the sensor are treat to be the crucial task
+the prime job of local is to determin the exact locat of sensor place at particular area as it make the refer of anchor node to determin the locat of remain node in the network
+posit inform of sensor node in an area is use for rout techniqu and some applic specif task
+the local accuraci is affect due to the estim in anchor node placement
+local inform is not alway easi as it vari with respect to the environ in which the sensor are deploy
+rang error occur in hostil environ and accuraci effect as there are signal attenu in sensor when deploy underwat underground etc
+effici can be enhanc by reduc the error use local algorithm
+particl swarm optim is one approach to overcom the local problem
+result are consid for local algorithm like particl swarm optim social group optim and veloc adapt base particl swarm optim
+the goal of thi work is to implement a veloc adapt base particl swarm optim for local method to achiev minimum error
+the result reveal that the propos approach work better for obtain improv locat accuraci .

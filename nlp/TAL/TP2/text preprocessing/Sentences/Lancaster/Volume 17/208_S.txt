@@ -1,0 +1,5 @@
+on the new solv to interv linear fract program problem
+in thi pap we study the interv linear fract program problem us the conceiv of g divid
+we transform the problem into a new linear fract program problem and obtain a nondomin solv to the interv linear fract program problem
+we show that the new solv domin the prevy nondomin object valu pres in the lit
+fin som exampl ar provid to illust our result .

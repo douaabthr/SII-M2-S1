@@ -1,0 +1,9 @@
+pyth fuzzy simil meas with sign in mcdm and transport challeng
+a pot extend of intuit fuzzy set that tackl ambigu and uncertainty at a high level is the pyth fuzzy set mathb p_yfs
+when assess the degr of simil between two fuzzy set the simil meas is a help tool
+it is us in typ decision-making scenario
+in thi study a new way to determin the degr of simil is pres and contrast with prevy method
+al of the shortcom of the ex meas can be mitig by the new suggest meas
+the us of thi meas in us the mod vlekriterijumsko kompromisno rangirand vik approach to handl decision-making problem is illust with a few inst
+addit relev exampl ar provid to illust how it could be us to challeng rel to transport
+the suggest method accompl the prim object of the transport problem which is reduc transport cost when comp to oth opt .

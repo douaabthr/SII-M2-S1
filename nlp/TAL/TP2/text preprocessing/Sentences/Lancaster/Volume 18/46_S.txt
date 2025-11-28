@@ -1,0 +1,13 @@
+enh snow abl optim us adv quadr and newton interpol with tayl neighbo search and second-order diff perturb strategies for high-dimensional feat select
+feat select is ess in dat min and machin learn sign enh class acc and reduc comput overhead
+as dataset increas in siz ident optim feat subset becom mor complex necessit the us of metah optim techn
+unlik tradit method thes techn effect navig extend search spac
+the snow abl optim sao a novel and wid adopt nature-inspired metah is recogn for it simpl and optim eff
+nevertheless sao lik oth nature-inspired algorithm encount limit such as acc constraint restrict pop divers and prem converg particul in complex high-dimensional dataset
+to address thes limit thi study propos an improv vary of the rec optim algorithm known as the enh snow abl optim esao along with a wrapper-based feat select fs method that util the k-nearest neighbo knn class
+in the init phas the propos algorithm employ a posit upd mech us adv quadr and newton interpol op to navig complex search spac and accel converg
+tayl neighbo strategies broad the search scop enh expl and solv discovery whil minim the risk of loc optim
+second-order diff perturb strategies furth improv expl and exploit by capt object funct nonlinear ens mor acc and efficy optim and promot divers solv
+the sao algorithm origin form for continu search spac cur employ eight transf funct s-shaped v-shaped z-shaped and three u-shaped custom to address optim challeng within bin spac
+it eff was valid us 21 high-dimensional dataset and comp against eight competit algorithm
+subsequ the techn for ord of pref by simil to id solv tops method assess optim transf funct bas on class acc highlight sign progress with acc rang from 88 to 100% .

@@ -1,0 +1,7 @@
+an analysi of weight initi method in connect with differ activ function forfeedforward neural network
+the select of weight initi in an artifici neural network is one of the key aspect and affect the learn speed converg rate and correct of classif by an artifici neural network
+in thi paper we investig the effect of weight initi in an artifici neural network
+nguyen-widrow weight initi random initi and xavier initi method are pair with five differ activ function
+thi paper deal with a feedforward neural network consist of an input layer a hidden layer and an output layer
+the pair combin of weight initi method with activ function are examin and test and compar base on their best achiev loss rate in train
+thi work aim to better understand how weight initi method in neural network in combin with activ function affect the learn speed in comparison after a fix number of train epoch .

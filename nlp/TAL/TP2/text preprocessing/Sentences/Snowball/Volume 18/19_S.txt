@@ -1,0 +1,12 @@
+fast implement of extrem learn machine-bas directrank for surrogate-assist evolutionari algorithm
+surrogate-assist evolutionari algorithm saea have been wide use to solv comput expens optim problem
+the extrem learn machine-bas directrank eldr is a single-lay feed-forward neural network surrog model design for saea
+eldr estim the superior of two solut with a high estim accuraci even in high-dimension problem
+howev eldr requir a long comput time as the problem dimension and the number of hidden neuron increas thus make it difficult to appli it to high-dimension problem
+a surrog model should be comput effici and enabl rapid fit estim
+therefor this paper propos a fast implement techniqu i.e. fast version eldr feldr that achiev mathemat equival learn result with low comput complex
+addit this paper propos a pointwis score function to render the predict result reusabl
+the experiment result confirm the effect of feldr when compar with the origin eldr
+the learn result of the propos feldr were equival to those of the origin eldr while reduc the train time by up to 97% especi when use a larg hidden layer on a high dimension problem
+moreov due to the reusabl predict result the comput time of the feldr-assist saea can be further decreas by 79.5% when compar with that of the origin eldr-assist saea
+the reduc train time and reusabl predict result of feldr render it feasibl to appli eldr to high-dimension optim problem and realiz a high predict accuraci with a larg number of hidden neuron .

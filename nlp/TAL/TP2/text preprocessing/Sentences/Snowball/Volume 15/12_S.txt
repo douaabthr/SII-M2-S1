@@ -1,0 +1,13 @@
+a novel disrupt base symbiot organ search to solv econom dispatch
+econom dispatch ed is one of the vital prospect in the energi manag system for determin the optim power generat distribut among sever commit power generat unit
+the object of ed is to generat the electr power to meet the load demand by minim the total oper cost subject to various equal and inequ constraint
+this ed problem is general solv use convent techniqu such as a gradient method by assum the object function as linear and convex
+howev in general the ed problem is constrain non-convex larg scale multimod and high nonlinear optim problem
+in order to overcom this drawback various heurist techniqu have been introduc in the literatur
+symbiot organ search sos is one of the emerg nature-inspir meta-heurist algorithm
+due to simpl in implement and free from algorithm-specif control paramet the sos algorithm has gain a reput among the research
+the sos techniqu mimic the biolog interact between two distinct speci to surviv and prolifer in the ecosystem
+to evad the suboptim solut and to enhanc the explor and exploit of the sos algorithm the disrupt oper is integr with the basic sos to form a novel disrupt base sos dsos algorithm
+the disrupt strategi is origin from astrophys and has the abil to shift between explor and exploit dure the process of find an optimum solut
+to illustr the effect of the propos method it is appli on various test system such as 3 unit 5 unit 6 unit 13 unit 20 unit 38 unit and 110 unit system to solv differ ed problem name without transmiss loss tl with transmiss loss by simultan consid valv point load vpl effect along with tl by simultan consid the effect of ramp rate limit rrls prohibit oper zone poz and tls and dynam econom load dispatch by consid rrls poz vpl and tl
+the comparison of dsos base simul result with other method reveal the effici and robust of the propos method to provid minimum total generat cost in all the case with better converg rate and less comput time .

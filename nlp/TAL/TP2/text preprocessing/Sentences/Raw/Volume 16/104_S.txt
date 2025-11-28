@@ -1,0 +1,15 @@
+Refined education mechanism based on edge computing for college student management
+Refinement management originated from the concept of enterprise management and is widely used in all walks of life
+It is a management method that can maximize resource utilization and reduce time costs
+In the era of networking informatization and diversification the world outlook values and outlook on life of contemporary college students have undergone tremendous changes
+This puts forward higher requirements for the management of college students
+The refined management concept and model can bring great help to the daily management of college counselors and can have a positive impact on the learning and growth of students
+In order to alleviate the shortcomings of traditional college student management systems in terms of performance security and privacy this paper proposes a college student management system based on edge computing
+This paper selects a computing edge computing server that mainly focuses on data processing and focuses on edge computing on the network side
+By adopting data mining algorithms the local processing of edge computing data is realized
+This can reduce the delay caused by data transmission
+In addition the system enhances some functions performance and reliability according to the characteristics of the refined management needs of college students
+This paper evaluates the data storage and query efficiency of the system
+From the test results the system proposed in this paper can meet the storage query requirements of millions of data items
+To evaluate the throughput performance of the system the system proposed in this paper is compared with three other solutions
+Experimental results show that this system outperforms other solutions .

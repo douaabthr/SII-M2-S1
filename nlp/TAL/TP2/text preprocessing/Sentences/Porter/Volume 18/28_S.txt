@@ -1,0 +1,9 @@
+del a strategi for resolv redund in entiti pair within dual entiti linker for relat tripl extract
+current the mainstream method for relat tripl extract mainli employ joint model and have achiev signific result
+howev these method still face challeng in deal with the complex of unstructur text
+in joint model base on label relat tripl extract the birt model suffer from the issu of redund entiti pair lead to the gener of incorrect tripl
+to address thi issu thi paper introduc a ground entiti extractor which is design to aid the dual entiti linker del in addit adversari train method are introduc dure the del train process
+experiment result demonstr that the del model extract entiti pair from two direct when compar to the previou birt model it gener more accur entiti pair
+on the webnlg dataset the accuraci increas by 2.9% and f1 improv by 1.1%
+on the nyt10 dataset accuraci increas by 1.0% recal increas by 0.5% and f1 score improv by 0.7%
+thi bring signific enhanc to the tripl entiti extract task and in comparison with 8 baselin model across all dataset the del model achiev better result .

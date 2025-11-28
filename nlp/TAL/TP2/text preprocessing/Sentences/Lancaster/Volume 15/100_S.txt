@@ -1,0 +1,14 @@
+autom select of hid neuron and weight in neur network for dat class us hybrid partic swarm optim multi-verse optim bas on lévy flight
+within neur network it is consid a difficult task to find optim valu for the numb of hid neuron and connect weight simult
+thi is becaus alt the hid neuron sign affect a neur network s structure and increas the difficul of the train process which nee spec consid
+partic swarm optim pso is on of the most import metah algorithm due to it converg spee and it simpl of impl
+multi-verse optim mvo bas on lévy flight is a rec and fast algorithm and can avoid prem converg and can achiev a bet bal between expl and exploit
+thi pap pres a new train method bas on hybrid partic swarm optim with multi-verse optim bas on lévy flight plmvo to optim the numb of hid neuron and connect weight simult in feedforward neur network ffnn
+the hybrid algorithm is util to search bet in solv spac which prov it efficy in reduc the problem of trap in loc minim
+to evalu the propos algorithm we us three expery sery
+in the first on the propos plmvo algorithm is comp with the mvo and pso algorithm to solv a set of 15 benchmark funct to find the glob solv
+meanwhil in the second expery the perform of the propos approach was comp with fiv evolv techn and the standard moment backprop and adapt learn rat
+the comparison was benchmark and evalu us nin bio-medical dataset
+the result of the comp study show that plmvo outperform oth train method in most dataset and can be an altern to oth train method
+in the third expery the propos plmvo-mlp is us to predict malicy execut linux fil
+the impl model achiev very prom result with very high acc of 1.0 and an av f-measure of 1.0 .

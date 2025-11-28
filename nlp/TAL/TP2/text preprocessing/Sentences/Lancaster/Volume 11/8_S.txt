@@ -1,0 +1,9 @@
+genet mod glowworm swarm optim bas priv preserv in cloud comput for healthc sect
+cloud comput is a comput paradigm that provid vibr access infrastruct for dat apply and fil stor as wel
+thi technolog adv benefit in a sign less of consum cost apply host cont stor as wel as delivery and hent the conceiv appear grad mor in al ent that exploit in the healthc sect
+und such circumst efficy analys and dat extract from a cloud environ is mor challeng
+moreov the extract dat has to be preserv for priv
+to handl thes challeng thi pap has com out with a privacy-preserving algorithm in both dat sanit and dat rest process
+furth sev research hav contribut adv in the rest process yet the acc of rest seem to be very low
+as a solv to thi problem thi pap us a hybrid algorithm term as genet mod glowworm swarm for both dat sanit and dat rest process
+furth the develop hybrid model comp it perform with oth conv model lik conv glowworm swarm optim firef partic swarm optim art bee colony crow search group search optim and genet algorithm in term of stat analys sanit and rest effect converg analys and key sensit analys and the domin of the develop model is prov .

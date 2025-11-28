@@ -1,0 +1,10 @@
+automat estim of differenti evolut paramet use hidden markov model
+differenti evolut de ha been success in solv practic optim problem
+howev similar to other optim algorithm the search perform of de depend on the efficaci of the adopt search oper
+the abil to adapt these oper within an evolutionari run enhanc their abil to find better qualiti solut
+thi adapt process requir learn algorithm capabl of compress the inform embed within a popul into meaning estim to adapt the search oper
+hidden markov model hmm are learn algorithm design to estim paramet by compress inform collect from on a state space
+in thi paper we use hmm to compress the inform within a popul and use the model for adapt the de paramet
+the result de-hmm algorithm dynam adjust the two basic paramet of de
+after a thorough test of thi method and conduct an extens comparison of it perform on the cec2005 and cec2014 dataset it is shown that the propos de-hmm algorithm is abl to achiev better result compar with the classic de and other state-of-the-art method
+on averag the algorithm can achiev thi perform faster than other method in the literatur .

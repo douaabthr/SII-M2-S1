@@ -1,0 +1,11 @@
+document cluster with evolv multi-word search queri
+text cluster hold signific valu across variou domain due to it abil to identifi pattern and group relat inform
+current approach which reli heavili on a comput similar measur between document are often limit in accuraci and interpret
+we present a novel approach to the problem base on a set of evolv search queri
+cluster are form as the set of document match by a singl search queri in the set of queri
+the queri are optim to maxim the number of document return and to minim the overlap between cluster document return by more than one queri
+where queri contain more than one word they are interpret disjunct
+we have found it use to assign one word to be the root and constrain the queri construct such that the set of document return by ani addit queri word intersect with the set return by the root word
+not all document in a collect are return by ani of the search queri in a set so onc the search queri evolut is complet a second stage is perform wherebi a knn algorithm is appli to assign all unassign document to their nearest cluster
+we describ the method and present result use 8 text dataset compar effect with well-known exist algorithm
+we note that as well as achiev the highest accuraci on these dataset the search queri format provid the qualit benefit of be interpret and modifi whilst provid a causal explan of cluster construct .

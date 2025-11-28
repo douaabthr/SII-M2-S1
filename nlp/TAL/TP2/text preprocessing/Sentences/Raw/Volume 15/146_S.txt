@@ -1,0 +1,7 @@
+Application of morphological wavelet and permutation entropy in gear fault recognition
+In this paper a new gear fault recognition method was proposed by using morphological wavelet and permutation entropy
+Firstly the morphological Haar wavelet was proposed based on morphological wavelet and it was used to pre-process the measured gear vibration signal
+Then the permutation entropy was used as the eigenvalue of gear fault to be extracted from the vibration signal which included four working conditions normal mild wear moderate wear and broken teeth
+Finally according to different faults corresponding to different permutation entropy distributions the various fault states were classified and the permutation entropy distributions of non-denoised signals were compared
+It could be seen that the morphological Haar wavelet had good de-noising effectiveness and permutation entropy could express the feature of different gear conditions
+The example of gear fault recognition proved that the combination of morphological wavelet and permutation entropy could effectively improve the ability of gear fault classification .

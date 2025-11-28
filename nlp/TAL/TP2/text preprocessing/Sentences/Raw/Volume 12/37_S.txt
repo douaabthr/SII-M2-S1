@@ -1,0 +1,11 @@
+Hybrid decision trees for data streams based on Incremental Flexible Naive Bayes prediction at leaf nodes
+Mining data over streams in one pass and using constant memory is a challenging task
+Decision trees are one of the most popular classifiers for both batch and incremental learning due to their high degree of interpretability ease of construction and good accuracy
+The most popular decision tree for stream classification is Hoeffding Tree based on Hoeffding bound
+Literature shows a few variants of decision trees based on different bounds
+The default class prediction method adopted in decision tree is majority class approach
+Later the accuracy of prediction was scaled up by a hybrid decision tree where Naive Bayes classifier was used for prediction
+Kernel Density Estimation KDE is employed in Flexible Naive Bayes for classification
+However it is suitable for modeling static data set
+This paper proposes an Incremental Flexible Naive Bayes IFNB based hybrid decision tree paradigm that uses KDE to model continuous attributes at leaf nodes of the tree for improving the class prediction accuracy
+Experimental results on both synthetic and real dataset show that the proposed IFNB based leaf classifiers achieves improvement over the class prediction methods adopted in existing decision trees for data streams .

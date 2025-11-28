@@ -1,0 +1,8 @@
+on the cryptanalysi of s-de use natur inspir optim algorithm
+cryptanalysi ha emerg to be an import topic in the era of modern emerg technolog
+the cryptanalysi of simplifi data encrypt standard s-de is a np-hard combinatori problem
+thi paper ha two goal
+firstli we studi the cryptanalysi of s-de via nature-inspir meta-heurist algorithm name cuckoo search firefli and black-hol optim algorithm
+each of these algorithm is base on fascin natur phenomena and exploit the inher uniqu of such phenomena to solv optim problem
+secondli we present a compar studi on the effici of these three fairli new algorithm with that of previous establish memet algorithm and genet algorithm in regard to s-de cryptanalysi
+through experiment and extens test it ha been shown that the propos algorithm base on cuckoo search prove to be most effici with respect to accuraci and execut time .

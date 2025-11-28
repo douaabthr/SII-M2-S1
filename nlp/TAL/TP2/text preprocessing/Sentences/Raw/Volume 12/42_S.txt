@@ -1,0 +1,15 @@
+Unsupervised genetic programming based linkage rule UGPLR Miner for entity linking in semantic web
+In the past decade the Semantic web data community has focused on publishing and interlinking data
+Data publication is now widely done activity but more effort needs to be devoted to interlink data sources
+Organizations have been publishing data using different data curation and publication policies that have resulted in the proliferation of data sources
+This proliferation has brought several challenges in interlinking data sources
+Different data sources use different properties descriptions to describe the same entity
+Entity linking problem is at the core of data interlinking it identifies and links instances records referring to the same real-world entity
+The state-of-the-art Entity Linking approaches are based on supervised learning
+Supervised approaches rely on the labeled data for a better learning model and suffer in the absence of labeled data
+The cost of labeling is high and it is infeasible to carry out manual labeling process for datasets having billions of records
+In this work the authors have proposed a simple heuristic-based approach to generate the labeled data
+The proposed approach uses automatically generated labeled data to train an underlying Genetic Programming based linkage rule-learning model
+The proposed approach is scalable for large datasets and achieves comparable performance to other supervised approaches while eliminating the need for labeled data
+The proposed approach works in the unsupervised fully automatic way at the same time keeping the advantages of supervised approaches such as high accuracy and less complexity
+Experimental analysis proves that the proposed approach is effective than many states of the art approaches .

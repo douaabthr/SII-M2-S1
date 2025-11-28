@@ -1,0 +1,8 @@
+improv threshold base on neg select algorithm nsa
+threshold is a tool of imag segment which group the pixel in a logic way
+in thi paper a novel algorithm base on neg select algorithm a model of artifici immun system is propos for imag threshold
+the propos algorithm is appli on the threshold imag of lath tool produc use maximum inform entropi mie and global threshold base techniqu result in an improv imag
+to verifi the algorithm and result it ha also been appli on some of the inbuilt matlab matrix laboratori imag
+histogram is employ to analyz the result
+further the result of improv algorithm are compar with the result of mie and the global threshold method to check the effect of the propos method
+the experiment result confirm the potenti of the develop algorithm .

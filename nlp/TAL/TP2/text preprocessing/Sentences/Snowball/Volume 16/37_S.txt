@@ -1,0 +1,8 @@
+fast partial imag encrypt with fuzzi logic and chaotic map
+the propos techniqu offer an autom imag encrypt as an altern to the manual select encrypt of color imag
+fuzzi rule base on color detail are appli to select the area to encrypt
+it can be use for secur communic of sensit part of the imag without disturb the remain part of the imag
+strength of this algorithm is it speed immun to differenti attack and entropi
+it is six time faster as compar to the normal encrypt
+this algorithm is more suitabl for satellit imag and medic imag
+it find an applic in the area of inform secur and data forens where imag are larger in size .

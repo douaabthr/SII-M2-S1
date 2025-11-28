@@ -1,0 +1,10 @@
+appli cuckoo search base algorithm and hybrid base neural classifi for breast cancer detect use ultrasound imag
+ultrasound examin is one of the most conveni and appropri process use for the diagnosi of tumor that make use of ultrasound imag
+ultrasound imag is a noninvas modal util commonli for the detect of breast cancer which is a common and danger cancer found in women
+thi paper propos an approach for the detect of breast cancer use ultrasound imag use mkf-cuckoo search mkf-c algorithm and hybrid base neural h-bn classifi
+in pre-process the input imag to be diagnos are pre-process by roi extract use a novel algorithm four way search
+the pre-process imag is allow to perform segment use mkf-c algorithm
+the key featur such as mean varianc standard deviat and so on are extract in featur extract and are fed to the propos h-bn classifi
+base on the train data h-bn classifi classifi the data into benign or malign tumor class for the detect of breast cancer
+to evalu the perform of the propos mkfcs-hbn approach three metric such as accuraci sensit and specif are util
+the experiment result show that mkfcs-hbn could attain the maximum perform with an accuraci of 0.8889 the sensit of 1 and specif of 0.85 and thu prove it effect .

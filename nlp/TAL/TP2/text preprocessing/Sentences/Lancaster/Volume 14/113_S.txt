@@ -1,0 +1,14 @@
+sos 2.0 an evolv approach for sos algorithm
+with the shortcom on the solv giv for most-rec optim problem decision-makers from diff field yearn the ex of ten breakthrough
+in fact they al shar the sam oblig to optim work efficy wheth to minim cost consum or to maxim the profit acquir
+metah search is the more-advanced method prov to be us for difficult optim task
+moreov develop record also sign rapid develop of thes algorithm contribut sev not and pow optim algorithm
+among them symbiot org search sos receiv not at due to it simpl and also it parameter-less nat
+nonetheless sev consid issu ar stil challeng for furth develop
+for inst loc optim and prem converg issu found from any improp and inefficy comput proc on high dimend problem
+also exploit and expl trade-off is anoth ess issu involv stabl for optim perform
+in that cas thi work propos a new evolv approach nam sos 2.0
+ther ar two distinct feat assocy with the evolv self-parameter-updating spu techn and chaot map sequ
+both feat ar integr for a bet bal of expl and exploit in which spu focus on expl and chaot map focus on exploit instead
+thi work also apply benchmark funct test and engin design optim problem in adv for valid purpos of the perform
+the expery result show that sos 2.0 del not on bet perform from it predecess and also sev rec sos mod which can be conclud as on success approach for bet sos algorithm but also enh the comput efficy and cap of search optim solv .

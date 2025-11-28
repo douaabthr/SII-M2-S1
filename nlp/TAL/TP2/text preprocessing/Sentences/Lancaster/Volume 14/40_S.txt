@@ -1,0 +1,15 @@
+dat aug for cant class in oncogenom an improv knn bas approach
+ther is cur a gre nee for research in gen express dat to help with cant class in the field of oncogenom
+thi is espec tru sint the diseas occ sporad and oft doe not show symptom
+typ gen express dat is disproport with a larg numb of feat and a low numb of sampl
+a smal sampl siz is lik to advers affect acc of class as the perform of a class depend larg on the dat
+ther is a press nee to gen dat which could be provid as bet input to class
+primit aug techn lik uniform random gen and addit of nois do not ass good prob distribut
+second as we deal with crit apply the aug dat nee to hav gre lik to the origin valu
+thu we propos an improv vary of k-nearest neighb knn rul
+we us count quoty filt euclid dist and mean best valu from the k-neighbors for each target sampl to get synthet sampl
+a comparison is drawn amongst the raw dat from publ domain origin dat dat gen us standard k-nearest neighb rul and dat gen us improv k-nearest neighb rul
+the dat gen through thes approach is then furth class us state-of-art class lik svm j48 and dnn
+the sampl gen through our improv techn yield bet recal valu than the standard impl ens sensit of dat
+av class acc from al the three class conclud enh of 7.72% as comp to tradit knn approach and 16% when raw dat is consid as input to the class
+thu the propos algorithm attain two object first ens sensit of dat for crit apply and second enh class acc .

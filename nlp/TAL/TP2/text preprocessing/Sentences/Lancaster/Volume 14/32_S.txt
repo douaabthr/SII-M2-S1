@@ -1,0 +1,6 @@
+autom cloud serv bas qual requir class for softw requir spec
+the scal of softw is grow rapid for org begin to deploy their busy on internet
+it is a nee of avoid ambigu between engin and us and to avoid mistak in softw requir
+and provid autom requir analys techn for model and analys requir form and sav manpow
+in thi pap propos cloud serv method for autom detect of qual requir in softw requir spec
+thi pap also pres novel approach for process of autom class of softw qual requir bas on superv machin learn techn apply for the class of train docu and predict target docu softw qual requir .

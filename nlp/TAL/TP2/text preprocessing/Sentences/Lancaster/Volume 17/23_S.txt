@@ -1,0 +1,15 @@
+govern subsidy and onlin brand for agricult produc
+onlin brand play an increas vit rol for agricult produc in agricult and e-commerc industry alik
+to improv the coop between farm and e-retailers and to increas aw of agricult produc through onlin brand many govern impl sery of subsidy policy
+we investig the impact of govern subsidy by propos a three-player gam model consist of a govern a farm and an e-retailer in supply chain
+mor spec we develop four stackelberg gam scenario includ a benchmark scenario in which govern provid no subsidy two scenario in which govern subsid eith farm or e-retailer without subsid the oth and on in which both ar subsid
+we find aw of onlin brand for agricult produc is posit rel to farm
+market sensit whil e-retailers
+cost fact show a neg rel optim aw emerg when both farm and retail ar subsid
+in turn farm and retail achiev their best profit when both ar subsid
+furtherm farm
+profit ar high than e-retailers
+in every subsidy scenario
+we obtain the most effect paramet for govern subsidy usingex anteandex poststrategy extend our model by incorp spillov effect
+most of our conclud ar consist with intuit and proposit we beg with but it is interest to not that farm
+best profit appear when farm receiv subsidy and e-retailers do not .

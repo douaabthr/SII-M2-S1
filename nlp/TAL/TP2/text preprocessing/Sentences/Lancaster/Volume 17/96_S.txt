@@ -1,0 +1,10 @@
+design and develop of mobl anch assist nod loc strategy us a hybrid electric-coyote optim
+as wireless sens network wsns off ess support for sev location-aware apply and protocol loc is on of the princip methodolog in wsn
+in the lit the mobl anch nod is prefer ov the stat anch nod to handl the high overhead issu caus by the larg numb of anch nod
+in rec year the mobl anch nod assist loc man problem has receiv sign at in vary research work and path-planning techn for loc us few anch nod hav been impl
+howev rec man breakthrough in wsns hav provid ampl research opportun
+the mobl anch nod is us in thi pap to solv the nod loc problem in wsn
+the loc of the target nod ar determin us a hybrid electric-coyote optim algorithm he-coa the mobl anch nod and the virt anch nod
+the object of the propos loc is to minim the dist er between act nod coordin and estim nod coordin
+vary path traject ar investig in sim to demonst the eff of the suggest work
+the sim result show that the propos algorithm can reduc the loc er comp to the conv model .

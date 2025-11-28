@@ -1,0 +1,13 @@
+Extrinsically evolved system for breast cancer detection
+Standard method of assessing breast cancer is a triple test assessment
+In this method initially a thorough medical examination and patient history is evaluated secondly imaging of the breast using x-rays and/or ultrasound is done and finally a preoperative cytodiagnosis is done that is either Fine Needle Aspiration Cytology FNAC or Core Needle Biopsy CNB or both
+FNAC being a minimally invasive and rapidly performed test is preferred in many cases over CNB that is more invasive
+If a triple test gives positive result in any one of the three steps then the result is taken positive
+FNAC involves determining the cell size and shape parameters and based on their values a case is classified as benign or malignant
+To automate the process of decision making a novel technique has been proposed
+In this technique a digital logic circuit was evolved using Cartesian Genetic Programming CGP
+A CGP network was trained and then tested with FNAC feature data from the Breast Cancer Wisconsin Dataset
+The dataset consists of 669 samples of which 350 samples were used for training purposes and then the trained system was evaluated with 349 test samples
+A number of experiments were performed each with a different set of network parameters
+The best evolved network classified the samples with an accuracy of 99.42% which is higher than that produced with most of the contemporary techniques
+The network so produced can be implemented on re-configurable hardware .

@@ -1,0 +1,13 @@
+a population-bas variant of the singl candid optim for global optim and multi-level threshold problem in medic imag segment
+the skin our bodi s primari defenc is suscept to numer health issu
+earli detect and accur diagnosi of such condit reli heavili on medic imag process
+multi-level threshold imag segment is a lead techniqu in thi field requir an effici optim to achiev optim result
+the singl candid optim sco a metaheurist algorithm ha shown promis in optim but is limit by it relianc on a singl solut lead to restrict diversif and difficulti escap local optima
+to overcom these challeng we introduc a population-bas version of sco term psco
+thi approach enhanc sco by integr an influenc strategi to guid the popul s swarm behaviour and the invers incomplet gamma function to deepen the intensif phase
+in addit a soft strategi is develop to balanc diversif and intensif ensur a smooth transit from global to local search
+psco wa rigor test on the cec 2022 benchmark suit across 10 and 20 dimens consist outperform sco
+furthermor the effect of psco is valid in the context of multi-level threshold imag segment appli to two dataset bsd500 for benchmark and isic for medic imag
+the algorithm s perform is evalu use otsu s and kapur s fit function across differ threshold
+addit it effect is rigor assess by compar it against ten state-of-the-art solut focus on key metric such as otsu s and kapur s object valu psnr ssim fsim qilv hpsi uiqi and cpu time
+the result demonstr signific improv highlight psco s potenti in gener optim task and special applic such as medic imag segment .

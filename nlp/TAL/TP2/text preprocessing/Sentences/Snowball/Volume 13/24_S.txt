@@ -1,0 +1,12 @@
+a polynomi time algorithm for big data in a special case of minimum constraint remov problem
+the minimum constraint remov mcr is one of the most import problem in motion plan and comput geometri
+in this problem there is no feasibl path for a robot to move from the start point toward the goal
+therefor in order to find a collision-fre path the minimum constraint should be remov
+themcrproblem is np-hard when constraint have arbitrari shape or are in shape of convex polygon
+sinc it is not possibl to solv the problem by determinist algorithm in an accept time for the problem with big data scientist have tri to solv it by approxim method
+in this paper we present a determinist not approxim algorithm that solv the problem in a polynomi time
+the simplif we use here is about the type of data neither about the accuraci of the solut nor about the size of data set
+in this paper a special case of this problem is present in which all the constraint are axis-aligned-unit squar and the obstacl have onli local effect
+local effect mean there are no two cell which have the same label set
+we propos an algorithm for this variant of the problem which can be use for big data
+the propos algorithm has o n 3 time complex in the worst case .

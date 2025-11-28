@@ -1,0 +1,10 @@
+autom fac retriev us bag-of-features and sigmoid grey wolf optim
+a cont bas im retriev system is on of the prim research field due to the expon increas of multimed dat ov internet espec im
+although a numb of cont bas im retriev method hav been introduc it is stil a challeng task spec for fac recognit
+theref thi work pres an autom fac retriev system us an enh bag-of-features framework
+the bag-of-features framework has been mod by incorp a new sigmoid grey wolf optim algorithm
+the sigmoid grey wolf optim algorithm us a sigmoid decreas funct to escap it from loc optim
+the efficy of the propos sigmoid grey wolf optim algorithm has been analys ov vary standard benchmark funct for av fit valu and converg behavy
+furtherm it has success been us to gen the codeword in bag-of-features framework
+the mod bag-of-features has been util in cont bas im retriev for orac research lab orl fac databas
+the sim result repres that the propos method effect retriev the fac as comp to oth nature-inspired bas method .

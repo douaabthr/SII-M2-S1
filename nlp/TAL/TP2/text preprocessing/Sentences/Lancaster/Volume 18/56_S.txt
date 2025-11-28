@@ -1,0 +1,10 @@
+cov optim in wireless sens network bas on multi-strategy dung beetl optim algorithm
+wireless sens network wsn compos of num distribut sens nod is wid us across vary field but fac sev challeng with cov optim being on of the most crit
+the siz of the nod cov are direct impact network perform
+to address thi issu a multi-strategy dung beetl optim algorithm msdbo is propos to optim cov in two-dimensional and three-dimensional reg
+in msdbo to maxim the effect of rol bal beetl the proport of rol bal beetl is dynam chang
+optim bound control strategy effect util relev posit inform to ens that the search cap of the algorithm is not affect by bound constraint
+addit a random numb is employ to chang the inert fact
+fin to enh the cap of the algorithm to escap loc optim the cur solv optim solv and posit of random select ar integr to gen a new solv
+subsequ comp with oth algorithm on the cec2017 and cec2022 test set the perform of the algorithm is evalu in both two-dimensional and three-dimensional wsn scenario
+the result ind that the maxim av cov of msdbo in 2d and 3d scen can reach 96.97% and 77.7% respect .

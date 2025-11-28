@@ -1,0 +1,7 @@
+frequenc offset estim base on a combin of fft and czt for dp-qdb coher receiv
+a new frequency-offset-estim foe method for dual-polar quadratur duobinari modul dp-qdb which is base on a combin of fast fourier transform fft and chirp z transform czt is propos
+thi method is investig at 128 gb/ in five-channel wavelength-division-multiplex dp-qdb system by simul
+the simul result show that the propos method can greatli promot foe accuraci
+when the propos method with fft and czt point of 1024 is compar with the tradit unimprov method with fft point of 2048 the former is 70% lower than the latter in foe error in the case of basic the same comput complex
+besid two foe implement scheme for dp-qdb are compar
+it is found that the implement scheme in which the foe modul is put after the post filter ha better estim perform .

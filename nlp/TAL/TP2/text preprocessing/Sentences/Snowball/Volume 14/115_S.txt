@@ -1,0 +1,7 @@
+improv chaotic binari grey wolf optim algorithm for workflow schedul in green cloud comput
+the workflow schedul in the cloud comput environ is a well-known np-complet problem and metaheurist algorithm are success adapt to solv this problem more effici
+grey wolf optim gwo is a recent propos interest metaheurist algorithm to deal with continu optim problem
+in this paper we propos igwo an improv version of the gwo algorithm which use the hill-climb method and chao theori to achiev better result
+the propos algorithm can increas the converg speed of the gwo and prevent fall into the local optimum
+afterward a binari version of the propos igwo algorithm use various s function and v function is introduc to deal with the workflow schedul problem in cloud comput data center aim to minim their execut cost makespan and the power consumpt
+the propos workflow schedul scheme is simul use the cloudsim simul and the result show that our scheme can outperform other schedul approach in term of metric such as power consumpt cost and makespan .

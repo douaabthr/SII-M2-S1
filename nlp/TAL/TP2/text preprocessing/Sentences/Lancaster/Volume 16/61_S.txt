@@ -1,0 +1,10 @@
+termit al optim algorithm a swarm-based nat inspir algorithm for optim problem
+swarm bas algorithm play a very import rol in solv optim problem as thes algorithm perform bet than the tradit techn
+vary such swarm-based algorithm ar develop and expery with by prevy research
+howev the complex and numb of input paramet to be tun ar the sign disadv for most of thes swarm-based algorithm
+in thi pres study a new swarm-based nat inspir algorithm cal termit al optim algorithm tao is propos bas on the phototact act of a termit al group
+the adv of thi algorithm is it fast converg rat with effect expl and exploit cap
+the algorithm also has a mod numb of process paramet and comput complex
+to evalu the cap tot 30 benchmark inst and 5 real-life problem ar solv by thi algorithm
+apart from the benchmark and real-life inst the algorithm is also apply in the flow shop problem to evalu it effect
+fin a comparison between the result of tao and oth ex algorithm is carry out which valid it abl .

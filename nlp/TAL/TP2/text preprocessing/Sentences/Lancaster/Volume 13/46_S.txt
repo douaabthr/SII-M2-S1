@@ -1,0 +1,9 @@
+a neighb search bas cat swarm optim algorithm for clust problem
+clust is an unsuperv techn that group the simil dat object into a singl subset us a dist funct
+it is also us to find the optim set of clust in a giv dataset and each clust consist of homog dat object
+in pres work an algorithm bas on cat swarm optim cso is adopt for find the optim set of clust cent for alloc the dat object
+furth som improv ar also incorp in cso algorithm for improv clust perform
+thes mod ar describ as an improv solv search equ to improv converg rat and an accel veloc equ for bal expl and exploit process of cso algorithm
+moreov a neighborhood-bas search strategy is introduc to handl loc optim problem
+the perform of propos algorithm is test on eight real-life dataset and comp with well-known clust algorithm
+the sim result show that propos algorithm provid qual result in comparison to ex clust algorithm .

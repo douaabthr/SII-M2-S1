@@ -1,0 +1,9 @@
+qos bas del model of the pack transport by the passeng train and solv algorithm
+in rec year stat show that the perc of household consum in gdp is get high and high
+on of the subsequ influ is that the transport demand for pack has increas sharply
+hent it is very necess to propos divers transport org mod in accord with the diff situ in diff country
+a kind of new transport mod multi-package multi-train pickup and delivery problem with tim window mpmt-pdptw is propos in thi pap
+it aim to achiev express pack transport with minim cost and maxim util of lug car of a passeng train at the sam tim
+consid the multipl constraint such as limit carry capac fix depart and acceiv tim we defin theq of serv qos as the evalu criter for pack express transport by the passeng train
+a kind of meta-heuristic algorithm greedy random adapt search proc grasp is design to mak ful us of the redund capac of railway lug car
+an exampl is design accord to the railway passeng train timet releas bychin railway corp crc the assign schemes of pack at diff railway stat rev that the new transport mod propos in thi pap is feas and pract in pack express transport and also has adv in spee comp with the highway and in transport cost ov the airlin .

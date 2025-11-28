@@ -1,0 +1,12 @@
+a parallel classif framework for protein fold recognit
+protein tertiari structur which is determin by it amino acid sequenc via the protein fold process have essenti role in the function of protein
+protein fold recognit is one of the interest studi in bioinformat
+in thi paper to address thi issu we propos a featur select fs method base on map_reduc framework and vortex search algorithm vsa
+fs is one of the most import step of pre-process data which aim to select a variabl subset of relev featur
+in unparallel mode and typic data over hundr of featur select and dimens reduct algorithm have been provid such as principl compon analysi linear discrimin analysi and so on
+nevertheless these algorithm are not implement for real-world applic when data instanc increas in three-dimension volum veloc and varieti that call big data actual if we want to use previou featur select method on big data volum of larg and complex comput will be requir
+vsa wa inspir from the vortex pattern creat by the vortic flow of the stir fluid
+in map_reduc framework map and reduc function execut in parallel mode
+in the propos method in each step of map function a vsa is employ to find an optim subset of featur and decreas featur search space
+in the light of the abov consider we evalu the propos method in classif of a benchmark dataset for protein fold recognit
+the experiment result indic that the propos method improv predict accuraci consider .

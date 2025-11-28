@@ -1,0 +1,6 @@
+qualiti control strategi of the suppli chain base on stochast differenti game
+thi paper focus on the stochast disturb on qualiti control strategi with a two-echelon suppli chain
+a state equat is describ to the chang of product qualiti and the stochast differenti game model with qualiti disturb are design accord to differ cooper mode between the manufactur and the retail
+the paper aim to investig the relationship between the qualiti disturb with qualiti control strategi of the suppli chain member
+after the construct and analysi of the evolutionari process of the product qualiti to stochast differenti model the optim equilibrium solut and subsidi ratio is solv by use the dynam program method
+the result show the product qualiti is invers proport to the qualiti invest cost and the depreci rate and is proport to the margin revenu of the qualiti the cooper game model ha the better perform in improv the input of the suppli chain member to product qualiti .

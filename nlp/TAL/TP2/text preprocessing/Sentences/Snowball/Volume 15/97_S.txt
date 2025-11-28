@@ -1,0 +1,11 @@
+balanc broad and deep search in evolutionari comput via a parallel zone search
+comput time and solut precis are two major concern in evolutionari comput ec
+although high-perform comput techniqu have been appli to reduc the comput time of meta-heurist algorithm it doe not mean that they can assist meta-heurist algorithm in find a high-qual solut
+moreov most of meta-heurist algorithm may belong to the depth-first search method thus achiev a tradeoff between the broad search and the deep search is a crucial object in the ec
+to allevi the abov problem a parallel zone search pzs strategi is propos in the current studi
+in the pzs the entir search space is divid into mani small search space for improv the broad search capabl of algorithm and reduc the problem complex
+subsequ select meta-heurist algorithm consid as deep search algorithm are employ to find a satisfactori solut in each search region
+the effect of the pzs integr into six differenti evolut de variant is demonstr on two common use test suit i.e. ieee cec2014 and bbob2012
+result suggest that the pzs is a high competit approach to solv differ type of optim problem especi on complex optim problem
+final the pzs incorpor into six de variant is use to estim paramet of a heavi oil thermal crack model
+result indic that the pzs is an effect and effici tool to help select algorithm solv actual industri optim problem .

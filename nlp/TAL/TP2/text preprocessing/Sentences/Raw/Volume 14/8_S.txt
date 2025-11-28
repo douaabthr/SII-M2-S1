@@ -1,0 +1,6 @@
+Software fault localization using BP neural network based on function and branch coverage
+Software failure is inevitable with the increase in scale and complexity of the software
+Existing fault localization techniques based on neural networks take statement coverage information and test case execution results into account to train the network
+In this paper we propose an effective approach for fault localization based on back-propagation neural network which utilizes branch and function coverage information along with test case execution results to train the network
+We investigated our approach using Siemens suite
+Our experimental result shows that our proposed approach performs on average 23.50 44.27% better than existing fault localization techniques .

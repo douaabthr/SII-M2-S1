@@ -1,0 +1,12 @@
+special issu on simul evolut and learn
+the field of natur comput is one of the fastest grow area in comput scienc and engin
+although it origin can be trace back to the cybernet movement of the 1950s it has undergon a renaiss sinc the mid-1980 s primarili due to the fundament work by pioneer for exampl john holland ken de jong david goldberg john koza lawrenc fogel in the genet and evolutionari algorithm domain . problem solv techniqu base on simul evolut and learn encapsul a wide varieti of natur comput implement
+these algorithm implement as comput simul typic includ a two-step iter process the generat of random variat follow by select
+as the model is iter good optim solut emerg
+evolutionari algorithm typic do not make assumpt about the under search space
+as such they provid a mean for tackl hard practic problem one involv larg complex search space
+over the past decad evolutionari optim and learn algorithm have been appli success to a wide varieti of real-world problem . this special issu bring togeth recent contribut in the evolutionari optimis and learn domain span a divers rang of topic
+the four paper includ in this special issu were among the invit submiss from seal08 the 7th intern confer on simul evolut and learn
+each of the submit paper was substanti revis and extend base on the origin confer version
+the extend paper were then rigor review in two round by at least three anonym review
+the high qualiti contribut introduc below clear reflect the strong interest in simul evolut and learn as a practic problem solv vehicl .

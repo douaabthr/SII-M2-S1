@@ -1,0 +1,12 @@
+analyt on real time secur attack in healthcar retail and bank applic in the cloud
+cloud comput is use by larg enterpris to provid servic to custom
+the major advantag of adapt cloud system is that the client need not have to manag the mainten and oper of the cloud system along with the mainten of hardwar but they will have full control over the data
+the downsid of the cloud system are the secur threat that includ confidenti and secur issu
+softwar as a servic platform as a servic and infrastructur as a servic all come with it own secur issu of differ complex
+the secur challeng pose by cloud comput system are overshadow the econom edg it ha
+base on the analysi of the research perform in the area of secur issu in the cloud it is evid that a detail analysi on the same will throw light on root caus and vulner
+the research primarili throw light on the statist and detail analysi on the secur attack in the cloud system in differ domain
+the paper focus on the issu and threat in healthcar retail and bank domain
+analyt on the attack in these domain will give insight on the loss mitig time etc
+the real time data on secur threat is acquir from it cloud servic provid
+the statist on the same will open up differ perspect of cloud secur issu and can throw light on the possibl research direct and that is the motiv behind thi preliminari research .

@@ -1,0 +1,10 @@
+DBFS Dragonfly Bayes Fusion System to detect the tampered JPEG image for forensic analysis
+Due to the advancement of a variety of photo editing and image processing software image forensics analysis has become an important research topic in recent years
+Numbers of research works are presented for image forensic analysis
+Accordingly this paper proposes a method named as Dragonfly Bayes Fusion System DBFS by integrating the Naive Bayes NB classifier and the Dragonfly optimization for detecting the tampered Joint Photographic Experts Group image
+Initially the input image is applied to the existing six forensic tools separately and the classified binary map is generated
+Then the proposed DBFS fuses these decisions for generating the optimal decision
+Here the NB classifier creates the model by finding the mean and variance of every feature and this model is given as input to the Dragonfly optimization for optimally generating the probabilistic measures
+Finally the posterior probability of each feature is determined with respect to the tampered class and the original class and the tampered image block is determined
+The performance of the proposed system is evaluated with the existing methods such as fuzzy theory based classification rule-based classification average method and weighted average method for the evaluation metrics accuracy False Positive Rate FPR and True Positive Rate TPR
+The experimental results show that the proposed system outperforms the existing methods by obtaining the maximum accuracy of 0.9519 minimum FPR of 0.0490 and maximum TPR of 0.8720 when compared to the existing methods .

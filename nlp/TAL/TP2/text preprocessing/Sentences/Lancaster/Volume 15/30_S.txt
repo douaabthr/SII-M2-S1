@@ -1,0 +1,10 @@
+a hybrid approach to energy efficy clust and rout in wireless sens network
+wireless sens network ar develop as a vit tool for monit divers real tim apply such as environ monit fact heal car wid are surveil and many mor
+though the adv of wsns ar plenty the pres challeng is to gain effect control ov the deplet battery pow and the network lifetim
+rec research hav prov that the energy consum can be minim if effect clust mech ar incorp
+thi pap propos hock and heck novel energy efficy clust algorithm to increas the network lifetim for homog and heterog environ respect
+both thes algorithm ar built us kril herd and cuckoo search
+whil the optim clust centroid posit ar comput us the kril herd algorithm and the cuckoo search is apply to select the optim clust head
+the perform of the hock algorithm is evalu by vary bas stat loc and nod dens
+to evalu the heck algorithm two and three level heterog ar consid
+the sim result show that the propos protocol is mor effect in improv the network lifetim of wsns comp to oth ex method such as gaech hybrid hsapso and eso-leach .

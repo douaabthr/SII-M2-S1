@@ -1,0 +1,10 @@
+aesthet qual model of the form of nat el in the environ of urb park
+assess the aesthet qual of the landscap espec in nat ecosystem of urb area with the aim of util man can be an effect step toward optim and sustain us of the urb park environ and serv
+the lack of study on the form of landscap el and combin of nat attribut in landscap beauty is a main shortcom in thi field
+theref the purpos of thi study is to develop an art neur network model and tool to predict the aesthet qual of the landscap contain wat and plant in diff form and volum
+theref we record 6 landscap charact in 100 landscap in 10 urb park
+multi-layer perceptron model mlp repres the highest valu of r2in train 0.98 and test 0.94 dat set
+accord to the sensit analys the valu of tre plant form wat hedg grass wat body form and tre wer determin respect as the input influ the mlp model output
+the urb park landscap with mor tre in the form of strip or group and wat body and less hedg and grass would lik attract park visit attract
+the design graph us interfac in matlab softw mak mlp an environ decid support system tool for landscap design and it is a platform to predict the qual of environ and the fut research should be on discuss or the rel between spat for of landscap attribut
+in pract the design environ decid support system tool is apply by landscap man to predict the aesthet qual of landscap in design new park .

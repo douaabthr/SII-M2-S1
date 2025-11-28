@@ -1,0 +1,14 @@
+sustain multipl travel salesm problem solv by ref point aspir level bas mult object quas opposit jay algorithm und uncertain environ
+carbon emit vary from vehic to vehic along with the rout select for travel curb weight vehic spee etc . ar uncertain
+consid appropry rout and vehic to reduc carbon emit is import for eco-friendly transport
+in the pres study the green multipl travel salesm problem mtsp is solv by the propos ref point aspir level-based multi-objective quas opposit jay rpal-based moqo jay algorithm
+in green mtsp with risk and carbon constraint multipl salesm ar us to travel and al hav to return to the depot start city
+two model ar solv i.e. expect valu ev and optim valu ov model sint the nat of the travel cost tim risk and carbon emit ar uncertain the problem is solv und an uncertain environ
+green mtsp is consid by tak risk and carbon emit as constraint in thi model
+a real-life exampl of sur city is consid for 10 and 50 city nod so the effect of select a singl salesm vers multipl salesm is observ
+the dat collect for sur city from googl map and googl ear is evalu consid road traff condit and spee of vehic
+the problem is solv by rpal-based moqo jay algorithm
+the suprem of the propos method is est through it comparison with oth method for tsplib as wel as for the real exampl solv by the propos method and comp with al-based moqo jay fuzzy program techn fpt hybrid ga rao algorithm
+furth sensit analys is perform with respect to confid level
+the perform of rpal-based moqo jay is check by calc gd igd hv and cov
+the propos algorithm can be easy adapt to solv supply chain problem ship rout problem vrp etc .

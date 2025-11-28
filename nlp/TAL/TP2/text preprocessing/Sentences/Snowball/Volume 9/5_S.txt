@@ -1,0 +1,8 @@
+popul base ant coloni optim for reconstruct ecg signal
+a popul base ant coloni optim algorithm paco for the reconstruct of electrocardiogram ecg signal is propos
+specif the paco find a subset of nonzero posit of a spars wavelet domain ecg signal vector that is use for the reconstruct of the signal
+a time window is use by the propos paco for fix certain decis of the ant dure the run of the algorithm
+the optim behaviour of the paco is compar with various algorithm from the literatur for ecg signal reconstruct and with two random search heurist
+experiment result are present for ecg signal from the mit-bit arrhythmia databas
+the influenc of sever algorithm paramet and of a local search procedur is evalu
+the result show that the propos paco algorithm reconstruct ecg signal with high accuraci .

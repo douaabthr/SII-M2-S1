@@ -1,0 +1,13 @@
+neuromodul multiobject evolutionari neurocontrol without speciat
+neuromodul is a biologically-inspir techniqu that can adapt the per-connect learn rate of synapt plastic
+neuromodul has been use to facilit unsupervis learn by adapt neural network weight
+multiobject evolut of neural network topolog and weight has been use to design neurocontrol for autonom robot
+this paper present a novel multiobject evolutionari neurocontrol with unsupervis learn for robot navig
+multiobject evolut of network weight and topolog neat-mod is augment with neuromodul learn
+neat-mod is an nsga-ii base multiobject neurocontrol that use two conflict object
+the first reward the robot when it move in a direct manner with minim turn the second object is to reach as mani target as possibl
+neat-mod use speciat a select process that aim to ensur pareto-optim genotyp divers and elit
+the effect of the design is demonstr use a seri of experi with a simul robot travers a simpl maze contain target goal
+it is shown that when neuromodul learn is combin with multiobject evolut better-perform neural control are synthes than by evolut alon
+second it is demonstr that speciat is unnecessari in neuromodul neuroevolut as neuromodul preserv topolog innov
+the propos neuromodul approach is found to be statist superior to neat-mod alon when appli to solv a multiobject navig problem .

@@ -1,0 +1,10 @@
+multy coevolv genet fuzzy system to develop bid strategies in elect market comput econom to assess mech design
+thi pap suggest a genet fuzzy system approach to develop bid strategies for ag in onlin auct environ
+assess efficy bid strategies is a key to evalu auct model and ver if the und mech design achiev it intend goal
+due to it relev in cur energy market worldwid we us day-ahead elect auct as an expery and apply inst of the approach develop in thi pap
+success fuzzy bid strategies hav been develop by genet fuzzy system us coevolv algorithm
+in thi pap we address a coevolv fuzzy system algorithm and pres rec result concern bid strategies behavy
+coevolv approach develop by coevolv ag interact through their fuzzy bid strategies in a multy environ and allow real and transp repres of ag behavy in auction-based market
+they also improv market repres and evalu mech
+in particul we study how the coevolv fuzzy bid strategies perform against each oth dur hour elect energy auct
+expery result show that coevolv ag may enh their profit at the cost of increas system hour pric paid by demand .

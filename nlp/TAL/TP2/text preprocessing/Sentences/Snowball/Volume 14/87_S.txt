@@ -1,0 +1,11 @@
+intellig environ for advanc brain imag multi-ag system for an autom alzheim diagnosi
+over decad alzheim s diseas ad research present increas challeng
+howev various method were propos to detect ad includ imag process
+this paper present a concret solut to diagnos ad base on a multi-ag system mas
+this approach highlight the import of the cooper paradigm within a robust system in which all agent cooper to accomplish the segment task
+the exchang between agent remain an essenti part of the segment process
+the origin contribut of this paper is twofold 1 to present an agent-bas segment methodolog by highlight the main characterist advantag and disadvantag of mas
+2 to provid a usabl solut by facilit the detect of ad while take into account both the expertis and the requir of specialist in the applic domain
+ensur a cooper segment use the multi-ag system offer a strong point in term of system stabil as well as clariti of the process for physician
+for this sever test have been carri out to prove the effect of our work
+the result ensur that the perform indic in our propos method were higher .

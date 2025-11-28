@@ -1,0 +1,5 @@
+evolutionari synthesi of low-sensit digit filter use adjac matrix
+an evolutionari synthesi method to gener digit filter with low coeffici sensit is present
+the method use a chromosom code base on the graph adjac matrix represent
+it is shown that the propos chromosom represent enabl to easili verifi and avoid the gener of topolog invalid and non-comput individu dure the evolutionari process
+the effici of the propos algorithm is test in the synthesi of two low-pass digit filter and the result are compar with other exampl found in the literatur .

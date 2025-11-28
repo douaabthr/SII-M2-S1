@@ -1,0 +1,14 @@
+a realist and sustain logist transport plan a new cost model meta-heurist solv approach and result
+accur logist cost enabl effici and cost-effect plan of transport system
+it facilit the fast on-tim and seamless transport of good between the citi
+exist cost model are base on the unit transport cost of good which could be more realist and accur
+in this work we introduc a new cost function base on the unit transport cost of a truck to overcom the undercharg or overcharg issu in the exist cost function
+the propos cost function best suit the govern and industri when develop the facil
+this work also present the logist transport problem formul of a cost function use integ program and methodolog to solv the transport problem use meta-heurist algorithm
+in addit we construct a new transport problem for one district-on product odop use real-world scenario and data
+odop is an initi of the uttar pradesh govern for the balanc econom develop of the state in india
+we solv this 18 citi problem use eight meta-heurist algorithm
+our experiment simul find an optim logist cost of rs
+2159140.00 for four logist hub and 14 distribution/collect centr
+our observ also identifi the depend of network configur over various factor like establishment/rent and oper cost the unit cost of transport and the capac of vehicl instead of onli on product suppli and demand of goods/product
+our evalu also report an 80% consist result by the anti-predatori nature-inspir algorithm compar to the other state-of-the-art algorithm .

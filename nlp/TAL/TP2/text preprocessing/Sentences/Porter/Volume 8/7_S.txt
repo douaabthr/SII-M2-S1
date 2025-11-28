@@ -1,0 +1,14 @@
+rule reduct by select strategi in xc with adapt action map
+the xc classifi system is a rule-bas evolutionari machin learn system
+xc evolv classifi in order to learn gener solut
+the xc with adapt action map xcsam is inherit from xc which evolv a best action map where it evolv classifi that advoc the best action in everi state
+accordingli xcsam can potenti evolv solut that are more compact than xc which in contrast focus on a complet action map
+previou experiment result howev have shown that in some problem xcsam may produc solut with more classifi than xc
+in thi paper we initi show that the origin fitness-bas select strategi of xc produc non effect classifi which are not like to be in the best action map i.e. they are inaccur one or do not have best action in xcsam
+then we introduc a new select strategi for xcsam that promot the evolut of classifi advoc the best action map and thu produc more compact solut
+the new strategi select classifi base both on their fit like xc and on the parameteroptim of actionof xcsam
+the result is a pressur toward classifi that are accur and advoc the best action
+we present analys show that the new select strategi success enabl xcsam to focu on classifi have best action
+our experiment result show that xcsam with the new select strategi call xcsam-ss can evolv smaller solut than xc and the origin xcsam both in single-step and multi-step problem
+as a consequ xcsam can also learn with smaller iter than xc in the single-step problem
+our conclus is that as the best action map potenti ha a compact solut xcsam evolv a much compact solut than xc by ad an adequ select strategi .

@@ -1,0 +1,9 @@
+matrix-bas particl swarm optim with hybrid strategi for multi-travel salesman problem
+the multipl travel salesman problem mtsp is an extens of the travel salesman problem which involv multipl salespeopl visit a set of citi with each citi be visit onli onc
+it is wide use in logist distribut traffic schedul and multi robot collabor but face challeng such as high comput complex difficult task alloc and suscept to local optim solut
+most exist method focus on find solut from scratch primarili aim to minim the total travel distanc with insuffici attent paid to balanc travel cost among salespeopl
+this articl propos a matrix base multi strategi integr particl swarm optim algorithm which improv effici through matrix represent and parallel comput and introduc a dynam divers mechan to balanc local and global search capabl
+in addit a new fit evalu function has been design to effect address signific rout differ among salespeopl
+among the five typic tsp problem the perform of this algorithm is superior to mpso hjspso and standard pso algorithm
+it signific improv solv effici and enhanc result balanc
+this studi provid an effici and robust solut for the mtsp problem which has import theoret signific and practic applic valu .

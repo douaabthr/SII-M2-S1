@@ -1,0 +1,9 @@
+an optim feat select method for histopatholog tissu im class us adapt jay algorithm
+due to the complex background and heterog structure class of histopatholog tissu im is a challeng problem
+furth the select of appropry feat is an import phas of class process as irrelev and redund feat may result in high comput and degrad the perform
+theref a new adapt jay algorithm has been introduc in thi pap which is us to obtain the promin feat set from the extract feat
+the propos adapt jay algorithm mod the upd equ us the best and the worst solv
+for the feat extract a pre-trained alexnet has been us due to it distinct perform in the im class
+moreov the perform of fiv diff class hav been analys ov the select feat in context of class the histopatholog tissu im into four categ nam epithel tissu nerv tissu connect tissu and muscul tissu
+expery result valid that the propos adapt jay algorithm attain bet optim valu on cec2015 funct
+the propos method elimin 91.3% feat from the extract feat which is maxim among oth consid method and also achiev high class acc .

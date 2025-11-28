@@ -1,0 +1,9 @@
+wavelet correl analysi relev vector machin diseas predict for immov cultur relic
+the prevent protect of cultur relic is the import topic of cultur relic protect research
+aim at the shortag of cultur relic data analysi and diseas predict in this paper a wavelet correl analysi relev vector machin regress method is propos which can accur predict the diseas of immov cultur relic by use the monitor environment data and the correspond diseas degre of cultur relic
+first the correl of multivari time seri of immov cultur relic is quantit obtain by use wavelet correl analysi and the valid of characterist variabl of cultur relic diseas is identifi
+then accord to the effect characterist variabl the relev vector machin predict model is construct
+final the good perform of the method is verifi by use the environment monitor data of the rock mass fractur in the north qianfo cliff of dafo templ in binzhou citi of shaanxi provinc in china
+the experiment result show that the propos method is more effect than the tradit diseas predict method base on back propag neural network support vector machin princip compon analysi relev vector machin and random forest for immov cultur relic
+this method is univers and easi to implement for multi-sourc data predict of immov cultur relic diseas
+it not onli provid idea for data analysi of the internet of thing for cultur relic protect but also give a scientif theoret refer for the prevent protect of cultur relic .

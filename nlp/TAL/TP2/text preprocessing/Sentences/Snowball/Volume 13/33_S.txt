@@ -1,0 +1,8 @@
+solv the twitter sentiment analysi problem base on a machin learning-bas approach
+twitter sentiment analysi tsa as part of a text classif task has been wide attend by research in recent year
+this paper present a machin learn approach to solv the tsa problem in three phase
+in the second phase a suitabl valu for repres each featur in the vector space model is determin through the weight combin of the valu obtain from four method i.e. term frequenc and invers document frequenc semant similar sentiment score use sentiwordnet and sentiment score base on the class of tweet
+in this manner find the percentag of contribut or weight of each method is defin as an optim problem and solv use a genet algorithm
+also the weight valu obtain from four method are combin base on the einstein sum as an import t-conorm method
+final the perform of the propos method is test base on the accuraci of support vector machin and multinomi naïv bay classif algorithm on four famous twitter dataset name the stanford test dataset sts-gold dataset obama-mccain debat dataset and strict obama-mccain debat dataset
+the obtain result show the high superior of the propos method in comparison with the other method .

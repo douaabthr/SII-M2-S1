@@ -1,0 +1,8 @@
+Mutual information for feature selection estimation or counting
+In classification feature selection is an important pre-processing step to simplify the dataset and improve the data representation quality which makes classifiers become better easier to train and understand
+Because of an ability to analyse non-linear interactions between features mutual information has been widely applied to feature selection
+Along with counting approaches a traditional way to calculate mutual information many mutual information estimations have been proposed to allow mutual information to work directly on continuous datasets
+This work focuses on comparing the effect of counting approach and kernel density estimation KDE approach in feature selection using particle swarm optimisation as a search mechanism
+The experimental results on 15 different datasets show that KDE can work well on both continuous and discrete datasets
+In addition feature subsets evolved by KDE achieves similar or better classification performance than the counting approach
+Furthermore the results on artificial datasets with various interactions show that KDE is able to capture correctly the interaction between features in both relevance and redundancy which can not be achieved by using the counting approach .

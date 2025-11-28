@@ -1,0 +1,8 @@
+Fractional weightage based objective function to a hybrid optimization algorithm for model transformation
+Model transformation MT contributes a major role in the model-driven engineering MDE which are used to transfer the models among various languages to refactor and simulate the models or to obtain the useful codes from the models
+Thus the need for MT in MDE is very important but the practical methods are not suitable for the detection of errors in transformations
+This paper proposes an advanced algorithm called fractional whale optimization integrated adaptive dragonfly F-WOADF algorithm to perform the MT from the class diagram CLD to relational schema RS model
+The proposed algorithm modifies the adaptive dragonfly ADF algorithm with the concept of whale optimization algorithm WOA using the fractional theory
+The UML CLD is transformed into the RS model using the optimal blocks that are selected with the use of the proposed algorithm
+The performance of the F-WOADF method is evaluated using automatic correctness AC and fitness measure
+The proposed method produces the maximum AC of 0.8583 and the maximum fitness measure of 0.8984 that indicates the effectiveness of the proposed method .

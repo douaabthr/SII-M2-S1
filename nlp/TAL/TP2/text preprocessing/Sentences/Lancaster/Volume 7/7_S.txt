@@ -1,0 +1,8 @@
+beyond black-box optim a review of select press for evolv robot
+evolv robot er is oft view as the apply of a famy of black-box optim algorithm evolv algorithm to the design of robot or part of robot
+when consid er as black-box optim the select press is main driv by a user-defined black-box fit funct and a domain-independent select proc
+howev most er expery fac simil challeng in simil setup the select press and in particul the fit funct is not a pur user-defined black box
+the pres review show that becaus er expery shar common feat select press for er ar a subject of research on their own
+the lit has been split into two categ goal refin aim at chang the definit of a good solv and process help design to help the search process
+two sub-categories ar furth consid task-specific approach which requir knowledg on how to solv the task and task-agnostic on which do not nee it
+besid highlight the divers of the approach and their respect goal the pres review show that many task-agnostic process help hav been propos dur the last year thu bring us clos to the goal of a ful autom robot behavy design process .

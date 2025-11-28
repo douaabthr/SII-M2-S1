@@ -1,0 +1,11 @@
+beyond publ numb a novel approach to academ rank us evolv program
+evalu the impact of research within a sci commun remain a complex and deb issu
+tradit met such as publ and cit count oft fail to capt the multifacet nat of scholarly influ
+whil sev ind such as the h-index and it vary hav been propos they too fac limit in reflect qualit and longitudin aspect of academ contribut
+thi study introduc a novel research rank framework that integr four distinct paramet norm cit scor ncs complet car contribut ccc temp cit input tci and collab prestig cp
+thes paramet ar combin us two rank mech the stat rank system srs bas on mathem model and the comprehend rank system crs which employ genet program gp to evolv domain-specific rank formula
+the methodolog was evalu across fiv dataset comput sci mathem neuroscy civil engin and a combin dataset each bal with eq numb of award and non-awardees
+in srs model such as the lehm mean and logarithm mean perform effect in highlight award
+in crs the evolv model achiev fit valu of up to 0.96 in comput sci and 0.88 in mathem with slight low scor in oth domain
+the reduc perform on the combin dataset highlight the import of domain-sensitive model
+the result suggest that the propos framework off a flex and comprehend approach to research evalu that can adapt to domain-specific impact pattern provid an altern to conv rank met .

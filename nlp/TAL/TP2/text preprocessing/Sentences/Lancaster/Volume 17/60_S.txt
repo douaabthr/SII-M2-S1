@@ -1,0 +1,10 @@
+hermit crab shel exchang algorithm a new metah
+the solv to num real-world problem is challeng us the in-hand determin approach in the modern ag
+the research ar continu look for new method to deal with such task
+the tim bound depend on the solv mot the research to develop approxim approach
+if the answ is not with us nat may provid a direct for approxim solv for vary problem
+a few apply hav been sign solv by algorithm inspir by the diff specy nat behavy
+thes nat inspir algorithm ar develop bas on the surv strategies of the specy
+thi study attempt to sim the shelt search strategy of the trop cant hermit crab mathem
+the pres algorithm is cal hermit crab shel exchang hcse
+the competit of the hcse algorithm is est on three diff set of optim funct includ vary unconstrain constrain and engin design optim problem .

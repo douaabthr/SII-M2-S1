@@ -1,0 +1,8 @@
+reliability-based multi-objective optim of truss with greyl goos algorithm
+thi pap introduc a multi-objective vary of the greyl goos optim moggo to tackl complex structural optim problem
+inspir by the coop behavy of gees in flight moggo employ dynam group to enh problem-solving efficy
+six truss structures undergo simult topolog shap and siz optim us moggo aim to maxim rely whil minim structural mass
+by incorp non-dominance sort and arch techn moggo extend the single-objectiv greyl goos optim to effect address trade-offs between compet object
+evalu met and stat test demonst moggo s supery perform in handl larg structural optim problem preserv mor pareto-optimal set and achiev gre converg and vary in object and decid spac
+moggo s abl to man conflict object is furth valid through divers analys with swarm plot illust it supery converg behavy across it
+overal moggo prov to be an efficy and effect approach for address challeng reliability-based multi-objective structural optim problem .

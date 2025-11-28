@@ -1,0 +1,12 @@
+an improv bin partic swarm optim comb v-shaped and u-shaped transf funct
+feat select aim to find a best feat subset from al feat set of a giv dataset which repres the whol feat spac to reduc redund and improv class acc
+the evolv comput algorithm is oft apply to feat select but ther ex low efficy in the search process
+with the increas of the numb of feat solv the feat select problem becom mor and mor difficult
+ex evolv algorithm hav many defect such as slow converg spee low converg acc and easy to fal into loc optim
+theref the research of mor effect evolv algorithm has import theoret sign and apply valu
+bin partic swarm optim bpso is a kind of evolv comput algorithm and has a good perform in feat select problem
+it us transf funct to convert the continu search spac to the bin on
+transf funct play an import rol in bpso
+so thi pap propos an improv bpso by combin v-shaped and u-shaped transf funct and introduc a new learn strategy and a loc search strategy bas on adapt mut
+the improv bpso enh it optim abl in feat select problem
+the expery result show that the improv bpso has bet dimend reduc abl and class perform than oth algorithm .

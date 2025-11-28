@@ -1,0 +1,9 @@
+perform assess of the main metah for sustain supply chain
+the sustain supply chain optim is a high-dimensional multi-objective optim problem
+the involv cost can be categ as econom environ and soc
+metah can be us for tackl thi kind of problem efficy
+thi short not deal with a comp analys of the main metah accord to rec survey for a sustain supply chain model
+the consid techn ar genet algorithm partic swarm optim sim an and non-dominated sort genet algorithm
+moreov two hybrid model ar also includ i. e
+genet algorithm combin with sim an and genet algorithm combin with partic swarm optim
+the lat provid the best result with a constraint satisfact rat eq to 0.9968 .

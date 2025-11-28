@@ -1,0 +1,11 @@
+optim for cost-effective design of wat distribut network a comprehend learn approach
+the comprehend learn gravit search algorithm clgsa has demonst it effect in solv continu optim problem
+in thi research we extend the clgsa to tackl np-hard combin problem and introduc the discret comprehend learn gravit search algorithm d-clgsa
+the d-clgsa framework incorp a refin posit and veloc upd scheme tail for discret problem
+to evalu the algorithm s efficy we conduc two set of expery
+first we assess it perform on a divers rang of 24 benchmark encompass unimod multimod composit and spec discret funct
+second we apply the d-clgsa to a pract optim problem involv wat distribut network plan and man
+the d-clgsa model was coupl with the hydra sim solv epanet to ident the optim design for the wat distribut network aim for cost-effectiveness
+we evalu the model s perform on six distribut network nam two-loop network hano network new-york city network goyang network bakryun network and balerm network
+the result of our study wer prom surpass prevy study in the field
+consequ the d-clgsa model hold gre pot as an optim for econom and rely plan and man wat network .

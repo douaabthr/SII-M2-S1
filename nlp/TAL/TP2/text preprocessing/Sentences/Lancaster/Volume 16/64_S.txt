@@ -1,0 +1,9 @@
+ensembl deep learn system for ear breast cant detect
+thi pap propos an ensembl deep learn system for the ear detect of breast cant
+unlik tradit ensembl learn that process the whol im the propos system process on the suspect nod reg snrs extract us an optim dynam thresholding method wher the threshold vary correspond to the detail of each input im
+the snrs afford bet perform and off the abl to detect smal siz nod
+the ensembl is compos of four transf learn convolv neur network cnns i.e. alexnet resnet-50 resnet-101 and densenet-201
+a bin support vect machin svm follow each cnn model to provid eith a malign or a benign scor
+to obtain the fin system decid the first-order moment is der ov the four bin output of the ensembl cnns and the fin decid is guid by the four cnns train acc
+the propos ensembl fus scheme test on reg of interest roi im us the publ digit med im cur breast im subset of digit databas for screening mammograph cbis-ddsm achiev an acc of 94% to distinct between malign m and benign b class and of 95% to distinct between malign mass mm and benign mass bm nod
+comparison with rel method on the sam dat confirm the acc and adv of the propos ensembl system .

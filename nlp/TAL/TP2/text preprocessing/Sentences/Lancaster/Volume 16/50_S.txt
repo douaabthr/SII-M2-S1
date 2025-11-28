@@ -1,0 +1,9 @@
+a gen scheme for cyb sec in resourc constraint network us incomplet inform gam
+we propos an onlin learn model that efficy teach a defend s ag to learn the attack s behavy whil interact in the cyber-world
+thi pap model the interact between thes two ag as a stochast gam with limit rat
+becaus of thi limit rat the propos model help the defend s ag learn the unknown commun s behavy from the feedback obtain whil interact with it
+many model ar built to solv the interact between them by develop a state-oriented stochast markov gam
+howev such model fail due to the stat explod problem and theref thi pap discuss a model to solv thi gam restrict it to a stateless stochast gam
+the model is then comp to check the perform with diff algorithm that solv stochast gam
+the comparison between them show that the propos algorithm converg to an optim strategy in a brief sim tim span
+fin our model check the perform with an ex techn that show that the propos algorithm choos the correct strategy for around 91% of the sim tim comp to 73% of the sim tim by the ex algorithm .

@@ -1,0 +1,13 @@
+extrins evolv system for breast cancer detect
+standard method of assess breast cancer is a tripl test assess
+in thi method initi a thorough medic examin and patient histori is evalu secondli imag of the breast use x-ray and/or ultrasound is done and final a preoper cytodiagnosi is done that is either fine needl aspir cytolog fnac or core needl biopsi cnb or both
+fnac be a minim invas and rapidli perform test is prefer in mani case over cnb that is more invas
+if a tripl test give posit result in ani one of the three step then the result is taken posit
+fnac involv determin the cell size and shape paramet and base on their valu a case is classifi as benign or malign
+to autom the process of decis make a novel techniqu ha been propos
+in thi techniqu a digit logic circuit wa evolv use cartesian genet program cgp
+a cgp network wa train and then test with fnac featur data from the breast cancer wisconsin dataset
+the dataset consist of 669 sampl of which 350 sampl were use for train purpos and then the train system wa evalu with 349 test sampl
+a number of experi were perform each with a differ set of network paramet
+the best evolv network classifi the sampl with an accuraci of 99.42% which is higher than that produc with most of the contemporari techniqu
+the network so produc can be implement on re-configur hardwar .

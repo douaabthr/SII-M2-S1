@@ -1,0 +1,9 @@
+artifici intellig in the diagnosi of shoulder injuri through magnet reson imag a scope review
+the main object of thi review is to summaris the evid about the artifici intellig model in the assess of shoulder magnet reson imag . thi scope review includ observ studi focus on the use of artifici intellig to improv the diagnosi of shoulder injuri in magnet reson imag
+the studi that mix joint or whose approach wa theoret were exclud
+regard the analysi of each studi the data includ were studi type popul profil sampl size method of deep learn outcom variabl accuraci measur and statist signific . 26 studi with a total of 9019 subject were includ
+seven studi focus on the accuraci of segment thirteen on the diagnosi five on the imag qualiti and one on the acquisit time
+for these purpos all studi bet on convolut neural network with seven choos the 3d u-net model and seven opt for more specif model such as 1 lipschitz neural network v-net vivgg19 or capsnet
+furthermor six studi opt for the conjunct of model such as block-bas alexnet googlenet incept v3 resnet or squeezenet with the 3d u-net model
+these model obtain statist signific improv in imag qualiti p 0.001 0.028 and accuraci of segment p 0.001 0.043
+howev despit obtain a slight optim of diagnost sensit these differ were not signific in all studi p 0.001 0.99 . deep learn stand out as a promis tool in the manag of imag test in shoulder patholog but more research is requir to draw consist conclus .

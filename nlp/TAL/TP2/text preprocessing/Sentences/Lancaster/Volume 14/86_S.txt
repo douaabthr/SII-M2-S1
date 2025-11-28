@@ -1,0 +1,12 @@
+harmony search algorithm for simult minim of bi-objectives in multi-row parallel machin layout problem
+the manufact cost of produc and produc main depend on the arrang of manufact facil on the shop flo
+the process of design a good layout ens the rel posit of diff typ of machin to satisfy the object of the manufact
+prob the arrang of machin in a singl row with consid duply machin and forward flow of mat und a multi-product environ is provid bet solv to the manufact in view of satisfy the object
+sint the us of duply machin in a singl row machin layout the invest cost on machin is high along with the requir of a lengthy spac
+in addit to that the forward flow of mat is result from an increas in the flow dist of produc
+in view of elimin thes two constraint the lay of machin in multi-row with forward and backward flow of produc is being consid
+the propos work is discuss about the effect way of lay parallel machin in multipl row to satisfy the minim of bi-objective nam flow dist of produc and are of the layout
+a simpl heur is develop to evalu the bi-objectives for the giv sequ of machin plac on the constrain multipl row
+furth a harmony search algorithm is util to ident the best sequ of machin to be arrang in multi-rows to simult minim the bi-objectives
+the effect of the propos algorithm is test on the problem assocy with singl row machin layout and the problem dealt by vitayasak and pongcharo expert syst appl 98 129 152 2018
+the result ens that the propos algorithm was cap of provid the best solv to the multi-row parallel machin layout problem by sign minim the bi-objectives simult .

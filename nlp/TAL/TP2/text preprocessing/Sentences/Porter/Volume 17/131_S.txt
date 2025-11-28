@@ -1,0 +1,14 @@
+robot vision base obstacl avoid for navig of unman aerial vehicl use fuzzi rule base optim deep learn model
+recent the topic associ with robot are becom an interest research area
+meanwhil intellig mobil robot or unman aerial vehicl uav ha great accept howev the navig and control of the devic are more complex
+the shortag of deal with static obstacl and evad them due to secur and safe rout is a fundament need of the system
+therefor an effectu robot obstacl avoid mechan use deep learn dl model optim with a swarm intellig procedur is propos
+the main aim of thi method is to avoid collis with static obstacl and attain the target in an optim path
+at first the propos method initi the obstacl and target place for mobil robot navig and their posit are collect
+an innov path plan approach is present use adapt beetl swarm levi flight optim bslfo for optim path calcul
+here distanc and path smooth paramet are consid for optim plan by the propos bslfo approach
+the mobil robot are move to the best posit obtain by the bslfo approach
+addit optim robot movement with collis avoid ha been perform by employ a fuzzi rule base optim deep neural network frdnn
+the propos method is implement in the matlab platform and evalu the perform in term of perform metric includ accuraci recal precis and plan time
+the maximum accuraci reach by the propos method for static and dynam obstacl is 98.62 which offer better obstacl avoid and effect path plan
+consequ the overal experiment outcom prove that the propos model outperform the exist model .

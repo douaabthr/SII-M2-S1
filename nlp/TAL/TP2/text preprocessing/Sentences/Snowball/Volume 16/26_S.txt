@@ -1,0 +1,12 @@
+multi-object evolutionari algorithm for vehicl rout problem with time window under uncertainti
+vehicl rout problem vrp are to arrang the optim rout under the various requir and it is becom signific in the logist industri as electr commerc is rise
+howev uncertainti is inevit in vrp
+in this manuscript we consid the vrp with time window vrptw under uncertainti
+we formul the robust multi-object vrptw rmovrptw model and propos a robust optim algorithm base on moea/d r-moead-vrp for simultan optim the total distanc and the number of vehicl requir for transport
+first we use the prioriti of the custom be serv to encod and use the defin transform approach to form the feasibl rout
+next we employ order crossov and exchang mutat oper to increas popul divers
+for the new rout by reproduct we use monte-carlo test to check the feasibl of the rout after ad uncertainti
+for the feasibl rout we calcul the solut robust valu base on the defin method
+final we consid both optim and robust to form a set of high robust and relat optim solut
+for verifi the avail of the present algorithm the simul experi conduct on solomon s benchmark problem compar with sever relat algorithm
+experiment result show that our propos algorithm can bring more robust and non-domin solut under uncertainti and can achiev good perform .

@@ -1,0 +1,12 @@
+multi-objective optim design of propel us the blad el the and evolv algorithm
+a multi-objective optim design of propel is pres
+tradit the definit of propel is don by choos model that already ex on the market
+howev with the adv of technolog such as 3d print and comput num control the poss for the design to seek an optim propel for his design is increas feas
+in thi scenario thi pap aim to propos a methodolog that allow the design to find altern propel design
+the methodolog compr the cre refin and extend of an airfoil databas avail from the lit
+the aerodynam analys us the blad el the and the optim with evolv algorithm
+sev multi-objective constrain optim problem wer form with two three and four conflict object funct concern the propel aerodynam and geomet inform such as the thrust coefficy the bend coefficy the efficy and the volum of the propel
+among them for inst two propos form ar i maxim the thrust and minim the bend coefficy simult ii maxim the thrust coefficy minim the bend coefficy minim the volum of the propel and minim the efficy simult
+the expery analys the optim of smal propel for two diff engin combust and elect brushless
+fiv evolv algorithm wer us to solv thes problem and solv wer extract from the pareto front us multi-criteria decision-making accord to the decision-maker pref
+fin the complet dat of the extract solv ar provid such as dimend angl shap and perform charact .

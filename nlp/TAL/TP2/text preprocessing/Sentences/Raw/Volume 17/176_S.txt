@@ -1,0 +1,7 @@
+Dual population multi-objective evolutionary algorithm for dynamic co-transformations
+Solving constrained multi-objective optimization problems is a challenging task and existing algorithms have been struggling to balance constrained convergence and population diversity
+To address this problem this paper proposes a dual-population cooperative algorithm DPDCA which maintains two populations and an archive and can change the search strategy depending on the evolutionary stage
+At the early stage of evolution the two populations are responsible for different tasks promote rapid convergence of the populations by exchanging solutions and save promising solutions in the archive
+In the later stages of evolution different local search strategies are emphasized according to the diversity of the main populations and their convergence to obtain a feasible solution set with better convergence
+In order to prevent the algorithm from falling into local optimality at a later stage we introduce the archive to enhance the diversity of the populations and finally the main populations are explored in depth to obtain the set of solutions located in the PF
+To test the superiority of the algorithm we tested it against five state-of-the-art algorithms on 28 benchmark test problems and 3 real-world problems proving that the altered algorithm has good competitiveness in dealing with constrained multi-objective optimization problems .

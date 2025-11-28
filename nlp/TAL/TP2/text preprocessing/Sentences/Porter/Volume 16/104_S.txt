@@ -1,0 +1,15 @@
+refin educ mechan base on edg comput for colleg student manag
+refin manag origin from the concept of enterpris manag and is wide use in all walk of life
+it is a manag method that can maxim resourc util and reduc time cost
+in the era of network informat and diversif the world outlook valu and outlook on life of contemporari colleg student have undergon tremend chang
+thi put forward higher requir for the manag of colleg student
+the refin manag concept and model can bring great help to the daili manag of colleg counselor and can have a posit impact on the learn and growth of student
+in order to allevi the shortcom of tradit colleg student manag system in term of perform secur and privaci thi paper propos a colleg student manag system base on edg comput
+thi paper select a comput edg comput server that mainli focus on data process and focus on edg comput on the network side
+by adopt data mine algorithm the local process of edg comput data is realiz
+thi can reduc the delay caus by data transmiss
+in addit the system enhanc some function perform and reliabl accord to the characterist of the refin manag need of colleg student
+thi paper evalu the data storag and queri effici of the system
+from the test result the system propos in thi paper can meet the storag queri requir of million of data item
+to evalu the throughput perform of the system the system propos in thi paper is compar with three other solut
+experiment result show that thi system outperform other solut .

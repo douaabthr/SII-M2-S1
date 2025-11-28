@@ -1,0 +1,12 @@
+Location estimation of non-geo-tagged tweets
+Internet users are getting more and more dependent for information regarding their daily lives
+Most of the users are connected to each other using social networks
+Social networking sites not only helps the users to connect and talk to each other but also share information with each other
+Twitter 1 users attach their location information with the post or tweet to show their presence at the location
+But not all users tags or integrate the location information within the post
+If a person wants to obtain the latest updates about an event then he/she have to go through all the tweets about that event which is impossible because nearly 500 million tweets are posted on Twitter on a daily basis
+Using Twitter the users can post up to 140 characters in their posts or tweet
+Also the tweets that originate from the location of the event are latest and contain new facts and the rest of the tweets convey that information only
+Non-geo-tagged tweets are eliminated by the traditional systems
+This paper presents a method to tag the non-geo-tagged tweets with the location then the user would be able to obtain the latest information by including the new
+The proposed method performs better than previous methods and yields better results .

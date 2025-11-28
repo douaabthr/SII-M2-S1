@@ -1,0 +1,8 @@
+A hybrid Harris hawks-Nelder-Mead optimization for practical nonlinear ordinary differential equations
+Differential equations can often be seen in many fields of scientific research and engineering
+Typically finding the analytical exact solution is expensive task in terms of computational effort and may not an attainable task for some complex tasks
+To effectively handle a wide variety of linear and nonlinear differential equations this paper presents an approximate methodology based on hybrid Harris hawks Nelder Mead optimization algorithm with the aim to achieve accurate and reliable solution
+The proposed methodology is introduced on basis of Fourier series expansion and Harris hawks Nelder Mead optimization algorithm
+In this sense the differential equation is represented as an optimization model by the means of the weighted residual function cost function that needed to be minimized where the boundary and initial conditions of the differential equation are considered as the constraints of the optimization model
+The practicality and efficiency of the proposed algorithm are demonstrated through six differential equations with different nature as well as four mechanical engineering differential equations
+The comparison against different algorithms by using the generational distance metric and Wilcoxon sign rank test showed the effectiveness of the proposed algorithm .

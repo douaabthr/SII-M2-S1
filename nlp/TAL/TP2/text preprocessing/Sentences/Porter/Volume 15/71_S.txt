@@ -1,0 +1,10 @@
+optim upqc locat in power distribut network via merg genet and dragonfli algorithm
+nowaday flexibl altern current transmiss system devic particularli unifi power qualiti condition upqc are found to have signific impact on stabil of rise power system
+in power system sever intellectu optim method were exploit to posit the upqc
+howev those optim model fail to offer more reliabl and feedback signal
+henc thi paper present a power qualiti improv model which is base on a hybrid algorithm that link genet algorithm ga and dragonfli algorithm da
+in the current research work the optim solut is determin base on the crossov oper of ga in dragonfli algorithm da and henc the adopt model is name as genet modifi da algorithm
+moreov the propos model discov the optim locat of upqc devic by focus on the upqc cost power loss and voltag stabil index
+the propos model is carri out in ieee 69 and ieee 33 test bu system
+in addit the perform of implement model is distinguish over other convent model such as artifici bee coloni firefli grey wolf optim whale optim algorithm worst solut link whale optim algorithm updat ws-wu ga and da
+the perform of the propos model is effect prove by perform and converg analysi .

@@ -1,0 +1,7 @@
+dynam of three-point bound valu problem with guderman neur network
+the pres study artic a novel heur comput design with art intellig algorithm by manip the model with fee forward ff guderman neur network gnn accompl with glob search cap of genet algorithm ga combin with rapid loc converg of active-set method asm i.e. ff-gnn-gaasm for solv the second kind of three-point singul bound valu problem tps-bvps
+the propos ff-gnn-gaasm intellig comput solv integr into the hid lay structure of ff-gnn system of diff op of the second kind of stp-bvps which ar link to form the er bas merit funct mf
+the mf is optim with the hybrid-combin heur of gaasm
+the stim for pres thi research work com from the object to introduc a rely framework that assocy the op feat of nns to challeng with such inspir model
+three diff meas of the second kind of tps-bvps is apply to assess the robust correct and us of the design ff-gnn-gaasm
+stat evalu through the perform of ff-gnn-gaasm is valid via consist stabl acc and converg .

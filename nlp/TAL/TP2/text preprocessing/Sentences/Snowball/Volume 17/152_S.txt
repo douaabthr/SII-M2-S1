@@ -1,0 +1,13 @@
+hybrid evolutionari grey wolf optim for constrain engin problem and multi-unit product plan
+a novel approach call hybrid evolutionari gwo he-gwo is propos to enhanc the effect of the grey wolf optim gwo for handl dynam landscap
+this approach combin the strength of the canon gwo with differenti evolut de to achiev a high-level hybrid
+he-gwo enhanc the leadership-bas guidanc system and incorpor an evolutionari dimension hunt system with popul subgroup to increas the divers of the wolfpack
+dynam tune set are specif devis to regul the balanc between explor and exploit and to facilit the evolut of the wolfpack by increas it divers
+the propos method is verifi through rigor benchmark test use three recent benchmark suit includ cec2020 cec2019 and the 100 digit competit as well as the cec2021 benchmark suit
+subsequ a compar analysi is perform on five standard engin problem
+the propos he-gwo is evalu against a total of 23 meta-heurist which includ the standard gwo eight advanc and recent variant gwo ten recent meta-heurist and four state-of-the-art advanc meta-heurist
+addit the winner of relev contest are also includ in the comparison
+furthermor the effect of the suggest approach is verifi through eight instanc of a multi-unit product plan problem
+this problem consist of 270 decis variabl includ 162 integ variabl and 108 continu variabl
+the experi involv appli a combin of penalti and constraint correct techniqu to handl the constraint
+he-gwo has consist outperform state-of-the-art algorithm and competit winner in benchmark achiev the highest profit in seven out of eight situat for the multi-unit product plan problem .

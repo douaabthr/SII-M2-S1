@@ -1,0 +1,7 @@
+a robust fault-toler control algorithm bas on a novel model method for quadrot apply with acc fault estim
+thi artic tri to low the load of comput and increas the robust of a fault-toler control algorithm for quadrot
+in thi method neglect the uncertainty the quadrot s dynam is brok into two simpl nonlinear model
+a robust unsc kalm filt is util for the fault estim and reinforc a 2 slid mod control
+in thi cas the unknown fault in multi-actuators ar estim
+accord to the lyapunov the stabl analys is perform to discuss the rely of the closed-loop ftc method
+in the sim result comp the perform of the propos method with the perform of pass ftcs and aug ukf estim show the light comput and high robust of the pres algorithm for quadrot resist to unknown fault due to the test scenario .

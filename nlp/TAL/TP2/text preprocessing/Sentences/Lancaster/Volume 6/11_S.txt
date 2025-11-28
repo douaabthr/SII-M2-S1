@@ -1,0 +1,8 @@
+improv thresholding bas on neg select algorithm nsa
+thresholding is a tool of im seg which group the pixel in a log way
+in thi pap a novel algorithm bas on neg select algorithm a model of art immun system is propos for im thresholding
+the propos algorithm is apply on the thresholded im of lath tool produc us maxim inform entrop mie and glob thresholding bas techn result in an improv im
+to ver the algorithm and result it has also been apply on som of the inbuilt matlab matrix lab im
+histogram is employ to analys the result
+furth the result of improv algorithm ar comp with the result of mie and the glob thresholding method to check the effect of the propos method
+the expery result confirm the pot of the develop algorithm .

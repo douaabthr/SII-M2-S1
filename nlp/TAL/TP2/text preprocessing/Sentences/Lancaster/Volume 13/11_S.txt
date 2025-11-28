@@ -1,0 +1,9 @@
+perform evalu of support vect machin and convolv neur network algorithm in real-time vehic typ and col class
+in ord for traff man and inform system to provid prop traff flow it is necess to obtain inform about traff with the help of vary sens
+in thi context in rec year the us of video camera in traff observ and control has becom very widespread and act us
+num study such as licens plat recognit vehic numb find traff intens determin vehic spee calc band viol and vehic class can be don with the help of video process bas video monit system
+traff surveil video ar very act us for thi purpos
+in thi pap we hav develop a system that class vehic accord to their typ
+first we cre a vehic dataset from an uncalibr camer
+then we test tiny-yolo real-time object detect and class system and support vect machin svm class model on our dataset and well-known publ bit-vehicle dataset in term of recal precid and intersect ov un perform met
+expery result show that two method can be us to class real-time streaming traff video dat .

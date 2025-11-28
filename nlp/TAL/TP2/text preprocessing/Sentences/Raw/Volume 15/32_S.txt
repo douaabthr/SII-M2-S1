@@ -1,0 +1,15 @@
+Rank-based univariate feature selection methods on machine learning classifiers for code smell detection
+Detecting code smells and treating them with refactoring are trivial part of maintaining vast and sophisticated software
+There is an urgent need for automatic system to treat code smells
+Tools provide variable results based on threshold values and subjective interpretation of smells
+Machine learning is one of the best approaches that provides effective solution to this problem
+Practitioners do not need expert knowledge on smell s characteristics for detection which makes this approach accessible
+In this paper we have implemented 32 machine learning algorithms after performing feature selection through six variations of the filter method
+We have used multiple correlation methodologies to discard similar features
+Mutual information fisher score and univariate ROC AUC feature selection techniques were used with brute force and random forest correlation strategies
+Feature selection eliminates dimensionality curse and improves performance measures drastically
+It is the selection of relevant feature subset based on the relation between dependent and independent variables
+We have compared performance of classifiers implemented with and without performing feature selection
+Results show that accuracy of machine learning models has increased up to 26.5% f-measure by 70.9% area under ROC curve has surged up to 26.74% and average training time has reduced up to 62 s as compared to performance measures of machine learning models executed without feature selection
+Mutual information feature selection strategy with random forest correlation methodology has the highest impact on performance measures among all the filter methods
+Among 32 classifiers boosted decision trees J48 and Naive Bayes algorithms gave best performance after dimensionality reduction .

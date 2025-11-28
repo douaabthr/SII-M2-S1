@@ -1,0 +1,10 @@
+scenario-bas passeng evacu optim with multipl travel mode in transit termin
+the transit termin is dens popul place with limit road and park capac
+the contradict between suppli and demand will reduc the evacu effici of passeng arriv the transit termin
+thi paper consid the evacu capac of multipl travel mode on the arriv passeng at the transit termin at the same time regard multipl travel mode as a whole and coordin the transport capac of variou mode
+a bi-object model is propos
+the first object is minim the evacu cost while the second object is minim the number of passeng transfer
+the propos bi-object model is transform into a single-object one by linear weight method
+the transform model is essenti a mixed-integ linear program which is solv by lingo
+to valid the valid of the propos model a case studi of beij west railway station is present
+the result indic thi propos methodolog is ration and effect and can help passeng evacu in practic applic .

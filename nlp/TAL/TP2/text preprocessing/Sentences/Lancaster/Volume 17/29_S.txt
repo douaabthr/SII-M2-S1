@@ -1,0 +1,8 @@
+nod cap depend import evalu of heterog target op network
+it is very import to ident the import nod in heterog target op network hton for target select
+tradit method such as cent bas method on consid eith network structures or nod feat to evalu the import of nod
+howev thes method ign the rich sem inform between nod form by complex phys and log rel
+to solv thi problem we propos a novel nod cap depend import evalu method consid meta-path and cap depend cal ncdi
+meta-path is an effect method of sem capt diff meta-paths express diff sem inform
+som nod could support or control oth nod inter-node depend can also be us as an ind of import evalu
+comp to the degr cent and oth typ evalu method the result show that our method can sort the nod import mor effect in hton .

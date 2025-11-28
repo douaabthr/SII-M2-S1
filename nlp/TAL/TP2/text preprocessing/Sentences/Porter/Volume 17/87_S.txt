@@ -1,0 +1,9 @@
+genet algorithm theori genet oper solut and applic
+a genet algorithm ga is an evolutionari algorithm inspir by the natur select and biolog process of reproduct of the fittest individu
+ga is one of the most popular optim algorithm that is current employ in a wide rang of real applic
+initi the ga fill the popul with random candid solut and develop the optim solut from one gener to the next
+the ga appli a set of genet oper dure the search process select crossov and mutat
+thi articl aim to review and summar the recent contribut to the ga research field
+in addit the definit of the ga essenti concept are review
+furthermor the articl survey the real-lif applic and role of ga
+final futur direct are provid to develop the field .

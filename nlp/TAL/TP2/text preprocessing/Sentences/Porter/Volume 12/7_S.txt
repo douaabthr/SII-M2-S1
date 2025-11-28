@@ -1,0 +1,5 @@
+robust evolv and phenotyp complex insight from evolv digit circuit
+we analyz the relat between robust to mutat phenotyp complex and evolv in the context of artifici circuit evolv for the abil to solv a pariti problem
+we demonstr that whether robust to mutat enhanc or diminish phenotyp variabl and evolv depend on whether robust is achiev through the develop of parsimoni phenotyp simpl solut that minim the number of gene play function role or through phenotyp more complex solut capabl of buffer the effect of mutat
+we show that the characterist of the select process strongli influenc the robust and the perform of the evolv candid solut
+final we propos a new evolutionari method that outperform evolutionari algorithm commonli use in thi domain .

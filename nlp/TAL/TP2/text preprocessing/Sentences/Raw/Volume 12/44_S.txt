@@ -1,0 +1,8 @@
+MASCA PSO based LLRBFNN model and improved fast and robust FCM algorithm for detection and classification of brain tumor from MR image
+A novel modified adaptive sine cosine optimization algorithm MASCA integrated with particle swarm optimization PSO based local linear radial basis function neural network LLRBFNN model has been proposed for automatic brain tumor detection and classification
+In the process of segmentation the fuzzy C means algorithm based techniques drastically fails to remove noise from the magnetic resonance images
+So for reduction of noise and smoothening of brain tumor magnetic resonance image an improved fast and robust fuzzy c means algorithm segmentation algorithm has been proposed in this research work
+The gray level co-occurrence matrix technique has been employed to extract features from brain tumor magnetic resonance images and the extracted features are fed as input to the proposed modified ASCA PSO based LLRBFNN model for classification of benign and malignant tumors
+In this research work the LLRBFNN model s weights are optimized by using proposed MASCA PSO algorithm which provides a unique solution to get rid of the hectic task of radiologist from manual detection
+The classification accuracy results obtained from sine cosine optimization algorithm PSO and adaptive sine cosine optimization algorithm integrated with particle swarm optimization based LLRBFNN models are compared with the proposed MASCA PSO based LLRBFNN model
+It is observed that the result obtained from the proposed model shows better classification accuracy results as compared to the other LLRBFNN based models .

@@ -1,0 +1,7 @@
+a novel fuzzy-markov forecast model for stock fluctuat time seri
+in order to reveal intrins fluctuat rule hidden in a stock market time seri dataset with nois a novel forecast model combin markov chain theori with fuzzi set theori is propos in thi studi
+a fuzzifi one-step transit matrix of markov chain in the paper repres inher rule of histor fluctuat
+compar with exist model the advantag of the propos model is that transit matrix can express the relationship between histori and current flexibl while the introduct of fuzzi theori can help to allevi nois
+therefor the propos model could handl complex pattern dure state transit and the rel simpl forecast algorithm could reduc the calcul cost
+we appli the propos method to forecast well-known stock index such as taiwan stock exchang capit weight stock index taiex shanghai stock exchang composit index shseci and so on
+experiment result demonstr that our propos method outperform other tradit model .

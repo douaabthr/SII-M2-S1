@@ -1,0 +1,3 @@
+Correction to: The novel multi-swarm coyote optimization algorithm for automatic skin lesion segmentation
+
+Unfortunately, table 8 was published incorrectly in the online published article. The correct Table8is given below.Table 8 Multi-level thresholding segmentation results with histogram with an indicator of the optimal thresholds values for different threshold values k of IMD008, IMD015 and IMD040Full size tableThe original article has been corrected.

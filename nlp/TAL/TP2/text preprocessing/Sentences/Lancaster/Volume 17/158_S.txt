@@ -1,0 +1,12 @@
+dynam of rapid evolv on the bas of phenotyp adapt and ecolog opportun
+rec study hav demonst that evolv can be observ in a few doz gen espec when specy occupy a new ecolog opportun due to environ chang
+ther ar sev fact that induc thi rapid evolv and ar rel to the phenotyp and it respons to the environ
+thi respons is then determin by phenotyp vary becaus if pattern of divers in a pop produc a rapid respons to an environ chang then rapid adapt to the new environ can occ
+thi pap aim to investig pattern of evolv of specy in an art ecosystem and to highlight som pattern that promot rapid evolv
+understand how rapid evolv occ is not on of funda import in understand evolv process and specy conserv but also to provid support for improv the resolv of certain typ of problem espec thos in which the solv is time-variant
+to achiev the object of thi pap a comput model of adapt rady was design us the conceiv of biogeograph comput an are of knowledg that study ecosystem as inform process a funda principl of nat comput
+habit ar repres by adapt surfac which in turn ar compos of diff ecolog opportun
+the result show for exampl that dram chang in ecosystem can lead to a rapid respons and a rapid adapt to new ecolog opportun main becaus of the emerg and self-sustaining behavio promot by the continu specy extinct and adapt of specy
+thi emerg dynam support the thes that rapid environ chang can lead to rapid evolv
+thi behavio in turn is high desir when consid time-varying problem solv
+if solv to a problem ar chang ov tim sometim it is necess to rapid find new solv .

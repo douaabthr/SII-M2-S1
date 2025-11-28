@@ -1,0 +1,7 @@
+a fluctuant popul strategi for differenti evolut
+differenti evolut de is a simpl yet power evolutionari algorithm for global numer optim which has been use in a wide rang of applic field
+the paramet of popul size usual has import influenc on the perform of de but it is not wide studi in the scope of de
+base on the relationship between the popul size and the exploration/exploit abil of de we propos a novel fluctuant popul fp strategi for automat adjust the valu of popul size dure the run
+more specif the fp strategi main contain three part a monoton decreas function is use to coordin the focus between the explor abil and exploit abil which can caus the fp strategi to decreas progress at the macro level a period function is appli to control the popul divers which lead to the fluctuant featur of fp strategi at micro level a rearrang and auto-group oper is use for remov and ad individu when the popul size is chang
+to evalu the effect of the fluctuant popul strategi on de algorithm base on 30 benchmark function we compar six select de algorithm with and without the fp strategi
+the simul result show that the fluctuant popul strategi can signific improv the perform of the six de algorithm .

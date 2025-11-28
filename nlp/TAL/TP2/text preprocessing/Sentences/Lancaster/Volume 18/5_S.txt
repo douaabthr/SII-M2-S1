@@ -1,0 +1,6 @@
+deep met learn with in-batch feat vect constraint and unsuperv label integr
+deep met learn has increas capt the interest of the research commun in rec year main due to it effect in integr dist met learn with deep neur network
+despit the ex of vary approach such as pair-based angul loss funct or spherical embed constraint thes method oft necessit extr train paramet and overlook class simil
+thi pap pres two approach in-batch feat vect constraint and unsuperv label integr . thes method ar not for consid the simil between diff class
+becaus of their high compat thes techn can be seamless integr with vary loss funct
+comprehend expery evalu encompass four im class dataset and sev network architect hav demonst the effect of thes propos method in enh network perform .

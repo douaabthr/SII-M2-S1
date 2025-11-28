@@ -1,0 +1,10 @@
+soft comput approach for multi-objective task alloc problem in wireless sens network
+sens nod of a wireless sens network wsn ar resourc constrain and the real tim apply of wsn may excess the comput capac of a particul sens nod
+thu such real-time apply of wsn cannot be complet by a singl sens nod in many cas but the problem can be solv by distribut the task among multipl sens nod
+thu giv a set of sens nod and a comput heavy task to be execut to find best suit set of sens nod from the avail sens nod to complet the assign task is an import research problem in the wsn domain
+thi allow the system to util the resourc of a sens nod in a bet way and to enh the parallel process capac of wsn
+the sens nod should be select for a task such that with the select set of nod the task can be complet in an efficy man in term of resourc consum
+the problem of task alloc is to select best suit set of sens nod for a task consid the energy consum commun ov head network lif tim and comput requir
+in thi pap we propos two method for thi problem nam mod multi-objective bin partic swarm optim mombpso and non-dominated sort genet algorithm-ii nsga-ii for task alloc in wsn
+we carry out extend sim expery with vary numb of it sens nod and numb of task
+sim result show that mod bin pso perform bet in term of energy consum and nsga-ii is perform bet in term ofspreadof solv comp to mombpso .

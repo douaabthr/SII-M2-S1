@@ -1,0 +1,13 @@
+fan a framework for feat select in senty class us a mod firef algorithm
+senty class is a prev task in text min in which a text class into posit neg or neut class
+senty class is an ess issu of decision-making for peopl company etc
+feat select is the most influ stag in senty class
+due to the np-hard nat of the problem and a hug of ex text the tradit feat select techn such as stat techn gen sub-optimal solv
+swarm intellig algorithm ar extend devot to optim problem
+thes algorithm produc feat by increas the class perform and decreas the comput complex and feat set siz
+in thi study the auth propos a framework us the mod multi-objective firef algorithm nam fan firef algorithm naïv bay senty
+the two target ar decreas the naïv bay er class and the k-nearest neighb
+a neur network is us as the fin class
+the three dataset on movy review and twit domain ar apply to evalu the fan
+the fan outperform it counterpart regard precid acc and recal
+the fan yield 96.88% precid 97.65% acc and 96.54% recal .

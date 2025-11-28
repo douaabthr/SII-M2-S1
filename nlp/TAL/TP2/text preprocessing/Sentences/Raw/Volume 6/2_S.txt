@@ -1,0 +1,6 @@
+Accelerating IEC and EC searches with elite obtained by dimensionality reduction in regression spaces
+We propose a method for accelerating interactive evolutionary computation IEC and evolutionary computation EC searches using elite obtained in one-dimensional spaces and use benchmark functions to evaluate the proposed method
+The method projects individuals ontonone-dimensional spaces corresponding to each of thensearching parameter axes approximates each landscape using interpolation or an approximation method finds the best coordinate from the approximated shape obtains the elite by combining the bestnfound coordinates and uses the elite for the next generation of the IEC or EC
+The advantage of this method is that the elite may be easily obtained thanks to their projection onto each one-dimensional space and there is a higher possibility that the elite individual locates near the global optimum
+We compare the proposal with methods for obtaining the landscape in the original search space and show that our proposed method can significantly save computational time
+Experimental evaluations of the technique with differential evolution using a simulated IEC user Gaussian mixture model with different dimensions and 34 benchmark functions show that the proposed method substantially accelerates IEC and EC searches .

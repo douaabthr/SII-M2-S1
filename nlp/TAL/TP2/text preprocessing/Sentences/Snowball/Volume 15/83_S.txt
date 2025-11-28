@@ -1,0 +1,11 @@
+bayesian fusion strategi for move target detect in multichannel sar framework
+target detect is one of the import subfield in the research of synthet apertur radar sar
+it face mani challeng due to the stationari object lead to the presenc of a scatter signal
+mani research have been done on target detect and most of them prefer filter base techniqu
+in this work the move target detect in sar use decis fusion method is propos
+the newli develop scheme is name bayesian fusion for move target detect bf-mtd as the scheme util the bayesian model for identifi the target locat
+initi the receiv signal from the sar are fed through the short-tim fourier transform stft and the match filter for identifi the target locat
+then the result are fuse togeth by the bayesian fusion strategi for find the actual target
+for the fusion the naiv bay classifi is use for determin the optim paramet for the target detect
+the simul of the propos bf-mtd model is evalu by vari target iter puls repetit level and antenna turn veloc of the sar
+simul result reveal that the propos bf-mtd has achiev signific perform for a detect time miss target rate and mean squar error respect .

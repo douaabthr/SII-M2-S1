@@ -1,0 +1,12 @@
+Separation of speech music using temporal-spectral features and neural classifiers
+Separation of speech and music plays a vital role in multiple fields related to audio and speech processing
+The spectrograms of speech and music show distinct patterns
+This serves as the motivation for the differentiation of speech and music signals in an audio segment
+The patterns have been further emphasized using Sobel edge kernels Mel-spectrograms
+For the inception of this paper we have made a dataset from All India Radio news archives which is having separate and overlapped speech and music data in different languages
+The different input features are extracted from these audio segments and further emphasized before feeding them to the different classifiers for distinguishing speech and music frames
+We also compared the different classification algorithms for their varied performance in terms of accuracy
+We have found that the convolutional neural network based approach on Mel-spectrograms and MFCC-delta-RNN methods have given a significantly better result compared to other approaches
+Further we wanted to see how these approaches work in the audio data of different languages hence we have applied the proposed method in three different languages such as Bengali Punjabi and Tamil
+We have seen that the performance of the proposed method in all languages is consistent
+The paper has also attempted to solve the problem of classifying audio segments with overlapped speech and music regions and achieved a good level of accuracy .

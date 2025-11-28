@@ -1,0 +1,8 @@
+Application of FUZZY-3 DOF-PID controller for controlling FOPTD type communication delay based renewable three-area deregulated hybrid power system
+Renewable energy promises to be a good substitute for traditional sources for a constant supply of power
+Large-scale electrical grids may experience major synchronization imbalances between various components as a result of system or communication delays
+Engineers experience several challenges while attempting to replace conventional energy with sustainable power since the characteristics of renewable power plant generation are continually changing with climatic conditions
+To manage a time-delayed automated generation control AGC system one can use intelligent control such as the FUZZY-assisted three degrees of freedom PID controller
+This study presents a new control strategy called the FUZZY-3 DOF-PID controller for a First-Order Plus Time-Delay FOPTD based three-area interconnected hybrid power system
+The controller parameters are trained by different algorithms such as FireBug Swarm Optimization FSO Levenberg Marquardt Algorithm LMA Particle Swarm Optimization PSO and Big Bang Big Crunch BB-BC Algorithm to prove their efficacy
+The designed controller is robust to load variation RLP and the comparison of the various performance indices demonstrates the superiority of the proposed controller over other controllers available in the literature .

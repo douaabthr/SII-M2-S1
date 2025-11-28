@@ -1,0 +1,9 @@
+scal multy learn through indirect encod of policy geometry
+multy system pres many challeng real-world problem to art intellig
+becaus it is difficult to engin the behavy of multipl coop ag by hand multy learningha becom a popul approach to their design
+whil ther ar a vary of tradit approach to multy learn many suff from increas comput cost for larg team and theproblem of reinv that is the in to recogn that certain skil ar shar by som or al team memb
+thi pap pres an altern approach to multy learn calledmulty hyperneatth repres the team as apatternof policy rath than as a set of individ ag
+the main ide is that an ag s loc within a canon team layout which can be phys such as posit on a sport team or conceiv such as an ag s rel spee tend to dict it rol within that team
+thi pap introduc the termpolicy geometryto describ thi rel between rol and posit on the team
+interest such pattern effect repres up to an infinit numb of multy policy that can be sampl from the policy geometry as nee to allow train very larg team or in som cas scal up the siz of a team without addit learn
+in thi pap multy hypern is comp to a tradit learn method multy sars λ in a pred prey domain wher it demonst it abl to train larg team .

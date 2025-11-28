@@ -1,0 +1,10 @@
+Prediction of rock mass rating using neural network with an improved rider optimization algorithm
+Evaluation of TBM performance is critical for the choice of TBM specifications and tunnel design
+In the past decades the hypothetical schemes depending on the rock fragmentation process and the experimental models up to field surveillance as well as machine performance are the two main methods
+Traditional and conventional approaches for rock mass rate RMR prediction usually consider excessive parameters and the accuracies are far from actual values
+A new RMR prediction model based on the optimized neural network NN is designed
+To improve the prediction accuracy this paper proposed a new self-adaptive rider optimization algorithm SA-ROA which applied optimization logic to train the NN by updating the weight as wave velocity Vp transverse wave velocity Vs Vp/Vs statistics Stat orientation magnitude polarity wave type and metre
+Finally the RMR prediction analysis of the adopted NN-SA-ROA model is compared to the conventional and traditional classifiers with varied learning percentages 50% 60% 70% and 80% for three data sets respectively
+Subsequently the performance of the proposed work is verified using other approaches based on error analysis
+The predicted mean absolute errors MAEs and the mean absolute percentage errors MAPEs of SA-ROA are smaller than conventional and traditional schemes
+The results show that the proposed method can successfully predict the actual RMR .

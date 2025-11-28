@@ -1,0 +1,10 @@
+neur network-driven scenario predict for adapt rout in manet us expand ring search and random ear detect
+rout in mobl ad hoc network manet is complex due to their dec topolog and dynam environ
+conv rout protocol frequ hav troubl maintain rely end-to-end commun lead to issu such as high packet loss unst rout and increas delay
+the research pres a novel deep-learning model with hybrid optim to maintain rout stabl through stabl nod predict and optim rout discovery in a manet environ
+her dynam spars recurrent-convolutional neur network dsr-cnn an adv vary of the r-cnn famy is employ to detect the stabl nod in a spars and dynam environ
+the weight paramet of the dsr-cnn ar optim by the enh fick s law optim algorithm for the improv nod predict maintain rely and connect
+moreov the most stabl rout ar construct through the giant trev optim optim rout expl and recovery
+the model is design and sim in a python environ with the requir network set
+the util of the propos research in the manet commun show 98% predict acc 2.48 ms delay 25mbps throughput and 99% of packet delivery ratio which ar mor efficy than the prevail techn s result show the highest rout stabl
+thes find highlight the pot of dsr-cnn to sign improv the rely and perform of manet set a new benchmark for fut rout protocol .

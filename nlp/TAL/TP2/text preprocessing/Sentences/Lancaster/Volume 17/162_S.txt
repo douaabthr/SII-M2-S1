@@ -1,0 +1,12 @@
+zon and rul assist recognit of meitei-mayek handwrit charact
+thi pap pres a two-stage approach for an improv recognit acc of handwrit meite mayek charact
+the first-stage is a cnn bas recognit
+the second-stage recognit is bas on the zon inform and script-specific orthograph rul
+the work is carry out on the find that low recognit acc of meite mayek handwrit charact is due to the pres of high shape-similar confus charact pair
+first the confus charact pair ar ident from the confus matrix obtain whil train and test the cnn
+for thes confus charact pair the zon inform and certain script-specific orthograph rul ar incorp in the second recognit stag to distinct between them
+the second-stage recognit is carry out on on thos charact which belong to on of the confus charact pair
+thi mak the techn comput mor efficy than thos wher it is carry out for every output of the recognit stag
+for zon id a novel method bas on the row co-ordinates of charact pres in the word is propos
+an improv in the recognit acc is achiev with the two-stage approach comp to the single-stag recognit us the cnn
+an improv ment in recognit acc of 3.36% is shown by our approach with a recognit acc of 91.86% .

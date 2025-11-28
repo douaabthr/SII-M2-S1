@@ -1,0 +1,10 @@
+an upper and lower cusum for signal normal in the dendrit cell algorithm
+signal normal is a part of signal formal which is a vital data pre-process constraint requir for the function of the dendrit cell algorithm
+in exist applic most normal algorithm are develop purpos for a specif applic with draw on human domain expertis and veri few algorithm are design for gener problem
+thi make it difficult for the inexperienc user to exploit exist approach to anoth problem particularli when the initi inform about the problem is limit
+therefor thi studi propos a new signal normal method for the dendrit cell algorithm that use the statist upper and lower cumul sum so that the algorithm can be appli to gener classif problem
+in addit a new method to calcul the anomali threshold base on the averag mature-contact antigen valu is present to suit the propos algorithm
+the propos model is evalu by appli it to eight univers classif dataset and assess it perform accord to four measur metric detect rate specif fals alarm rate and accuraci
+it perform is compar with that of the exist dendrit cell algorithm and four non-bio-inspir classifi name rough set decis tree naïv bay and multilay perceptron
+the result show that the propos model outperform the exist model and the other classifi as well as demonstr a signific improv in term of specif fals alarm rate and accuraci for all dataset
+thi indic that the propos normal approach can be appli to gener classif problem and can improv detect perform .

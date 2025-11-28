@@ -1,0 +1,9 @@
+applic of fuzzi logic base ga and pso to solv 4d multi-item transport problem for substitut and complementari item
+the fuzzi logic control provid a mean of chang over the linguist control to an automat control strategi
+it depend on expert knowledg
+specif it incorpor fuzzif and defuzzif techniqu through fuzzi control rule
+the emphasi on fuzzi logic is util here on a 4 dimension multi-item transport problem 4dmitp
+the invers fuzzi rule is appli on transport cost with respect to fix cost and a symmetr fuzzi rule is consid for sell price
+to elucid the model an appropri numer illustr is present
+the fuzzi logic base numer result are obtain through genet algorithm ga and particl swarm optim pso
+at the end the discuss and practic implic are present to valid the propos model .

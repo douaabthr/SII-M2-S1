@@ -1,0 +1,8 @@
+mut bas test gen us search bas soc group optim approach
+mut bas test gen is a popul and effect process for cre the test suit that is appra for it calib ov a pool of art fault
+thes art fault can be infus by impos mut rul that furth assist meta-heuristic techn for search the evolv test suit in search spac
+meta-heuristic techn switch between multipl solv in search spac and result in an optim solv
+thi pap impl and pres a new test set gen algorithm sgo-mt by embrac a rec develop search bas approach soc group optim algorithm sgo for expos num art fault in the softw
+it work on the principl of hum learn nat from socy and a teach in the group
+the eff of the propos approach is meas on thirteen jav program wid us in academ
+the result demonst the good perform for find the simpl and stubborn fault .

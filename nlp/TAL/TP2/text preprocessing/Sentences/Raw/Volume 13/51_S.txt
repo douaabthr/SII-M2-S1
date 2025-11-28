@@ -1,0 +1,11 @@
+Motion planning for redundant robotic manipulators using a novel multi-group particle swarm optimization
+Metaheuristic optimization algorithms are widely used in motion planning of redundant robotic manipulators
+Existing methods may converge to a local minimum
+In this paper a new multi-group particle swarm optimization algorithm PSOEL is proposed to solve the motion planning of manipulators
+PSOEL consists of one elite group and several child groups
+The population is initialized with a pre-selection mechanism in which the members of the elite group are initialized with the best-performing particles of the child groups
+In the process of iteration the elite group and the child groups evolve separately
+When the elite group falls into a local optimum or is inferior to child groups for a certain time an interaction mechanism is triggered
+In the interaction mechanism some of the best particles selected from the child groups will replace the bad particles of the elite group
+With these mechanism of pre-selection and interaction PSOEL can jump out of the local optimum and reach the global optimum or global suboptimum
+Simulation results show that the proposed algorithm PSOEL is superior to the compared algorithms and converges toward the optimum .

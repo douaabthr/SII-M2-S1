@@ -1,0 +1,15 @@
+edit
+i person thank for the gre opportun off to me to act as the guest edit of thi spec issu which is on nat inspir algorithm and their apply
+nature-inspired algorithm nia hasattain immens popularityin rec year for tackl thehard real world np hard and np complet problem and complex optim funct for which act solv doesn t ex
+the main purpos behind the develop of such algorithm is to optim engin problem
+sint the world is look toward indust engin problem ar becom tedy and tricky to optim
+thi is becaus of grow dimend tim complex vary spac complex and so on
+in ord tocop up with such situ nature-inspired algorithm ar design to optim multi-objective funct num benchmark funct and solv np-hard problem for mor vary dimend etc
+in fact nia is main categ into two evolv algorithm and swarm intelligence-based algorithm
+evolv algorithm ar pur bas on the evolv behavio of nat system
+thes algorithm employ recombin and mut op for optim the complex issu e.g. genet algorithm diff evolv and so on
+swarm intellig si bas algorithm also term as swarm optim techn attempt to optim the engin problem by imit the collect search behavio of nat swarm
+swarm intellig and evolv algorithm form a hot top in the develop of new algorithm inspir by nat
+besid thes categ nia hasdiff oth class that ar depend tosourc of inspir
+for inst art neur network mim the decision-making process of hum brain
+it also gain much at from the research to solv predict and class problem .

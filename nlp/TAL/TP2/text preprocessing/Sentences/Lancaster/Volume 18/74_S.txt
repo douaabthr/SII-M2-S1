@@ -1,0 +1,10 @@
+multi-strategy improv black-winged kit algorithm and it apply in short-term load forecast us gat recur unit neur network
+to enh glob search cap and converg efficy of the black kit algorithm bka thi pap propos a multi-strategy improv black kit algorithm swbka
+first latin hypercub sampl is introduc to improv the init pop qual
+second a fus cauchy-gaussian disturb and adapt spir posit upd strategy is propos to bal the glob search and loc exploit cap dur the migr behavy
+fin a len im revers learn elit strategy is incorp to help the algorithm effect avoid loc optim
+abl expery on the three strategies wer conduc us 13 benchmark funct and the perform of the improv algorithm was valid on 42 funct
+expery result show that the propos swbka achiev an overal av improv of 47.38% in optim valu comp to bka demonst sign supery
+furtherm the propos swbka was us to optim the hyperparamet of the gat recur unit neur network follow by predict expery on an act elect load dataset
+the expery result demonst the algorithm s cap to solv real-world problem
+the cod has been releas inhttp github . com/daniel-z-h-dnn/swbka .

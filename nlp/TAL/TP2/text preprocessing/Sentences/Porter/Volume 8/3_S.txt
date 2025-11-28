@@ -1,0 +1,8 @@
+monterey mirror an experi in interact music perform combin evolutionari comput and zipf s law
+monterey mirror is an experi in interact music perform
+it is engag a human the perform and a comput the mirror in a game of play listen and exchang music idea
+the comput side involv an interact stochast music gener which incorpor markov model genet algorithm and power-law metric
+thi approach combin the predict power of markov model with the innov power of genet algorithm use power-law metric for fit evalu
+these power-law metric have been develop and refin in a decade-long project which explor music inform retriev base on zipf s law and relat power law
+we describ the architectur of monterey mirror which can gener music respons base on aesthet variat of user input
+we also explor how such a system may be use as a music meta-instrument/environ in avant-gard music composit and perform project .

@@ -1,0 +1,11 @@
+automat select algorithm for region of interest of acn face imag compress
+everi day million of skin and acn face imag are generat all around the world and compress is the inevit of all such type of imag
+acn imag suffer from the problem of poor compress ratio for obtain high peak signal to nois ratio
+both peak signal to nois ratio and compress ratio follow an invers relationship
+in this paper a new algorithm for acn imag compress is propos
+the propos algorithm work in such a way that even a high compress imag would retain all the mandatori inform sinc the region of interest that is necessari for diagnosi retain a signific qualiti and is compress to an optim level
+base on the imag s red and green matric an automat select algorithm for the region of interest patch is introduc
+the result of the propos algorithm are compar with the convent compress method
+a better peak signal to nois ratio of the instruct patch and overal compress ratio are achiev
+further the result are compar use differ wavelet function such as haar db2 and bior1 . 3 wavelet
+we also investig propos algorithm on other mother wavelet such as coiflet1 and symlet1 and result are found to be superior .

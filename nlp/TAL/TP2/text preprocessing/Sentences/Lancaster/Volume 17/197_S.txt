@@ -1,0 +1,13 @@
+a clustering-based coevolv multi-objective evolv algorithm for handl robust and noisy optim
+the pres of uncertainty is commonplac in real-world scenario
+uncertainty can be pres in both the object spac and the decid spac in optim problem
+thes uncertainty can pos sign challeng for evolv algorithm
+for exampl perturb in decid vary robust optim and nois in object funct noisy optim
+despit the plethor of method propos for robust or noisy optim address both form of uncertainty concur remain an op research quest
+we introduc a novel approach bas on teda-cmoea/d aug with clust techn for descend gen in robust and noisy optim problem
+not the propos algorithm yield prom result for uncertainty simult san the requir for sampl thereby reduc comput complex
+we lev an extend of an ex test funct gen for multi-objective optim of the test
+the benchmark integr uncertainty in decid vary and/or object funct
+expery evalu encompass vary nois intens elucid the impact of diff nois level on algorithm perform
+the result demonst the supery perform of the propos approach comp to ex algorithm spec rnsga-ii and crmoea/d
+the propos algorithm emerg as a prom solv for robust and noisy multi-objective optim problem .

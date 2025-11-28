@@ -1,0 +1,10 @@
+improv of the perform of the quantum-inspired evolv algorithm structures pop op
+pop divers is very import in giv the algorithm the pow to expl the search spac and not get trap in loc optim
+in thi respect us a prob repres for the quant individ the quantum-inspired evolv algorithm qie claim high divers in the pop
+her consid thi import feat of qie we propos diff structures to off bet interact between the q-individuals and propos new op to preserv the divers in the pop and thu improv the perform of the qie
+the effect of the structured pop is investig on the perform of the algorithm
+addit two op ar propos in thi pap
+being cal the divers preserv qie the first op find the converg simil q-individuals around a loc optim and whil keep the best q-individuals by reinit the infery on push them out of the basin of attract of the loc optim so help the algorithm to search oth reg in the search spac
+the oth op is a reinit op which by reinit the whol pop help it escap from the loc optim it is trap in
+by study the effect of the paramet of the propos op on their perform we show how the propos op improv the perform of qie
+expery ar perform on knapsack trap and fourteen num object funct and the result show bet perform for the propos algorithm than the origin vert of qie .

@@ -1,0 +1,13 @@
+modswish a new activ function for neural network
+the activ function are extrem import to neural network sinc they are respons for learn the abstract characterist of the data through nonlinear modif
+the paper present a new activ function which is refer to as modswish
+it is continu differenti unbound abov bound below and non-monoton
+our result demonstr that modswish outperform relu on a number of challeng dataset and neural network model
+in the begin of the experi neural network are train and classifi use benchmark data like diagnost wisconsin breast cancer and iri and modswish achiev 93.57% and 95.56% accuraci respect
+secondli experi were conduct on five distinct neural network depth that rang from five to eight layer over mnist dataset
+the modswish activ function obtain 95.57% 95.29% 94.93% 94.69% and 95.03% accuraci on 8 layer 7 layer 6 layer 5 thinner layer and wider 5 layer neural network respect
+final experi were conduct on two distinct convolut neural network with two convolut layer and four convolut layer over cifar-10 dataset
+the modswish activ function obtain 60.04% and 69.22% accuraci on two convolut layer and four convolut layer model respect
+statist featur measur demonstr that modswish ha the best mean accuraci lowest root mean squar error lowest standard deviat lowest varianc and lowest mean squar error
+the studi indic that modswish ha faster converg compar to relu make it a valuabl factor in deep learn
+the result of the experi suggest that modswish can be a promis substitut for relu lead to better perform in neural network model .

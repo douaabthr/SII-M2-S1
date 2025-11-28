@@ -1,0 +1,5 @@
+neuroevolutionari reinforc learn for general control of simul helicopt
+this articl present an extend case studi in the applic of neuroevolut to general simul helicopt hover an import challeng problem for reinforc learn
+while neuroevolut is well suit to cope with the domain s complex transit dynam and high-dimension state and action space the need to explor effici and learn on-lin pose unusu challeng
+we propos and evalu sever method for three increas challeng variat of the task includ the method that won first place in the 2008 reinforc learn competit
+the result demonstr that 1 neuroevolut can be effect for complex on-lin reinforc learn task such as general helicopt hover 2 neuroevolut excel at find effect helicopt hover polici but not at learn helicopt model 3 due to the difficulti of learn reliabl model model-bas approach to helicopt hover are feasibl onli when domain expertis is avail to aid the design of a suitabl model represent and 4 recent advanc in effici resampl can enabl neuroevolut to tackl more aggress general reinforc learn task .

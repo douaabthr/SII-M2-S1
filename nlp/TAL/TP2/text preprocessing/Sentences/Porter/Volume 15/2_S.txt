@@ -1,0 +1,11 @@
+hybrid salp swarm algorithm with particl swarm optim algorithm for recent optim function
+the salp swarm algorithm ssa ha shown it fast search speed in sever challeng problem
+research show that not everi nature-inspir approach is suitabl for all applic and function
+addit it doe not provid the best explor and exploit for each function dure the search process
+therefor there were sever research attempt to improv the explor and exploit of the meta-heurist by develop the newli hybrid approach
+thi inspir our current research and therefor we develop a newli hybrid approach call hybrid salp swarm algorithm with particl swarm optim for search the superior qualiti of optim solut of the standard and engin function
+the hybrid variant integr the advantag of ssa and pso to elimin mani disadvantag such as the trap in local optima and the unbalanc exploit
+we have use the veloc phase of the pso approach in salp swarm approach in order to avoid the prematur converg of the optim solut in the search space escap from ignor in local minima and improv the exploit tendenc
+the new approach ha been verifi on differ dimens of the given function
+addit the propos techniqu ha been compar with a wide rang of algorithm in order to confirm it effici in solv standard cec 2005 cec 2017 test suit and engin problem
+the simul result show that the propos hybrid approach provid competit often superior result as compar to other exist algorithm in the research commun .

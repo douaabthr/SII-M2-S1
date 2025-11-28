@@ -1,0 +1,5 @@
+a hybrid ga-f algorithm with fuzzi approxim scheme for solv credibilist reliabl optim problem
+in this paper credibilist safety-bas design optim csdo model is first formul as structur reliabl optim framework with credibilist safeti constraint and fuzzi simul fs approxim is present to handl the credibilist safeti constraint and approxim the feasibl domain
+then we introduc ga to design the hybrid ga-f algorithm by integr fs scheme into ga which enabl the hybrid ga-f algorithm to solv csdo model effect
+final two numer exampl are conduct to evid the applic of the propos csdo formul and the hybrid ga-f algorithm in practic engin
+by use out-of-sampl back-test we provid the comparison between the predetermin reliabl level and the backtest reliabl level which show the effect of the hybrid ga-f algorithm for the propos csdo formul .

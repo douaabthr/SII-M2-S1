@@ -1,0 +1,11 @@
+spam review detect use spiral cuckoo search cluster method
+nowaday onlin review play an import role in custom s decis
+start from buy a shirt from an e-commerc site to dine in a restaur onlin review has becom a basi of select
+howev peopl are alway in a hustl and bustl sinc they don t have time to pay attent to the intrins detail of product and servic thus the depend on onlin review have been hike
+due to relianc on onlin review some peopl and organ pompous generat spam review in order to promot or demot the reput of a person/product/organ
+thus it is imposs to identifi whether a review is a spam or a ham by the nake eye and it is also impract to classifi all the review manual
+therefor a spiral cuckoo search base cluster method has been introduc to discov spam review
+the propos method use the strength of cuckoo search and fermat spiral to resolv the converg issu of cuckoo search method
+the effici of the propos method has been test on four spam dataset and one twitter spammer dataset
+to valid the efficaci of propos cluster method it is compar with six metaheurist cluster method name particl swarm optim differenti evolut genet algorithm cuckoo search k-mean and improv cuckoo search
+the experiment result and statist analysi valid that the propos method outrun the exist method .

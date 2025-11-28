@@ -1,0 +1,9 @@
+data-driven weight init strategy for convolv neur network
+train deep convolv neur network consist of multipl forward and backward pass ov sev epoch until the loss converg mak it time-consuming
+vary fact affect the train tim of network weight init being on of them
+the ide of a prop weight init techn is to set the init weight such that the network converg fast by extract mean feat from the dat
+thi pap propos a data-driven weight init to accel the train process
+thi techn is bas on obtain init weight by appropry analys the train dat
+the propos weight init strategy init filt from a pre-defined filt bank that is cre bef train and it contain standard edg and text feat extract filt and data-driven filt obtain us princip compon analys linear discrimin analys and part least squ
+the propos techn has been valid on alexnet vgg-16 and resnet-50 for intel im class cifar10 and cifar100 dataset
+the result show that the propos techn giv bet valid result than oth state-of-the-art techn in few epoch and work wel with state-of-the-art act funct .

@@ -1,0 +1,7 @@
+Collective neuro-evolution for evolving specialized sensor resolutions in a multi-rover task
+This article presents results from an evaluation of the collective neuro-evolution CONE controller design method
+CONE solves collective behavior tasks and increases task performance via facilitating emergent behavioral specialization
+Emergent specialization is guided by genotype and behavioral specialization difference metrics that regulate genotype recombination
+CONE is comparatively tested and evaluated with similar neuro-evolution methods in an extension of the multi-rover task where behavioral specialization is known to benefit task performance
+The task is for multiple simulated autonomous vehicles rovers to maximize the detection of points of interest red rocks in a virtual environment
+Results indicate that CONE is appropriate for deriving sets of specialized rover behaviors that complement each other such that a higher task performance comparative to related controller design methods is attained in the multi-rover task .

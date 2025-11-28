@@ -1,0 +1,6 @@
+an evolv robot approach for the distribut control of satellit form
+we propos and study a dec form fly control architect bas on the evolv robot techn
+we develop our control architect for the mit spheres robot platform on board the intern spac stat and we show how it is abl to achiev micromet and microrad precid at the path plan level
+our control ar homog across satellit and do not mak us of label i. e
+al satellit can be exchang at any tim
+the evolv process is abl to produc homog control abl to plan with high precid for the acquisit and maint of any triangul form .

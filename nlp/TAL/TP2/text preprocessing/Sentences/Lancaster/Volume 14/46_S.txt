@@ -1,0 +1,3 @@
+correct to vis top model for healthc dat clust
+the algorithm in sect 5 wer miss in the onlin publ artic
+now sect 5 text is giv below .

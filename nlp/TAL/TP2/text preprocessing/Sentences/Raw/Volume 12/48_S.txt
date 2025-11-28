@@ -1,0 +1,10 @@
+A histogram based fuzzy ensemble technique for feature selection
+Feature selection FS is an integral part of many machine learning problems in providing a better and time-efficient classification model
+In recent times many new FS algorithms have been proposed which combine well-established algorithms to overcome drawbacks of the constituent algorithms
+The general process of combination is to allow them to operate consecutively or simultaneously
+These rudimentary combinations in many cases do not allow for proper inclusion of the advantages of the specific algorithms and this necessitates an alternative approach for combining
+Initially without interrupting the flow of the algorithms we allow them to generate their results
+After selection of the most dominant features the rest of the combination is done using the concept of histogram and assigning a weightage to the fuzzy features based on the quality of the candidate solution in which they appear
+In the proposed method the outcome of the three popularly used algorithms with complementary exploitation exploration trade-off namely genetic algorithm GA binary particle swarm optimisation BPSO and ant colony optimisation ACO are combined together
+Then 14 popular UCI datasets have been used to evaluate the proposed FS method
+Results obtained by our proposed ensemble are compared with some popular FS models like gravitational search algorithm histogram based multi objective GA GA BPSO and ACO and it shows that our algorithm outperforms the others .

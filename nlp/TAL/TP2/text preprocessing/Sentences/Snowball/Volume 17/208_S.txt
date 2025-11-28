@@ -1,0 +1,5 @@
+on the new solut to interv linear fraction program problem
+in this paper we studi the interv linear fraction program problem use the concept of g divis
+we transform the problem into a new linear fraction program problem and obtain a nondomin solut to the interv linear fraction program problem
+we show that the new solut domin the previous nondomin object valu present in the literatur
+final some exampl are provid to illustr our result .

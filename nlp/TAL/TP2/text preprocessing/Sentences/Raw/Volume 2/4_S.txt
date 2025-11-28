@@ -1,0 +1,7 @@
+Multi-objective evolutionary learning of granularity membership function parameters and rules of Mamdani fuzzy systems
+In this paper we propose a multi-objective evolutionary algorithm MOEA to generate Mamdani fuzzy rule-based systems with different trade-offs between accuracy and complexity by learning concurrently granularities of the input and output partitions membership function MF parameters and rules
+To this aim we introduce the concept of virtual and concrete partitions the former is defined by uniformly partitioning each linguistic variable with a fixed maximum number of fuzzy sets the latter takes into account for each variable the number of fuzzy sets determined by the evolutionary process
+Rule bases and MF parameters are defined on the virtual partitions and whenever a fitness evaluation is required mapped to the concrete partitions by employing appropriate mapping strategies
+The implementation of the MOEA relies on a chromosome composed of three parts which codify the partition granularities the virtual rule base and the membership function parameters respectively and on purposely-defined genetic operators
+The MOEA has been tested on three real-world regression problems achieving very promising results
+In particular we highlight how starting from randomly generated solutions the MOEA is able to determine different granularities for different variables achieving good trade-offs between complexity and accuracy .

@@ -1,0 +1,7 @@
+the multi-criteria evalu of research effort bas on etl softw from busy intellig approach to big dat and sem approach
+many industry and academ hav devot a lot of effort and money to cre and/or us good extract-transform-load etl softw suit for their dat analys purpos sint it is consid a key to their success
+as a result we find the valu interv of research effort bas on etl softw ar divid accord to well-known approach such as busy intellig big dat and/or sem
+as a result problem ar in keep up with chang and handl the sign divers in feat across thes approach
+which result in dis in the find evalu and cho of an etl for industry and academ fac their approach nee
+thes problem inspir us to provid a contribut that us the systematic-literature-review slr method to collect 207 pap from three databas nam sciencedirect springer and ie dat from 2010 to 2022 group bas on both etl approach and their common us criter afterward us an ex method that autom ident the adequ multicriter method for thi study which giv us the analytical-hierarchy-process method to provid the best research pap accord to the requir of sci lit
+the result imply the gre sign of thi study in multipl way provid a glob ide of research pap about etl approach allow custom to elimin uncertainty from select an etl accord to their spec approach nee pref and interest and also en fut research and develop of etl to decid when to foc and how to mak innov contribut to fil gap in the lit .

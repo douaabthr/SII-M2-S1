@@ -1,0 +1,8 @@
+Cloud model based sine cosine algorithm for solving optimization problems
+Sine cosine algorithm SCA is a recently developed optimization technique which uses sine function and cosine function as operators to find the global optimal solution
+However proper parameter setting is a challenging task
+Only using the number of iterations to adjust the algorithm parameters cannot fully reflect the convergence information in the evolution process so SCA lacks the adaptability in solving different optimization problems
+To address this issue a cloud model based sine cosine algorithm CSCA is proposed
+In CSCA the cloud model is used to adjust the control parameter adaptively while keeping SCA algorithm framework unchanged
+The performance of the presented CSCA method is evaluated using 13 benchmark test functions with different dimensions
+Experimental results demonstrate that the proposed algorithm is superior to other SCA variants in terms of robustness and scalability .

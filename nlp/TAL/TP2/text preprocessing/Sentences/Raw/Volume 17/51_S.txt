@@ -1,0 +1,8 @@
+A review of recent advances in quantum-inspired metaheuristics
+Quantum-inspired metaheuristics emerged by combining the quantum mechanics principles with the metaheuristic algorithms concepts
+These algorithms extend the diversity of the population which is a primary key to proper global search and is guaranteed using the quantum bits probabilistic representation
+In this work we aim to review recent quantum-inspired metaheuristics and to cover the merits of linking the quantum mechanics notions with optimization techniques and its multiplicity of applications in real-world problems and industry
+Moreover we reported the improvements and modifications of proposed algorithms and identified the scope s challenges
+We gathered proposed algorithms of this scope between 2017 and 2022 and classified them based on the sources of inspiration
+The source of inspiration for most quantum-inspired metaheuristics are the Genetic and Evolutionary algorithms followed by swarm-based algorithms and applications range from image processing to computer networks and even multidisciplinary fields such as flight control and structural design
+The promising results of quantum-inspired metaheuristics give hope that more conventional algorithms can be combined with quantum mechanics principles in the future to tackle optimization problems in numerous disciplines .

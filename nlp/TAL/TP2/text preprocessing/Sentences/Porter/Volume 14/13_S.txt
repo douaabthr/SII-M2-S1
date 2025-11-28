@@ -1,0 +1,8 @@
+hyper-paramet tune deep q network for area estim of oil spill a meta-heurist approach
+oil spill near shorelin are a major environment hazard
+rapid estim of spill perimet provid a quick estim of it area extent thu facilit it quick remov
+in thi studi a meta-heurist algorithm gamma-levi hybrid meta-heurist with condit evolut glhm-ce is propos
+the propos algorithm is then use to evolv a distribut control strategi for a swarm of unman aerial vehicl for rapid confin and estim of spill perimet
+everi agent is control by a deep q network whose hyper-paramet are tune by glhm-ce
+evalu of glhm-ce over 28 blackbox problem of cec-2013 special session on real-paramet optim and it comparison with evolutionari algorithm like shade co-d and jade reveal that glhm-ce success evad local minima and ha a fast converg
+the effect in hyper-paramet tune of a deep q network by glhm-ce wa evalu over the quintessenti cartpol problem from openai gym framework .

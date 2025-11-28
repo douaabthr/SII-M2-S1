@@ -1,0 +1,9 @@
+prelimin analys of explain machin learn method for multipl myelom chemotherapy tre recognit
+the cho of chemotherapy tre protocol is an import step in the tre of multipl myelom and has a sign impact on the paty s prognos
+in thi work we propos an explain machin learning-based framework for the recognit of multipl myelom chemotherapy tre
+a two-stage framework is pursu wher three of the most popul loc and glob agnost explain art intellig xai tool permut feat import kernel shap and lim ar apply to explain the decid of diff machin learn black box model such as random forest svm xgboost and mlp
+a prelimin study analys is carry out to investig the vary outcom propos by each method on a multipl myelom chemotherapy tre collect dataset
+expery show that the rf algorithm reach the best recognit with 98.63% class acc follow by xgboost mlp and svm with 95.89% 92.23% and 87.21% respect
+howev among the three apply xai model kernel shap provid mor transp by emphas the feat involv in the class result
+the study highlight the import of transp and the precaut nee when interpret ex xai tool
+we also rais import quest about the fut improv of explain machin learn techn for therapeut and diagnost apply .

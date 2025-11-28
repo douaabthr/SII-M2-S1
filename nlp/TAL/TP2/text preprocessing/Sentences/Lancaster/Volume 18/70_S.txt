@@ -1,0 +1,10 @@
+a key-point-based hybrid predict dynam multi-objective evolv algorithm
+dynam multi-objective optim problem dmop ar common in real-world scenario yet efficy solv them whil preserv pop divers and achiev converg remain a formid challeng
+ex dynam multi-objective evolv algorithm oft fac difficul in adapt respond to vary environ chang frequ lead to comprom trade-offs between divers preserv and converg efficy dur dynam track
+thi study introduc a key-point-based hybrid predict dynam multi-objective evolv algorithm moea-dapd aim at ens rapid converg and optim divers in dynam set
+the propos algorithm is employ a dual key-point predict mech tail to the frequ of environ chang a centroid-bas predict method is util for infrequ chang to improv stabl whil a clustering-based predict approach is apply for frequ chang to enh converg
+to furth address pop divers and optim a dual arch strategy is develop
+on arch retain high-quality par solv to facilit loc converg whil the oth preserv divers solv to comprehend repres the glob pareto optim front
+addit distinct mut op ar apply sep to the main and arch pop thereby strengthening divers and overal perform in dynam condit
+expery evalu benchmark moea-dapd against fiv lead dynam multi-objective evolv algorithm dmoea across three standard test suit
+the result highlight that moea-dapd demonst not competit and efficy in tackl dmop .

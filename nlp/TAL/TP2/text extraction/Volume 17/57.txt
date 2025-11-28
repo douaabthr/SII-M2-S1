@@ -1,0 +1,3 @@
+Correction to: Topological localization approach for efficient energy management of WSN
+
+Unfortunately, one of the author (Rudra Kalyan Nayak) affiliation was published incorrectly. The correct affiliation is given below.The original article has been corrected.Rudra Kalyan Nayak11Department of Computer Science and Engineering, Koneru Lakshmaiah Education Foundation, Vaddeswaram, Guntur, AP, 522502, India

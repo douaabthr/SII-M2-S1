@@ -1,0 +1,12 @@
+a new chao cat swarm optim algorithm base on salienc gradient for power equip infrar and visibl imag registr
+visibl and infrar imag are import way for the power inspect robot to detect the statu of power equip
+imag registr can make full use of the advantag of the visibl and infrar imag which can provid a better basi for subsequ state monitor
+tradit registr method have the low and poor registr accuraci caus by infrar imag blur
+therefor a new chao cat swarm optim algorithm base on salienc gradient is propos to improv the registr accuraci
+firstli base on the visual salienc detect of infrar imag the edg gradient inform of salienc region is enhanc
+secondli the salienc gradient inform and the normal mutual inform are combin as the measur function of registr
+thirdli a new chao cat swarm optim algorithm is propos to improv the converg of the imag registr
+it use differ chaotic map to improv the step size of the search model
+logist chao map is use in the algorithm to chang the locat inform of the cat popul in each iter process to avoid the local optim problem so that the whole popul can reach a balanc between the global search abil and the local search abil which ha a good converg speed
+final substat inspect imag standard registr test imag set are select for compar experi
+the result show that the propos algorithm ha good perform in registr rate and registr speed .

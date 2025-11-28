@@ -1,0 +1,11 @@
+a novel fuzzy-entrop bas onlin fuzzy c-means clust algorithm for mass dat
+due to the inadequ of standard clust approach for handl extend dat consid research has rec focus on clust larg and extrem larg dataset
+spec certain vary of the fam fuzzy c-means algorithm hav been put for test techn for seg dataset and aggreg the intermedy clust result
+among them the fuzzy c-means onlin techn is on of the most us for clust larg amount of dat
+it splits the dataset into equal-sized subset or chunk and assign a weight to each chunk depend on the memb degr per clust
+thi study introduc a novel vary of the onlin fuzzy c-means ofcm algorithm design to boost it perform
+our propos method integr a clust compact meas into the weight attribut process quant by the fuzzy entrop of each clust
+comp expery conduc across divers class dataset of vary scal demonst that the propos algorithm sign improv the acc of clust result when comp to the standard ofcm
+cruc thi enh is achiev without increas the comput complex of the algorithm
+furtherm our approach yield perform comp to that of heur fuzzy c-means algorithm whil off the distinct adv of short execut tim
+fut research wil foc on expl feat select and reduc techn to adapt the propos algorithm for effect apply to mass dataset charact by an exceiv high numb of feat .

@@ -1,0 +1,16 @@
+a collab us of two metah method us q-learning for the travel salesm problem in diff field an apply to smart hom delivery system
+thi study propos a metah nam abc-ga-ql for the travel salesm problem tsp wher the q-learning approach is us to select suit metah method in diff it at run tim from two diff typ metah methods-artificial bee colony abc and genet algorithm ga
+the algorithm involv two phas
+the first phas expl the search spac us abc and ga independ to search the promin zon of the optim path
+the perform of ga and abc on a target problem ar not at each it us a reward tabl rt and a q-table qt
+the second phas us the method with bet perform in each it to mod the pop
+the entry of rt and qt ar upd accord
+in thi way abc-ga-ql enh the qual of the search process
+the bas perturb rul of abc is mod for the tsps us swap op and the exploit of the method is upd us 3 opt op
+ga is also mod us multi-point cyc crossov and 3 opt op to deal with the tsps
+abc-ga-ql is test against a set of asymmet and symmet tsps from tsplib with sign larg siz
+the method find optim path for the inst hav siz up to 280 nod in most of the run of the algorithm
+it perform is comp with som rec publ state-of-the-art algorithm for the tsps us the friedm test and the supery of abc-ga-ql is wel est
+the best result obtain in 10 independ run of the method for diff test inst ar list for deep stat comparison in fut study
+som approach ar also propos to solv the tsps with cost mat involv fuzzy dat
+the algorithm is also us to impl a real-life smart hom delivery system for the onlin busy .

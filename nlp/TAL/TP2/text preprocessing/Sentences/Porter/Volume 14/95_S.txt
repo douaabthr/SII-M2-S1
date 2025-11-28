@@ -1,0 +1,11 @@
+investig the use of an ensembl of evolutionari algorithm for letter identif in tremul mediev handwrit
+ensembl classifi are known for perform good gener from simpler and less accur classifi
+ensembl have the abil to use the varieti in classif pattern of the smaller classifi in order to make better predict
+howev to creat an ensembl it is necessari to determin how the compon classifi should be combin to gener the final predict
+one way to do thi is to search differ combin of classifi with evolutionari algorithm which are larg employ when the object is to find a structur that serv for some purpos
+in thi work an investig is carri about the use of ensembl obtain via evolutionari algorithm for identifi individu letter in tremul mediev write and to differenti between scribe
+the aim of thi research is to use thi process as the first step toward classifi the tremor type with more accuraci
+the ensembl are obtain through evolutionari search of tree that aggreg the output of base classifi which are neural network train prior to the ensembl search
+the misclassif pattern of the base classifi are analys in order to determin how much better an ensembl of those classifi can be than it compon
+the best ensembl have their misclassif pattern compar to those of their compon classifi
+the result obtain suggest interest method for letter up to 96% accuraci and user classif up to 88% accuraci in an offlin scenario .

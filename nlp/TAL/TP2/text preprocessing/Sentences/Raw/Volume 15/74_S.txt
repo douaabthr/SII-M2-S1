@@ -1,0 +1,12 @@
+PAPR reduction and spectrum sensing in MIMO systems with optimized model
+Cognitive radio is trending domain which provides strong solution for addressing spectrum scarcity issues
+Many cognitive radios standards suffer from high peak to average power ratio PAPR which may distort transmitted signal
+This paper proposes a technique for spectrum sensing based on optimization enabled PAPR using hybrid Gaussian mixture model GMM
+The Eigen statistics energy and PAPR reduction block is adapted by hybrid mixture model for predicting the availability of spectrum
+In order to model network with PAPR the newly designed optimization algorithm namely elephant-sunflower optimization ESO is adapted
+The proposed ESO technique is combination of elephant herd optimization and sunflower optimization
+The GMM is enabled using Eigen statistics energy along with PAPR
+The GMM is adjusted with an optimization algorithm namely Whale elephant-herd optimization
+The PAPR is reduced by optimally adjusting the parameters using proposed ESO
+The channel availability is evaluated by providing energy Eigen statistics and PAPR as input
+The effectiveness of proposed ESO is illustrated with maximal probability of detection of 1.00 minimal PAPR of 7.534 and minimal bit error rate of 0.000 respectively .

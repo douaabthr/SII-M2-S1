@@ -1,0 +1,13 @@
+a population-based vary of the singl candid optim for glob optim and multi-level thresholding problem in med im seg
+the skin our body s prim def is suscept to num heal issu
+ear detect and acc diagnos of such condit rely heavy on med im process
+multi-level thresholding im seg is a lead techn in thi field requir an efficy optim to achiev optim result
+the singl candid optim sco a metah algorithm has shown prom in optim but is limit by it rely on a singl solv lead to restrict divers and difficul escap loc optim
+to overcom thes challeng we introduc a population-based vert of sco term psco
+thi approach enh sco by integr an influ strategy to guid the pop s swarm behavio and the invers incomplet gamm funct to deep the intens phas
+in addit a soft strategy is develop to bal divers and intens ens a smoo transit from glob to loc search
+psco was rig test on the cec 2022 benchmark suit across 10 and 20 dimend consist outperform sco
+furtherm the effect of psco is valid in the context of multi-level thresholding im seg apply to two dataset bsd500 for benchmark and is for med im
+the algorithm s perform is evalu us otsu s and kap s fit funct across diff thresholds
+addit it effect is rig assess by comp it against ten state-of-the-art solv focus on key met such as otsu s and kap s object valu psnr ssim fsim qilv hpsi uiq and cpu tim
+the result demonst sign improv highlight psco s pot in gen optim task and spec apply such as med im seg .

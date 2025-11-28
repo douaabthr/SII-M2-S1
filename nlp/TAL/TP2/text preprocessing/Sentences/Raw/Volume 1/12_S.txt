@@ -1,0 +1,6 @@
+Exploratory data analysis with artificial immune systems
+We use a modified version of the CLONALG algorithm to perform exploratory data analysis
+Since we wish to compare results from a number of methods we only report on linear projections which have unique solutions
+We incorporate a type of Gram Schmidt orthogonalisation 15 into the affinity maturation process to capture multiple components
+We combine the new algorithm with reinforcement learning 17,20 and with cross entropy maximization 13,19
+Finally we combine several different non-standard adaptation methods using bagging and show that we get reliable convergence to accurate filters .

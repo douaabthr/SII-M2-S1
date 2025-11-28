@@ -1,0 +1,9 @@
+Neighborhood centroid opposite-based learning Harris Hawks optimization for training neural networks
+The Harris Hawks Optimization Algorithm is a new metaheuristic optimization that simulates the process of Harris Hawk hunting prey rabbit in nature
+The global and local search processes of the algorithm are performed by simulating several stages of cooperative behavior during hunting
+To enhance the performance of this algorithm in this paper we propose a neighborhood centroid opposite-based learning Harris Hawks optimization algorithm NCOHHO
+The mechanism of applying the neighborhood centroid under the premise of using opposite-based learning technology to improve the performance of the algorithm the neighborhood centroid is used as a reference point for the generation of the opposite particle while maintaining the diversity of the population and make full use of the swarm search experience to expand the search range of the reverse solution
+Enhancing the probability of finding the optimal solution and the improved algorithm is superior to the original Harris Hawks Optimization algorithm in all aspects
+We apply NCOHHO to the training of feed-forward neural network FNN
+To confirm that using NCOHHO to train FNN is more effective five classification datasets are applied to benchmark the performance of the proposed method
+Comprehensive comparison and analysis from the three aspects of mean variance and classification success rate the experimental results show that the proposed NCOHHO algorithm for optimization FNN has the best comprehensive performance and has more outstanding performance than other metaheuristic algorithms in terms of the performance measures .

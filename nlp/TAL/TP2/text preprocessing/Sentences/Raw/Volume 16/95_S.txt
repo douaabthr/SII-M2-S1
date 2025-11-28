@@ -1,0 +1,9 @@
+EEG Signal Analysis based on machine learning in psychological balance detection of athletes
+The increasingly comprehensive penetration of sports science and technology and the constant change in social culture make competitive sports fierce and the athletes who participate in high-level sports are more and more equal
+Under the current situation it is difficult for athletes to win in competitions only by training their physical technical and tactical abilities under heavy load
+Therefore it is imperative to strengthen the psychological training of athletes in training and before a match
+Artificial intelligence especially machine learning has recently been widely used in sports which gives us the power to study athletes psychological balance before training and competition
+This paper uses the Long-Short Term Memory LSTM Convolutional Neural Networks CNN model which combines time-domain and space-domain characteristics to classify the collected electroencephalogram signals of athletes into emotional categories
+LSTM network is used to process the information of emotions changing with time while CNN can mine the correlation between channels and finally fuse the two network outputs to obtain the results of emotional recognition of athletes hence coaches can put forward targeted intervention strategies to help athletes adjust their psychological state in time
+The experimental results show that this method has high classification accuracy and short classification time on Valence and Arousal dimensions and is superior to similar emotional recognition methods based on machine learning and deep learning
+It provides dynamic support for the research of psychological balance detection of athletes .

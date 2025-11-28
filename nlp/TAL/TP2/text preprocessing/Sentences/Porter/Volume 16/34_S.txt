@@ -1,0 +1,9 @@
+a novel collabor filter base recommend system use exponenti grasshopp algorithm
+collabor filter recommend item on the principl of similar
+the effect of the similar is highli depend on the perform of the cluster algorithm
+thi paper present a new clustering-bas collabor filter method for effici item recommend
+the new approach introduc a new variant of the grasshopp optim algorithm to determin optim similar pattern
+nine nature-inspir algorithm have been consid and test against seventeen standard benchmark function in term of mean fit valu and the friedman test to valid the propos variant experiment
+further the efficaci of the new clustering-bas collabor filter method is test on the publicli avail movielen dataset and evalu in term of mean absolut error precis and recal over the differ cluster set
+the obtain result are compar against nine clustering-bas collabor filter method
+experi affirm that the propos method is a permiss techniqu for the recommend on large-scal dataset .

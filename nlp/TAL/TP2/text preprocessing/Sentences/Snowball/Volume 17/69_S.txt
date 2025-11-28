@@ -1,0 +1,9 @@
+a general trust establish model architectur for design robust trust establish model
+the intellig agent that popul multi-ag system mass can exhibit vari behaviour depend on their design and the environ in which they resid
+thus truste must be abl to adapt how they interact with trustor to ensur that the truste are trust in the environ
+to accomplish this various trust establish model have been propos to allow truste to adjust their behaviour to becom more trustworthi toward the trustor in an environ
+by use a general trust establish model architectur model can be design for various domain and assumpt along with the inclus of a new preprocess modul that allow for both transaction-level preprocess and trustor-level postprocess
+the propos architectur is design to be compat with both exist and new model
+a simpl yet robust trust establish model use this architectur call the general trust establish model gtem is defin to exhibit the benefit from use a general architectur with preprocess
+through simul with and without the preprocess modul in gtem along with use two addit trust establish model the architectur is shown to provid more fine-tun result when use the preprocess modul
+gtem use the preprocess modul achiev a higher good transact rate and higher averag direct trust faster than other model within the environ .

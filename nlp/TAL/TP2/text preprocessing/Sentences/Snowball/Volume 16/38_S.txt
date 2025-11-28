@@ -1,0 +1,9 @@
+adapt deep q learn network with reinforc learn for crime predict
+crime predict model are veri use for the polic forc to prevent crime from happen and to reduc the crime rate of the citi
+exist crime predict model are not effici in handl the data imbal and have an overfit problem
+in this research an adapt drqn model is propos to develop a robust crime predict model
+the propos adapt drqn model includ the applic of gru instead of lstm unit to store the relev featur for the effect classif of sacramento citi crime data
+the storag of relev featur for a long time help to handl the data imbal problem and irrelev featur are elimin to avoid overfit problem
+adapt agent base on the mdp are appli to adapt learn the input data and provid effect predict
+the reinforc learn method is appli in the propos adapt drqn model to select the optim state valu and to identifi the best reward valu
+the propos adapt drqn model has an mae of 36.39 which is better than the exist recurr q-learn model has 38.82 mae .

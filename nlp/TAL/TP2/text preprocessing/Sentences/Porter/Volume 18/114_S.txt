@@ -1,0 +1,7 @@
+improv two-arch evolutionari algorithm for constrain multi-object optim of wwtp base on intergener inform guidanc
+maintain the balanc between feasibl converg and divers is a challeng in constrain multi-object optim problem for the oper perform of the wastewat treatment process wwtp
+thi paper propos an improv two-arch evolutionari algorithm for constrain multiobject optim c-taea base on intergener inform guidanc name iig-c-taea
+first the propos algorithm propos a mate select mechan to fairli screen elit solut in three aspect feasibl converg and divers
+then the algorithm employ intergener inform to guid offspr iter by adjust crossov and mutat probabl and establish neighborhood between intergener popul
+final an archive-driven mechan is introduc to select high-qual solut and to establish an associ between archiv base on popul inform enhanc the balanc of divers converg and feasibl
+the efficaci of the propos algorithm is confirm through compar analys conduct on benchmark problem and wastewat optim problem demonstr it superior over other constrain multi-object optim evolutionari algorithm in comparison .

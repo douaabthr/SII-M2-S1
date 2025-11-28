@@ -1,0 +1,8 @@
+Prediction of forest unit volume based on hybrid feature selection and ensemble learning
+Aiming at the characteristics of forestry data with high dimensionality and complex samples this paper explores an ensemble learning method suitable for predicting forest unit volume which provides a scientific basis for forest resource management and decision-making
+According to the real data provided by the National Forestry Science Data Sharing Service Platform a FL-Stacking model based on hybrid feature selection and ensemble learning is proposed
+Firstly the model extracts features based on Filter-Lasso hybrid method then constructs the prediction model of forest unit volume based on ensemble learning and uses eight prediction models such as Linear SVM regression as the fusion basis model in the training set by Stacking scheme
+The data are verified by 10 folds cross-validation
+Finally the fusion and optimization of the basic model are carried out
+The experimental results show that the optimal accuracy of the single model is 83.81% the multi-model predicted by FL-Stacking model is 84.55% and the R2value is increased by 0.74 percentage points
+The comparative analysis results of different models on real data sets show that the FL-Stacking integrated prediction model proposed in this paper has a high accuracy in estimating forest unit volume and has a great practical research value .

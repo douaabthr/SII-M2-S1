@@ -1,0 +1,16 @@
+dynam crow search algorithm bas on adapt paramet for large-scal glob optim
+despit the good perform of crow search algorithm csa in deal with glob optim problem unfortun it is not the cas with respect to the converg perform
+conv csa expl and exploit ar strongly depend on the prop set of aw prob ap and flight leng fl paramet
+in each optim problem ap and fl paramet ar set in an ad hoc man and their valu do not chang ov the optim process
+to thi dat ther is no analys approach to adjust their best valu
+thi pres a maj drawback to apply csa in complex pract problem
+hent the conv csa is us on for limit problem due to fact that csa with fix ap and fl is frequ trap into loc optim
+in thi pres pap an enh vert of csa cal dynam crow search algorithm dcsa is propos to overcom the drawback of the conv csa
+in the propos dcsa two mod of the bas algorithm ar mad
+the first mod concern the continu adjust of the csa paramet lead to a dcsa wher ap wil be adjust linear ov optim process and fl wil be adjust accord to the gen pareto prob dens funct
+thi dynam adjust wil provid mor glob search cap as wel as mor exploit of the pre-final solv
+the second mod concern the improv of csa s swarm divers in the search process
+thi wil lead to a high converg acc and fast converg rat
+the effect of the propos algorithm is valid us a set of expery sery us 13 complex benchmark funct
+expery result high prov the mod algorithm effect comp to the bas algorithm in term of converg rat glob search cap and fin solv
+in addit a comparison with conv and rec simil algorithm rev that dcsa giv supery result in term of perform and efficy .

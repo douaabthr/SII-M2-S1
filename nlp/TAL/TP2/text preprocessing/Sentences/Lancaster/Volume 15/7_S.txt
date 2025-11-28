@@ -1,0 +1,8 @@
+a hybrid har hawks-nelder-mead optim for pract nonlinear ordin diff equ
+diff equ can oft be seen in many field of sci research and engin
+typ find the analys exact solv is expend task in term of comput effort and may not an attain task for som complex task
+to effect handl a wid vary of linear and nonlinear diff equ thi pap pres an approxim methodolog bas on hybrid har hawk neld mead optim algorithm with the aim to achiev acc and rely solv
+the propos methodolog is introduc on bas of foury sery expand and har hawk neld mead optim algorithm
+in thi sens the diff equ is repres as an optim model by the mean of the weight resid funct cost funct that nee to be minim wher the bound and init condit of the diff equ ar consid as the constraint of the optim model
+the pract and efficy of the propos algorithm ar demonst through six diff equ with diff nat as wel as four mech engin diff equ
+the comparison against diff algorithm by us the gen dist met and wilcoxon sign rank test show the effect of the propos algorithm .

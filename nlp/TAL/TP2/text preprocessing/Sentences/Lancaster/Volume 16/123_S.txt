@@ -1,0 +1,9 @@
+a step furth toward a consens on link tweet to wikiped
+the study of contemp tweet-based ent link el system rev a lack of a standard definit and a consens on the task
+spec ident what should be annot in text remain a recur quest
+thi prev prop design and fair evalu of el system
+to tackl thi issu the pres pap introduc a set of rul intend to defin the el task for tweet
+we expery the effect of the propos rul by develop tel an end-to-end superv system that link tweet to wikiped
+the expery conduc on fiv publ avail dataset show that our system outperform the baselin with an improv in term of overal macro f1-score micro f1-score rang from 25.04% 7.32% up to 35.36% 42.03%
+moreov feat analys rev that when the annot is not limit to very few ent typ the propos rul capt mor efficy annot tacit agr from dataset
+consequ the propos rul constitut a step furth toward a consens on the el task .

@@ -1,0 +1,7 @@
+surrogate-assist clonal select algorithm for expens optim problem
+clonal select algorithm are comput method inspir by the behavior of the immun system which can be appli to solv optim problem
+howev like other natur inspir algorithm they can requir a larg number of object function evalu in order to reach a satisfactori solut
+when those evalu involv a comput expens simul model their cost becom prohibit
+in this paper we analyz the use of surrog model in order to enhanc the perform of a clonal select algorithm
+comput experi are conduct to assess the perform of the present techniqu use a benchmark with 22 test-problem under a fix budget of object function evalu
+the comparison show that for most case the use of surrog model improv signific the perform of the baselin clonal select algorithm .

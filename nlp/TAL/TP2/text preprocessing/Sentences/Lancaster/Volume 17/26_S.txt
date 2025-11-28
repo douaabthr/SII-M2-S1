@@ -1,0 +1,8 @@
+distribut loc margin pric comput bas on act pow loss and emit in act distribut system us nucleol the
+in thi study a nucleol the nt bas it method has been pres to comput distribut loc margin pric dlmp at bus wher embed gen eg unit wer instal in the distribut network
+the nt-based it method provid fin int to eg own as per their contribut to loss reduc and emit reduc for spec load condit
+in thi study dlmp valu depend on the decision-maker pref among loss reduc emit reduc and distribut company addit benefit
+the main object of the propos method is to optim the act pow loss and emit bas on disco decision-maker pri subject to eg capac
+dlmp valu for each eg unit is a vary that has to comput bas on disco decision-maker pri
+thi propos nt bas it method has been impl on taiw pow company distribut system tpcds consist of 84 bus with 15 eg unit and 201 bus rad distribut network with 15 eg unit und matlab environ and comput dlmp valu bas on the contribut of eg unit on loss and emit reduc
+it was infer from the result that the propos method en eg own to receiv mor fin benefit and also en disco decision-makers can op the network with mor optim in term of loss and emit .

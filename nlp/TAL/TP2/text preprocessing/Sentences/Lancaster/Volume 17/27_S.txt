@@ -1,0 +1,8 @@
+cent reinforc learn for multi-agent coop environ
+we study reinforc learn method in multi-agent domain wher a cent control collect al inform and decid an act for every ag
+howev multi-agent reinforc learn marl suff from the combin explod of act spac
+in thi work we propos an improv proxim policy optim ppo algorithm whos neur network is bas on at mech to solv the combin explod issu
+our model output joint-action instead of distribut act
+paramet shar of at mech en the siz of neur network linear with loc observ s leng of singl ag regardless of the ag numb
+besid credit assign of multi-agent is nat address by grady asc in the at lay
+expery result demonst that our method outperform independ ppo and cent ppo with oth network .

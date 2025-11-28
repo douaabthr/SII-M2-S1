@@ -1,0 +1,8 @@
+Automated soil prediction using bag-of-features and chaotic spider monkey optimization algorithm
+A proper soil prediction is one of the most important parameters to decide the suitable crop which is generally performed manually by the farmers
+Therefore the efficiency of the farmers may be increased by producing an automated tools for soil prediction
+This paper presents an automated system for categorization of the soil datasets into respective categories using images of the soils which can further be used for the decision of crops
+For the same a novel Bag-of-words and chaotic spider monkey optimization based method has been proposed which is used to classify the soil images into its respective categories
+The novel chaotic spider monkey optimization algorithm shows desirable convergence and improved global search ability over standard benchmark functions
+Hence it has been used to cluster the keypoints in Bag-of-words method for soil prediction
+The experimental outcomes illustrate that the anticipated methods effectively classify the soil in comparison to other meta-heuristic based methods .

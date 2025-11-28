@@ -1,0 +1,7 @@
+Wrapper scan chain design algorithm for testing of embedded cores based on chaotic dragonfly algorithm
+As embedded pre-designed and pre-validated cores in system-on-chip SoC designs have increased usage the wrapper scan chain design WSCD for the embedded cores is one of the fundamental ways to reduce the SoC test time
+In this paper a chaotic dragonfly algorithm CDA for WSCD is proposed to minimize the test time of embedded cores by balancing the packaged scan chains WSCs . Since the WSCD problem is non-continuous we improve the dragonfly algorithm DA with integer coding to make it suitable for the WSCD problem
+In order to improve population diversity and prevent falling into local optimum state we introduce chaotic strategy into DA
+Furthermore a repaired operator that considers the specific knowledge is added to the DA
+Since the CDA is a swarm intelligence method it is expected to effectively solve the NP-hard problem
+The experimental results on ITC 02 SoC benchmark show that the proposed algorithm can improve the balanced results and shorten the test time compared with the existing algorithms .

@@ -1,0 +1,10 @@
+advanc ceemd hybrid model for vix forecast optim decis tree and arima integr
+thi studi focus on the time seri analysi and forecast of the volatil index vix data in the unit state
+we employ the complet empir mode decomposit ceemd method to decompos the origin vix data into seven intrins mode function imf
+subsequ each imf determin it stationar use the augment dickey-ful adf test
+for stationari imf an autoregress integr move averag arima model wa built while non-stationari imf were fit use machin learn regress algorithm
+the sum of the predict valu of all imf wa consid as the forecast vix valu
+about the paramet select in machin learn algorithm we employ the optuna librari to optim the model s paramet
+we select the paramet that result in the lowest mean squar error mse on a valid set to be the optim model paramet
+appli thi methodolog we found that our hybrid model ha greater predict capabl compar to simpl machin learn model when the market fluctuat greatli
+specif the adaboost model outperform a basic decis tree model and a random forest model in term of mse and mae mean absolut error accuraci .

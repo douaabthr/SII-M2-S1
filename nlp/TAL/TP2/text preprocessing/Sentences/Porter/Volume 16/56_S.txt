@@ -1,0 +1,8 @@
+grey wolf optim algorithm base on dynam adjust inerti weight and levi flight strategi
+aim at the problem of slow converg speed low converg accuraci and easi to fall into local optimum of grey wolf optim algorithm gwo a dynam adjust inertia weight and levi flight strategi base grey wolf optim algorithm dfgwo is propos
+firstli the strategi of dynam adjust inertia weight is introduc to improv the updat method of wolf swarm posit
+at each iter the inertia weight valu is dynam adjust to balanc the global explor and local develop and improv the optim accuraci and converg speed of the algorithm
+secondli compar with the switch probabl the algorithm can perform levi flight with high probabl at the begin of the iter to increas the popul divers and improv the global search abil
+thirdli the greedi strategi is introduc to select the solut with optim adapt
+final to verifi the perform of the dfgwo algorithm the simul experi are carri out on 12 standard test function and compar with sever other algorithm
+the experiment result show that the dfgwo algorithm ha good advantag in optim accuraci converg speed and algorithm stabil .

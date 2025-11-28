@@ -1,0 +1,8 @@
+chicwh optim algorithm for the vm migr in cloud comput platform
+nowaday virt machin vm migr becom very popul in the cloud comput platform
+vary vm migr bas mech ar design for optim vm plac but remain a challeng due to improp energy consum in the cloud model
+thi pap propos an approach for vm migr in the cloud us an optim algorithm chicken-whale optim algorithm chicwh which is develop by integr the whal optim algorithm in chick swarm optim
+in the develop approach a loc migr ag is util for monit the mem and resourc util in the cloud continu and the vm is migr us the serv provid bas on the requir of the vms to complet a task assign
+at first the cloud system is design and then the propos chicwh is employ by mov the vms optim and the fit funct for best vm migr is carry out by consid sev paramet lik load migr cost resourc avail and energy
+the perform of the vm migr strategy bas on chicwh is evalu in term of energy consum resourc avail migr cost and load
+the propos chicwh method achiev the maxim resourc avail of 0.989 minim migr cost of 0.0564 the minim energy consum of 0.481 and the minim load of 0.0001 .

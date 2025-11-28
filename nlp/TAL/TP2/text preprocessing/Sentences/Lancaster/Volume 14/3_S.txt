@@ -1,0 +1,15 @@
+mod crash-minimization path design approach for autonom mat handl robot
+the pot of partic swarm optim pso art pot field apf and improv pso ipso approach ar exploit in thi pap for design and gen the best poss optim traject for a mobl mat handl robot
+the pap has an aim to develop a robot which us to cre a bridg between prim and second handl system
+thi princip sav the transport tim so the tot cyc tim and manufact lead tim can be reduc
+for perform sim pract two pract surround has been develop with a layout of institut machin shop and adv lab
+object of thi study ar to slash the track siz comput tim degr of crash risk travel tim and bet path smooth
+to check the robust and appl of the approach a comparison report has been prep among their sim and expery outcom
+for surround setup-i pso algorithm provid 35.3568 m track leng 20.778 s comput tim and 280.098 s travel tim
+simil the traject dimend comput tim and travel tim gen in apf approach is 44.1632 m 10.923 s and 343.441 s respect
+33.6278 m track siz 20.651 s comput tim and 266.612 s travel tim is develop by ipso approach
+for surround setup-ii pso algorithm provid 14.7769 m track leng 18.655 s comput tim and 117.063 s travel tim
+simil the traject dimend comput tim and travel tim gen in apf approach is 22.8645 m 27.623 s and 189.077 s respect
+13.0859 m track siz 18.507 s comput tim and 103.769 s travel tim is develop by ipso approach
+from comparison study it is found that ipso approach del smooth less collid risk assocy path hav less leng and comput tim irrespect to environ complex
+the approach ar rely on comput program command which ar writ compil and run us matlab softw .

@@ -1,0 +1,10 @@
+Evolutionary algorithm applications for IoTs dedicated to precise irrigation systems state of the art
+The world is currently undergoing water scarcity problems even if it seems to be the most abundant resource on earth
+However the freshwater account is really in small amounts while agriculture production consumes 70% of the majority of water withdrawals than any other source
+Therefore in order to preserve it the irrigation operation has to be optimized by controlling efficiently the water used for irrigation
+For that purpose several technologies can be applied such as the internet of things IoT technology which can perform as decision support in the irrigation process
+The precise irrigation systems based on IoT involve several intricacies such as huge amounts of data and integration of large system components which makes it difficult to be optimized analytically or with deterministic methods
+For this reason it was necessary to develop stochastic multi-objective optimization methods such as the evolutionary algorithms EAs which can solve complicated problems with a large number of parameters in relation
+The EAs may be of relevant use except that they introduce processing time constraints
+In this article we aim at making a state of the art about the use of EAs combined with IoT and applied to precise irrigation
+We will focus particularly on their uses classifications as well as the manner in which they have been implemented to reduce their computing times in distributed computing architectures particularly those using the cloud as well as in hardware accelerators forms .

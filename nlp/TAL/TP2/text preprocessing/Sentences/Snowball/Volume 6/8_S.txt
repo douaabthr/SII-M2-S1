@@ -1,0 +1,12 @@
+perform analysi of rough set ensembl of learn classifi system with differenti evolut base rule discoveri
+data mine and specif supervis data classif is a key applic area for learn classifi system lcs
+scale to larger classif problem especi to higher dimension problem is a key challeng
+ensembl base approach can be appli to lcs to address scalabl issu
+to this end a rough set base ensembl of lcs is propos which reli on a pre-process featur partit step to train multipl lcs on featur subspac
+each base classifi in the ensembl is a michigan style supervis lcs
+the tradit genet algorithm base rule evolut is replac by a differenti evolut base rule discoveri to improv generalis capabl of lcs
+a vote mechan is then use to generat output for test instanc
+this paper describ the propos ensembl algorithm in detail and compar it perform with differ version of base lcs on a number of benchmark classif task
+analysi of comput time and model accuraci show the relat merit of the ensembl algorithm and base classifi on the test data set
+the rough set base ensembl learn approach and differenti evolut base rule search out-perform the base lcs on classif accuraci over the data set consid
+result also show that small ensembl size is suffici to obtain good perform .

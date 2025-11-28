@@ -1,0 +1,9 @@
+node posit base on ipso-id in wsn
+due to the unreason connect of wireless sensor network there are error in calcul the distanc between the location-unawar node and the location-awar node
+therefor a novel method combin improv particl swarm optim and improv differenti evolut ipso-id is propos
+firstli the learn factor of the particl swarm optim method is modifi and the disturb term is ad to prevent prematur thu strengthen it explor abil
+then the adapt mutat and crossov mechan are appli to the differenti evolut method so that each chromosom can mutat and cross adapt with individu fit and averag fit to improv it exploit abil
+final the improv particl swarm optim ipso and differenti evolut method ide are run in parallel in the node posit model
+after fix number of iter the optim individu inform of the two method is share to obtain the ipso-id method
+therefor ipso-id ha the advantag of both
+the result show that the ipso-id algorithm not onli ha some advantag in time complex but also improv the posit accuraci by 27.2% 8.7% 4.5% and 5.7% respect compar with particl swarm optim with a variabl neighborhood algorithm modifi particl swarm optim algorithm hybrid particl swarm optim and differenti evolut algorithm and artifici bee coloni algorithm .

@@ -1,0 +1,13 @@
+optim feat subset select for mri brain tum class us improv ant-lion optim
+an acc diagnos of the typ of brain tum is cruc for expert to choos the best cours of therapy and increas the paty s lifetim
+the man categ of brain tum in magnet reson im mri with simil structures or appear can be complex and rely on expert
+also brain mri contain a sign numb of redund or irrelev feat and class algorithm struggle to detect pattern without feat select
+by select promin feat the machine-learning model can produc a high level of predict acc in med diagnost problem
+in thi pap an improv ant lion optim approach ialo is develop to select the optim feat for wrapper-mode class
+init pre-processing is carry out to remov bia and nois
+tum seg is perform us act conto driv by laplac of gauss energy and optim reg scal fit energy
+from the seg brain im hand-craft feat ar extract us the histogram of ory grady gray level co-occurrence matrix gray level run leng matrix and deep feat ar extract us the resnet50
+the propos ialo is employ for the select of the best feat from handcraft and deep feat
+the fin step was to class brain tum us support vect machin naiv bay and recur neur network
+the propos ialo-based rnn exhibit enh acc of 99.59% for brat and 99.18% for j. cheng brain im respect
+from the expery result it is observ that our propos model outperform the ex metah optim algorithm and effect remov the least sign feat whil improv class acc .

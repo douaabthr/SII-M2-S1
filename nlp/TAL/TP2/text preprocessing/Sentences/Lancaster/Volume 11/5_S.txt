@@ -1,0 +1,7 @@
+med im sec enh us two dimend chaot map optim by self-adaptive grey wolf algorithm
+the develop of encrypt and decrypt play a vit rol in the field of sec
+rec chaos-based sec has suggest the rely and efficy way of sec the im
+in thi pap self-adaptive grey wolf optim gwo is propos for optim 2 dimend log chaot map 2dcm
+furth the sec analys of the propos method is perform us diff comparison such as key sensit histogram analys adjac pixel autocorrel inform entrop attack qual of encrypt chi squ test etc
+moreov analys outcom ar comp with the conv algorithm lik standard encrypt and decrypt genet algorithm ga and gwo
+the expery result stat that the propos method is key sensit and oppos to the gen attack dur the encrypt and decrypt of im .

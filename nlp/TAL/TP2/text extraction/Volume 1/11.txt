@@ -1,0 +1,3 @@
+Frequency analysis for dendritic cell population tuning
+
+The dendritic cell algorithm (DCA) has been applied successfully to a diverse range of applications. These applications are related by the inherent uncertainty associated with sensing the application environment. The DCA has performed well using unfiltered signals from each environment as inputs. In this paper we demonstrate that the DCA has an emergent filtering mechanism caused by the manner in which the cell accumulates its internal variables. Furthermore we demonstrate a relationship between the migration threshold of the cells and the transfer function of the algorithm. A tuning methodology is proposed and a robotic application published previously is revisited using the new tuning technique.

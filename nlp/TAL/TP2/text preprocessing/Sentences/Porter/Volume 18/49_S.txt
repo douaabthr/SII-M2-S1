@@ -1,0 +1,8 @@
+golden jackal optim algorithm with a popul qualiti improv framework for real-world engin optim problem
+in thi studi a popul qualiti improv pqi framework to enhanc the perform of the recent emerg nature-inspir metaheurist algorithm name golden jackal optim gjo algorithm for solv real-world engin optim problem is propos
+firstli the maximin lh strategi is employ to gener the initi popul which can effici enhanc the search space in the earli stage
+then a non-linear popul reduct mechan is appli to screen out the individu with unsatisfi solut and it can also reduc the comput complex
+meanwhil a novel circular mutat strategi is introduc which can dynam adjust the algorithm to explor in a wilder space or to exploit deeper thi method can not onli acceler the converg of the optim but also reduc the risk of trap in the local optima
+moreov the propos framework show tremend potenti in applic to other population-bas search algorithm due to that the algorithm are improv while remain the inher mathemat structur and search strategi
+the experiment result demonstr that the propos framework can effici improv the perform of gjo on solv real-world engin optim problem and the propos pqi gjo algorithm can save 196.7001 h 0.3595 mw and 0.0552 p. u
+in comparison with the state-of-art algorithm jaya in solv opf problem for ieee-57 bu system .

@@ -1,0 +1,9 @@
+data-driven weight initi strategi for convolut neural network
+train deep convolut neural network consist of multipl forward and backward pass over sever epoch until the loss converg make it time-consum
+variou factor affect the train time of network weight initi be one of them
+the idea of a proper weight initi techniqu is to set the initi weight such that the network converg faster by extract meaning featur from the data
+thi paper propos a data-driven weight initi to acceler the train process
+thi techniqu is base on obtain initi weight by appropri analys the train data
+the propos weight initi strategi initi filter from a pre-defin filter bank that is creat befor train and it contain standard edg and textur featur extract filter and data-driven filter obtain use princip compon analysi linear discrimin analysi and partial least squar
+the propos techniqu ha been valid on alexnet vgg-16 and resnet-50 for intel imag classif cifar10 and cifar100 dataset
+the result show that the propos techniqu give better valid result than other state-of-the-art techniqu in fewer epoch and work well with state-of-the-art activ function .

@@ -1,0 +1,9 @@
+apply of fuzzy log bas ga and pso to solv 4d multi-item transport problem for substitut and compl item
+the fuzzy log control provid a mean of chang ov the lingu control to an autom control strategy
+it depend on expert knowledg
+spec it incorp fuzz and defuzz techn through fuzzy control rul
+the emphas on fuzzy log is util her on a 4 dimend multi-item transport problem 4dmitp
+the invers fuzzy rul is apply on transport cost with respect to fix cost and a symmet fuzzy rul is consid for sel pric
+to elucid the model an appropry num illust is pres
+the fuzzy log bas num result ar obtain through genet algorithm ga and partic swarm optim pso
+at the end the discuss and pract imply ar pres to valid the propos model .

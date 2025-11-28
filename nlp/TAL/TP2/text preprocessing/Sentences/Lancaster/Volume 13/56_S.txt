@@ -1,0 +1,13 @@
+an enh moth-flame optim algorithm for permutation-based problem
+moth-flame optim mfo is on of the rec propos metah optim techn which has been success us in wid rang of apply
+howev ther ar two issu with the mfo algorithm
+first as a stochast techn mfo may prem converg at som loc minim dur the search process
+second the origin mfo was develop for continu search spac problem and is not direct appl to e.g. permutation-based problem pbp
+in thi pap a novel perturb strategy is introduc to the mfo algorithm to avoid prob loc minim reg
+thi strategy work as follow if the best solv obtain so far doesn t improv for a giv numb of consecut it the cur pop of solv is perturb us som crossov mech as an attempt to expl new prom neighbo in the search spac
+in addit smallest posit valu map techn is employ in ord for the propos term crossmfo comfo algorithm to be appl to pbp problem
+it is not that despit thes mod the propos comfo has the sam tim complex ord as the origin mfo
+extend sim expery ar conduc to comp the propos comfo to the mfo oth enh vert of mfo and som metah optim in solv the well-known travel salesm problem tsp
+empir result show that the solv obtain us mfo ar improv by a fact of 24 47% on av for larg tsp inst hav mor than 100 city us comfo and can ev reach 38 58% us diff set
+in addit comp to oth algorithm in the lit the propos algorithm provid on av bet solv
+hent it can be consid a prom and efficy techn for thi typ of problem .

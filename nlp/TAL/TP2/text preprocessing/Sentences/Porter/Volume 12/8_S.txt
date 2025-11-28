@@ -1,0 +1,5 @@
+increment supervis learn algorithm and applic in pattern recognit
+the most effect well-known method in the context of static machin learn offer no altern to evolut and dynam adapt to integr new data or to restructur problem alreadi partial learn
+in thi area the increment learn repres an interest altern and constitut an open research field becom one of the major concern of the machin learn and classif commun
+in thi paper we studi increment supervis learn techniqu and their applic especi in the field of pattern recognit
+thi articl present an overview of the main concept and supervis algorithm of increment learn includ a synthesi of research studi done in thi field and focus on neural network decis tree and support vector machin .

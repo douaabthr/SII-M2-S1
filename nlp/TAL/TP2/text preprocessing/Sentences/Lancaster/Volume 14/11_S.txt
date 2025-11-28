@@ -1,0 +1,9 @@
+a novel stack spars deno autoencod for mammograph rest to vis interpret of breast les
+thi pap propos a deep unsuperv learn bas deno autoencod model for the rest of degrad mammogram with vis interpret of breast lump or les in mammograph im cal ssdae
+the propos model attempt to intens the underexpos and abnorm structural reg through nois elimin in mammograph im
+a deep stack convolv autoencod is design by combin the autoencod and the deconvolv network which conjoint reduc noisy artifact and improv im detail in mammogram
+the propos ssdae model tak larg noisy mammogram im patch as input and extract relev feat from target batch
+the suggest model can extract relev feat and reduc the dimend through spars property of the im dat whil preserv the key feat that hav been apply to rest im dat in feat spac
+in ord to reconstruct a deaf mammogram the propos model is carry out through a patch bas train on sampl to suppress nois thereby preserv structural detail in mammograph im
+expery result auth that the suggest ssdae model outplay a numb of state-of-the-art method for both x-ray mammogram and ultrasonograph mammogram
+the execut spee for target noisy im increas with fin tun of the network when comp to oth algorithm .

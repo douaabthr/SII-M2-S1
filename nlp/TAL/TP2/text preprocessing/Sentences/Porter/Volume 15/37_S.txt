@@ -1,0 +1,13 @@
+nich comprehens learn gravit search algorithm for multimod optim problem
+mani nich algorithm have been propos in recent time to cater complex real-world problem have sever global/loc optima
+these algorithm help in locat as mani global/loc optima as possibl
+howev to explor the search space along with locat and maintain a larg number of global solut is alway a challeng problem
+henc we propos a new nich strategi name nich comprehens learn gravit search algorithm in which the clgsa algorithm is use to solv complex problem have multipl solut
+the propos algorithm first effici tri to explor the search space without trap in local optima s and secondli it locat all possibl global optima s
+thi algorithm ha an extern memori that enhanc it capabl to find the maximum number of optima s
+the propos approach is test on the ieee cec-2013 multimod optim benchmark problem li et al
+in evolutionari comput and machin learn group rmit univers melbourn australia technic report 2013
+the result of the propos scheme are compar with five other state-of-the-art method
+in order to show the effici of clgsa algorithm over real-lif multimod optim problem it appli to non-linear and a mix variabl problem thi is the reactiv power dispatch problem rpd
+a standard benchmark ieee-57 bu system is consid to evalu the effici of the clgsa
+the evalu simul result show that clgsa algorithm success solv multimod problem and the rpd problem with signific accuraci .

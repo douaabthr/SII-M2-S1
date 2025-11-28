@@ -1,0 +1,10 @@
+advanc genet algorithm approach to field programm gate array placement with enhanc recombin oper
+sinc their incept field programm gate array have seen an enorm growth in usag becaus they can dramat reduc design and manufactur cost
+howev the time requir for placement a key step in the design is domin the compil process
+in thi paper we take some initi theoret step toward develop an effici genet algorithm for solv the placement problem by develop suitabl recombin oper for perform placement
+accord to holland when the genet algorithm recombin two parent genotyp the differ between them defin a genotyp subspac and ani offspr produc should be confin to thi subspac
+those recombin oper that violat thi principl can direct a search away from the region contain the parent genotyp and thi is contrari to the intend task for recombin
+thi is often detriment to search perform
+thi paper contribut the develop of an intuit visual techniqu that can be use to easili detect violat of the previou principl
+the efficaci of the propos methodolog is demonstr and it is demonstr that mani standard recombin oper violat thi principl
+the methodolog is then use to guid the develop of novel oper that exhibit substanti and statist signific improv in perform over standard recombin oper .

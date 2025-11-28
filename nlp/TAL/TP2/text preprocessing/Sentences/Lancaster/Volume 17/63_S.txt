@@ -1,0 +1,14 @@
+divers act funct based-hybrid rbf-elm neur network for med class
+the cur abund of the collect biom dat provid an import tool for the develop of med dat class system
+howev process big dat requir pow algorithm
+in thi perspect we propos a hybrid class that combin rad bas funct rbf and extrem learn machin elm neur network
+thi combin is mot by the high perform and the compl of thes two typ of neur network
+the bas ide rely on compl a compact rbf network by an elm network that contain a divers of hid neuron
+the optim of the numb form and typ of the elm hid neuron is perform us a genet algorithm ga
+the object of the propos class can be summ as follow
+first it benefit from the compl property of rbf and elm lik loc respons of rbfs and glob respons of elm
+second it mak us of the adv of elm lik fast train and the poss of us a vary of act funct
+third it allevy the il condit problem of elm by join the system init of rbf to the random init of elm
+four the optim process perform us ga is simpl becaus it concern on the ad neuron which their rol is compl the rbf network
+to assess the perform of the propos class we carry out test on six med dataset from the uc machin learn reposit and comp the obtain result with thos of oth state-of-the-art work
+the obtain av perform meas i.e. acc sensit and spec for wisconsin breast cant ar 97.38% 98.38% 96.85% for pim ind diabet ar 77.61% 57.35% 88.22% for heart statlog ar 83.71% 77.92% 88.34% for hepatit ar 87.10% 95.89% 40.10% for parkinson ar 92.62% 96.50% 80.76% and for liver-disorders ar 72.48% 82.68% 58.39% respect

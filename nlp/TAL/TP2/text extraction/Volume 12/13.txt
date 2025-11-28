@@ -1,0 +1,3 @@
+Hybrid optimizer for the travelling salesman problem
+
+In this paper, a hybrid model which combines genetic algorithm and heuristics like remove-sharp and local-opt with ant colony system (ACS) has been implemented to speed-up convergence as well as positive feedback and optimizes the search space to generate an efficient solution for complex problems. This model is validated with well-known travelling salesman problem (TSP). Finally, performance and complexity analysis show that proposed nested hybrid ACS has faster convergence rate than other standard existing algorithms such as exact and approximation algorithms to reach the optimal solution. The standard TSP problems from the TSP library are also tested and found satisfactory.

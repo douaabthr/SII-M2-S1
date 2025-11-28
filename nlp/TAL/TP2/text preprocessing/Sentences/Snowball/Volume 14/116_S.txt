@@ -1,0 +1,6 @@
+numer solut of bagley torvik equat use legendr artifici neural network method
+in this articl we have use the legendr artifici neural network to find the solut of the bagley torvik equat which is a fractional-ord ordinari differenti equat
+caputo fraction deriv has been consid throughout the present work to handl the fraction order differenti equat
+the train of optim weight of the network has been carri out use a simul anneal optim techniqu
+here we have present three exampl to exhibit the precis and relev of the propos techniqu with comparison to the other numer method with error analysi
+the propos techniqu is an easi high effici and robust techniqu for find the approxim solut of fractional-ord ordinari differenti equat .

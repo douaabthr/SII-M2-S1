@@ -1,0 +1,11 @@
+cloud-bas solut approach for a larg size logist network plan
+dure the last two decad due to environment law and the competit environ the formul of effect closed-loop suppli chain network ha attract research attent
+on the other hand although there are mani metaheurist appli for these np-hard problem appli more effici and effect algorithm with tailor-mad local search and solut represent is inevit
+in thi paper mixed-integ linear program is assum to deliv the final product to custom in the forward direct from supplier through manufactur and distribut center dc
+simultan collect recycl product from custom and enter them into the recoveri or landfil cycl is examin
+mathemat model of thi problem aim to minim both the cost of open facil at potenti locat as well as the optim flow of materi across the network layer
+due to the np-hard natur of the problem a cloud-bas simul anneal algorithm csa ha been appli for the first time in thi area
+moreov a span tree-bas method which occupi the least number of array regard the other method of the literatur ha been adopt
+to analyz the accuraci and the speed of the investig algorithm we have compar it perform with the genet algorithm ga and the simul anneal sa algorithm which were appli in the literatur
+the result regard cost function show that the csa algorithm provid more effect result than the other two one
+moreov regard cpu time although the csa show better result than ga statist it fail to show more effici result than sa .

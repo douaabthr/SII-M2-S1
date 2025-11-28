@@ -1,0 +1,8 @@
+co-evolut of lexic and syntact classifi dure a languag game
+thi paper demonstr for the first time that a learn classifi system can act as the core of a cognit architectur to allow agent to co-evolv lexic and syntact convent for the effici commun of conceptu string dure a languag game
+the use of the learn classifi system ha sever inher advantag to previou ad-hoc approach to model languag game
+it permit increment addit of new popul of classifi e. g
+syntact classifi to modifi commun convent as necessari without destroy or catastroph interf with lower level e. g
+lexic convent
+the tendenc for learn classifi system to produc maxim gener classifi automat produc systemat syntact convent
+these result provid a proof in principl that replic of classifi in the brain could serv an import role in cognit as propos previous by the neuron replic hypothesi .

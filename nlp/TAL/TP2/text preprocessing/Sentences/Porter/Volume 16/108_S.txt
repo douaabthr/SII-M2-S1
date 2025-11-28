@@ -1,0 +1,8 @@
+a large-scal global optim algorithm with a new adapt comput resourc alloc mechan
+cooper co-evolut cc algorithm is an evolutionari comput framework that can effect solv high-dimension optim problem
+one of the main challeng of the cc is how to alloc comput resourc to subcompon reason
+therefor a new adapt comput resourc alloc mechan acra is propos in thi paper
+acra defin the averag valu of the rel chang rate of the origin problem after each round of optim as the contribut rate of the subcompon so that the optim inform of each round can be effect use
+acra also set a new threshold when the random number is greater than the threshold the subcompon with the largest contribut rate is select for optim otherwis a subcompon is randomli select for optim
+in the earli stage of optim such a subcompon select strategi will tri to select the subcompon with a larg averag contribut rate for optim to speed up the declin of the object function while in the later stage of optim all compon will be select on averag to improv the comput resourc in the later stage
+final the algorithm propos in thi paper is compar with other algorithm on the cec 2013 benchmark function and the experi show that the algorithm propos in thi paper ha better experiment perform and is feasibl compar with other algorithm .

@@ -1,0 +1,5 @@
+a hybrid ga-fs algorithm with fuzzy approxim scheme for solv cred rely optim problem
+in thi pap cred safety-based design optim csdo model is first form as structural rely optim framework with cred saf constraint and fuzzy sim fs approxim is pres to handl the cred saf constraint and approxim the feas domain
+then we introduc ga to design the hybrid ga-fs algorithm by integr fs scheme into ga which en the hybrid ga-fs algorithm to solv csdo model effect
+fin two num exampl ar conduc to evid the appl of the propos csdo form and the hybrid ga-fs algorithm in pract engin
+by us out-of-sample back-testing we provid the comparison between the predetermin rely level and the backtest rely level which show the effect of the hybrid ga-fs algorithm for the propos csdo form .

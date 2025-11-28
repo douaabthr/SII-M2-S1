@@ -1,0 +1,8 @@
+cloud model base sine cosin algorithm for solv optim problem
+sine cosin algorithm sca is a recent develop optim techniqu which use sine function and cosin function as oper to find the global optim solut
+howev proper paramet set is a challeng task
+onli use the number of iter to adjust the algorithm paramet cannot fulli reflect the converg inform in the evolut process so sca lack the adapt in solv differ optim problem
+to address thi issu a cloud model base sine cosin algorithm csca is propos
+in csca the cloud model is use to adjust the control paramet adapt while keep sca algorithm framework unchang
+the perform of the present csca method is evalu use 13 benchmark test function with differ dimens
+experiment result demonstr that the propos algorithm is superior to other sca variant in term of robust and scalabl .

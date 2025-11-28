@@ -1,0 +1,12 @@
+Energy aware cluster-based routing in WSN using hybrid pelican-blue monkey optimization algorithm
+As the nodes in wireless sensor networks WSNs are powered by batteries energy efficiency is a major concern
+Since communication consumes the most energy efficient routing becomes an effective solution
+A typical routing strategy is to use hierarchical clustering algorithms
+In hierarchical routing schemes a clustered arrangement of sensor nodes SNs is used to facilitate data merging and aggregation
+The Cluster heads are in charge of obtaining data from the cluster s SNs and gathering and delivering the data they receive at BS
+These data are combined and pooled at the Cluster head CH level resulting in considerable energy savings
+However there are certain reliability issues in cluster head selection CHS and optimal routing
+To model a CHS and optimal routing in WSN this work carries out the CHS using improved kernel Fuzzy C means clustering for selecting the CH by considering energy and distance
+Then optimal routing is done by deploying a novel optimization scheme named Customized Pelican with Blue Monkey Optimization CP-BMO which offers the optimal routes by considering trust and risk constraints
+Also the CP-BMO model holds better energy consumption which is 35.65% 29.42% 38.79% 25.31% 39.85% 39.16% 9.55% 29.39% 39.32% and 39.32% superior to ABO RHSO PELICAN BMO F-FLY AEFA ML-AEFA ETERS GA and QOBOA respectively
+At last the simulation outcomes confirm the developed approach s effectiveness on PDR network lifetime etc .

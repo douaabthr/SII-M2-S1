@@ -1,0 +1,15 @@
+A hybrid metaheuristic method for solving resource constrained project scheduling problem
+Resource constrained project scheduling problem RCPSP is a renowned variant of the scheduling problem
+RCPSP is very important in production and management but computationally hard
+It is widely used in many fields like job shop scheduling flow shop scheduling transactional planning wireless communication etc
+The objective of solving RCPSP is to obtain minimum makespan maintaining all constraints
+There are some exact approximate heuristic and metaheuristic algorithms which were proposed to solve this problem
+RCPSP is an NP-hard problem
+Chemical reaction optimization CRO is a population based metaheuristic method to solve such problems and it shows better performance comparing with some other existing algorithms
+CRO explores the large search space both locally and globally using its four operators
+Genetic algorithm GA is also a nature inspired algorithm which is used to solve various optimization problems
+In this paper we are proposing a hybrid metaheuristic approach that integrates chemical reaction optimization CRO and genetic algorithm GA named CRO-GA to solve RCPSP
+We have redesigned the basic operators of CRO and GA to find out the solutions
+An additional operator called priority based selection operator is used in CRO to adjust with GA
+Our proposed method is compared with other related approaches such as adaptive particle swarm optimization A-PSO multi agent optimization algorithm MAOA artificial bee colony ABC genetic algorithm GA which are state of the art for the RCPSP
+The experimental results show that our proposed methodology gives better results than other existing algorithms to solve RCPSP with less computational time .

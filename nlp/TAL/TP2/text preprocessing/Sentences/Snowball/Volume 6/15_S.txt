@@ -1,0 +1,8 @@
+creat autonom agent for play super mario bros game by mean of evolutionari finit state machin
+this paper show the design and improv of an autonom agent base in use evolutionari method to improv behaviour model finit state machin which are part of the individu to evolv
+this lead to the obtent of a so-calledbotthat follow thegameplaytrack rule of the intern mario ai championship and is abl to autonom complet differ scenario on a simul of super mario bros
+game
+mono and multi-se approach evalu in one play or multipl play respect have been analys in order to compar respect the perform of an approach focus in solv a specif scenario and anoth more general devot to obtain an agent which can play success in differ scenario
+the analysi consid the machin resourc consumpt which turn in a bottleneck in some experi
+howev the method yield agent which can finish sever stage of differ difficulti level and play much better than an expert human player sinc they can deal with veri difficult situat sever enemi surround mario for instanc in real time
+accord to the result and consid the competit s restrict time limit and object complet scenario up to difficulti level 3 these agent have enough perform to particip in this competit track .

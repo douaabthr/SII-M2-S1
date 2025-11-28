@@ -1,0 +1,10 @@
+protect scheme for hybrid transmit system us fuzzy inf system and microcontrol
+thi pap pres a fuzzy inf system and microcontroller-based protect scheme for a combin underground ug cabl and overhead oh transmit lin system
+the scheme detect class and loc the fault occur eith in an ug cabl or oh transmit lin network
+furtherm the scheme ident the faul sect
+an ex ind pow network i.e. real pow system network of c. g
+stat consist of 132 kv 50 hz pow transmit network connect dom subst 220 132 kv to the 132 33 kv gas ins subst rawanbhat through combin transmit network is consid
+thi real pow transmit network is sim by us matlab/simulink softw
+in thi pap the hardw impl is also carry out us an open-source hardw arduino which consist of an atmel 8 bit avr microcontrol
+both the sim and hardw result valid that the propos scheme is acc detect class and loc the fault in less than a half cyc tim
+moreov the perc er in determin the loc of a fault is less than 0.7% .

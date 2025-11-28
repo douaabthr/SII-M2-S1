@@ -1,0 +1,4 @@
+an interdisciplin perspect on art immun system
+thi review pap attempt to posit the are of art immun system ai in a broad context of interdisciplin research
+we review ai bas on an est conceiv framework that encaps mathem and comput model of immunolog abstract and then develop of engin system
+we argu that ai ar much mor than engin system inspir by the immun system and that ther is a gre deal for both immunolog and engin to learn from each oth through work in an interdisciplin man .

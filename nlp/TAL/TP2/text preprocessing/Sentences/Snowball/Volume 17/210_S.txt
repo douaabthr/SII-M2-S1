@@ -1,0 +1,10 @@
+annega an artifici neural network embed genet algorithm approach for energi effici street light
+a major impact on energi save by effici use of streetlight becom signific to develop a smart citi
+there is a need to optim the valu of necessari street light paramet for energi plan
+so an artifici neural network embed genet algorithm approach is propos to obtain energi effici street light
+the neural network serv the purpos of the autonom dim of streetlight whenev requir while the genet algorithm is util to minim the error anticip in the train procedur of the artifici neural network model
+in the propos work each individu popul of the genet algorithm is compris of four gene such as the number of hidden layer as well as the number of neuron on the first layer in the artifici neural network the activ function and the optim use for the train of the artifici neural network model
+the outcom of the genet algorithm generat the suitabl valu of the hyper-paramet in combin which in turn determin the minimum train error for the artifici neural network model
+the effect of tune hyper-paramet for select the best neural network architectur is comprehens assess
+the comput time of the propos work for differ variat in term of optim and activ function is shown
+final the propos embed framework has shown an improv of 41.94% more energi effici and 94.8% less train error instead of exist work .

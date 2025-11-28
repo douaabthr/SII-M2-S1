@@ -1,0 +1,7 @@
+effici power gener in microgrid an advanc optim framework for improv oper
+the increas integr of renew energi sourc in microgrid mg necessit the use of advanc optim techniqu to ensur cost-effect and reliabl power manag
+in thi studi a modifi moth-flam optim mmfo algorithm ha been propos integr roulett wheel select and opposition-bas learn to enhanc both explor and exploit capabl
+thi novel hybrid approach effect mitig prematur converg issu commonli observ in tradit method
+perform evalu conduct on two benchmark system the ieee 37 node and ieee 141 node test system demonstr that mmfo reduc daili gener cost from 1181.38 to 1167.29 usd in the 37 node system and from 3100.59 to 3087.68 usd in the 141 node system
+compar analys with state-of-the-art algorithm includ the origin mfo slime mold algorithm sine cosin algorithm salp swarm algorithm and ant lion optim further valid the robust and effici of mmfo
+these find underscor the potenti of the propos method as a power tool for achiev sustain and econom optim mg oper .

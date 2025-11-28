@@ -1,0 +1,9 @@
+mine high influenc co-loc pattern from instanc with attribut
+a spatial co-loc pattern describ coexist of spatial featur whose instanc frequent appear togeth in geograph space
+numer studi have been propos to discov interest co-loc pattern from spatial data set but most of them onli use the locat inform of instanc
+as a result they cannot adequ reflect the influenc between instanc
+in thi paper we take addit attribut of instanc into account in the process of co-loc pattern mine and propos a new approach for discov the high influenc co-loc pattern
+in our approach we consid the spatial neighbor relationship and the similar of instanc simultan and util the inform entropi approach to measur the influenc of ani instanc exert on it neighbor and the influenc of ani featur in a co-loc pattern
+then an influenc index for measur the interesting of a co-loc pattern is propos and we prove the influenc index measur satisfi the downward closur properti that can be use for prune the search space and thu an effici high influenc co-loc pattern mine algorithm is design
+at last extens experi are conduct on synthet and real spatial data set
+experiment result reveal the effect and effici of our method .

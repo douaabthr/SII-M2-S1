@@ -1,0 +1,11 @@
+solv unconstrain constrain optim and constrain engin problem us reconfig wat cyc algorithm
+wat cyc algorithm wca is a rec meta-heuristic algorithm pres to solv vary optim problem
+wca has receiv crit intrigu from research in diff field
+nevertheless the search equ provid in wca is not of adequ expl behavy
+in thi study a reconfig vert of the wca is propos the propos algorithm is nam as rwca
+so as to improv the expl proc a new posit upd strategy is propos by integr cauchy op and a greedy select proc
+furtherm in ord to promot the exploration-exploitat bal of the rwca algorithm a nonlinear control paramet is propos
+the perform of rwca is exhibit on 19 unconstrain benchmark funct
+stat analys prov that rwca sign improv the perform of bas wca by provid bet solv qual fast converg and stronger robust
+moreov rwca has been us to solv fiv constrain num and three engin apply problem
+bas on the expery and comp find rwca illust the adequ and effect to solv vary constrain problem as wel as it cap of provid prom and competit result solv real-world challeng engin problem .

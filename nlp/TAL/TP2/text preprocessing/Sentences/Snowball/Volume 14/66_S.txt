@@ -1,0 +1,12 @@
+an effici hybrid pso polygam crossov base cluster algorithm
+cluster of data into cohes group is an open area of research with lot of applic in differ domain
+mani tradit and metaheurist algorithm have been propos in the literatur but the main inher problem with most of these algorithm is that they can easili get trap in local optima and can lead to prematur converg
+thus a signific balanc is requir between explor and exploit to find a near optim solut
+this paper attempt to resolv this problem by propos a real encod hybrid algorithm psopc use pso for global search and polygam approach for crossov in order to refin the explor and exploit strategi
+paramet like inertia weight crossov probabl and alpha valu in arithmet crossov are also tune dynam to refin the optim process
+the propos hybrid algorithm is simul on seven real life data set
+it has also been compar with other four standard well known metaheurist cluster algorithm i. e
+particl swarm optim genet algorithm differenti evolut firefli algorithm and grey wolf optim
+the comput result demonstr that the psopc outperform other approach in context of within cluster distanc cluster qualiti measur and converg speed to find the near optim solut
+simul result clear reveal that the propos algorithm psopc is abl to generat compact cluster
+various extern qualiti evalu measur like precis sensit accuraci and g-measur use for qualiti evalu demonstr that the propos algorithm is abl to perform better cluster than the other compar algorithm .

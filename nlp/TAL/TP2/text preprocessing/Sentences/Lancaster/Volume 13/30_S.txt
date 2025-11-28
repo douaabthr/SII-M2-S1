@@ -1,0 +1,9 @@
+mut probability-based lion algorithm for design and optim of microstrip patch antenn
+the adv and perform of microstrip patch antenna mpa nam reduc weight reduc profil and reduc cost form them the id cho for commun network
+howev the difficul in structure siz and design remain a maj concern
+hent thi pap aim to propos a new model that der a nonlinear object model for help in the design of solv spac of antenn paramet
+to attain thi it is plan to incorp the optim conceiv thereby a new mut prob bas lion algorithm mp-la which is propos for the tun mpa constraint
+the main object model of the antenn design is to maxim the gain by optim the patch leng wid thick of subst and valu of dielect subst
+aft execut the sim model thi pap comp the perform of propos mp-la-based antenn design with num conv approach nam antenn design without optim art bee colony-based ad genetic-based ad firefly-based ad part ic swarm optimization-based ad and grey wolf optimization-based ad propos gwo-based ad and lion optim algorithm-based ad
+moreov the analys is don with respect to rady pattern e-plan and h-plane of propos and conv antenn design
+oth perform analys on charact imp direct efficy and gain of propos and conv model is don .

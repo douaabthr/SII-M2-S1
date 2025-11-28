@@ -1,0 +1,7 @@
+an effici metaheurist method base on the bittorr commun protocol em-bt
+in the last few year consider attent ha been paid to metaheurist techniqu to solv hard optim problem as they can produc adequ solut with less comput complex
+in thi paper an effici metaheurist techniqu base on the bittorr commun protocol em-bt is propos
+our em-bt algorithm use the same concept of the bittorr commun protocol to amelior the commun between the candid solut and manag the way inform is exchang between them in order to provid suffici explor and exploit of the search space
+the present algorithm is evalu on a group of 23 classic benchmark function defin in cec 2005 and 10 function defin in cec-c06 2019
+the result show that our algorithm outperform in mani function other metaheurist such as particl swarm optim pso grey wolf optim gwo butterfli optim algorithm boa salp swarm algorithm ssa whale optim algorithm woa jaya algorithm differenti evolut de and genet algorithm ga
+the differ between the solut obtain with our em-bt method and the global optimum solut is veri small up to 1 time 10 16 with a low standard deviat which prove the accuraci stabil and superior of the propos method .

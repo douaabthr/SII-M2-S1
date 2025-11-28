@@ -1,0 +1,3 @@
+Learning classifier systems then and now
+Broadly conceived as computational models of cognition and tools for modeling complex adaptive systems later extended for use in adaptive robotics and today also applied to effective classification and data-mining what has happened to learning classifier systems in the last decade
+This paper addresses this question by examining the current state of learning classifier system research .

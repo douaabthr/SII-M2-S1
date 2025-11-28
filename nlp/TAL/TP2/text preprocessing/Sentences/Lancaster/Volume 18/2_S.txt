@@ -1,0 +1,8 @@
+evolv algorithm framework for optim truck scheduling in multi-dock truck cross-docking cent
+cross-docking optim log by reduc stor and handl tim in wareh wher cargo ar unload from inbound truck and load direct onto outbound vehic
+thi pap address the crit challeng of minim makesp in a multi-dock parallel machin set within cross-docking cent
+we propos a novel framework that integr an evolv algorithm ea with a machin learn ml bas hyperparamet tun mech to optim truck sequ
+thi study fil the research gap by off a quant improv ov tradit heur method del up to a 37% improv in the gap met comp to state-of-the-art techn
+it also achiev a 30% enh ov the pch construct heur us for gen init solv
+addit our ml-based tun strategy provid up to a 21% perform increas ov stat tun method
+not thes improv ar attain whil maintain a competit comput tim as report in the lit .

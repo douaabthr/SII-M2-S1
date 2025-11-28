@@ -1,0 +1,9 @@
+Tool combination model based on task sequence using an optimized orientation genetic algorithm
+As an application field of service science cloud manufacturing CM has been widely studied in vertical and horizontal services
+At present CM s vertical service research is limited to the technical research of specific processing and manufacturing and gives less consideration to the background of horizontal integration services
+The research on horizontal service judges the effect of the combination only according to quality of service QoS attributes
+In the actual processing process the combination s effect depends not only on QoS but also on the geographical aspects company and other attributes
+Based on this we propose a tool combination model based on the task sequence TCMbTS
+The TCMbTS establishes the association ontology model of tool resources and tasks and proposes a mapping method to provide vertical service for CM
+Then proposed optimized orientation genetic algorithm OPOGA to solve the combination optimization and recommendation problem of TCMbTS and provide horizontal services for CM
+Finally an experiment is performed to verify OPOGA with validity and efficiency .

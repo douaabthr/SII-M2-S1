@@ -1,0 +1,19 @@
+icsomp a novel improv hybrid algorithm for glob optim
+the marin pred algorithm mpa is among the rec propos metah algorithm mas and it got it inspir from the oc pred for behavio bas on brown and levy mot
+good expl converg acc eas of impl easy paramet set few paramet etc . ar som of it strengths
+nevertheless it expery prem converg and loc optim trap sometim
+the competit swarm optim cso is a partic swarm optim pso vary
+it got it inspir from the soc group collect decision-making and soc behavio
+good exploit a bal between exploit and expl low prem converg algorithm simpl etc . ar som of it strengths
+howev it has a loss of divers and prem converg
+aim at solv the mpa s weak and util the compl strengths of mpa and cso an improv hybrid mpa has been propos and it s nam icsomp
+the mpa was first improv by util a chaot map strategy for the mpa init util an adapt converg fact cf for step siz control aim at striking a bal between loc exploit and glob expl util the weibul distribut in plac of brown mot aim at prev algorithm loc trap and util chaot sequ in the mpa s ear stag as oppos to us random numb to avoid overlap and unev ag distribut
+the improv mpa was then hybrid with the cso aim at lev the mpa s and cso s strengths to provid high converg acc converg spee and avoid loc optim trap
+the propos algorithm s perform was test and valid us the congress on evolv comput cec suit and engin design problem
+the cec2014 cec2017 cec2020 cec2022 and the 3 most employ engin design problem hav been util
+six diff set of expery hav been conduc util diff dimend of the cec suit by carry out converg acc analys converg rat analys the wilcoxon test the friedm test and the bonferroni-holm test
+som of the state-of-the-art and vary mas hav been util for comparison purpos
+from the expery result the icsomp had a supery perform comp to the mas us for comparison
+the expery on the cec suit show that it can strike a good bal between expl and exploit
+in gen it also has high converg acc and rat
+the stat analys conduc show a sign diff between the result obtain by the icsomp and the oth algorithm .

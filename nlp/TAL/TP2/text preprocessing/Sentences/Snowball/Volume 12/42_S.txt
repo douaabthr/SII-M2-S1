@@ -1,0 +1,15 @@
+unsupervis genet program base linkag rule ugplr miner for entiti link in semant web
+in the past decad the semant web data communiti has focus on publish and interlink data
+data public is now wide done activ but more effort need to be devot to interlink data sourc
+organ have been publish data use differ data curat and public polici that have result in the prolifer of data sourc
+this prolifer has brought sever challeng in interlink data sourc
+differ data sourc use differ properti descript to describ the same entiti
+entiti link problem is at the core of data interlink it identifi and link instanc record refer to the same real-world entiti
+the state-of-the-art entiti link approach are base on supervis learn
+supervis approach reli on the label data for a better learn model and suffer in the absenc of label data
+the cost of label is high and it is infeas to carri out manual label process for dataset have billion of record
+in this work the author have propos a simpl heuristic-bas approach to generat the label data
+the propos approach use automat generat label data to train an under genet program base linkag rule-learn model
+the propos approach is scalabl for larg dataset and achiev compar perform to other supervis approach while elimin the need for label data
+the propos approach work in the unsupervis fulli automat way at the same time keep the advantag of supervis approach such as high accuraci and less complex
+experiment analysi prove that the propos approach is effect than mani state of the art approach .

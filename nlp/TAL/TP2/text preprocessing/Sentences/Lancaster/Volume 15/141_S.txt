@@ -1,0 +1,8 @@
+neur multi-task collab filt
+in recommend system the rat matrix is oft very spars
+collab filt recommend algorithm cannot be apply to spars mat or us in cold start problem
+although the us trust rel provid som us addit inform for recommend system the ex research has not incorp the rat matrix and trust rel wel
+the trust rel itself also has the problem of dat spars
+with a foc on the problem of spars and low acc in collab filt algorithm thi pap propos a gen framework cal neur multi-task collab filt nmcf which can simult predict the rat and trust rel
+that is the rat of the sam us in e-commerc platform and the trust rel in soc network promot and compl each oth and help to improv the predict acc of both
+the study result for three dataset of real-world show that our algorithm perform bet in recommend and the acc of the propos algorithm is sign improv comp with that of the comparison model .

@@ -1,0 +1,8 @@
+sal switch decid to the onlin platform of liquefy petrole gas enterpr with asymmet inform
+with the develop of the internet technolog many energy company sel produc via onlin platform e.g. irv oil gift card ar sold at amazon
+liquefy petrole gas lpg as an import kind of energy is wid us in many are wher the nat gas can not reach espec in the develop country
+although the sal of the lpg nee the ord inform from the custom and the ord can be sent through the onlin platform the onlin platform s cost inform is unknown to the lpg
+in thi pap we consid the switch problem of lpg sal to the onlin platform and est the lpg enterpr s optim switch model with asymmet inform
+then we der the optim solv through the analys of the int constraint and the particip constraint to the onlin platform
+moreov the comparison with the optim solv with symmet inform is also address
+fin a num exampl is giv to illust the effect of the propos model and the switch strategy .

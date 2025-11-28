@@ -1,0 +1,11 @@
+improv navig paramet and control of autonom robot us hybrid som pso techn
+with the develop of sci and technolog robot gain their popul in autom and indust apply
+becaus of thi the research ar mor focuss toward mot plan analys of mobl robot bip and humanoid
+dur the investig it was discov that the robot ar mor lik to becom trap in loc minim and dead end
+so thi pap aim to provid a novel hybrid art intellig techn by combin the self org migr algorithm som and partic swarm optim pso for optim path plan and control of singl and multipl mobl robot in a stat and dynam environ
+diff paramet of som and pso algorithm guid the robot to reach glob optim path in obstac pron environ
+the develop hybrid som pso techn is test in v-rep sim environ with singl and multipl robot and the sim outcom hav been auth in an expery setup und lab condit
+whenev sens detect obstac then the som pso act and negoty with obstac to mov up to spec target
+aft sim and real-time expery the propos novel hybrid techn is success achiev their target in an optim man
+furth a comparison analys with it standalon techn rev that ther is a sign improv in navig paramet
+again the techn is test against ex pap and an av improv of 17.76% is observ by us the propos hybrid techn .

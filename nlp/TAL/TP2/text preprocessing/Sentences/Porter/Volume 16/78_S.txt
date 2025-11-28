@@ -1,0 +1,10 @@
+a new fission fusion behavior-bas rao algorithm ffbbra for solv optim problem
+there are variou problem in the engin field which can be model as an optim problem and can be solv through metaheurist optim algorithm
+in thi paper a new metaheurist algorithm name as fission fusion behavior-bas rao algorithm ffbbra ha been propos
+thi new algorithm util the concept of metaphor-less rao algorithm and the idea of fission fusion social behavior of spider monkey optim smo
+the propos methodolog divid the entir popul into subpopul and then these subpopul are independ updat concern their local worst and global best candid use the ffbbra equat
+the propos method ha been test over 20 unconstrain function includ multimod unimod and fix dimens benchmark function along with 2 constrain benchmark function
+the perform of the propos algorithm is evalu through observ of the worst solut the best solut standard deviat and mean solut
+converg analysi is also perform
+the propos ffbbra ha shown good perform as observ by friedman test
+thi propos algorithm is also easili util on parallel system due to it parallel work natur .

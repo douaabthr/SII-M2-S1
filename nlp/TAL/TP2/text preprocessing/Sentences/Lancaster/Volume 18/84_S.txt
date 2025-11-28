@@ -1,0 +1,9 @@
+flos flowerwork-based stack ensembl framework for class of chronic diseas
+thi study pres a novel approach for detect and class chronic diseas cds focus on prev condit such as asthm cant and chronic obstruct pulmon diseas copd
+ear id of thes diseas is challeng due to overlap symptom limit clin expert and vary in dev sensit
+to address thi thi study propos flos a multi-optimization-based stack ensembl model integr the firework and flow pollin algorithm
+it op in three stag feat select optim model gen and stack ensembl model cre aim to detect cds and distinct symptom simil condit lik copd and asthm
+the model s effect was evalu us two dataset exas and breast cant
+the stack ensembl framework consist of four bas class random forest support vect machin multilay perceptron mlp and ext et with their predict aggreg by the meta-learner extrem learn machin
+expery result show that flos outperform individ bas class achiev 96.25% acc 96.24% precid 96.25% recal and a 96% f1-score for exas and 95.6% acc 95% precid 95.1% recal and a 96% f1-score for breast cant
+thes find highlight flos as a prom approach for acc chronic diseas detect and class .

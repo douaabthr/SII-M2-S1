@@ -1,0 +1,5 @@
+Application research of intelligent speech technology in maritime command and control system
+According to the requirements of maritime command and control system a method using intelligent speech technology is put forward to improve the ability of command and control
+The architecture of the system is designed and the functions of speech recognition training analyzing processing implementing and responding are designed and verified
+The results of simulation show that the ability of command and control can be improved effectively
+This method can be taken as a reference for improving the intelligent ability of the marine command and control system .

@@ -1,0 +1,9 @@
+multiobject environment adapt method for solv environmental/econom dispatch problem
+environment adapt method is one of the evolutionari algorithm for solv singl object optim problem
+although the algorithm converg veri fast and produc diversifi solut there are three weak in it
+in this paper first we have given the solut to resolv these weak and then we have extend the modifi method to deal with multipl conflict object simultan
+a permutation-bas multiobject environment adapt method pmoeam has been suggest to solv the environmental/econom dispatch eed problem of the power system
+in this paper total generat cost and environment emiss have been taken as two object that need to be minim simultan while meet the load demand under equal and inequ constraint
+three test system are consid to evalu the perform of the propos algorithm
+the perform of the suggest algorithm is compar against five multiobject algorithm
+extens experiment result demonstr that the pmoeam method can obtain effect and feasibl solut for eed problem .

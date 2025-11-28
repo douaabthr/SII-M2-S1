@@ -1,0 +1,9 @@
+a comprehens review of optim market strategi and ai applic in energi storag system
+the increas integr of energi storag is transform the oper of today s electr market
+this review analys the problem link to the variabl of renew energi sourc and the integr of distribut energi resourc into exist power system
+it underlin the market model gap which is abl to deal with the oper problem that such variabl creat
+addit this review show that optim the util and manag of energi storag system lead to improv grid reliabl system economi and econom resili
+a comprehens studi is perform for both convent and deregul market captur the detail of the relev polici context and other model element includ optim method stochast model game theori and artifici intellig
+relev australian and japanes real-world case studi have been analys to demonstr the practic applic of these system and their market activ and storag optim strategi
+this review also identifi import technolog driver analys new technolog and assess the environment and social impact of large-scal energi storag system
+all of these work are accompani by conclus meant to outlin the gap that futur work should target .

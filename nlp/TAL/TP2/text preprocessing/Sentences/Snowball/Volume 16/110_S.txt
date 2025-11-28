@@ -1,0 +1,10 @@
+text embed techniqu for effici cluster of twitter data
+world wide web is abund with various type of inform such blog social media post news articl
+with this type of magnitud of onlin content there is a need to deepli understand the insight of it in order to make use of the inform for practic applic such as event detect polar sentiment analysi and so on
+natur languag process nlp is the studi of such inform which is use for text classif sentiment analysi cluster of similar text
+nlp make use of linguist knowledg and build machin learn model to analys textual inform
+nlp find it way in various applic like classif of onlin review into posit and negat without actual read the review and feedback
+for text analysi there should be a way to quantifi the text base on it frequenc of occurr correl with neighbour word contextu similar of word etc
+one such way is word embed
+this studi appli various word embed techniqu on tweet of popular news channel and cluster the result vector use k-mean algorithm
+from this studi it is found out that bidirect encod represent from transform bert has achiev highest accuraci rate when use with k-mean cluster .

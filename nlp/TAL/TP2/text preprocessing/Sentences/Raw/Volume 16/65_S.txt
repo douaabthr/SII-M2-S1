@@ -1,0 +1,10 @@
+Min max kurtosis mean distance based k-means initial centroid initialization method for big genomic data clustering
+Genomic clustering is a big data application that uses the K-means KM clustering approach to discover hidden patterns and trends in genes for disease diagnosis biological analysis and tissue detection
+The KM algorithm is highly dependent on the initial centroid because it determines the effectiveness efficiency computing resources and local optima of the KM clustering
+The existing initial centroid initialization approach traps local optima due to randomization and achieves high computational cost due to the enormous interrelated dimension
+Therefore the KM algorithm produces the lowest quality cluster and maximizes the computation time and resource consumption
+To address this issue this study has presented the Min Max Kurtosis Mean Distance MKMD algorithm for big data clustering in a single machine environment
+The MKMD algorithm enhances the effectiveness and efficiency of the KM algorithm by measuring the distance between data points of the minimum maximum kurtosis dimension and their mean
+The performance of the presented algorithm has been compared against KM KM ADV MKM Mean-KM NFD K-MAM NRKM2 FMNN and MuKM algorithms using internal and external effectiveness evaluation criteria with efficiency assessment on sixteen genomic datasets
+The experimental results reveal that the MKMDKM algorithm minimizes iterations distance computation data comparison local optima resource consumption and improves cluster performance effectiveness and efficiency with stable convergence and results as compared to other algorithms
+According to the statistical analysis the proposed MKMDKM algorithm has achieved statistical significance by employing the Friedman test and the post hoc test .

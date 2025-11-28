@@ -1,0 +1,10 @@
+a key-point-bas hybrid predict dynam multi-object evolutionari algorithm
+dynam multi-object optim problem dmop are common in real-world scenario yet effici solv them while preserv popul divers and achiev converg remain a formid challeng
+exist dynam multi-object evolutionari algorithm often face difficulti in adapt respond to vari environment chang frequenc lead to compromis trade-off between divers preserv and converg effici dure dynam track
+this studi introduc a key-point-bas hybrid predict dynam multi-object evolutionari algorithm moea-dapd aim at ensur rapid converg and optim divers in dynam set
+the propos algorithm is employ a dual key-point predict mechan tailor to the frequenc of environment chang a centroid-bas predict method is util for infrequ chang to improv stabil while a clustering-bas predict approach is appli for frequent chang to enhanc converg
+to further address popul divers and optim a dual archiv strategi is develop
+one archiv retain high-qual parent solut to facilit local converg while the other preserv divers solut to comprehens repres the global pareto optim front
+addit distinct mutat oper are appli separ to the main and archiv popul therebi strengthen divers and overal perform in dynam condit
+experiment evalu benchmark moea-dapd against five lead dynam multi-object evolutionari algorithm dmoea across three standard test suit
+the result highlight that moea-dapd demonstr notabl competit and effici in tackl dmop .

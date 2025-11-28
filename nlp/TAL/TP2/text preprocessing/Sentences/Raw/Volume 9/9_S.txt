@@ -1,0 +1,6 @@
+Foreword special issue on computational finance and economics
+Computational Finance covers a wide and still growing array of topics and methods within quantitative economics
+The core focus has long been on efficient methods models and algorithms for numerically demanding problems
+The advent of new computational methods together with the advances in available hardware has pushed the boundaries of this field outwards
+Not only can the complexity of investigated problems be increased one can even approach problems that defy traditional analytical examination altogether
+One major contributor of such methods is natural computing .

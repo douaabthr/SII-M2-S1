@@ -1,0 +1,10 @@
+Cross domain association using transfer subspace learning
+Transfer learning has gained more attention recently by utilizing knowledge acquired from one domain to advance a learning performance in another domain
+Existing homogeneous transfer learning methods have progressed to a point where feature spaces are common in training and testing domains
+However heterogeneous transfer learning is still in its nascent stage where features of training and testing domains are different
+Taking this into account Bregman Divergence Regularization is used to minimize the probability distribution difference between training and testing domains and to take them together to a shared subspace
+To discriminate data within individual domains a projection matrix is obtained using Fisher Linear Discriminant Analysis subspace learning algorithm
+Experimentation is performed on two efficiently used biometrics the face and fingerprint
+Two types of cross-domain settings are used 1 Face Finger2Finger where training samples come from face labeled samples and fingerprint unlabeled samples data sets while testing is performed on a fingerprint dataset
+2 Finger Face2Face where training samples come from fingerprint labeled samples and face unlabeled samples data sets while testing is performed on a face dataset
+This paper proposes a cross domain association between face and fingerprint that finds utility in forensic applications .

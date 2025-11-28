@@ -1,0 +1,7 @@
+memet pareto differenti evolutionari artifici neural network to determin growth multi-class in predict microbiolog
+the main object of thi research is to automat design artifici neural network model with sigmoid basi unit for multiclassif task in predict microbiolog
+the classifi obtain achiev a doubl object a high classif level in the dataset and high classif level for each class
+the memet pareto differenti evolut neural network chosen to learn the structur and weight of the neural network is a differenti evolutionari approach base on the pareto differenti evolut multiobject evolutionari algorithm
+the pareto differenti evolut algorithm is augment with a local search use the improv resili backpropag with backtrack irprop algorithm
+to analyz the robust of thi methodolog it ha been appli to two complex classif problem in predict microbiolog staphylococcu aureusandshigella flexneri
+the result obtain show that the gener abil and the classif rate in each class can be more effici improv within thi multiobject algorithm .

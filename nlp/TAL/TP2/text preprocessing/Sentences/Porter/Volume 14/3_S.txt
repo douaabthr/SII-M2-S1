@@ -1,0 +1,15 @@
+modifi crash-minim path design approach for autonom materi handl robot
+the potenti of particl swarm optim pso artifici potenti field apf and improv pso ipso approach are exploit in thi paper for design and gener the best possibl optimum trajectori for a mobil materi handl robot
+the paper ha an aim to develop a robot which use to creat a bridg between primari and secondari handl system
+thi princip save the transport time so the total cycl time and manufactur lead time can be reduc
+for perform simul practic two practic surround ha been develop with a layout of institut machin shop and advanc laboratori
+object of thi studi are to slash the track size comput time degre of crash risk travel time and better path smooth
+to check the robust and applic of the approach a comparison report ha been prepar among their simul and experiment outcom
+for surround setup-i pso algorithm provid 35.3568 m track length 20.778 s comput time and 280.098 s travel time
+similarli the trajectori dimens comput time and travel time gener in apf approach is 44.1632 m 10.923 s and 343.441 s respect
+33.6278 m track size 20.651 s comput time and 266.612 s travel time is develop by ipso approach
+for surround setup-ii pso algorithm provid 14.7769 m track length 18.655 s comput time and 117.063 s travel time
+similarli the trajectori dimens comput time and travel time gener in apf approach is 22.8645 m 27.623 s and 189.077 s respect
+13.0859 m track size 18.507 s comput time and 103.769 s travel time is develop by ipso approach
+from comparison studi it is found that ipso approach deliv smoother less collis risk associ path have less length and comput time irrespect to environ complex
+the approach are reli on comput program command which are written compil and run use matlab softwar .

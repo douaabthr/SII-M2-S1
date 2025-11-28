@@ -1,0 +1,13 @@
+quant entangl inspir grey wolf optim algorithm and it apply
+meta-heuristic optim algorithm ar becom increas popul for their simpl and efficy
+grey wolf optim gwo is on such effect algorithm that was propos rec
+it has been research extend ow to it impress charact easy to understand and impl few paramet to be tun cap to bal expl and exploit and high solv acc
+but in solv high depend or complex optim problem gwo can stagn into loc optim ow to poor expl strategy and can converg prem
+to overcom thes drawback of gwo we propos quant entangl enh grey wolf optim qegwo
+quant entangl is particul us in sign improv the tre of multimod and high depend problem
+on mor el loc search is us and is help in the search intens
+the qegwo algorithm is benchmark on 12 standard benchmark funct unimod as wel as multimod and result ar comp with som ex vary of gwo
+furth it is also benchmark on congress of evolv computing-2019 cec 19 benchmark set consist of 10 shift and rot funct
+furth the appl of the qegwo is test ov harmon estim design problem
+a bench of smoo and noisy funct is employ to test estim acc of qegwo
+the result rev that qegwo perform sign bet as comp to oth gwo vary .

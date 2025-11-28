@@ -1,0 +1,10 @@
+Optimization of job shop scheduling problem based on deep reinforcement learning
+Aiming at the optimization problem of minimizing the maximum completion time in job shop scheduling a deep reinforcement learning optimization algorithm is proposed
+First a deep reinforcement learning scheduling environment is built based on the disjunctive graph model and three channels of state characteristics are established
+The action space consists of 20 designed combination scheduling rules
+The reward function is designed based on the proportional relationship between the total work of the scheduled operation and the current maximum completion time
+The deep convolutional neural network is used to construct action network and target network and the state features are used as inputs to output the Q value of each action
+Then the action is selected by using the action validity exploration and exploitation strategy
+Finally the immediate reward is calculated and the scheduling environment is updated
+Experiments are carried out using benchmark instances to verify the algorithm
+The results show that it can balance solution quality and computation time effectively and the trained agent has good generalization ability to the scheduling problem in the non-zero initial state .

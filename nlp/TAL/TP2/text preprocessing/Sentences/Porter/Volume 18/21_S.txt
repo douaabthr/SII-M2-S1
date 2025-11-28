@@ -1,0 +1,10 @@
+modifi random-opposit chaotic artifici rabbit optim algorithm for solv structur problem and optim size of hybrid renew energi system
+the artifici rabbit optim aro algorithm replic the surviv skill of rabbit in the wild
+howev like other metaheurist approach it possess signific drawback in solv challeng problem includ sluggish converg rate poor explor abil and trap in local optima region
+to allevi these shortcom a novel strategi name modifi random opposit mro and ten chaotic map are integr with aro term as mrocaro
+thi implement mro techniqu boost the popul divers and permit the popul to escap from local optima while integr of chaotic map enhanc the exploit capabl
+to estim the effect of the mrocaro method the well-known cec2005 cec2017 cec2019 and cec2008lsgo test function are consid
+moreov non-parametr test that includ the wilcoxon rank-sum and friedman rank test are perform to analyz the signific differ among the compar algorithm
+furthermor the effici of the mrocaro algorithm ha been evalu on variou structur problem and optim size of renew energi system
+the experiment find demonstr that mrocaro perform optimum solut with 100% renew sourc with the lowest level cost of electr of 0.0934 kwh as compar to other method
+also the simul find reveal that mrocaro ha immens potenti for address global optim and structur problem as contrast to other compet algorithm .

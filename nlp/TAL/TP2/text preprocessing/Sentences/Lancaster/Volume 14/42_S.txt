@@ -1,0 +1,7 @@
+an efficy system model to minim sign interf and delay in mobl cloud environ
+the integr of mobl comput with cloud comput has increas adv to the us to access the apply from anywh at any tim
+the tradit cellul system is overlaid by numb of low pow nod which allow us to attain serv at any tim
+but the increas of femto cel caus intra-tier inter-ti interf and delay in the network
+to overcom the bottleneck a sub-modular optim bas offload algorithm is propos in thi pap wher the task is divid into two funct and process
+the main aim is to optim execut tim and interf
+the sim result show that the execut tim has been reduc by 57.89% and perform wel to obtain optim solv comp to oth ex method .

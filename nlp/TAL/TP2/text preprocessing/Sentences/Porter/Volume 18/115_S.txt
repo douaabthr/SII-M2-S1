@@ -1,0 +1,14 @@
+solut of frequenc deviat and multi object probabilist optim power flow of transmiss network incorpor upfc control use drive train base optim
+the optim power flow opf solut for the ieee 30 bu system is be achiev while take thermal power tp sourc into account
+in thi studi the opf solut of convent power system incorpor fact devic with frequenc secur constraint is investig
+by incorpor fact devic into the exist power system the propos work improv the power system s capac to transfer power and henc reduc gener cost
+the object are to reduc gener cost and emiss
+in order to illustr that gener and consumpt are in balanc the system frequenc must be kept within a safe rang
+therefor in addit to ensur the lowest produc cost under oper condit the opf approach need to provid a stabl frequenc
+moreov in order to attain frequenc stabil frequenc secur constraint is appli to the power dispatch problem
+three scenario have been examin in thi articl i the opf of convent system in the absenc of a frequenc secur constraint ii the opf of convent system in the presenc of a frequenc secur constraint and iii opf of convent system with the combin effect of upfc and a frequenc base secur constraint
+the test outcom indic that the opf problem is better address when upfc is combin with frequenc secur constraint
+to get the best solut the drive training-bas optim dtbo techniqu ha been use
+after incorpor upfc with frequenc base secur constraint the fuel cost emiss and frequenc deviat are reduc by 0.28% 9.4% os 1.47% ss 12.9% at 50% load 0.12% 6.61% and os 1.8% ss 11.4% at 60% load 4.66% 1.68% and os 0.45% ss 1.38% at 70% load 0.41% 2.1% and os 1.3% ss 27.2% at 80% load 2.3% 5% and os 0.22% ss 1.6% at 90% load 2.32% 1.53% and os 0.55% ss 6.35% at 100% load
+accord to the simul outcom it can be depict that the dtbo is better than the biography-bas optim bbo and grey wolf optim gwo
+the suggest algorithm ha produc better result which have been confirm by statist method such as box plot error bar and one-way anova analysi of varianc test . graphic abstract

@@ -1,0 +1,5 @@
+glob optim condit for nonlinear optim problem
+bas on the altern theorem glob optim condit for nonlinear program problem to be discuss in thi artic
+first on the bas of the research of optim condit for polynom optim problem the pap consid nonlinear program ov constrain which ar not real polynom funct
+and then necess glob optim condit for nonlinear program problem with non-polynomial constraint funct ar propos and sufficy glob optim condit for polynom object funct program problem with non-polynomial constraint funct ar develop by us the altern theorem
+fin necess and sufficy glob optim condit for 0 1 quadr program problem ar pres .

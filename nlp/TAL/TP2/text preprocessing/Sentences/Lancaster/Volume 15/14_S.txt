@@ -1,0 +1,10 @@
+the hybrid of aco ga and rvns algorithm for solv the time-dependent travel salesm problem
+the time-dependent travel salesm problem is a class of combin optim problem
+nat metah is a suit approach to solv the problem with larg siz in short comput tim
+prevy sev metah hav been propos for solv the problem
+thes algorithm might hav a strong search intens and their divers mech may not be sufficy
+due to the random nat population-based algorithm improv on the chant of find a glob
+in thi pap we propos a population-based algorithm that combin an ant colony algorithm aco genet algorithm ga and neighb desc with random neighb ord rvnd
+in the algorithm the aco and ga ar us to expl the prom solv area that ar yet to refin whil the rvnd exploit them with the hop of improv a solv
+theref our metah algorithm bal between expl and exploit
+extend num expery and comparison with the state-of-the-art metah algorithm in the lit show that the propos algorithm reach bet solv in many cas .

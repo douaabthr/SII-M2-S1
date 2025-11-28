@@ -1,0 +1,12 @@
+Evolutionary intelligence driven style recognition of English novels based on text analysis
+Novel style recognition is of great reference significance for analyzing the quality and readability of works
+Writing stylistics is the analysis of an author s writing style through statistical methods
+In this paper our main purpose is to identify the style of English novels based on text analysis methods
+We use the method of information entropy calculation which is an evolutionary intelligent method to identify the style of English novels so as to provide reference for better grasping the content of literary works
+We focus on how to process text data and mine text intrinsic features to better identify English novel style
+To better solve the problems we design following strategies in our proposed method
+First we need to collect and process English novel samples
+Then tokenize the text and consider the object content that needs to be analyzed
+The next step is to count the number of words and calculate the information entropy
+Finally the data is processed and analyzed to get a conclusion
+The experimental results prove that the method proposed in this paper has good evaluation performance .

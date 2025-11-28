@@ -1,0 +1,8 @@
+Multi-objective algorithm based on tissue P system for solving tri-objective optimization problems
+This paper presents a multi-objective algorithm based on tissue P system MO TPS for short for solving the tri-objective vehicles routing problem with time windows VRPTW
+Unlike most of the work where just the accuracy or extensibility of the solution is the core the proposed algorithm focuses on searching the boundaries of solution sets and ensuring the solutions have better extensibility and uniformly distributed
+In MO TPS the cells of the tissue P system are divided into two groups
+The first group consisting of only one cell aims at approaching to the Pareto front by the NSGA-II while second group consisting of six cells focuses on searching boundaries by the artificial bee colony algorithm with different prioritization rules
+The main ideas of the MO TPS are to utilize the evolution of two groups of cells with different functions in the tissue P system for searching the boundaries of solution sets obtaining solution sets which are uniformly distributed and have better extensibility and approaching to the Pareto front on the premise of preserving the elite boundaries
+56 Solomon benchmarks are utilized to test algorithm performance
+Experimental results show that on the premise of ensuring accuracy the proposed approach outperforms compared algorithms in terms of three metrics .

@@ -1,0 +1,15 @@
+new loc approach bas on the develop of a person dynam model for a car-like vehic robuc
+fut autonom driv and next-generation vehic control requir furth adv in vehic dynam stat estim
+thi pap describ a new loc approach bas on the develop of a person dynam model for an autonom car-like vehic cal robuc
+the propos approach is us within a framework for the develop of a robuc sim platform
+thi approach is first us offlin due to the comput tim constraint employ record odomet dat to study and valid som develop apply rel to the navig funct such as obstac avoid target track etc
+howev thi approach can be us onlin to obtain a good loc in real tim by us a pow embed system or simpl som aspect not easy influ in the propos dynam model
+loc issu hav been discuss whil analys som method us in mobl robot and describ the background and cho mad in thi pap
+us an appropry tire-road contact model dynam equ of the forc and torqu act on the robuc hav been determin
+the propos dynam model discuss in thi pap has 18 degr of freedom dof consid fin techn charact rel to the elect mot the geometry of the bi-steering system and the tire-road contact typ
+second the develop dynam model has been exploit to provid the robuc s posit in outdo environ us odomet meas adjust sev intern paramet
+sim ar carry out to evalu the behavy of the develop dynam model
+furtherm an expery test has been real outdo for a dist of 513 m to valid our new loc approach
+the obtain expery result ar interest and prom show clear the effect of the new approach adopt for loc in offlin mod
+the acc provid by the propos dynam model comp to the kinem model is highlight
+moreov the develop dynam model can be us in sev field oth than loc such as mot plan control and robuc stabl study .

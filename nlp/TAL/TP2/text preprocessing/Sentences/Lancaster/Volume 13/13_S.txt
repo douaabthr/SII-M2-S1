@@ -1,0 +1,11 @@
+impl of adapt scheme in evolv techn for anomaly-based intrud detect
+intrud detect has becom import to network sec becaus of the increas connect between comput and internet
+vary intrud detect system hav been investig to protect web or network us sev evolv method and class techn
+in thi study we propos a new techn by combin ensembl of feat select ef and adapt grasshop optim algorithm ago method cal efsago which can help to ident the typ of attack
+in the propos approach init ef method is apply to rank the attribut for select the high rank subset of attribut
+then ago is employ to determin import attribut from the reduc dataset that can contribut to predict the network traff behavy
+furtherm adapt behavy of goa us to decid wheth a record repres an anoma or not diff from som approach acquaint in the lit
+ago us the support vect machin svm as a fit funct to choos the extrem efficy feat and to maxim the class perform
+in addit it is also apply to optim the penal fact c kernel paramet sigm and tub siz epsilon of svm class
+the perform of efsago has been evalu on modern intrud dat as iscx 2012
+the expery result demonst that the propos method perform bet and obtain high detect rat acc and low fals alarm rat comp to oth state-of-art techn in iscx 2012 dat .

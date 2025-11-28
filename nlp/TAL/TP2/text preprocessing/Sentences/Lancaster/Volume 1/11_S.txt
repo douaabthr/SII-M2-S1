@@ -1,0 +1,7 @@
+frequ analys for dendrit cel pop tun
+the dendrit cel algorithm dca has been apply success to a divers rang of apply
+thes apply ar rel by the inh uncertainty assocy with sens the apply environ
+the dca has perform wel us unfilt sign from each environ as input
+in thi pap we demonst that the dca has an emerg filt mech caus by the man in which the cel accum it intern vary
+furtherm we demonst a rel between the migr threshold of the cel and the transf funct of the algorithm
+a tun methodolog is propos and a robot apply publ prevy is revisit us the new tun techn .

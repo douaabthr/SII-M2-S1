@@ -1,0 +1,17 @@
+ev detect in twit by deep learn class and mult label clust virt backbon form
+the spread of soc network sit snss has led to the develop of new and it spread
+in term of moment produc cont and top the gath dat from onlin serv lik twit ar from a wid rang of area
+find an abnorm pattern as wel as cont ory plan in socy is the reason why ev analys can be of gre import
+ev in soc network sit is an interest hap in real world which caus discuss on the top about rel issu by the us of snss lik twit and it is releas immedy aft the discuss or with a delay
+ev chang the amount of text dat in a way that it pres rel top in a spec tim period
+thi ev is ident by tim and top and is rel with ent lik peopl and plac
+the comput rel to ev detect in real tim is a big problem in thi context
+a model bas on deep learn is pres in thi pap
+first accord to the label dat class ar form through class
+lat in a flow man unlabel dat ar pres to the model
+the unlabel dat ar divid into the pres class accord to the model which they hav been train
+if the dat ar high than an ident threshold they ar assign to a new class and when the dat ar low than the threshold they ar categ as temp ev
+innov of the propos method is in two issu
+first the dat in thi model ar semi-supervised theref the label dat ar us in the first phas and the rest of the dat ar us in the second phas
+in han class phas a mod titl bag of sent was produc for exact class of sent and in the second phas the abstract conceiv of virt backbon was us to enh precid of mult label clust
+ad thes two sect us the propos method enh the precid of class and pur of the dat in unlabel dat .

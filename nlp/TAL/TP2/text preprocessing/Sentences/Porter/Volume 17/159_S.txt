@@ -1,0 +1,11 @@
+joint opposit select enhanc mountain gazel optim for brain stroke classif
+a signific caus of death and long-term disabl global is brain stroke
+stroke fall into one of two categori 1 ischem which account for roughli 85% of case when it is caus by abrupt cessat of blood suppli to a particular area of the brain and 2 hemorrhag which refer to bleed or blood leakag
+to provid stroke patient with individu therapeut care meta-heurist algorithm make accur and time predict
+the use of meta-heurist algorithm and machin learn in the healthcar sector is grow
+a new meta-heurist algorithm call the mountain gazel optim mgo wa develop in part as a result of wild mountain gazel social structur but suffer from slow converg speed
+consequ a modifi mgo mmgo approach use the joint opposit select oper which combin the select lead opposit and the dynam opposit learn approach to improv mgo
+the purpos of thi studi is to evalu the perform of mmgo base on the k-nearest neighbor knn classifi in predict brain stroke in data set taken from kaggl
+perform wa assess on the challeng cec 2020 benchmark test function
+compar to seven well-known optim algorithm the statist result demonstr the superior of mmgo
+furthermor the experiment result of mmgo-knn for categor brain stroke data set reveal that it outperform competitor in all data set with an overal accuraci of 95.5% a sensit of 99.34% a specif of 98.99% and a precis of 99.21% .

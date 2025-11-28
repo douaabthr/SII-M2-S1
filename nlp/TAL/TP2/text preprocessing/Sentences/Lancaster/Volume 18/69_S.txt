@@ -1,0 +1,13 @@
+a linear partit divers met for evalu of permutation-based metah algorithm
+metah algorithm implicit or explicit typ aim to achiev a del bal between expl and exploit when improv a pop of solv for a giv optim problem
+divers met ar cruc ind for both expl and exploit which serv as a valu tool for assess the perform of metah algorithm
+although sev met for divers hav been propos the maj of them ar on suit for problem with continu spac
+howev many optim problem ar defined/model bas on discret vary and permut repres is wid us for model real-world problem
+many ex met ar not appl to permutation-based problem
+apply oth ex met to such problem frequ encount two prim drawback comput cost and effect to repres the act divers of the pop
+to address thes drawback a new exclud divers met is propos in thi work for optim problem model by permut
+thi method calc divers by linear and partit the problem spac bas on the pop distribut in the spac and count the numb of individ in the partit
+comp to the elev avail met includ both permutation-based and us non-permutation-based met in the lit the propos method demonst supery perform exhibit acceiv acc stabl sensit and robust particul in the pres of out and requir minim comput cost
+the acc of the result of the method is on av 35% bet than baselin met
+the comput cost of the method is also near 50% bet than the fastest avail method
+thes charact mak the met a valu mean for analys ex algorithm behavy or design new on .

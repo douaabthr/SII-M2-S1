@@ -1,0 +1,10 @@
+optim sit and siz of elect vehic park lot by consid techn constraint
+cur the admin of transport system en the distribut network op and end-side custom to prop execut demand respons program by instal park lot and employ the conceiv of vehicle-to-grid
+in thi study to minim the volt drop and pow loss in distribut network and sev cas optim sit and siz of smart park lot spl includ photovolta system wind turbin wt energy stor system and diesel gen ar model as a bi-objective funct
+direct load control dlc and tim of us tou bas on the demand respons program drp hav been us for sim
+in addit a two-stage optim algorithm has been dev to solv the optim problem
+in the first stag al respons to form the pareto optim front the respons of each object ar gen us a genet algorithm
+in the second stag the best solv is achiev us max min decision-making method
+the result obtain from the sim rev that due to the posit impl of tou and dlc of drp tot techn constraint of spl-based distribut network wer improv
+thi mean that pow loss and volt profil object ar satisfy
+al of the sim ar carry out on a 33 bus ie system by matlab softw .

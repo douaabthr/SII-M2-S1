@@ -1,0 +1,8 @@
+self organ classifi first step in structur evolutionari machin learn
+learn classifi system lcss are evolutionari machin learn algorithm flexibl enough to be appli to reinforc supervis and unsupervis learn problem with good perform
+recent self organ classifi were propos which are similar to lcss but have the advantag that in it structur popul no balanc between nich and fit pressur is necessari
+howev more test and analysi are requir to verifi it benefit
+here a variat of the first algorithm is propos which use a parameterless self organ map som
+thi algorithm is appli in challeng problem such as big noisi as well as dynam chang continu input-act maze grow and compress maze are includ with good perform
+moreov a genet oper is propos which util the topolog inform of the som s popul structur improv the result
+thu the first step in structur evolutionari machin learn are shown nonetheless the problem face are more difficult than the state-of-art continu input-act multi-step one .

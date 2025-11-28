@@ -1,0 +1,9 @@
+Enhanced reptile search algorithm with Lévy flight for vehicle cruise control system design
+A vehicle cruise control VCC system is one of the real-world engineering optimization problems gaining a considerable attention because of the concerns related to safety and cost-effectiveness
+A VCC system requires an efficient control method for appropriately functioning
+This paper therefore proposes a proportional-integral-derivative PID controller as a simple yet effective structure for VCC system control
+To tune the PID controller for efficient operation a novel metaheuristic algorithm is also developed in this paper which improves the performance of the reptile search algorithm via the integration of Lévy flight concept
+This paper then proposes a new objective function by modifying the performance index called integral of time multiplied squared error in order to increase the performance of the proposed algorithm to effectively adjust the PID parameters adopted in a VCC system
+The performance of the proposed method is demonstrated comparatively using several assessments
+Lastly comparisons with the other available methods in the literature is performed in order to evaluate the performance of the proposed method from a wider perspective
+In this way the proposed method is shown to be an efficient approach to control a VCC system .

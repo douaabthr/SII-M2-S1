@@ -1,0 +1,9 @@
+Node positioning based on IPSO-IDE in WSNs
+Due to the unreasonable connectivity of wireless sensor networks there are errors in calculating the distance between the location-unaware nodes and the location-aware nodes
+Therefore a novel method combining improved particle swarm optimization and improved differential evolution IPSO-IDE is proposed
+Firstly the learning factor of the particle swarm optimization method is modified and the disturbance term is added to prevent premature thus strengthening its exploration ability
+Then the adaptive mutation and crossover mechanism are applied to the differential evolution method so that each chromosome can mutate and cross adaptively with individual fitness and average fitness to improve its exploitation ability
+Finally the improved particle swarm optimization IPSO and differential evolution method IDE are run in parallel in the node positioning model
+After fixed number of iterations the optimal individual information of the two methods is shared to obtain the IPSO-IDE method
+Therefore IPSO-IDE has the advantages of both
+The results show that the IPSO-IDE algorithm not only has some advantages in time complexity but also improves the positioning accuracy by 27.2% 8.7% 4.5% and 5.7% respectively compared with particle swarm optimization with a variable neighborhood algorithm modified particle swarm optimization algorithm hybrid particle swarm optimization and differential evolution algorithm and artificial bee colony algorithm .

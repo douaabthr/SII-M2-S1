@@ -1,0 +1,10 @@
+Local neighbour spider monkey optimization algorithm for data clustering
+Data clustering plays a crucial role in the analysis of information collected from a variety of domains
+Researchers developed many classical and mathematical algorithms to solve real-life problems but due to the inherent property of these algorithms they prematurely converge and fall to local optima
+A further pattern of data in terms of shape size and distribution has a significant effect on the exploitation and exploration characteristic of algorithms which draw attention to many researchers
+This work attempts to solve this problem by proposing an LNSMO local neighbour spider monkey optimization algorithm for data clustering
+In the proposed algorithm Local Leader Phase of the spider monkey optimization algorithm is improved with its neighbour solution
+Further to enhance the global search global leader phase of spider monkey optimization is improved with a chaotic operator
+The performance of LNSMO is compared with eleven real-life datasets with five well-known Meta-heuristic algorithms in terms of a sum of within-cluster distance and convergence speed
+It is further compared with recently developed hybrid meta-heuristic algorithms
+Experimental result demonstrates that the proposed algorithm provides a better result in terms of Accuracy F-measure and SWCD .

@@ -1,0 +1,11 @@
+fqpdr feder quantum neural network for privacy-preserv earli detect of diabet retinopathi
+diabet retinopathi dr is a common complic of diabet that can lead to blind of peopl
+detect dr at the earliest stage is essenti to prevent irrevers eye damag
+microaneurysm dot are the first sign of dr
+as the dot are tini and of low contrast detect mild dr is a veri challeng task
+feder learn fl preserv data privaci which is a major concern for medic imag process
+fl is a collabor learn method which share onli the model paramet with a server without share the patient data to a central server
+inspir by classic fl we propos a feder learning-bas quantum neural network feder qnn for thi task
+we implement the model with limit sampl and few learnabl paramet from the e-ophtha and retina mnist dataset
+the cross-evalu effici of the propos feder quantum neural network system for privacy-preserv earli detect of diabet retinopathi fqpdr in kaggl dataset imag indic the robust of the light weight learn model
+fqpdr perform are inspir while consid exist non-fl and fl method .

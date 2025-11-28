@@ -1,0 +1,7 @@
+an applic of artifici neural network classifi to analyz the behavior trait of smallhold farmer in kenya
+thi paper develop and employ a novel artifici neural network ann model to studi farmer behavior toward decis make on maiz product in kenya
+the paper ha compar the accuraci level of ann base model and the statist model
+the result show that the ann model ha achiev higher accuraci and effici
+the find from the studi reveal that the farmer are mostli influenc by their demograph characterist and food secur condit in their decis make
+further to examin the rel import of differ demograph and food secur characterist an anova test is undertaken
+the result found that educ and food secur indic are instrument in influenc farmer decis make .

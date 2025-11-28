@@ -1,0 +1,15 @@
+mc/dc guid test sequ priorit us firef algorithm
+optim of the regress test process has been play an import rol in develop qual softw
+stil it is difficult to achiev satisfact result on the gen of non-redundant and optim test sequ
+ther ar many optim techn apply to regress test
+firef algorithm fa has gain it popul as an optim techn to provid bet solv in the area of sci and engin
+but the origin fa nee to hav a bet or mod object funct
+thi work us fa with an improv object funct to gen optim test path guid by mod condition/decij cov mc/dc criter in the form of a guid matrix
+thi matrix is built with mc/dc influ valu that we obtain from the pred nod of control flow graph cfg
+thi guid matrix also help in meas the fault-finding pot of a nod
+it also help in rout firef to mov between the nod of a cfg
+we hav chos mc/dc criter as it is the second strongest cod cov criter due to it linear tim complex
+then fa is us by defin an appropry object funct to travers the graph us firef
+we obtain optim test sequ aft execut the fa
+thes test sequ ar rank by comput the mean bright of nod along a path and then priorit bas on their rank
+our sim and comparison ar valid by expery on sev mod siz jav program .

@@ -1,0 +1,6 @@
+a survey on partic swarm optim with emphas on engin and network apply
+swarm intellig is a kind of art intellig that is bas on the collect behavy of the dec and self-organized system
+thi work focus on review a heur glob optim method cal partic swarm optim pso
+thi includ the mathem repres of pso in contenty and bin spac the evolv and mod of pso ov the last two decad
+we also pres a comprehend taxonom of heuristic-based optim algorithm such as genet algorithm tabu search sim an cross entrop and illust the adv and disadv of thes algorithm
+furtherm we pres the apply of pso on graph process unit and show vary apply of pso in network .

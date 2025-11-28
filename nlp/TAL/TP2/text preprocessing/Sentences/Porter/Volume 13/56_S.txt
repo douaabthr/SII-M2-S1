@@ -1,0 +1,13 @@
+an enhanc moth-flam optim algorithm for permutation-bas problem
+moth-flam optim mfo is one of the recent propos metaheurist optim techniqu which ha been success use in wide rang of applic
+howev there are two issu with the mfo algorithm
+first as a stochast techniqu mfo may prematur converg at some local minima dure the search process
+second the origin mfo wa develop for continu search space problem and is not directli applic to e.g. permutation-bas problem pbp
+in thi paper a novel perturb strategi is introduc to the mfo algorithm to avoid probabl local minima region
+thi strategi work as follow if the best solut obtain so far doesn t improv for a given number of consecut iter the current popul of solut is perturb use some crossov mechan as an attempt to explor new promis neighbourhood in the search space
+in addit smallest posit valu map techniqu is employ in order for the propos term crossmfo comfo algorithm to be applic to pbp problem
+it is notic that despit these modif the propos comfo ha the same time complex order as the origin mfo
+extens simul experi are conduct to compar the propos comfo to the mfo other enhanc version of mfo and some metaheurist optim in solv the well-known travel salesman problem tsp
+empir result show that the solut obtain use mfo are improv by a factor of 24 47% on averag for larg tsp instanc have more than 100 citi use comfo and can even reach 38 58% use differ set
+in addit compar to other algorithm in the literatur the propos algorithm provid on averag better solut
+henc it can be consid a promis and effici techniqu for thi type of problem .

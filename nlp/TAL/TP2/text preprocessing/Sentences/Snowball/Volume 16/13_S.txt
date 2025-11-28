@@ -1,0 +1,10 @@
+invers problem base multiobject sunflow optim for structur health monitor of three-dimension truss
+abstracttruss-typ structur are wide use in engin with sever applic in differ sector such as construct aeronautics/aerospac telecommun and energi field
+in all these situat they are general large-scal structur pose difficulti to take advantag of some direct inspect techniqu to locat and identifi structur damag
+in case these inspect are not perform proper the likelihood of occurr of accid will be veri high
+in this sens structur health monitor techniqu base on the use of optim algorithm appear as a promis and non-destruct methodolog
+in this studi an invers damag identif problem is formul and solv in order to identifi damag in large-scal lattice-typ structur
+the direct problem is numer formul use finit element method consid a 72 bar truss where the modal respons is obtain
+a recent new metaheurist sunflow optim algorithm is use to solv the invers damag problem formul in term of multipl damag site and two independ object function base on natur frequenc and mode shape
+numer result have shown that the inclus of mode shape in a multiobject formul improv the abil to accur identifi the damag in term of it locat and sever
+the multi-object sfo algorithm show result strict superior to the nsgaii . graphic abstract

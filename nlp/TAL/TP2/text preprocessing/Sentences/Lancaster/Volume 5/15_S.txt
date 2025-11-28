@@ -1,0 +1,12 @@
+tun and evolv of support vect kernel
+kernel-based method lik support vect machin svm hav been est as pow techn in machin learn
+the ide of svm is to perform a map from the input spac to a higher-dimensional feat spac us a kernel funct so that a linear learn algorithm can be employ
+howev the burd of choos the appropry kernel funct is us left to the us
+it can easy be shown that the acc of the learn model high depend on the chos kernel funct and it paramet espec for complex task
+in ord to obtain a good class or regress model an appropry kernel funct in combin with optim pre and post-processed dat must be us
+to circumv thes obstac we pres two solv for optim kernel funct a autom hyperparamet tun of kernel funct combin with an optim of pre and post-processing opt by sequ paramet optim spo and b evolv new kernel funct by genet program gp
+we review modern techn for both approach comp their diff strengths and weak
+we apply tun to svm kernel for both regress and class
+autom hyperparamet tun of standard kernel and pre and post-processing opt alway yield to system with excel predict acc on the consid problem
+espec spo-tuned kernel lead to much bet result than al oth test tun approach
+regard gp-based kernel evolv our method rediscov multipl standard kernel but no sign improv ov standard kernel wer obtain .

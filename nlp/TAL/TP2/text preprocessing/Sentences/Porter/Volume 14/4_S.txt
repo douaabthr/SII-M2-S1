@@ -1,0 +1,12 @@
+fuzzi cluster algorithm base on modifi whale optim algorithm for automobil insur fraud detect
+fuzzi c-mean fcm cluster method is use for perform the task of cluster
+thi method is the most wide use among variou cluster techniqu
+howev it get easili stuck in the local optima
+whale optim algorithm woa is a stochast global optim algorithm which is use to find out global optima of a provid dataset
+the woa is further modifi to achiev better global optimum
+in thi paper a fuzzi cluster method ha been propos by use the strength of both modifi whale optim algorithm mwoa and fcm
+the effect of the propos cluster techniqu is evalu by consid some of the well-known exist metric
+the propos hybrid cluster method base on mwoa is employ as an under sampl method to optim the cluster centroid in the propos automobil insur fraud detect system aifd
+in the aifd first the major sampl data set is trim by remov the outlier use propos fuzzi cluster method and then the modifi dataset is undergon with some advanc classifi such as catboost xgboost random forest lightgbm and decis tree
+the classifi are evalu by measur the perform paramet such as sensit specif and accuraci
+the propos aifd consist of fuzzi cluster base on mwoa and catboost perform better than other compar method .

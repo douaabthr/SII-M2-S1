@@ -1,0 +1,10 @@
+explor the solut via retinex enhanc for fruit recognit impact of outdoor sunlight a case studi of navel orang
+machin vision-bas techniqu are one of the critic mean to realiz intellig orchard manag
+addit the third wave of artifici intellig guid by deep learn ha promot the applic of machin vision technolog in fruit recognit
+current multipl detect model can extract the fruit from collect imag yet the accuraci ha often exist deviat due to differ observ time caus correspond chang of sunlight throughout a day
+consequ explor a method to solv thi problem is of great signific to facilit smart orchard
+on thi basi thi articl take the navel orang as a studi object divid four observ period 10 00 11 00 12 00 13 00 14 00 15 00 16 00 17 00 and two view distanc of one-met and two-met to collect imag data
+correspond algorithm are design accord to each retinex process mode to assist the detect of yolov5 includ single-scal retinex ssr multi-scal retinex msr multi-scal retinex with color restor msrcr multi-scal retinex with chromat preserv msrcp and msrcr with automat color gradat adjust automsrcr
+the experiment result show that two observ period of 10 00 11 00 and 14 00 15 00 are more conduc to the data collect where msr-base and msrcr-base model respect from the two period improv 9.28% and 6.32% of mean averag precis map than origin yolov5 under one-met view distanc
+also msrcr-base and automsrcr-bas model achiev 4.92% and 16.91% of map higher than the origin under two-met view distanc
+simultan thi articl also provid technic select scheme and analyz the sensit of each model in typic impact scenario .

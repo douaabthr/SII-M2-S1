@@ -1,0 +1,12 @@
+zone and rule assist recognit of meitei-mayek handwritten charact
+this paper present a two-stag approach for an improv recognit accuraci of handwritten meitei mayek charact
+the first-stag is a cnn base recognit
+the second-stag recognit is base on the zonal inform and script-specif orthograph rule
+the work is carri out on the find that low recognit accuraci of meitei mayek handwritten charact is due to the presenc of high shape-similar confus charact pair
+first the confus charact pair are identifi from the confus matrix obtain while train and test the cnn
+for these confus charact pair the zone inform and certain script-specif orthograph rule are incorpor in the second recognit stage to distinguish between them
+the second-stag recognit is carri out onli on those charact which belong to one of the confus charact pair
+this make the techniqu comput more effici than those where it is carri out for everi output of the recognit stage
+for zone identif a novel method base on the row co-ordin of charact present in the word is propos
+an improv in the recognit accuraci is achiev with the two-stag approach compar to the single-stag recognit use the cnn
+an improv ment in recognit accuraci of 3.36% is shown by our approach with a recognit accuraci of 91.86% .

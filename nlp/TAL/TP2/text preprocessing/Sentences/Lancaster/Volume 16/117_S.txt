@@ -1,0 +1,7 @@
+a fluctu pop strategy for diff evolv
+diff evolv de is a simpl yet pow evolv algorithm for glob num optim which has been us in a wid rang of apply field
+the paramet of pop siz us has import influ on the perform of de but it is not wid study in the scop of de
+bas on the rel between the pop siz and the exploration/exploitat abl of de we propos a novel fluctu pop fp strategy for autom adjust the valu of pop siz dur the run
+mor spec the fp strategy main contain three part a monoton decreas funct is us to coordin the foc between the expl abl and exploit abl which can caus the fp strategy to decreas progress at the macro level a period funct is apply to control the pop divers which lead to the fluctu feat of fp strategy at micro level a rearrang and auto-grouping op is us for remov and ad individ when the pop siz is chang
+to evalu the effect of the fluctu pop strategy on de algorithm bas on 30 benchmark funct we comp six select de algorithm with and without the fp strategy
+the sim result show that the fluctu pop strategy can sign improv the perform of the six de algorithm .

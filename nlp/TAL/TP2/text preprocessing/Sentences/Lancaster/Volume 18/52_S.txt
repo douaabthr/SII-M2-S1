@@ -1,0 +1,12 @@
+enh secret bird optim algorithm for enh dg deploy and reconfig in elect distribut network to improv pow system efficy
+optim distribut gen dg plac and network restruct in rad distribut system can sign enh techn accompl and effect in op
+thi study introduc a hybrid secret bird optim hsbo algorithm an enh vert of the origin sbo spec design to address the challeng of multi-dimensional and complex optim problem in such system
+the hsbo incorp cauchy mut for improv expl and opposition-based learn to ens a divers and repres init pop
+the optim techn aim to minim a multi-objective funct that consid act and react pow loss and volt devy
+the propos algorithm is test on 85 nod 141 nod and 415 nod system and comp with state-of-the-art optim techn includ the origin sbo gold jack optim and partic swarm optim
+assess of perform ar carry out und diff voltage-dependent load model includ const pow const cur const imp and composit load
+addit a cost benefit analys assess the econom benefit through quant the reduc in econom loss achiev through appropry dg deploy and network reconfig
+result demonst the hsbo s supery perform in integr dg unit with optim pow fact and perform network reconfig
+for the 85 nod network act pow loss is reduc by 97.49% react pow loss by 98.14% and volt devy by 98.86%
+in the 141 nod system act pow loss is reduc by 95.11% react pow loss by 95.44% and volt devy by 87.02%
+in the 415 nod network act pow loss is reduc by 80.92% react pow loss by 79.77% and volt devy by 76% .

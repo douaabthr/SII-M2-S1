@@ -1,0 +1,10 @@
+autom seg of sub-acute ischem stroke les by us dtcwt and dbn with paramet fin tun
+in im process the ischem stroke les seg is a maj proc us to ext suspicy reg from the giv mri brain im
+for class and seg of mri in thi pap we propos a three-step framework
+to remov nois the init step util a de-noising techn bas on dual tre complex wavelet transform dtcwt test without affect the ess im feat and cont
+in the second step an un-supervised deep believ network dbn is intend for learn the unlabel feat
+her the nois in mri can caus a sign corrupt of dat that imp the execut of dbns
+the dtcwt in the init step enh execut of dbns
+addit we man the issu of dbns paramet fine-tuning by mean of a quick meta-heuristic approach nam salp swarm algorithm
+bas on the sim behavio of salp thi new meta-heuristic algorithm is plan to solv optim issu
+it is valid against diff benchmark test funct and afterward contrast with wel known state-of-the-art optim algorithm lik genet algorithm partic swarm optim bat algorithm art bee colony algorithm and cuckoo search algorithm for perform efficy .

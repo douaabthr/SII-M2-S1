@@ -1,0 +1,16 @@
+eleph flow detect intellig for software-defined network a survey on cur techn and fut direct
+software-defined network sdn is charact by the sep of the packet forward plan from the network control plan
+thi sep off an extend view of the network s stat enh network resy and man
+network traff class can improv sdn control and resourc provid particul for eleph flow ef detect
+ex techn for detect ef util preset thresholds and bandwid that ar inadequ for chang traff conceiv
+moreov thes techn consum high dat plane-controller bandwid and hav a high detect tim
+thi research first describ the rel man techn in sdn
+then accord to the detect loc eleph flow detect approach ar class into four kind host-based switch-based controller-based and hybrid controller-switch-based detect
+thi research examin four typ of detect approach and conclud that host-based detect prim rely on the flow stat threshold
+such approach frequ gath flow stat by monit the socket buff or via the hyperv
+in contrast switch-based detect can lev both the flow stat threshold and flow charact
+controller-based detect techn in sdn foc on extract flow feat stat at the control level aim to reduc switch overhead whil pot increas control load
+fin hybrid controller-switch-based detect combin both rout aspect off fine-grained flow control
+howev it fac challeng in maintain a bal in tim acc and cost
+furtherm the survey incorp rec sdn adv such as machin learning-based method program switch and real-world sdn apply in dat cent glob cont delivery network healthc and iot
+fin the artic mak a comprehend comparison and put forward sev point of fut predict in term of eleph flow detect tak into account rec adv in sdn research .

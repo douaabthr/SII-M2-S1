@@ -1,0 +1,7 @@
+Reference-lines steered guide assignment and update for pareto-based many-objective particle swarm optimization
+The reference-lines-framework has been successfully used for developing efficient many-objective evolutionary algorithms
+In this paper the concepts and methodologies of such evolutionary algorithms are adapted in the parlance of multi-objective particle swarm optimization MOPSO for addressing the challenges of assigning and updating the global and local guides
+The proposed algorithm which is referred to as RMaOPSO is developed via five modules using the framework so that a diverse set of guides can be selected to steer the search of MOPSO toward the Pareto-optimal front
+The modules include global guide assignment local and global guide update line assignment to the guides and swarm and evolutionary search for global guides
+The proposed algorithm is tested on DTLZ and WFG test instances of 3 5 8 10 and 15 objectives
+Results obtained from RMaOPSO show its efficacy over six multi-objective evolutionary and MOPSO algorithms from the literature .

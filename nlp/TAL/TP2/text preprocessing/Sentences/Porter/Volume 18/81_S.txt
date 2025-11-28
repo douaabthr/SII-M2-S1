@@ -1,0 +1,11 @@
+oper probabl awar mission plan on express tree use evolutionari comput
+mission plan solver take an input mission specifi by use boolean and tempor logic oper howev the techniqu have an exponenti complex for verif that restrict solver to small problem size onli
+heuristic-driven classic plan techniqu cannot model tempor constraint and have exponenti comput complex
+oper research problem like the generalis of the vehicl rout problem have been solv for huge problem size use sever evolutionari and metaheurist approach
+howev the current variant do not allow problem to be taken as a formal express use the backu naur form nor the probabilist avail of the site
+thi paper is at the confluenc of classic plan tempor plan and the generalis of the vehicl rout problem
+the propos approach model an express tree consist of conjunct disjunct and the sequenc oper which is first solv in a greedi manner use a bottom-up travers of the tree
+the solver return a pareto front of solut use probabl and cost as the two object
+the algorithm is extend to multipl robot
+a genet algorithm is use for further optimis
+result show a better perform than optimis baselin over problem size that the classic approach cannot solv .

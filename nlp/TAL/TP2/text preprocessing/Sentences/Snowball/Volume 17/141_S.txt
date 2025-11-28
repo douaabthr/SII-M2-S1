@@ -1,0 +1,8 @@
+geometr mean optim for achiev effici in truss structur design
+the object of this studi is to util the geometr mean optim gmo for mass optim of structur truss
+by har the gmo s mutat mechan root in a gaussian framework the model effect address the discret natur of truss structur optim
+through a comprehens evalu involv four distinct problem scenario includ 10 15 25 and 52 bar truss structur with both discret and continu variabl the effect of the gmo techniqu is thorough demonstr
+the optim find underscor that the gmo consist generat improv design in comparison to convent population-bas techniqu
+furthermor the gmo model demonstr remark comput effici in specif case
+this research emphas the potenti of the gmo-bas approach as a potent tool in the domain of truss structur optim
+it hold the capabl to revolution the manner in which engin approach the intric balanc between structur integr minim weight and cost-effect .

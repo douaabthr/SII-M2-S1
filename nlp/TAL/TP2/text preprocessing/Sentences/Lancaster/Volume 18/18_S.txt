@@ -1,0 +1,20 @@
+comp analys of acc and comput complex across 21 swarm intellig algorithm
+nonlinear complex optim problem ar prev in many sci and engin field
+tradit algorithm oft struggle with thes problem due to their high dimend and int nat mak them time-consuming
+many research hav propos new metah algorithm inspir by biolog behavy in nat which comp show high perform and acc than tradit optim algorithm
+nature-inspired algorithm particul thos bas on swarm intellig off adapt and efficy solv to thes challeng
+in rec year swarm intellig algorithm hav mad sign adv
+class and cec benchmark suit ar immers us for study the perform of optim algorithm
+accord to our lit survey we ident that many algorithm wer evalu bas on acc
+cur swarm intellig algorithm ar us in many apply and efficy and comput complex nee to be evalu
+a broad-level study of the comput complex and acc of popul swarm intellig algorithm has not been don rec
+theref thi study we comprehend evalu and comp 21 bio-inspired swarm intellig algorithm on eight non-separable unimod eight sep unimod fiv non-separable multimod sev sep multimod funct and two cec 2018 many object funct
+we study the structure and mathem model of the select algorithm
+then we categ select algorithm into six diff behavy group
+we calc the root mean squ er between expect and act valu
+then we perform an rmse cross-validation stat test to understand how acc an algorithm resolv an av problem
+we found that art lizard search optim also is the most promin algorithm in acc and efficy
+besid that cat swarm optim cso squirrel search algorithm ssa and chimp optim algorithm choa-b ar also consid mor univers algorithm
+the squirrel search algorithm ssa is also s second-best algorithm in tim complex
+wasp swarm algorithm wso and bat-inspired algorithm ba pres the lowest tim complex
+fin sev import issu and research direct ar discuss .

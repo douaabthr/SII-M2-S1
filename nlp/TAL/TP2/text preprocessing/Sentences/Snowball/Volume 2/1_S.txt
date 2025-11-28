@@ -1,0 +1,5 @@
+extend a simpl genet cooperative-competit learn fuzzi classifi to low qualiti dataset
+exploit the inform in low qualiti dataset has been recent acknowledg as a new challeng in genet fuzzi system
+owe to this in this paper we discuss the basic principl that govern the extens of a fuzzi rule base classifi to interv and fuzzi data
+we have also appli these principl to the genet learn of a simpl cooperative-competit algorithm that becom the first exampl of a genet fuzzi classifi abl to use low qualiti data
+addit we introduc a benchmark compris some synthet sampl and two real-world problem that involv interv and fuzzy-valu data that can be use to assess futur algorithm of the same kind .

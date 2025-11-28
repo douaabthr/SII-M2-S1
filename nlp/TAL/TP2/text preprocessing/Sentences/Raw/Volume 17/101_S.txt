@@ -1,0 +1,10 @@
+Intelligent contributions of the artificial orca algorithm for continuous problems and real-time emergency medical services
+The Artificial Orca Algorithm AOA is an existing swarm intelligence algorithm empowered in this paper by two well-known mutation operators and opposition-based learning yielding the novel methods Deep Self-Learning Artificial Orca Algorithm DSLAOA Opposition Deep Self-Learning Artificial Orca Algorithm ODSLAOA and Opposition Artificial Orca Learning Algorithm
+The DSLAOA and ODSLAOA are based on the Cauchy and Gauss mutation operators
+Their effectiveness is evaluated on both continuous and discrete problems
+The suggested algorithms are tested and compared to seven recent state-of-the-art metaheuristics in the continuous context
+The results demonstrate that when compared to the other algorithms DSLAOA based on the Cauchy operator is the most effective technique
+After that a specific real-world scenario involving emergency medical services in a dire situation is tackled
+The Ambulance Dispatching and Emergency Calls Covering Problem is the addressed problem and a mathematical formulation is made to model this issue
+AOA DSLAOAC and DSLAOAG are tested and contrasted with a successful recent heuristic in this field
+The experiments are run on real data and the results show that the swarm approaches are effective and helpful in determining the resources required in this kind of emergency .

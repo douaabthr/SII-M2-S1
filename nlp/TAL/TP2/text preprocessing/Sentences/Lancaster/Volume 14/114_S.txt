@@ -1,0 +1,9 @@
+hybrid ant lion with whal optim algorithm for compress sens mr im reconstruct vial1minimization an alwo strategy
+in the field of im compress the compress sens im reconstruct has mad gre achiev due to prop us of the im spars without the nyqu sampl law constraint
+for im inform distribut gre deal of research ind that ther ex obvy structural and stat pri s regul and by the tradit compress algorithm it is difficult to achiev
+in thi pap we propos a compress sens im reconstruct algorithm bas on hybrid alwo strategy which combin the ant lion optim algorithm and the whal optim algorithm
+the hybrid algorithm produc a glob search with fast converg
+by continu learn the propos hybrid method can find optim solv
+the object funct for the im reconstruct process is tak as thel1minimization problem
+the reconstruct im is obtain by solv thel1minimization problem
+extend sim hav been conduc and the result show that the propos method has achiev bet perform when comp with tradit reconstruct algorithm .

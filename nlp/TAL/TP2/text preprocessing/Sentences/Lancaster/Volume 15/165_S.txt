@@ -1,0 +1,8 @@
+seek a bal between pop divers and prem converg for real-coded genet algorithm with crossov op
+the maj issu for optim with genet algorithm gas is get stuck on a loc optim or a low comput efficy
+in thi research we propos a new real-coded bas crossov op by us the exponenty pareto distribut epx which aim to preserv the two extrem
+we us epx with three the most reput mut op makin periaux and toiv mut mptm non uniform mut num and pow mut pm
+the expery result with eighteen well-known model depict that our propos epx op perform bet than the oth competit crossov op
+the comparison analys is evalu through mean standard devy and the perform index
+sign of epx vs competit is examin by perform the two-tailed t-test
+hent the new crossov scheme appear to be sign as wel as comp to est the cross among par for bet offspr .

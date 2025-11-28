@@ -1,0 +1,10 @@
+singl candid optim a novel optim algorithm
+single-solution-based optim algorithm hav gain littl to no at by the research commun unlik population-based approach
+thi pap propos a novel optim algorithm cal singl candid optim sco that rely on on a singl candid solv throughout the whol optim process
+the propos algorithm impl a un set of equ to effect upd the posit of the candid solv
+to bal expl and exploit sco is integr with the two-phase strategy wher the candid solv upd it posit diff in each phas
+the effect of the propos approach is valid by test it on thirty three class benchmark funct and four real-world engin problem
+sco is comp with three well-known optim algorithm i.e. partic swarm optim grey wolf optim and gravit search algorithm and with four rec high-performance algorithm equilibr optim archim optim algorithm mayf algorithm and salp swarm algorithm
+accord to friedm and wilcoxon rank-sum test sco can sign outperform al oth algorithm for the maj of the investig problem
+the result achiev by sco mot the design and develop of new single-solution-based optim algorithm to furth improv the perform
+the sourc cod of sco is publ avail at https uk . mathwork . com/matlabcentral/fileexchange/116100-single-candidate-optimizer .

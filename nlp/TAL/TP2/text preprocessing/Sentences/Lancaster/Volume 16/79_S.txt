@@ -1,0 +1,8 @@
+tre optim algorithm toa a novel metah approach for solv mathem test funct and engin problem
+thi study pres a new metah optim algorithm nam tre optim algorithm toa for solv mathem benchmark funct and engin problem
+thi algorithm which is inspir from the grow of tre start from a random init pop and improv their perform accord to the grow pattern of tre
+indee the purpos of thi new optim method is to find the highest leaf of a tre by util the posit of the best leaf and also replac yellow dri leav by new random fresh green on
+thes strategies prev the algorithm from the prem converg and get stuck in loc minim
+thi modern optim method is evalu by solv sev mathem test funct and a real world constrain design problem
+the obtain result ar comp with thos of som promin evolv algorithm introduc in the lit
+the num and sim result ver the supery of the toa in term of the solv acc and the converg spee .

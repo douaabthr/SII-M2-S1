@@ -1,0 +1,9 @@
+Differential Evolution for linear equality constraint satisfaction via unconstrained search in the null space
+Evolutionary algorithms EAs are widely used for a variety of optimization problems most of them with the presence of constraints
+As move operators are usually blind to the constraints i. e
+when operating upon feasible individuals they do not necessarily generate feasible offspring standard EAs must be equipped with a constraint handling technique
+This paper focuses on exactly satisfying the linear equality constraints present in continuous optimization problems that may also include additional non-linear equality and inequality constraints
+The proposed method named DELEqC-III is an extension of two other previously developed methods
+In this work the original constrained problem in mathbb R n is transformed into a lower-dimensional mathbb R n-m unconstrained optimization problem wherenis the number of variables andmis the number of linear equality constraints
+DELEqC-III performs the search in the null space associated with the linear equality constraints allowing the method to exactly satisfy such constraints
+In order to show the efficiency of the method scalable test-problems are used to analyze the performance of the new proposal .

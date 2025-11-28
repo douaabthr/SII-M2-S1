@@ -1,0 +1,11 @@
+collect classif of textual document by guid self-organ in t-cell cross-regul dynam
+we present and studi an agent-bas model of t-cell cross-regul in the adapt immun system which we appli to binari classif
+our method expand an exist analyt model of t-cell cross-regul carneiro et al
+in immunol rev 216 1 48 68,2007 that wa use to studi the self-organ dynam of a singl popul of t-cell in interact with an ideal antigen present cell capabl of present a singl antigen
+with agent-bas model we are abl to studi the self-organ dynam of multipl popul of distinct t-cell which interact via antigen present cell that present hundr of distinct antigen
+moreov we show that such self-organ dynam can be guid to produc an effect binari classif of antigen which is competit with exist machin learn method when appli to biomed text classif
+more specif here we test our model on a dataset of publicli avail full-text biomed articl provid by the biocr challeng kralling in the biocr ii
+5 challeng overview p 19,2009
+we studi the robust of our model s paramet configur and show that it lead to encourag result compar to state-of-the-art classifi
+our result help us understand both t-cell cross-regul as a gener principl of guid self-organ as well as it applic to document classif
+therefor we show that our bio-inspir algorithm is a promis novel method for biomed articl classif and for binari document classif in gener .

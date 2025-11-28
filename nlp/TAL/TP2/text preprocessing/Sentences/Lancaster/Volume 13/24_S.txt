@@ -1,0 +1,12 @@
+a polynom tim algorithm for big dat in a spec cas of minim constraint remov problem
+the minim constraint remov mcr is on of the most import problem in mot plan and comput geometry
+in thi problem ther is no feas path for a robot to mov from the start point toward the goal
+theref in ord to find a collision-free path the minim constraint should be remov
+themcrproblem is np-hard when constraint hav arbit shap or ar in shap of convex polygon
+sint it is not poss to solv the problem by determin algorithm in an acceiv tim for the problem with big dat sci hav tri to solv it by approxim method
+in thi pap we pres a determin not approxim algorithm that solv the problem in a polynom tim
+the simpl we us her is about the typ of dat neith about the acc of the solv nor about the siz of dat set
+in thi pap a spec cas of thi problem is pres in which al the constraint ar axis-aligned-unit squ and the obstac hav on loc effect
+loc effect mean ther ar no two cel which hav the sam label set
+we propos an algorithm for thi vary of the problem which can be us for big dat
+the propos algorithm has o n 3 tim complex in the worst cas .

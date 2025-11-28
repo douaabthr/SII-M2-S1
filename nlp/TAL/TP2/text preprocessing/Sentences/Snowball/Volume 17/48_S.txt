@@ -1,0 +1,9 @@
+preliminari analysi of explain machin learn method for multipl myeloma chemotherapi treatment recognit
+the choic of chemotherapi treatment protocol is an import step in the treatment of multipl myeloma and has a signific impact on the patient s prognosi
+in this work we propos an explain machin learning-bas framework for the recognit of multipl myeloma chemotherapi treatment
+a two-stag framework is pursu where three of the most popular local and global agnost explain artifici intellig xai tool permut featur import kernel shap and lime are appli to explain the decis of differ machin learn black box model such as random forest svm xgboost and mlp
+a preliminari studi analysi is carri out to investig the various outcom propos by each method on a multipl myeloma chemotherapi treatment collect dataset
+experi show that the rf algorithm reach the best recognit with 98.63% classif accuraci follow by xgboost mlp and svm with 95.89% 92.23% and 87.21% respect
+howev among the three appli xai model kernel shap provid more transpar by emphas the featur involv in the classif result
+the studi highlight the import of transpar and the precaut need when interpret exist xai tool
+we also rais import question about the futur improv of explain machin learn techniqu for therapeut and diagnost applic .

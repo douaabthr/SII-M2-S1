@@ -1,0 +1,11 @@
+toward load frequ man in therm pow system us an improv open-source develop model algorithm
+maintain a bal between gen and consum pow is cruc for the efficy op of interconnect pow grid
+thi pap focus on the issu of load frequ man in therm pow system
+we pres a metah approach to address thi problem lev the adv of metah algorithm in solv complex optim problem
+our approach is bas on an improv open-source develop model algorithm odm
+the propos method refer to as odma-g integr odm with a genet algorithm ga to config a hybrid optim techn
+thi combin allow for the effect exploit and expl of the search spac lead to high-quality solv
+we evalu the perform of odma-g us sev benchmark funct with vary scenario
+the result demonst that odma-g outperform it peer metah algorithm showcas supery optim cap
+thi prom perform suggest that odma-g off an effect solv for the challeng task of load frequ man in therm pow system ens stabl and efficy op
+spec the find show that our method improv the frequ chang are and tie-lin pow chang by 2.3% comp to the best ex method .

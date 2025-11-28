@@ -1,0 +1,8 @@
+an effici multilevel threshold imag segment through improv eleph herd optim
+thi paper propos an improv version of recent develop swarm-bas metaheurist algorithm eleph herd optim eho call improv eleph herd optim ieho
+in thi ieho the opposition-bas learn obl rule and chaos-embed sequenc are incorpor with each iter stage of eho to maintain the proper balanc between the explor and exploit phase
+it regul the movement of the search agent and avoid prematur converg
+the effect of the propos model is evalu in term of find the optim threshold valu in multilevel threshold mth of imag segment which separ the differ object of the imag
+the method such as the kapur entropi otsu and masi entropi are use as the object function in thi problem to determin the optim threshold
+the propos ieho s perform is compar with the differ variant of eho artifici bee coloni abc and artifici hummingbird algorithm aha
+the simul result regard converg speed stabil and solut qualiti perform indic such as the structur similar index ssim featur similar index fsim and peak signal-to-nois ratio psnr verifi the viabil of the abov hybrid algorithm .

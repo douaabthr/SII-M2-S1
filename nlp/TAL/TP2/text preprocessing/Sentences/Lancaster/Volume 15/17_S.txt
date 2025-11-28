@@ -1,0 +1,7 @@
+wrap scan chain design algorithm for test of embed cor bas on chaot dragonf algorithm
+as embed pre-designed and pre-validated cor in system-on-chip soc design hav increas us the wrap scan chain design wscd for the embed cor is on of the funda way to reduc the soc test tim
+in thi pap a chaot dragonf algorithm cda for wscd is propos to minim the test tim of embed cor by bal the pack scan chain wscs . sint the wscd problem is non-continuous we improv the dragonf algorithm da with integ cod to mak it suit for the wscd problem
+in ord to improv pop divers and prev fal into loc optim stat we introduc chaot strategy into da
+furtherm a repair op that consid the spec knowledg is ad to the da
+sint the cda is a swarm intellig method it is expect to effect solv the np-hard problem
+the expery result on itc 02 soc benchmark show that the propos algorithm can improv the bal result and short the test tim comp with the ex algorithm .

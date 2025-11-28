@@ -1,0 +1,7 @@
+lunar cycl inspir pso for singl machin total weight tardi schedul problem
+in the larg scale singl machin total weight tardi schedul problem smtwtsp is a group of not-interrel task have differ paramet to be execut on one machin
+the problem s object is to identifi the minimum total weight tardi use a newli develop variant of the particl swarm optim pso algorithm
+in the past the pso algorithm ha prove itself as an effici swarm intellig base strategi to solv complex combinatori problem
+here in thi articl the lunar cycl inspir local search techniqu is assimil into pso and the design pso variant is term as lunar cycl inspir pso lcpso
+the perform of the design lcpso is test over 25 larg smtwtsp instanc of job size 1000
+the report result show that the design lcpso is a competit pso variant that can be appli to provid an effect solut for the smtwtsp type combinatori optim problem .

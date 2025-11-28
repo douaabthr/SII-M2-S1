@@ -1,0 +1,6 @@
+expl dat analys with art immun system
+we us a mod vert of the clonalg algorithm to perform expl dat analys
+sint we wish to comp result from a numb of method we on report on linear project which hav un solv
+we incorp a typ of gram schmidt orthogon 15 into the affin mat process to capt multipl compon
+we combin the new algorithm with reinforc learn 17,20 and with cross entrop maxim 13,19
+fin we combin sev diff non-standard adapt method us bag and show that we get rely converg to acc filt .

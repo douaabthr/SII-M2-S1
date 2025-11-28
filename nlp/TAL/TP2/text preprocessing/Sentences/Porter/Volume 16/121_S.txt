@@ -1,0 +1,8 @@
+mobil intellig termin speaker identif for real-tim monitor system of sport train
+mobil intellig termin speaker identif for real-tim monitor system of sport train is present in thi manuscript
+the purpos of speaker recognit is to use speaker s voic characterist to identifi the speaker s ident
+no two peopl in the world have exactli the same voic characterist becaus from the perspect of the human physiolog structur differ peopl s vocal shape throat size and other factor relat to pronunci are differ which make it possibl to recogn speech by speech
+from the technolog level the propos framework contain the four core aspect name speaker identif motion gestur detect heart rate detect and breath detect
+in the inform collect part we adopt the zigbe wifi wireless transmiss gpr data transmiss and bluetooth commun joint framework to captur the accur data to rrealiz the dual-network dual-pass function the td-scdma receiv must also work at the same time when the gsm radio modul of the termin is work
+in the speaker identif part we propos the novel deep neural network framework and revis the architectur
+the experi compar with the other state-of-the-art model have proven the robust of the propos framework .

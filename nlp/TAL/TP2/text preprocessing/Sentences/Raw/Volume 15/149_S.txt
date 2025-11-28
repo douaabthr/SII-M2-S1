@@ -1,0 +1,7 @@
+Optimization research on the site selection of fire safety for mega projects sites based on multi-objective particle swarm
+There are large fire safety hidden dangers in the construction site of mega-projects
+In order to improve the ability of fire safety emergency response on site in this paper the number of demand points on the construction site are firstly determined and through using risk assessment of operating conditions method the risk is evaluated and the risk level is determined
+Secondly according to the construction site layout criteria and fire safety technical criteria and taking the economy distance time and coverage of fire safety site selection as the basic factors a multi-objective site selection optimization model for fire safety points is established
+Multi-objective particle swarm optimization is used to solve the multi-objective site selection model and a series of fire safety point site selection schemes are obtained
+Finally the analytic hierarchy process is used to select the best scheme from a series of schemes
+The research ideas and conclusions of this paper provide a scientific and reasonable analysis framework and ideas for site selection of fire safety points for mega projects which has certain applicability and practicability .

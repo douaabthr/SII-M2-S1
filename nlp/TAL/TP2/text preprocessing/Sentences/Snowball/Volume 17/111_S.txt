@@ -1,0 +1,9 @@
+an insight on recent advanc and futur perspect in detect techniqu of parkinson s diseas
+parkinson s diseas has no specif test for diagnosi which is usual detect through a review of sign and symptom like tremor stiff and slow of movement
+over the past 10 15 year various method were propos that use motor sign and voic data for the accur detect of parkinson s diseas pd
+cutting-edg technolog like machin learn deep learn imag process and sever signal process mechan were employ in the effici diagnosi of pd
+in view of this we present a structur review of such techniqu
+in the ongo research over the past few year various dataset were generat to assess pd with the salient paramet of the voic signal acquir from healthi peopl and pd patient
+also tremor and gait data were collect by record the movement of pd patient from sens unit such as acceleromet gyroscop and inerti measur unit sensor
+an overal analysi has been done on the various techniqu with respect to the voic dataset and motion sensor data
+a detail analysi suggest that machin and deep learn approach are optimist in develop clinic applic .

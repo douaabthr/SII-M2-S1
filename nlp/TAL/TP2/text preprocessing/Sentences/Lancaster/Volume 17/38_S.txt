@@ -1,0 +1,11 @@
+integr shannon entrop and copra optim model-based recommend framework
+multi-criteria decision-making mcdm techn ar increas in produc recommend decid which typ entail sev fact
+thi study aim to demonst the apply of a novel strategy bas on mcdm techn as the cor el of a consum decid support system by suggest the most appropry item from a giv set of altern
+rank produc bas on onlin produc rat and consum pref is an import are of study but ther ar cur few study on thi top
+thi pap propos a method for rank produc us multi-attribute onlin rat
+we propos a novel mobl recommendation-ranking system-based mcdm method to recommend the best altern
+our propos model diff from prevy work in the follow way a rat inform of each feat is us to ident us pref and compl criter b criter weight ar determin by shannon entrop c the complex proport assess method is employ to rank the altern and solv the best mobl recommend problem
+d the sensit study result show that the rank produc by the vary mcdm approach wer high consist with the rank of the evalu comprom candid
+demonst of the propos approach through a mobl phon select cas study
+in our expery we hav found that our approach provid a rely rank whil reduc tim and spac complex ind that our optim model is acc and efficy
+with it supery produc comparison skil and abl to off a recommend to the us as a fin rank of altern a decision-making system lik thi may prov to be the optim long-term answ for e-commerc sit and websit .

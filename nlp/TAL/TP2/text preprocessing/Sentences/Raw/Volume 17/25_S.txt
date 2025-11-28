@@ -1,0 +1,7 @@
+Adaptive wideband sensing scheme based on Bayesian experimental design
+In this paper we investigate the problem of wideband sensing for cognitive radio
+Due to resource constraint a cognitive node targets at finding a given number of spectrum holes which is studied under a novel wideband sensing architecture
+Specifically the cognitive node can dynamically focus its sensing measurements on different portions of contiguous channels
+An adaptive wideband sensing scheme is proposed under the standard Bayesian experimental design framework via three steps 1 define a Bayesian cost that incorporates the numbers of desired spectrum holes 2 design hypothesis testing rule to detect access opportunities and 3 identify a scheme to adapt the measurements during the sensing process
+In order to facilitate implementation we further propose an approximated Bayesian experiment design scheme to reduce the computational complexity
+The performance gain of our wideband sensing scheme is demonstrated via numerical simulation .

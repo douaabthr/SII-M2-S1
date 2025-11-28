@@ -1,0 +1,7 @@
+structural rely optim model with cred saf constraint
+som tradit fuzzy rely model quant the system uncertainty bas on poss meas met without self-duality which lead to the undesir result that the sum of poss of any on fuzzy set/ev and it compl set/ev is not eq to on
+to overcom thi drawback thi pap form a new rely met tool bas on self-dual cred meas
+first we introduc credil saf constraint to form cred rely optim model on the bas of limit-state funct
+then sev theorem ar provid to show that the feas domain gen by cred saf constraint can be reform as the equ convex domain und mild assum which en cred saf constraint to reform as the equ rely constraint
+fin on num exampl on the optim design of three-bar truss structure is provid to show the appl of the cred rely optim model
+by us out-of-sample back-testing thes comparison result ar stat on the provid rely level and the back-testing rely level which evid the effect of the optim solv achiev by the propos model for pract structural engin .

@@ -1,0 +1,18 @@
+an on-lin pittsburgh lcs for the three-corn coevolut framework
+the three-corn coevolut framework describ a method that is capabl of address classif task through coevolut coadapt evolut where three differ agent i. e
+a generat agent and two classif agent learn and adapt to the chang of the problem without human involv
+here artifici problem can be generat in concert with classif agent in order to provid insight into their relationship
+previous work on the two-corn coevolut framework provid foundat for implement the system that was abl to set-up the problem s difficulti appropri while trigger the coevolutionari process
+howev the trigger process was set manual without utilis the third agent as propos in the origin framework to perform this task
+previous work on the three-corn coevolut introduc the third agent a new classif agent to trigger the coevolutionari process within the system where it function and effect on the system requir investig
+this paper detail the implement for this case two classif agent that use differ style of learn techniqu e. g
+supervis versus reinforc learn techniqu is adapt in the classif agent to learn the various classif problem
+ultim learn classifi system lcs is chosen to be implement in the particip agent
+lcs has sever potenti characterist such as interpret general capabl and variat in represent that are suitabl for the system
+experi show that the pittsburgh-styl lcs with the adapt of tabu search techniqu in s capabl to autonom adjust the problem s difficulti and generat a wide rang of problem for classif
+the adapt of a-plus to an on-lin system is success implement
+further the classif agent i. e
+r and i are abl to solv the classif task where the classif perform are vari
+the three-corn coevolut framework offer a great potenti for autonom learn and provid use insight into coevolut learn over the standard studi of pattern recognit
+the system is capabl of autonom generat various problem learn and provid insight into each learn system s abil by determin the problem domain where they perform relat well
+this is in contrast to human have to determin the problem domain .

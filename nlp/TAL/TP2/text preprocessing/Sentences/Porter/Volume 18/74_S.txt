@@ -1,0 +1,10 @@
+multi-strategi improv black-wing kite algorithm and it applic in short-term load forecast use gate recurr unit neural network
+to enhanc global search capabl and converg effici of the black kite algorithm bka thi paper propos a multi-strategi improv black kite algorithm swbka
+first latin hypercub sampl is introduc to improv the initi popul qualiti
+second a fuse cauchy-gaussian disturb and adapt spiral posit updat strategi is propos to balanc the global search and local exploit capabl dure the migrat behavior
+final a len imag revers learn elit strategi is incorpor to help the algorithm effect avoid local optima
+ablat experi on the three strategi were conduct use 13 benchmark function and the perform of the improv algorithm wa valid on 42 function
+experiment result show that the propos swbka achiev an overal averag improv of 47.38% in optim valu compar to bka demonstr signific superior
+furthermor the propos swbka wa use to optim the hyperparamet of the gate recurr unit neural network follow by predict experi on an actual electr load dataset
+the experiment result demonstr the algorithm s capabl to solv real-world problem
+the code ha been releas inhttp github . com/daniel-z-h-dnn/swbka .

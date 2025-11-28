@@ -1,0 +1,9 @@
+dendrit neuron model optim with mountain gazell optim for time-seri forecast
+time-seri forecast predict and estim have been activ research topic in recent year due to their critic role in decision-mak and futur plan
+artifici neural network ann are wide employ for forecast applic and have demonstr signific perform improv
+in this paper we util a special type of ann the dendrit neuron model dnm for time-seri forecast
+we appli an optim dnm model by util the power of metaheurist mh optim algorithm
+specif we employ an mh algorithm the mountain gazell optim mgo to optim the paramet of the dnm improv it configur process and ultim improv the accuraci of the forecast
+furthermor we compar mgo perform with sever other optim algorithm use to optim the dnm model
+comprehens evalu are conduct on four public avail time seri dataset use multipl evalu indic
+the result demonstr the superior of the mgo-dnm model over compet method with optim dnm configur consist outperform the tradit dnm in forecast task .

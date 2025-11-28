@@ -1,0 +1,10 @@
+scenario-based passeng evacu optim with multipl travel mod in transit termin
+the transit termin is dens pop plac with limit road and park capac
+the contradict between supply and demand wil reduc the evacu efficy of passeng ar the transit termin
+thi pap consid the evacu capac of multipl travel mod on the ar passeng at the transit termin at the sam tim regard multipl travel mod as a whol and coordin the transport capac of vary mod
+a bi-objective model is propos
+the first object is minim the evacu cost whil the second object is minim the numb of passeng transfer
+the propos bi-objective model is transform into a single-objectiv on by linear weight method
+the transform model is ess a mixed-integer linear program which is solv by lingo
+to valid the valid of the propos model a cas study of beid west railway stat is pres
+the result ind thi propos methodolog is rat and effect and can help passeng evacu in pract apply .

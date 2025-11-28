@@ -1,0 +1,12 @@
+predict the pandem sentiment evalu and predict analysi from large-scal tweet on covid-19 by deep convolut neural network
+engag deep neural network for textual sentiment analysi is an extens practic domain of research
+textual sentiment classif har the full comput potenti of deep learn model
+typic these research work are carri either with a popular open-sourc data corpus or self-extract short phrase text from twitter reddit or web-scrap text data from other resourc
+rare do we see a larg amount of data on a current ongo event is be collect and cultur further
+also an even more complex task would be to model the data from a current ongo event not onli for scale the sentiment accuraci but also for make a predict analysi for the same
+in this paper we propos a novel approach for achiev sentiment evalu accuraci by use a deep neural network on live-stream tweet on coronavirus and futur case growth predict
+we develop a larg tweet corpus exclus base on the coronavirus tweet
+we split the data into train and test set alongsid we perform polar classif and trend analysi
+the refin outcom from the trend analysi help to train the data to provid an increment learn curvatur for our neural network and we obtain an accuraci of 90.67%
+final we provid a statistical-bas futur predict for coronavirus case growth
+not onli our model outperform sever previous state-of-art experi in overal sentiment accuraci comparison for similar task but it also maintain a throughout perform stabil among all the test case when test with sever popular open-sourc text corpora .

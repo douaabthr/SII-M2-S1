@@ -1,0 +1,7 @@
+a gam the bas approach for distribut dynam spectr access
+in thi study we expl the task of dynam spectr access bas on gam the to mitig spectr short and improv network util in multichannel wireless network
+us the avail network bandwid is limit and divid into sev channel and ther ex a nee for efficy reus and adapt alloc of such channel
+dur the commun process uus compet with each oth forcsh channel ev without know acc complet channel stat inform
+in ord to avoid collid tradit method us depend on cent scheduling or mess exchang which ar cumbersom and comput expend
+to deal with thi issu we propos a deep q-network bas on lstm and fair channel alloc policy to learn the dynam spectr access rul for network util maxim
+extend valid of the propos approach show that our scheme yield quit prom result .

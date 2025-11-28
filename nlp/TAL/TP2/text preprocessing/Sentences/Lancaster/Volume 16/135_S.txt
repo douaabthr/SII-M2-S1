@@ -1,0 +1,11 @@
+cloud-bas solv approach for a larg siz log network plan
+dur the last two decad due to environ law and the competit environ the form of effect closed-loop supply chain network has attract research at
+on the oth hand although ther ar many metah apply for thes np-hard problem apply mor efficy and effect algorithm with tailor-made loc search and solv repres is inevit
+in thi pap mixed-integer linear program is assum to del the fin produc to custom in the forward direct from supply through manufact and distribut cent dcs
+simult collect recyc produc from custom and ent them into the recovery or landfil cyc is examin
+mathem model of thi problem aim to minim both the cost of op facil at pot loc as wel as the optim flow of mat across the network lay
+due to the np-hard nat of the problem a cloud-bas sim an algorithm csa has been apply for the first tim in thi are
+moreov a span tree-based method which occupy the least numb of array regard the oth method of the lit has been adopt
+to analys the acc and the spee of the investig algorithm we hav comp it perform with the genet algorithm ga and the sim an sa algorithm which wer apply in the lit
+the result regard cost funct show that the csa algorithm provid mor effect result than the oth two on
+moreov regard cpu tim although the csa show bet result than ga stat it fail to show mor efficy result than sa .

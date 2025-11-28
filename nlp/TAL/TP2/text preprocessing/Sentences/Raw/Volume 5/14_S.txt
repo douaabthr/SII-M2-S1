@@ -1,0 +1,14 @@
+Evolutionary kernel machines
+This special issue onevolutionary kernel machinesis dedicated to the latest developments in combining kernel-based algorithms and evolutionary computation
+Kernel-based methods are among the state-of-the-art approaches in machine learning and data mining e.g. 3,4
+The idea of kernel machines is to change the representation of the input data by mapping the input space to some metric feature space
+The kernel is a real-valued function of two input space elements that corresponds to a scalar product of its arguments mapped to the feature space 1
+In algorithms using the kernel trick all operations in the feature space can be expressed by scalar products and the kernel replaces all these operations
+What are the advantages of using a kernel
+The kernel renders an explicit mapping of input data to the feature space unnecessary and a kernel function can usually be computed much more efficiently than mapping two data points to the feature space and computing their scalar product in the feature space representation
+Thus a kernel allows to work in very high-dimensional feature spaces
+Further kernel-based algorithms are very modular and flexible
+Apart from hyperparameters such as learning rates and regularization parameters only the kernel function has to be changed when the problem domain changes
+The kernel defines the feature space and the algorithm s notion of similarity between input objects
+The clear interface makes handling of non-standard data e.g. biological sequences comparatively easy
+Finally the convenient mathematical structure of the kernel-induced feature and hypothesis spaces supports design and analysis of the adaptive system .

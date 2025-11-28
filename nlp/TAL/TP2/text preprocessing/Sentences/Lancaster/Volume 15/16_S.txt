@@ -1,0 +1,6 @@
+a hybrid bio-inspired comput approach for buzz detect in soc med
+soc med forum such as twit can be us as instru for understand the way us behav and eng with oth us onlin
+analys of dat rel to mat shar by us assist in min us inform for assess cont for vir
+thi study propos a methodolog to predict which tweet ar lik to becom vir and gen a lot of convers ov the internet term as buzz discuss by consid such discuss as out us bio-inspired algorithm integr with k-nearest neighb class
+perform of three bio-inspired optim algorithm nam grey wolf optim chick swarm optim and art bee colony hav also been evalu bas on the eff of the propos hybrid model for min out on a superv learn data-set contain 11 prim feat and 140,707 inst
+among the three algorithm us for thi out detect problem chick swarm optim show bet perform overal in term of evalu paramet includ acc precid recal spec f1-measure and converg .

@@ -1,0 +1,9 @@
+improv bio-inspired algorithm for scheduling distribut no-waiting flow shop with setup tim
+thi pap address the distribut permut flow shop scheduling problem mot by an indust apply rel to the manufact of print circuit board
+the goal is to minim tot tardy whil consid constraint such as no-waiting and sequence-dependent setup tim
+we hav introduc an exact method bas on mix integ linear program and three bio-inspired meta-heuristics
+spec we hav expl the effect of three bio-inspired meta-heuristics the art bee colony abc migr bird optim mbo and genet algorithm ga to tackl the problem at hand
+to enh our approach and minim tot tardy we incorp loc search improv techn
+in addit to standard meta-heuristic form we integr spec loc search techn includ the path relink pr techn vary neighb search vns and the individ improv scheme ii proc
+thi integr led to the develop of three enh meta-heuristics hbox abc _ pr hbox mbo _ vns and hbox ga _ ii
+through sim study on vary inst we hav demonst the supery perform of the hbox mbo _ vns algorithm achiev a success rat of 87.18 ov oth hybrid meta-heuristics .

@@ -1,0 +1,9 @@
+automat sleep stage classif with reduc epoch of eeg
+in the recent year analysi of electroencephalogram eeg signal ha play vital role in automat sleep score techniqu
+classif of sleep stage help in understand sleep relat issu
+manual analysi of sleep score is costli tediou and time-consum process
+it is essenti to design an automat sleep score techniqu which is conveni to patient and simplifi the diagnost process use eeg signal
+implement of such techniqu enabl expert to identifi sleep relat issu
+in thi paper eeg signal are record for 60 subject and preprocess use infinit impuls respons iir filter
+sleep stage are classifi into three major stage viz stage 1 2 and 3 with 10 s epoch durat use statist featur of eeg and machin learn algorithm with five-fold cross valid
+propos method is more feasibl for physician to diagnos sleep disord and prove to be the better techniqu with improv accuraci compar to other exist studi .

@@ -1,0 +1,6 @@
+softwar fault local use bp neural network base on function and branch coverag
+softwar failur is inevit with the increas in scale and complex of the softwar
+exist fault local techniqu base on neural network take statement coverag inform and test case execut result into account to train the network
+in this paper we propos an effect approach for fault local base on back-propag neural network which util branch and function coverag inform along with test case execut result to train the network
+we investig our approach use siemen suit
+our experiment result show that our propos approach perform on averag 23.50 44.27% better than exist fault local techniqu .

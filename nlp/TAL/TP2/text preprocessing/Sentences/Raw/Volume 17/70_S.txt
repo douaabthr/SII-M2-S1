@@ -1,0 +1,11 @@
+Fire and manoeuvrer optimizer for flow shop scheduling problems
+The purpose of this paper is to introduce a new rich source of ideas and techniques that could be used to build new algorithms capable to solve numerous encountered optimisation problems in different fields of science and engineering
+The art of war is one of the most rich disciplines in terms of already experimented strategies and tactics that can inspire researchers to design new powerful and efficient metaheuristics
+The framework of the proposed method are inspired by the main war phases and contains seven components initialization intelligence conception suppression advance assault and exploitation
+The basic fire and manoeuvre tactic is adopted in the suppression and advance phases
+The proposed fire and manoeuvre algorithm FMA is a hybridization of a greedy algorithm with a multi-neighbouring search procedure
+The developed algorithm has been employed to minimize makespan of the classical flow shop scheduling problem
+A mathematical model is presented to describe the studied optimisation problem
+Comparative experiments on Taillard s data set confirmed that the FMA results are more accurate than already published data
+A comparison between the FMA and other popular nature-inspired algorithms has been conducted
+It was revealed that the proposed metaheuristic outperforms the classical genetic algorithm the migrating birds optimisation and the whale optimisation algorithm .

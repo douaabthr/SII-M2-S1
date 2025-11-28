@@ -1,0 +1,15 @@
+mc/dc guid test sequenc priorit use firefli algorithm
+optim of the regress test process ha been play an import role in develop qualiti softwar
+still it is difficult to achiev satisfactori result on the gener of non-redund and optim test sequenc
+there are mani optim techniqu appli to regress test
+firefli algorithm fa ha gain it popular as an optim techniqu to provid better solut in the area of scienc and engin
+but the origin fa need to have a better or modifi object function
+thi work use fa with an improvis object function to gener optim test path guid by modifi condition/decis coverag mc/dc criteria in the form of a guid matrix
+thi matrix is built with mc/dc influenc valu that we obtain from the predic node of control flow graph cfg
+thi guid matrix also help in measur the fault-find potenti of a node
+it also help in rout firefli to move between the node of a cfg
+we have chosen mc/dc criteria as it is the second strongest code coverag criteria due to it linear time complex
+then fa is use by defin an appropri object function to travers the graph use firefli
+we obtain optim test sequenc after execut the fa
+these test sequenc are rank by comput the mean bright of node along a path and then priorit base on their rank
+our simul and comparison are valid by experi on sever moder size java program .

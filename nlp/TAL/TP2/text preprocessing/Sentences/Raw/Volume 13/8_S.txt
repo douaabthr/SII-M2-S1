@@ -1,0 +1,10 @@
+A node-priority based large-scale overlapping community detection using evolutionary multi-objective optimization
+Community structure is one of the most important features in complex networks
+However with increasing of network scale some existing methods cannot effectively detect the community structure of complex network and the available methods mostly aimed at non-overlapping networks
+In this paper we focus on overlapping community detection in large-scale networks because most of the communities in real-world networks are overlapped
+In order to improve the accuracy of large-scale overlapping community detection we suggest a community detection method based on node priority
+The proposed algorithm has two advantages 1 We define a priority function text f _ text NN to assess the closeness between adjacent nodes
+It explores the potential community structure in advance and reduces the scale of networks
+2 We employ NSGA-II and select all Pareto fronts to mine large-scale overlapping communities
+The proposed algorithm is tested by the artificial and real datasets
+The results show that the proposed algorithm can effectively improve the accuracy of community detection and has better optimization effect .

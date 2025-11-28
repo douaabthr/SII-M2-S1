@@ -1,0 +1,10 @@
+Self-awareness in natural and artificial intelligent systems a unified information-based approach
+Self-awareness is a subject that has intrigued the research community for a long time and is an object of extensive experimental research
+Over the years multiple studies and experiments probed different aspects functions and manifestations of self-awareness in animals and humans
+From these results several intriguing questions arose is self-awareness a general phenomenon based on some common laws and principles of organization and processing information about sensory environments
+Are different manifestations of self-awareness demonstrated in multiple experiments interrelated on some common basis or unrelated and disparate
+In this work we set out to approach these questions on the basis of the perspective of organization and processing of the information about the sensory environment of an intelligent system external and internal
+We conjecture that a possible basis for understanding the development and evolution of self-awareness can be the theory of complex coordinated intelligent responses that require a coordination of multiple atomic intelligent actions to achieve the best possible outcome for the intelligent system
+In this approach self-awareness can emerge naturally as an information model of the sensory environments that facilitates the production of effective responses via selection by the fitness to the environment measured by the success of empirical trials
+We consider different types and levels of self-awareness examined in studies and experiments and discuss how they can be connected with the organization and functions of the information model of the environment involved in the formation of intelligent responses
+The information approach to self-awareness is used then to discuss possible directions of evolution of the information models in the natural and artificial intelligent systems .

@@ -1,0 +1,9 @@
+scalabl multiag learn through indirect encod of polici geometri
+multiag system present mani challeng real-world problem to artifici intellig
+becaus it is difficult to engin the behavior of multipl cooper agent by hand multiag learningha becom a popular approach to their design
+while there are a varieti of tradit approach to multiag learn mani suffer from increas comput cost for larg team and theproblem of reinvent that is the inabl to recogn that certain skill are share by some or all team member
+thi paper present an altern approach to multiag learn calledmultiag hyperneatthat repres the team as apatternof polici rather than as a set of individu agent
+the main idea is that an agent s locat within a canon team layout which can be physic such as posit on a sport team or conceptu such as an agent s rel speed tend to dictat it role within that team
+thi paper introduc the termpolici geometryto describ thi relationship between role and posit on the team
+interestingli such pattern effect repres up to an infinit number of multiag polici that can be sampl from the polici geometri as need to allow train veri larg team or in some case scale up the size of a team without addit learn
+in thi paper multiag hyperneat is compar to a tradit learn method multiag sarsa λ in a predat prey domain where it demonstr it abil to train larg team .

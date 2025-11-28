@@ -1,0 +1,9 @@
+optim paramet of tig weld process use grey wolf optim concern 15cdv 6 steel
+weld is a fabric process that join materi by caus fusion
+even though there avail various weld type like mig/mag and mma weld they need addit electrod while do weld process
+aspir of this paper is to introduc tungsten inert gas tig weld via an optim approach name grey wolf optim gwo that is system for high-qual weld process and with this aspect it discov the impact of tig weld process paramet on the weld bead profil of 15cdv 6 high strength low alloy hsla steel
+furthermor the use gwo algorithm effect recogn the optim weld constraint for increas the depth of penetr dop and reduc bead width bw as well as heat-affect zone haz width as well
+the cooper variabl for model investig are weld current wec torch speed tos gas flow rate gar torch angl tog and arc gap arg
+the investig is process undertak certain respond factor like dop bw and haz width
+the supplementari factor of the propos model show it benefici work through of 15cdv 6 steel in progress rocket-motor hardwar program engin work in industri level pressur vessel fabric and so on
+the attain outcom have demonstr it extrem level of benefit in some of the strategi which util 15cdv 6 steel in rocket-motor hardwar program industri pressur vessel fabric and so on .

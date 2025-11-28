@@ -1,0 +1,9 @@
+a method for fuzzy tim sery forecast bas on interv index numb and memb valu us fuzzy c-means clust
+fuzzy tim sery forecast method ar very popul among research for predict fut valu as they ar not bas on the strict assum of tradit forecast method
+non-stochastic method of fuzzy tim sery forecast ar prefer by the research ov the year becaus thes method ar cap to deal with real lif uncertainty and provid sign forecast
+ther ar gen four fact that determin the perform of the forecast method 1 numb of interv noi and leng of interv to partit univers of discours uod 2 fuzz rul or feat repres of crisp tim sery 3 method of est fuzzy log rul flrs 4 defuzz rul to get crisp forecast valu
+consid first two fact to improv the forecast acc we propos a mod non-stochastic method of fuzzy tim sery forecast in which interv index numb and memb valu ar us as input feat to predict fut valu
+we suggest a rounding-off rang and larg step-size method to find the optim noi and us fuzzy c-means clust process to divid uod into interv of uneq leng
+we impl two techn 1 regress by support vect machin and 2 neur network by multilay perceptron to est flrs
+to test our propos method by both techn we conduc a sim study on eight wid us real tim sery and comp the perform with som rec develop model
+two perform meas rsme and smap ar us for perform analys and observ bet forecast acc by the propos model .

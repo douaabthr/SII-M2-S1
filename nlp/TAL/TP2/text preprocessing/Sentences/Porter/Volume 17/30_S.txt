@@ -1,0 +1,5 @@
+global optim condit for nonlinear optim problem
+base on the altern theorem global optim condit for nonlinear program problem to be discuss in thi articl
+firstli on the basi of the research of optim condit for polynomi optim problem the paper consid nonlinear program over constrain which are not real polynomi function
+and then necessari global optim condit for nonlinear program problem with non-polynomi constraint function are propos and suffici global optim condit for polynomi object function program problem with non-polynomi constraint function are develop by use the altern theorem
+final necessari and suffici global optim condit for 0 1 quadrat program problem are present .

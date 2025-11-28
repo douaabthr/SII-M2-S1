@@ -1,0 +1,9 @@
+achiev improv perform in construct project adv tim and cost optim framework
+the man of construct project has long emphas the del bal between tim and cost as thes fact play a crit rol in achiev optim project outcom
+to address thi challeng stochast optim algorithm hav emerg as valu tool
+on such algorithm moth-flame optim mfo lev it capac to navig complex and unknown search spac
+when combin with the tourna select ts method which is design to maintain divers and control the converg rat by provid eq opportun for al individ to be select it demonst remark pot and competit in solv challeng problem with constraint
+thi research introduc an enh vert of the mfo model cal tmfo as an innov approach to address tim cost trade-off tcto problem in construct project man
+to assess it perform three benchmark test problem ar employ includ two cas study involv 7 act and on cas study with 18 act
+the result rev that tmfo outperform oth optim algorithm when apply to tctos in small-scale project
+thes find undersc the effect and relev of the tmfo algorithm within the domain of construct project man .

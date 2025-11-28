@@ -1,0 +1,15 @@
+rank-bas univari featur select method on machin learn classifi for code smell detect
+detect code smell and treat them with refactor are trivial part of maintain vast and sophist softwar
+there is an urgent need for automat system to treat code smell
+tool provid variabl result base on threshold valu and subject interpret of smell
+machin learn is one of the best approach that provid effect solut to thi problem
+practition do not need expert knowledg on smell s characterist for detect which make thi approach access
+in thi paper we have implement 32 machin learn algorithm after perform featur select through six variat of the filter method
+we have use multipl correl methodolog to discard similar featur
+mutual inform fisher score and univari roc auc featur select techniqu were use with brute forc and random forest correl strategi
+featur select elimin dimension curs and improv perform measur drastic
+it is the select of relev featur subset base on the relat between depend and independ variabl
+we have compar perform of classifi implement with and without perform featur select
+result show that accuraci of machin learn model ha increas up to 26.5% f-measur by 70.9% area under roc curv ha surg up to 26.74% and averag train time ha reduc up to 62 s as compar to perform measur of machin learn model execut without featur select
+mutual inform featur select strategi with random forest correl methodolog ha the highest impact on perform measur among all the filter method
+among 32 classifi boost decis tree j48 and naiv bay algorithm gave best perform after dimension reduct .

@@ -1,0 +1,6 @@
+integer-pso a discret pso algorithm for task schedul in cloud comput system
+cloud comput is an emerg technolog that chang the comput world through it power to serv the need of ani user who requir better comput power over the internet
+for thi environ the end user may want to have a better qualiti of servic at low cost and cloud servic provid have a differ goal of achiev maximum profit and minim manag overhead
+task schedul is a challeng task in thi scenario to meet the requir of both the end
+thi work propos a discret version of the particl swarm optim pso algorithm namelyinteger-pso for task schedul in the cloud comput environ which can be use for optim a singl object function and multipl object function as well
+experiment studi on differ type of task set characteris normal traffic and bursti traffic in the cloud comput environ show that thi approach is better have good converg and load balanc .

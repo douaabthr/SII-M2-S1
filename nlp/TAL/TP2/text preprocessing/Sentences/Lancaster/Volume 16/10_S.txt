@@ -1,0 +1,8 @@
+momp multi-objective marin pred algorithm for solv multi-objective optim problem
+thi pap propos a new multi-objective algorithm cal multi-objective marine-predator algorithm momp depend on elit non-dominated sort and crowd dist mech
+the propos algorithm is bas on the rec propos marine-predator algorithm and it was inspir by biolog interact between pred and prey
+the propos momp can address multipl and conflict object when solv optim problem
+the momp is form us elit non-dominated sort and crowd dist mech
+the propos method is test on vary multi-objective cas study includ 32 unconstrain constraint and engin design problem with diff linear nonlinear continu and discret characteristics-based pareto front problem
+the result of the propos momp ar comp with sev well-regarded multi-objective water-cycle algorithm multi-objective symbiotic-organism search multi-objective moth-flame optim algorithm qualit and quantit us sev perform ind
+the expery result demonst the merit of the propos method .

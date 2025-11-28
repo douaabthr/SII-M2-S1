@@ -1,0 +1,8 @@
+improv perform of pareto corn search-based object reduc in many-objective optim
+multi-objective optim evolv algorithm moea is on of the most well-known approach for solv the multi-objective optim problem mop
+when the numb of object is gre than three the mop ar consid as many-objective optim problem maop and many-objective optim evolv algorithm maoea ar propos to solv maop
+howev maop oft contain redund object which do not conflict to any oth object or ev correl posit to som oth
+thes redund object sery degrad the efficy of moeas/maoea so they should be remov to help maoea work bet
+theref thi pap propos new object reduc algorithm which us a pareto corn search algorithm pcsea to gen non-dominated solv at corn of pareto front pf and then apply machin learn techn to remov redund object
+the propos method not on promot the strengths of pcsea in find non-dominated solv but also promot the strengths of machin learn algorithm in autom find the optim set of object
+the expery on 36 inst of dtlz5 i m and 10 inst of wfg3 m show that the propos method can mor oft find the right set of object than six oth benchmark method respect about 80% success comp to about 62% success of the oth method .

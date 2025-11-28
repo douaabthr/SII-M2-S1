@@ -1,0 +1,8 @@
+pop bas ant colony optim for reconstruct ecg sign
+a pop bas ant colony optim algorithm paco for the reconstruct of electrocardiogram ecg sign is propos
+spec the paco find a subset of nonzero posit of a spars wavelet domain ecg sign vect that is us for the reconstruct of the sign
+a tim window is us by the propos paco for fix certain decid of the ant dur the run of the algorithm
+the optim behavio of the paco is comp with vary algorithm from the lit for ecg sign reconstruct and with two random search heur
+expery result ar pres for ecg sign from the mit-bit arrhythm databas
+the influ of sev algorithm paramet and of a loc search proc is evalu
+the result show that the propos paco algorithm reconstruct ecg sign with high acc .

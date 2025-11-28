@@ -1,0 +1,9 @@
+optim support vector neural network and contourlet transform for imag steganographi
+imag steganographi is one of the promis and popular techniqu use to secur the sensit inform
+even though there are numer steganographi techniqu for hide the sensit inform there are still a lot of challeng to the research regard the effect hide of the sensit data
+thu an effect pixel prediction-bas imag steganographi method is propos which use the error depend svnn classifi for effect pixel identif
+the suitabl pixel are effect identifi from the medic imag use the svnn classifi use the pixel featur such as edg inform pixel coverag textur wavelet energi gabor and scatter featur
+here the svnn is train optim use the ga or ms algorithm base on the minim error
+then the ct is appli to the predict pixel for embed
+final the invers ct is employ to extract the secret messag from the embed imag
+the experiment of the propos imag steganographi is perform use the brat databas depend on the perform metric psnr ssim and correl coeffici which acquir 89.3253 db 1 and 1 for the imag without nois and 48.5778 db 0.6123 and 0.9933 for the imag affect by nois respect .

@@ -1,0 +1,13 @@
+algorithm for speech emot recognit class bas on mel-frequency cepst coefficy and broad learn system
+speech play a maj rol in emot transmit inform in hum and speech emot recognit has becom an import part of the hum comput system espec in spec system with high requir for real-time and acc
+to improv the acc and real-time of speech emot recognit peopl hav don a lot of work in speech emot feat extract and speech emot recognit algorithm but the recognit rat also nee improv
+in thi pap we propos a speech emot recognit method bas on mel-frequency cepst coefficy mfcc and broad learn network
+39 dimend mfcc feat wer extract aft preprocess of the speech sign
+aft label and standard the dat a dat predict model is built
+fin the dat set is split into train and test dat onto a certain ratio 0.8
+we expery with broad learn network architect
+and then the dat process in the broad learn network is improv
+the propos algorithm is a neur network structure that doe not rely on deep structure which has a smal amount of calc excel calc spee and simpl structure
+the expery result show that the propos network architect achiev high acc and it turn out to be the most acc in recogn emot in cas chines emot corp
+the recognit rat can reach 100%
+theref the propos network architect provid an effect method of speech emot recognit .

@@ -1,0 +1,13 @@
+FANS a framework for feature selection in sentiment classification using a modified Firefly algorithm
+Sentiment classification is a prevalent task in text mining in which a text classifies into positive negative or neutral classes
+Sentiment classification is an essential issue of decision-making for people companies etc
+Feature selection is the most influential stage in sentiment classification
+Due to the NP-hard nature of the problem and a huge of existing texts the traditional feature selection techniques such as statistical techniques generate sub-optimal solutions
+Swarm intelligence algorithms are extensively devoted to optimization problems
+These algorithms produce features by increasing the classification performance and decreasing the computational complexity and feature set size
+In this study the authors proposed a framework using the modified multi-objective Firefly algorithm namely FANS Firefly Algorithm Naïve Bayes Sentiment
+The two targets are decreasing the naïve Bayes error classifier and the k-nearest neighbor
+A neural network is used as the final classifier
+The three datasets on Movie review and Twitter domains are applied to evaluate the FANS
+The FANS outperform its counterparts regarding precision accuracy and recall
+The FANS yields 96.88% precision 97.65% accuracy and 96.54% recall .

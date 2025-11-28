@@ -1,0 +1,8 @@
+fmpso fuzzy-domin base many-object particl swarm optim
+the perform of multiobject evolutionari algorithm base on pareto-domin deterior when appli to many-object problem which are the problem have higher than three object
+in view of this various altern dominance-bas approach have been suggest in the literatur
+anoth major concern in solv these problem is the select of proper variat oper for explor the problem s solut space
+this work propos a new algorithm fuzzy-domin base many-object particl swarm optim fmpso that address these two concern
+it use the exist smpso as base algorithm and replac the pareto-domin techniqu use in it with fuzzy-domin as optim criterion
+addit a novel archiv updat scheme is introduc which provid improv converg along with the archiv refin scheme which give enhanc divers of solut
+we have conduct a number of experi on the propos method use standard benchmark problem and have got improv result for fmpso over other compet approach .

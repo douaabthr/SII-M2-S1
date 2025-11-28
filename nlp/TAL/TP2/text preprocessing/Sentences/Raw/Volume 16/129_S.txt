@@ -1,0 +1,9 @@
+Modified generative adversarial networks for image classification
+In the image classification task the existing neural network models have insufficient ability to characterize the features of the classified objects which leads to the problem of low recognition accuracy
+Therefore we propose a modified Generative Adversarial Networks GAN for image classification
+Based on the traditional generative adversarial network By constructing multiple generation models and introducing collaboration mechanism the generation models can learn from each other and make progress together in the training process to improve the fitting ability of the model for real data and further improve the classification quality
+Finally a generative adversarial network is designed to generate the occlusion samples so that the model has good robustness for the occlusion objects recognition
+The Top-1 error rate is used as the evaluation index
+The experiments are conducted on the public data sets containing Cifar10 Cifar100 ImageNet2012
+The comparison experiment results show that the proposed method can improve the feature representation ability of the GAN and improve the accuracy of image classification
+The average accuracy is higher than 90% and the error rate is lower than 1.0% .

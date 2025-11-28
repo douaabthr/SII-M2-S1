@@ -1,0 +1,12 @@
+FAB classification of acute leukemia using an ensemble of neural networks
+Acute leukemia is the most frequently occurring malignancy present in human blood and a kind of liquid cancer
+This hematological disorder can impinge on bone marrow and lymphatic system
+Accordingly a computer-aided classification system is proposed for French American British classification of Acute Leukemia using an ensemble of neural networks which is validated on 180 microscopic blood images taken from online benchmark dataset
+As per the requirement of pathologists in real-life examination scenario various objectives are formulated as i correct nucleus segmentation in blood cell image ii correct classification of FAB classes of acute leukemia L1 L2 L3 M2 M3 and M5
+To accomplish these research objectives the proposed method consist of segmentation section feature extraction section feature pruning section and classification section
+The classification of the proposed method consists of two subsections as subsection1 is comprised of single six class PCA based neural network as PCA-NN0 L1/L2/L3/M2/M3/M5 and subsection 2 contains an ensemble of 15 binary PCA based neural network classifiers as PCA-NN1 L1/L2 PCA-NN2 L1/L3 PCA-NN3 L1/M2 PCA-NN4 L1/M3 PCA-NN5 L1/M5 PCA-NN6 L2/L3 PCA-NN7 L2/M2 PCA-NN8 L2/M3 PCA-NN9 L2/M5 PCA-NN10 L3/M2 PCA-NN11 L3/M3 PCA-NN12 L3/M5 PCA-NN13 M2/M3 PCA-NN14 M2/M5 PCA-NN15 M3/M5
+The achieved accuracy for experiment 1 is 86.4% using PCA-NN0
+The output of two most plausible classes predicted by PCA-NN0 is passed to other binary PCA based neural network i. e
+PCA-NN1 to PCA-NN15
+After passing all the test images to subsection 2 the achieved accuracy is 94.2% from the exhaustive experiment 2
+The outcome of the work verifies the capabilities of computer-aided classification system to substitute the conventional diagnostic systems .

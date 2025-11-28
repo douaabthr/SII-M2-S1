@@ -1,0 +1,9 @@
+flose flowerwork-bas stack ensembl framework for classif of chronic diseas
+this studi present a novel approach for detect and classifi chronic diseas cds focus on preval condit such as asthma cancer and chronic obstruct pulmonari diseas copd
+earli identif of these diseas is challeng due to overlap symptom limit clinic expertis and variat in devic sensit
+to address this this studi propos flose a multi-optimization-bas stack ensembl model integr the firework and flower pollin algorithm
+it oper in three stage featur select optim model generat and stack ensembl model creation aim to detect cds and distinguish symptomat similar condit like copd and asthma
+the model s effect was evalu use two dataset exasen and breast cancer
+the stack ensembl framework consist of four base classifi random forest support vector machin multilay perceptron mlp and extratre et with their predict aggreg by the meta-learn extrem learn machin
+experiment result show that flose outperform individu base classifi achiev 96.25% accuraci 96.24% precis 96.25% recal and a 96% f1-score for exasen and 95.6% accuraci 95% precis 95.1% recal and a 96% f1-score for breast cancer
+these find highlight flose as a promis approach for accur chronic diseas detect and classif .

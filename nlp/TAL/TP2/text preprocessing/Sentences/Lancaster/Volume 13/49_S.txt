@@ -1,0 +1,5 @@
+prun of genet program tre us permut test
+we pres a novel approach bas on stat permut test for prun redund subt from genet program gp tre that allow us to expl the ext of effect redund
+we observ that ov a rang of regress problem med tre siz ar reduc by around 20% larg independ of test funct and that whil som larg subt ar remov the med prun subt compr just three nod most tak the form of an exact algebra simpl
+our statistically-based prun techn has allow us to expl the hypothes that a giv subt can be replac with a const if thi substitut result in no stat chang to the behavy of the par tre what we term approxim simpl
+in the ev we inf that mor than 95% of the acceiv prun propos ar the result of algebra simpl which provid som pract insight into the scop of remov redund in gp tre .

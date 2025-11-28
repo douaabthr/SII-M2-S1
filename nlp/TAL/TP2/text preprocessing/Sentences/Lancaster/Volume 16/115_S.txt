@@ -1,0 +1,11 @@
+build detect algorithm in multi-scale remot sens im bas on at mech
+the seism fort intens requir of build of vary height ar diff
+ident the height of diff build us a spec method can reduc second disast such as build dam and hous collaps caus by destruct earthquak
+the tradit build object detect model us the feat express of the dataset bas on man sketch the shap of the build in the remot sens im which wil caus less acquir im inform unclear target feat of build and the decreas of target detect acc of ident build typ
+the real-time target detect algorithm yolo has fast detect spee and high acc but it main disadv is the inacc posit of the build bound box and the misjudg of part overlap build object
+im feat retriev us larg dat set domain adapt fast algorithm is a new research hotspot in cur im recognit
+thi research propos a multi-branch network with the addit of a mod us at mech to coordin the saly and sub-salient inform of im
+the algorithm ad channel and spat at mech to the feat extract network and us weight and filt method to perform resid fus on the origin feat vect in im
+the model is deploy on the remot sens geograph inform evalu platform to conduc vary build target detect expery
+the av detect acc of the urb build can reach 81.8% and the detect spee for remot sens seg im is 26 per second
+the map@0.5 of the yolov5 algorithm with the at mech is 12% high than that of the unimprov yolov5 algorithm on the urb street view im dataset .

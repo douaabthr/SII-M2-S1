@@ -1,0 +1,10 @@
+Chaotic multi verse optimizer based fuzzy logic controller for frequency control of microgrids
+This paper represents an arrangement of fuzzy PD and derivative filter based PID controller FPIDF with its optimally designed membership functions and is employed for the load frequency control LFC of isolated multi microgrids
+The performance of a recently developed multi verse optimizer MVO algorithm is improved by introducing chaotic map appropriately in the algorithm
+The improved algorithm named as CMVO algorithm is applied to tune the proportional integral derivative PID controller gains for the LFC of microgrid
+The superiority of the proposed CMVO algorithm is examined by its superior performance compared to MVO PID recently published IAYA PID JAYA PID and GA PID in the microgrid system
+Further CMVO based FPIDF with its optimized membership position FPIDF-OM outperforms compared to CMVO based FPIDF IJAYA tuned FPID and FPD/PI-PD controller in microgrid system
+Better dynamic performances are found with the proposed technique for stochastic type wind power solar irradiance and load variations in the microgrid compared with FPIDF and PID
+The robustness of the proposed technique is established by the sensitivity analysis
+The proposed design approach has been extended to a microgrid model including biogas turbine generator biodiesel engine generator and aqua electrolyser along with fuel cell unit
+Finally OPAL-RT based hardware-in-the-loop simulation of proposed techniques has been done .

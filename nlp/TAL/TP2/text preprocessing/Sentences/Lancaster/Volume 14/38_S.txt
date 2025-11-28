@@ -1,0 +1,6 @@
+thick optim of high temp protect cloth
+aim at the goal of protect the person saf of high temp work and reduc the cost of r d in enterpr the artic put forward the optim of the thick of high temp protect cloth
+a one-dimensional unsteady heat conduc model is construct by combin the heat conduc equ with the definit solv condit est by the init stat and bound stat to repres the temp conduc process of the extern high temp protect cloth hum epiderm system
+the finit diff method is us to find the num solv of the heat conduc equ to repres the temp distribut in the system
+in thi pap an optim algorithm bas on control vary method and dichotom method is design to obtain the optim solv of double-layer thick of high temp protect cloth
+fin through sim expery the pract problem ar analys by us the propos model and algorithm .

@@ -1,0 +1,11 @@
+appli machin learn to enhanc the cach perform use reus distanc
+the motiv for the search of effici cach manag polici is due to the drawback of the larg number of cpu cycl taken to fetch a block from the main memori to the last level cach
+recent research are use most recent advanc in machin learn ml to optimis the perform of cach
+they design differ model use ml techniqu to improv the perform of cach
+unfortun the scheme suffer from sever drawback like storag complex incur while store the extra bit requir for predict excess time requir for predict increas in difficulti of reus predict when workload are increas increas in energi consumpt dure the predict process and lack in achiev expect accuraci
+in order to overcom these drawback cach reus predict is analys use classif problem which is actual view of the learn problem
+the vital paramet use are the frequenc of access and reus distanc in which the latter is model as stack distanc
+as an innov idea reus distanc is calcul base on statu of each block into account
+in addit numer natur of the dataset use in thi articl help in explor of the ensemble-bas ml which is less frequent experi into the context of cach memori rather than the deep learn approach
+by appli suitabl place model the memori refer with high reus capabl are fetch into the cach
+they are predict with the aid of classif and cross-valid on the featur set which improv the accuraci and sensit by 6.2% and 5.46% respect when compar to the exist work .

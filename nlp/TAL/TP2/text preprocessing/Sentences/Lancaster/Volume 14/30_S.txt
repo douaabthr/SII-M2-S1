@@ -1,0 +1,11 @@
+categ of intercloud us and auto-scaling of resourc
+optim alloc of resourc in intercloud comput is np-complete program
+constraint ar many and config of each cloud vary from each oth
+the map of the task to avail virt machin is challeng
+in real lif scenario custom requir may chang
+the complex of the problem increas as requir chang in term of capac spee and tim
+to tid overfrequ chang in custom requir and optim util of avail resourc a heur algorithm is propos which wil fit to the spec
+the propos algorithm is prim divid into three phas nam categ of us genet algorithm-based resourc alloc and earliest deadlin first scheduling
+the object is to map the task to be execut to avail vms of the multi-cloud fed in ord to hav minim makesp tim and maxim custom satisfact
+aft pr sim on synthet dat comp the sim result with the ex scheduling algorithm
+result of the sim confirm that the propos categ of the us in cloud domain can be benef in many fold and can address the ex challeng as per concern met .

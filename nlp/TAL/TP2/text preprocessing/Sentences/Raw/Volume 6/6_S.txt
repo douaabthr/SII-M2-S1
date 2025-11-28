@@ -1,0 +1,10 @@
+Learning complex overlapping and niche imbalance Boolean problems using XCS-based classifier systems
+XCS is an accuracy-based learning classifier system which has been successfully applied to learn various classification and function approximation problems
+Recently it has been reported that XCS cannot learn overlapping and niche imbalance problems using the typical experimental setup
+This paper describes two approaches to learn these complex problems firstly tune the parameters and adjust the methods of standard XCS specifically for such problems
+Secondly apply an advanced variation of XCS
+Specifically we developed previously an XCS with code-fragment actions named XCSCFA which has a more flexible genetic programming like encoding and explicit state-action mapping through computed actions
+This approach is examined and compared with standard XCS on six complex Boolean datasets which include overlapping and niche imbalance problems
+The results indicate that to learn overlapping and niche imbalance problems using XCS it is beneficial to either deactivate action set subsumption or use a relatively high subsumption threshold and a small error threshold
+The XCSCFA approach successfully solved the tested complex overlapping and niche imbalance problems without parameter tuning because of the rich alphabet inconsistent actions and especially the redundancy provided by the code-fragment actions
+The major contribution of the work presented here is overcoming the identified problem in the wide-spread XCS technique .

@@ -1,0 +1,12 @@
+a compar analysi of deep neural network architectur for sentenc classif use genet algorithm
+becaus of the number of differ architectur numer set of their hyper-paramet and dispar among their size it is difficult to equit compar various deep neural network dnn architectur for sentenc classif
+evolutionari algorithm are emerg as a popular method for the automat select of architectur and hyperparamet for dnns whose generalis perform is heavili impact by such set
+most of the work in this area is done in the imag domain leav text analysi anoth promin applic domain of deep learn larg absent
+besid literatur present conflict claim regard the superior of one dnn architectur over other in the context of sentenc classif
+to address this issu we propos a genet algorithm ga for optimis the architectur and hyperparamet set in differ dnn type for sentenc classif
+to enabl the represent of the wide varieti of architectur and hyperparamet utilis in dnns we employ a generalis and flexibl encod scheme in our ga
+our studi involv optimis two convolut and three recurr architectur to ensur a fair and unbias evalu of their perform
+furthermor we explor the effect of use f1 score versus accuraci as a perform metric dure evolutionari optimis of those architectur
+our result use ten dataset show that in general the architectur and hyperparamet evolv use the f1 score tend to outperform those evolv use accuraci and in the case of cnn and bilstm the result were signific in statist measur
+of the five architectur consid the ga-evolv gate recurr unit gru perform the strongest overal achiev good generalis perform while use relat few trainabl paramet establish gru as the prefer architectur for the sentenc classif task
+the optimis architectur exhibit compar perform with the state-of-the-art given the larg differ in trainabl paramet .

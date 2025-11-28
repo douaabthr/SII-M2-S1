@@ -1,0 +1,10 @@
+driv drowsy detect us mod deep learn architect
+thi pap propos a non-invasive approach to detect driv drowsy
+the fac feat ar us for detect the driv s drowsy
+the mou and ey reg ar extract from the video fram
+thes extract reg ar apply on hybrid deep learn model for drowsy detect
+a hybrid deep learn model is propos by incorp both mod inceptionv3 and long short-term mem lstm network
+inceptionv3 is mod by ad glob av pool lay for spat robust and dropout techn to prev overfit on train dat
+the propos hybrid model is comp with convolv neur network incpetionv3 and lstm ov nthu-ddd dataset
+the propos model perform bet than the oth model in term of perform meas
+the propos model is abl to detect driv fatigu effect .

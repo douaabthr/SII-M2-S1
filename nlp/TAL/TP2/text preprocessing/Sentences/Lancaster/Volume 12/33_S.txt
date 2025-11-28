@@ -1,0 +1,12 @@
+impl of self adapt mut fact and cross-over prob bas diff evolv algorithm for nod loc in wireless sens network
+nod loc or posit is ess for many posit aw protocol in a wireless sens network
+the class glob poison system us for nod loc is limit becaus of it high cost and it unavail in the indo environ
+so sev loc algorithm hav been propos in the rec past to improv loc acc and to reduc impl cost
+on of the popul approach of loc is to defin loc as a least squ loc lsl problem
+dur optim of lsl problem the perform of the class gauss newton method is limit becaus it can be trap by loc minim
+by contrast diff evolv de algorithm has high loc acc becaus it has an abl to determin glob optim solv to the lsl problem
+howev the converg spee of the conv de algorithm is low as it us fix valu of mut fact and cross-over prob
+thu in thi pap a self-adaptive mut fact cross-over prob bas diff evolv sa-mcde algorithm is propos for lsl problem to improv converg spee
+the sa-mcde algorithm adapt adjust the mut fact and cross-over prob in each gen to bet expl and exploit the glob optim solv
+thu improv loc acc with high converg spee is expect from the sa-mcde algorithm
+the rig sim result conduc for sev loc algorithm decl that the propos sa-mcde bas loc has about 40 90 mor loc acc ov the class techn .

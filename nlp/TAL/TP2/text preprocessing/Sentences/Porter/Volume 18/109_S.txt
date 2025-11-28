@@ -1,0 +1,9 @@
+quasi-opposition-bas learn in a shuffl particl swarm optim for solv frequenc modul sound paramet identif problem
+thi paper propos novel variant of the shuffl particl swarm optim spso algorithm for solv the frequenc modul sound paramet identif fmspi problem
+in the spso framework the popul is divid into sever parallel group and each group undergo an independ evolutionari process use particl swarm optim pso
+thi studi employ two distinct strategi to achiev an improv balanc between the explor and exploit capabl of the spso algorithm
+first it introduc a group-specif strategi for the inertia weight factor paramet which is dynam adjust for each group dure everi iter of the spso algorithm
+second to facilit an intensifi search in promis region of the solut space a quasi-opposition-bas strategi is incorpor into the spso
+experiment result on fmspi problem demonstr that the propos strategi significantli enhanc the perform of the spso algorithm
+also in order to demonstr the effect of propos algorithm ieee cec2014 test set is use and the obtain result are compar against three other shuffl algorithm includ sfl sce and sde
+as evidenc the wilcoxon signed-rank test of report result the propos algorithm demonstr statist superior perform versu all competitor .

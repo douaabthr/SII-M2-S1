@@ -1,0 +1,11 @@
+Evolutionary computation as an artificial attacker generating evasion attacks for detector vulnerability testing
+Intrusion detection systems protect our infrastructures by monitoring for signs of intrusions
+However intrusion detection systems are themselves susceptible to vulnerabilities which the attackers take advantage of to evade detection
+In particular we focus on evasion attacks in which the attacker aims to generate a stealthy attack that eliminates or minimizes the likelihood of detection
+Attackers achieve stealth by mimicking normal behaviour while achieving the attack goals hence bypassing the detector
+Previous work focused on generating evasion attacks using the internal knowledge of the detectors hence adopting a white-box access to the detector
+On the other hand we adopt a black-box approach and propose an evolutionary attacker based on Genetic Programming
+The access of our black-box approach is limited to the feedback of the detector such as anomaly rates and delays
+We compare our black-box approach with various white-box approaches to investigate its effectiveness
+In doing so the impact of anomalies from the break-in stage of the attacks and the delays based on locality frame counts are also discussed
+This is particularly important if the performance comparison is to reflect the real capabilities of detectors .

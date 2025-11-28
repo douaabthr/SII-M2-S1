@@ -1,0 +1,12 @@
+an improv binari particl swarm optim comb v-shape and u-shap transfer function
+featur select aim to find a best featur subset from all featur set of a given dataset which repres the whole featur space to reduc redund and improv classif accuraci
+the evolutionari comput algorithm is often appli to featur select but there exist low effici in the search process
+with the increas of the number of featur solv the featur select problem becom more and more difficult
+exist evolutionari algorithm have mani defect such as slow converg speed low converg accuraci and easi to fall into local optimum
+therefor the research of more effect evolutionari algorithm has import theoret signific and applic valu
+binari particl swarm optim bpso is a kind of evolutionari comput algorithm and has a good perform in featur select problem
+it use transfer function to convert the continu search space to the binari one
+transfer function play an import role in bpso
+so this paper propos an improv bpso by combin v-shape and u-shap transfer function and introduc a new learn strategi and a local search strategi base on adapt mutat
+the improv bpso enhanc it optim abil in featur select problem
+the experiment result show that the improv bpso has better dimens reduct abil and classif perform than other algorithm .

@@ -1,0 +1,13 @@
+a hybrid evs approach in clust search spac with ad-hoc partit for multi-robot search
+thi pap examin the problem of multi-robot target search in an unknown environ
+sint no inform is avail about the target so the search is simil to the expl problem
+in thi pap a new method is propos to improv the efficy of expl
+the object of the propos approach is to minim the expl tim by reduc the redund cov and comput overhead
+for expl the conceiv of fronty is being us
+the follow hypothes form in ord to improv the expl 1 introduc of an ad-hoc partit method to handl redund cov
+2 reduc of the search spac by clust group the fronty cel to minim the comput overhead
+3 introduc of method for robot next posit assign problem nam nearest frontier-clust cent method when a singl robot is search in the sub-region
+a hybrid of egypt vult and sim an bas approach when mor than on robot ar search within a sub-region
+perform of the propos approach is evalu through sim in two diff workspac with a team siz of 2 and 4 robot
+four diff perform meas nam redund cov object loc tim expl tim and expl perc ar consid to evalu the perform of the propos method
+result show that propos hybrid-evsa method complet expl much fast in both the workspac with the team siz of 2 and 4 robot as comp to oth stat of art approach due to low comput overhead and reduc redund cov .

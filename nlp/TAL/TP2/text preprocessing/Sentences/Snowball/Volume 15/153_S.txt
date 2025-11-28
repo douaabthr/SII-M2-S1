@@ -1,0 +1,5 @@
+design of distribut temperature-measur system base on 1 wire bus for ultra-kilometr frozen deep well
+the temperatur field of artifici freez curtain is a transient temperatur field chang with time
+in order to ensur the safeti of the project improv the timeli and accuraci of temperatur measur and ensur the safeti strength and effect water seal of the curtain it is necessari to implement the inform temperatur monitor control for the freez process
+accord to the applic environ of the freez monitor for the long distanc and multi measur point in the construct of the coal mine over a kilometr a monitor system of the frozen deep well which is develop by the 1 wire bus technolog is propos
+by use high-perform singl chip microcomput design pull-up and level detect drive circuit match cabl characterist imped and distribut digit temperatur measur cabl the 1 wire bus network monitor point can reach 55 and the transmiss distanc is over 1000 m which meet the current monitor requir of frozen deep well .

@@ -1,0 +1,16 @@
+research perceiv on ransomw attack a complet analys on conv auth protocol in network
+nowaday comput network and the internet is on the increas due to the prec that provid by them
+an enorm amount of inform is access and allow the us to shar the inform on an incred scal whil connect the network to the internet
+ev though the internet nat craft mor benefit stil it is pos by the limit becaus of the attack
+on of the spec typ of malicy softw attack is ransomw also cal malw that affect the system and restrict the us s access ov the system
+furth it fil til the pay of ransom
+thi malw is mad by lock the us s desktop and encrypt the us s fil
+thi has emerg as a crit threat in network sec sint each day the rais of ransomw get abund
+hent the predict of ransomw is consid as the maj problem by the research and num research ar going on ov thi issu
+thi survey plan to review the network sec model along with the auth protocol
+mor import the ransomw attack is also high cont in thi survey
+furth the lit analys on divers techn und network sec ar mad
+then the analys also focus on the algorithm us and is categ as protocol auth algorithm optim algorithm and oth techn
+moreov thi survey demonst a detail review of the cryptograph techn attack sim tool and cloud that ar exploit in the review pap
+addit the chronological review and the perform ar review und the network sec model
+fin thi pap exploit the research and describ the challeng on the network sec that can be us furth in the fut

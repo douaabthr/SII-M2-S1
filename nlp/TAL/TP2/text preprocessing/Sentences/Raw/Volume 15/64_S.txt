@@ -1,0 +1,9 @@
+Emotion recognition of speech signal using Taylor series and deep belief network based classification
+In the recent years one of the multidisciplinary research areas attracting the researchers is emotion recognition
+It is an important and challenging process to be achieved in emotional interaction
+Accordingly this work introduces the emotion recognition system by proposing the Taylor series based Deep Belief Network Taylor-DBN
+The noise present in the speech signal is removed through the speech enhancement process and then subjected to the feature extraction
+The features such as tonal power ratio Multiple Kernel Mel Frequency Cepstral Coefficients MKMFCC parameters and the spectral flux are extracted and provided as the training input to the proposed Taylor-DBN classifier for identifying the emotions present in the signal
+The experimentation is done with the help of the Berlin database real database 1 and the real database 2
+The experimental datasets contain the speech signals from different domain and language and the performance of the proposed Taylor-DBN has shown minimal variations in each domain and thus the proposed model is suitable for various domains
+The proposed Taylor-DBN outclassed other comparative models with Accuracy False Acceptance Rate FAR and False Rejection Rate FRR values of 0.97 0.0135 and 0.0165 respectively .

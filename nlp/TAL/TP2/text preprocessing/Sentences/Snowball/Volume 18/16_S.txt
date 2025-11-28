@@ -1,0 +1,10 @@
+optimis smib system stabil fopid control tune via harri hawk optimis
+current power system stabil design includ fuzzy-pid and lead-lag compens need help with adapt and complex in divers and evolv power system environ
+convent tune method like the newton raphson approach and optim strategi like particl swarm optim genet algorithm and cuckoo search algorithm face challeng in achiev optim perform for fraction order proport integr deriv fopid control
+there is a critic need for innov tune method that offer enhanc adapt and perform in complex power system stabil analysi
+this research contribut to the advanc of power system stabil analysi specif in smib system offer insight into optim fopid control util the innov harri hawk optim hho algorithm
+the work expect these find to broaden the implic for power system control and enhanc the stabil of singl machin infinit bus smib system thus foster the resili and reliabl of modern electr infrastructur
+the fopid control encompass fraction order paramet encompass proport integr and deriv gain integr order and deriv order each exert a substanti influenc on control respons and stabil
+this research har hho an optim techniqu inspir by natur to fine-tun fopid paramet
+the investig involv initi the smib model formul an object function to minim control error and employ hho iter to refin the fopid control
+the outcom reveal enhanc stabil diminish overshoot acceler settl time and transient respons .

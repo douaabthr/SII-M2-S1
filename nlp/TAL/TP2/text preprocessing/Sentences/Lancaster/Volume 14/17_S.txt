@@ -1,0 +1,11 @@
+gray level run leng matrix bas on vary illumin norm techn for text class
+text class und vary illumin condit is on of the most import challeng
+thi pap pres a new text class approach by tak the combin of robust illumin norm techn apply on gray level run leng matrix glrlm for text feat extract
+the purpos of select the grlm as text describ is that it extract inform of an im from it gray level run
+a set of consecut collinear pict point hav the sam gray level valu is consid as a gray level run
+the text mat us go through a deep chang in their im with vary in illumin and camer pos
+for inst keep al the paramet fix but just chang the scal and rot can result in a complet new text
+hent chang in gray level valu also occur
+deal with thes vary success by util grlm describ for text class is the main purpos of thi pap
+in the suggest approach 2d wavelet tan and trig tt norm method ar employ to compens illumin vary
+expery result on the brodatz vistex stex and alot databas show that the suggest approach improv the perform sign as comp to the class glrlm describ .

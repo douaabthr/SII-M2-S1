@@ -1,0 +1,12 @@
+optim sensor placement scheme for target coverag with minim interfer use bbo
+a wireless sensor network wsn consist of a group of energy-constrain tini devic call sensor which have sens process and communic capabl
+these sensor are deploy in a region of interest for monitor target or detect event and forward the process data to the sink node or gateway
+in ani wireless network scenario the target are to be cover by at least one sensor in the network in order to detect certain event
+maxim coverag along with improv energi effici of the network is a fundament issu in wsn
+therefor a biogeographi base optim bbo meta-heurist techniqu is employ to place sensor in the region of interest
+the propos scheme solv a multi-object problem use classic weight sum approach
+a fit function is deriv from combin of conflict object minimum interfer maximum target coverag and select of minimum number of sensor node along with connect of the network as a constraint
+the scheme select minimum number of sensor to deploy in the field of interest which maxim the target coverag by minim the interfer of sensor
+the propos scheme is test on random and grid deploy scenario
+final the scheme is compar with genet algorithm and random scheme
+the averag interfer energi loss on bbo-bas scheme is found to be 16% less than that of the ga-bas scheme and 60% less than that of a random-bas scheme .

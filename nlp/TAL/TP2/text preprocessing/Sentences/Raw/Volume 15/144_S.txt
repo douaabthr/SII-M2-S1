@@ -1,0 +1,9 @@
+A simple detection and generation algorithm for simple circuits in directed graph based on depth-first traversal
+This paper proposes a new algorithm for detecting and generating simple circuits within a directed graph
+Before generating all simple circuits in a directed graph the algorithm first detects whether there is a simple circuit in directed graph and the detection can divide the directed graph into trivial graphs or strongly connected components
+In the process of detecting the existence of simple circuit the algorithm repeatedly reduces the number of vertices in vertex set along with edge pruning
+Based on depth-first traversal we can get all simple circuits of the directed graph
+Especially instead of proceeding depth-first traversals based on all vertices the algorithm starts with a random vertex in a strongly connected component to reduce the number of depth-first traversals and obtain all simple circuits of this strongly connected component
+The difficulty of the algorithm is to detect and delete the repeated circuits in the process of generating all simple circuits which can reduce both the storage space and time complexity
+As a result the output of the algorithm does not contain any repeated circuits
+The algorithm simplifies the edge set of directed graphs and greatly reduces the number of depth-first traversals thereby reducing the computational complexity and improving the computational efficiency .

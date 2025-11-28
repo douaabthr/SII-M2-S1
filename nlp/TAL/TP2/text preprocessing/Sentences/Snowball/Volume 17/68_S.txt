@@ -1,0 +1,12 @@
+sight particl improv swarm optim by make particl awar of their surround
+population-bas meta-heurist use particl repres by d dimension point to encod candid solut to an optim problem
+the goal of this work is to introduc a new type of particl repres by a d dimension hypercub
+our new represent offer a field of view to swarm particl make them awar of their surround
+this give each particl it own coverag of the search space
+we evalu the effect of our approach in the perform of seven swarm-bas algorithm includ artifici bee coloni cuckoo search optim and particl swarm optim
+we use 30 well-known benchmark function and six differ number of dimens
+we compar the perform of the algorithm withblindandsightedparticl use mann-whitney test
+the result of our extens experi show thatsightedparticl perform at least as well asblindon in 93% of all scenario across differ algorithm benchmark function and number of dimens show signific better result 51% of the time
+we also propos a new scale which measur an algorithm s explor and exploit capabl and we use it to explain our result
+final we follow asightedswarm throughout the converg process show it abil to cover larg portion of the search space
+our take-hom messag is that ani swarm algorithm can adopt our particl represent in order to improv it perform becaus ani method can benefit from improv it exploit and explor capabl .

@@ -1,0 +1,12 @@
+lda-based onlin intellig cours recommend system
+with the rapid develop of internet technolog the numb of group particip in onlin learn is increas
+onlin learn interact and commun ar becom mor frequ
+onlin educ has grad form as a new typ of educ model
+on the on hand it bring gre conveny to stud and provid a new way of learn
+on the oth hand it also propos solv to the phenomenon of inform overload brought about by the rapid grow of learn resourc
+a distinct feat of onlin educ is interest-driven
+the tradit onlin educ cours recommend method has poor top cont due to the problem of dat spars
+for thi reason an onlin educ cours recommend method bas on the lda lat dirichlet alloc us interest model is design wher lda is an unsuperv machin learn method
+the lda us interest model is us to judg the us s pref for top obtain the us s interest in onlin educ cours and complet the recommend of onlin educ cours bas on thi
+fin the propos method is evalu us onlin learn websit dat
+the comparison result with three onlin cours recommend method show that the recommend method bas on the lda model has bet recommend effect and the recommend cours top ar mor cont which is mor suit for apply in onlin educ cours recommend .

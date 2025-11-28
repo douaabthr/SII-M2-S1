@@ -1,0 +1,18 @@
+Multi-resolution analysis and deep neural network architecture based hybrid feature extraction technique for plant disease identification and severity estimation
+The crop protection techniques using efficient plant disease identification are highly beneficial for Smart Agriculture Management which further decreases the gap between the demand/supply of consumers farmers
+However an efficient feature extraction technique is desirable to achieve high accuracy least graphical processing and low processing time for coloured images
+Therefore this work proposes a hybrid novel feature extraction technique for coloured plant leaf images to overcome these challenges
+This work is divided into two parts 1
+Plant disease identification and 2
+Plant disease severity estimation
+In this technique multiresolution analysis using large-scale coefficients of Discrete Wavelet Transform DWT is performed using orthogonal wavelets
+The orthogonal wavelets such as Daubechies Biorthogonal Symlets and Coiflets with appropriate vanishing moments are utilized to select significant features
+Then the Eigen decomposition of large-scale DWT-based coloured image features is utilized using Principal Component Analysis PCA where only the Eigenvalues with large variance are considered for further feature selection
+Several experiments are carried out for the selection of felicitous sub-bands decomposition levels
+The Deep Neural network DNNs architectures such as AlexNet ResNet 101 and Inception V3 are incorporated to classify the obtained features
+The DNNs operate on Convolutional Neural Networks which utilize the weights from pre-learned ImageNet Database classes to classify various classes
+The combination of DNNs with Transfer Learning and Fine Tuning is made to tune the parameters for better efficacy
+Experiments were performed on the PlantVillage Database which contains healthy/diseased images of plants such as Apple Corn Grapes and tomato leaves
+A new database is created by capturing the images of Rice Crop Leaves including healthy and diseased leaves
+A total of 8000 images are processed for disease identification
+The proposed technique provided 99% accuracy for disease identification task and 90% for disease severity estimation in the real-life Rice Dataset and outperformed the existing techniques in this field of research .

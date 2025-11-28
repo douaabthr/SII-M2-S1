@@ -1,0 +1,9 @@
+QoS based deliver model of the packages transportation by the passenger train and solution algorithm
+In recent years statistics show that the percentage of household consumption in GDP is getting higher and higher
+One of the subsequent influences is that the transport demand for packages has increased sharply
+Hence it is very necessary to propose diverse transport organization modes in accordance with the different situation in different countries
+A kind of new transportation mode multi-package multi-train pickup and delivery problem with time window MPMT-PDPTW is proposed in this paper
+It aims to achieve express package transportation with minimum cost and maximize utilization of luggage car of a passenger train at the same time
+Considering the multiple constraints such as limited carrying capacity fixed departing and accepting time we define thequality of service QoS as the evaluation criteria for package express transportation by the passenger train
+A kind of meta-heuristic algorithm greedy randomized adaptive search procedure GRASP is designed to make full use of the redundant capacity of railway luggage car
+An example is designed according to the railway passenger train timetable released byChina Railway Corporation CRC the assignment schemes of packages at different railway stations reveal that the new transportation mode proposed in this paper is feasible and practical in package express transportation and also has advantages in speed comparing with the highway and in transport cost over the airline .

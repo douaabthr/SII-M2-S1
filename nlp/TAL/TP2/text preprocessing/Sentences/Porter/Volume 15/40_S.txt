@@ -1,0 +1,16 @@
+a new metaheurist algorithm base on water wave optim for data cluster
+data cluster is an import activ in the field of data analyt
+it can be describ as unsupervis learn for group the similar object into cluster
+the similar between object is comput through distanc measur
+further cluster ha proven it signific for solv wide rang of real-world optim problem
+thi work present water wave optim wwo base metaheurist algorithm for cluster task
+it is seen that wwo algorithm is an effect algorithm for solv constrain and unconstrain optim problem
+but sometim wwo cannot obtain promis solut for complex optim problem due to absenc of global best inform compon and converg on prematur solut
+to address the absentia of global best inform and prematur converg some improv are inculc in wwo algorithm to make it more promis and effici
+these improv are describ in term of modifi search mechan and decay oper
+the absentia of global best inform compon is handl through updat search mechan
+while the prematur converg is address through a decay oper
+the perform of wwo algorithm is evalu use thirteen benchmark cluster dataset use accuraci and f-score paramet
+the simul result are compar with sever state of art exist cluster algorithm and it is observ propos wwo cluster algorithm achiev a higher accuraci and f-score rate with most of cluster dataset as compar to exist cluster algorithm
+it is also show that the propos wwo algorithm improv the accuraci and f-score rate an averag of 4% and 7% respect as compar to exist cluster algorithm
+further statist test is also conduct to valid the exist of propos wwo algorithm and statist result confirm the exist of wwo algorithm in cluster field .

@@ -1,0 +1,9 @@
+nature-inspired optimum-path forest
+the optimum-path forest opf is a graph-based class that model pattern recognit problem as a graph partit task
+the opf learn process is perform in a competit fash wher a few key sampl i.e. prototyp try to conqu the remain train sampl to build optimum-path tre opt
+the task of select prototyp is paramount to obtain high-quality opt thu being of gre import to the class
+the most us approach comput a minim span tre ov the train set and promot the sampl nearby the decid bound as prototyp
+although such methodolog has obtain prom result in the past year it can be pron to overfit
+in thi work it is propos a metaheuristic-based approach opfmh for the select of prototyp being such a task model as an optim problem whos goal is to improv acc
+the expery result show the opfmhc reduc overfit as wel as the numb of prototyp in many situ
+moreov opfmhachiev competit acc and outperform opf in the expery scenario .

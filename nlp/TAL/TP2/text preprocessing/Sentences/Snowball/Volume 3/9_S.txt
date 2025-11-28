@@ -1,0 +1,8 @@
+a two-object evolutionari approach to design lossi compress algorithm for tini node of wireless sensor network
+sinc tini node of a wireless sensor network wsn are typic power by batteri with due to miniatur and cost a limit capac with the aim of extend the lifetim of wsns and make the exploit of wsns appeal a lot of research has been devot to save energi
+although a number of factor contribut to power consumpt radio communic has been general consid it main caus and thus most of the techniqu propos for energi save have main focus on limit transmission/recept of data for instanc through data compress
+as sensor node are equip with limit comput and storag resourc enabl compress requir to develop purposely-design algorithm
+to this aim we propos an approach to generat lossi compressor to be deploy on singl node base on a differenti puls code modul scheme with quantize of the differ between consecut sampl
+the quantize level and threshold which allow achiev differ trade-off between compress perform and inform loss are determin by a two-object evolutionari algorithm
+we test our approach on four dataset collect by real wsn deploy
+we show that the lossi compressor generat by our approach can achiev signific compress ratio despit neglig reconstruct error and outperform ltc a lossi compress algorithm purpos design to be embed in sensor node .

@@ -1,0 +1,7 @@
+privacy-preserving dat aggreg in wbnas us neuro-evolutionary algorithm and post-quantum homomorph encrypt
+wireless body are network wban empow continu heal monit but fac formid challeng in safeguard sensit med dat und sev resourc constraint and loom quant threats
+we introduc ppda-nega-pqhe a revolv framework for privacy-preserving dat aggreg in wban integr lattice-based post-quantum homomorph encrypt pqhe a neuro-evolutionary genet algorithm neg an immune-inspired trust model game-theoretic advers defens and bio-inspired self-healing mech
+ppda-nega-pqhe tackl a multi-objective optim problem harmon sec energy efficy lat acc and resy with neg neural-inspired adapt ens robust perform amidst paty mobl and nod fail
+the immun trust model prec ident malicy nod game-theoretic strategies neut collud attack and self-healing tre bolst rely
+rig evalu on real-world med dataset rev unparallel perform 40 ms lat 0.8 mw pow consum and 0.8% aggreg er surpass hcel eemr and state-of-the-art protocol by 30 60%
+stat valid confirm it supery est ppda-nega-pqhe as a scal quantum-resistant cornerston for next-generation healthc iot redefin sec med monit .

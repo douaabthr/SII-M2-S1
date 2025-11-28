@@ -1,0 +1,11 @@
+vis top model for healthc dat clust
+soc med is a gre sourc to search health-related top for env solv toward healthc
+top model origin from nat langu process that is receiv much at in healthc area becaus of interpret and it decid mak which mot us to develop vis top model
+top model ar us for the extract of heal top for analys discrimin and coh lat feat of tweet docu in healthc apply
+discov the numb of top in top model is an import issu
+sometim us en an incorrect numb of top in tradit top model which lead to poor result in heal dat clust
+in such cas prop vis ar ess to extract inform for ident clust trend
+to aid in the vis of top cloud and heal tend in the docu collect we pres hybrid top model techn by integr tradit top model with vis proc
+we believ propos vis top model viz . vis non-negative matrix fact vnmf vis lat dirichlet alloc vlda vis intjnon-negative matrix fact vintjnmf and vis prob lat schematic index vplsi ar prom method for extract tend of heal top from vary sourc in healthc dat clust
+standard and benchmark soc heal dataset ar us in an expery study to demonst the efficy of propos model concern clust acc ca norm mut inform nmi precid p recal r f-score f meas and comput complex
+vnmf vis model perform sign at an increas rat of 32.4% und cosin bas met in the display of vis clust and an increas rat of 35 40% in perform meas comp to oth vis method on diff numb of heal top .

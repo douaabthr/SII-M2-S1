@@ -1,0 +1,9 @@
+enh reptil search algorithm with lévy flight for vehic cru control system design
+a vehic cru control vcc system is on of the real-world engin optim problem gain a consid at becaus of the concern rel to saf and cost-effectiveness
+a vcc system requir an efficy control method for appropry funct
+thi pap theref propos a proportional-integral-derivative pid control as a simpl yet effect structure for vcc system control
+to tun the pid control for efficy op a novel metah algorithm is also develop in thi pap which improv the perform of the reptil search algorithm via the integr of lévy flight conceiv
+thi pap then propos a new object funct by mod the perform index cal integr of tim multiply squ er in ord to increas the perform of the propos algorithm to effect adjust the pid paramet adopt in a vcc system
+the perform of the propos method is demonst comp us sev assess
+last comparison with the oth avail method in the lit is perform in ord to evalu the perform of the propos method from a wid perspect
+in thi way the propos method is shown to be an efficy approach to control a vcc system .

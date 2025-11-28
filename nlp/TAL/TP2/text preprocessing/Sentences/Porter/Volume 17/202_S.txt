@@ -1,0 +1,10 @@
+a multi-strategi slime mould algorithm for solv global optim and engin optim problem
+aim at the problem of slow converg low accuraci and easi to fall into local optimum of the slime mould algorithm sma we propos an improv sma ojesma
+ojesma improv the perform of the algorithm by combin strategi base on opposition-bas learn joint opposit select and equilibrium optim
+first we introduc an adversari learning-opposition-bas learn in gener the initi popul of slime mold
+second we incorpor a joint invers select strategi includ select lead opposit and dynam opposit
+final we introduc the balanc candid principl of the equilibrium optim algorithm into sma which enhanc the algorithm s optim search capabl and anti-stagn abil
+we conduct optim search experi on 29 test function from cec2017 and 10 benchmark test function from cec2020 as well as nonparametr statist analysi friedman and wilcoxon
+the experiment result and non-parametr test result show that ojesma ha better optim accuraci converg perform and stabil
+to further valid the effect of the algorithm we also perform optim test on six engin problem and the variabl index muskingum
+in summari ojesma demonstr it practic valu and advantag in solv variou complex optim problem with it excel perform provid new perspect and method for the develop of optim algorithm .

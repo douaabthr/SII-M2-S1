@@ -1,0 +1,8 @@
+Neural multi-task collaborative filtering
+In recommendation systems the rating matrix is often very sparse
+Collaborative filtering recommendation algorithms cannot be applied to sparse matrices or used in cold start problems
+Although the users trust relationships provide some useful additional information for recommendation systems the existing research has not incorporated the rating matrix and trust relationships well
+The trust relationship itself also has the problem of data sparsity
+With a focus on the problem of sparsity and low accuracy in collaborative filtering algorithms this paper proposes a general framework called neural multi-task collaborative filtering NMCF which can simultaneously predict the rating and trust relationships
+That is the rating of the same user in e-commerce platforms and the trust relationships in social networks promote and complement each other and help to improve the prediction accuracy of both
+The study results for three datasets of real-world show that our algorithm performs better in recommendation and the accuracy of the proposed algorithm is significantly improved compared with that of the comparison models .

@@ -1,0 +1,11 @@
+An improved hybrid genetic algorithm to construct balanced Boolean function with optimal cryptographic properties
+Boolean functions are used as nonlinear filter functions and combiner functions in several stream ciphers
+The security of these stream ciphers largely depends upon cryptographic properties of Boolean functions
+Finding a balanced Boolean function with optimal cryptographic properties is an open research problem in the cryptographic community
+Since the number ofn-variable Boolean functions is 2 2 n it is not computationally feasible to search the entire space of such functions for cryptographically significant functions when n ge 6
+In general the construction of Boolean functions with optimal or near optimal cryptographically significant properties is formulated as combinatorial optimization problems
+In this paper we apply the Genetic algorithm with the integration of a local search procedure called hybrid GA HGA searching for the Boolean functions with high nonlinearity and low autocorrelation
+The performance of the Genetic algorithm depends upon the tuning parameters such as crossover mechanism mutation probability selection criteria and the choice of fitness/cost function
+To achieve an optimal trade-off among two cryptographic properties the choice of the cost function plays an important role for finding an optimal solution
+So our main focus is to construct balanced Boolean functions using HGA with a new cost function and compare it with existing cost functions
+Our experimental results shows that the HGA is more efficient than GA and the new cost function is more efficient than existing cost functions for reaching the optimal solutions .

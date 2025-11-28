@@ -1,0 +1,10 @@
+adult content imag recognit by boltzmann machin limit and deep learn
+adult content imag have a detriment effect on internet user a signific number of whom are minor
+therefor it is essenti to control and detect adult content imag use multimedia process and comput vision techniqu
+previous studi have typic focus on manual-engin visual featur that may be difficult to detect and analyz
+this paper present a new model that employ deep convolut neural network within a gaussian-bernoulli limited-tim for adult content imag recognit of a wide varieti in a precis and effect manner
+there are various layer within convolut neural network for featur extract and classif
+gaussian-bernoulli limited-tim was use for featur extract to describ the imag and these featur were summar use the boltzmann machin limit in the featur summari phase
+the benefit of such an approach is conveni in carri out featur extract
+addit when test on the most modern criterion dataset this find is believ to be more precis compar to other state-of-the-art approach
+the result obtain prove that the propos approach lead to a higher effici .

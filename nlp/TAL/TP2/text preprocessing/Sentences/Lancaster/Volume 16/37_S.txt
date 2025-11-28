@@ -1,0 +1,8 @@
+fast part im encrypt with fuzzy log and chaot map
+the propos techn off an autom im encrypt as an altern to the man select encrypt of col im
+fuzzy rul bas on col detail ar apply to select the are to encrypt
+it can be us for sec commun of sensit part of the im without disturb the remain part of the im
+strength of thi algorithm is it spee immun to diff attack and entrop
+it is six tim fast as comp to the norm encrypt
+thi algorithm is mor suit for satellit im and med im
+it find an apply in the are of inform sec and dat forens wher im ar larg in siz .

@@ -1,0 +1,13 @@
+partic swarm optim for solv a scan-matching problem bas on the norm distribut transform
+in thi pap an evolv scan-matching approach is propos to solv an optim issu in simult loc and map slam
+a rich lit has been invest in thi direct howev most of the propos approach lack fast converg and simpl regard the optim process which should direct affect the acc of the environ s map and the estim pos
+it is a lin of research that is alway act off vary solv to thi issu
+among many slam method the norm distribut transform approach ndt has shown high perform wher num work hav been publ up to dat and many study demonst it efficiencywrtoth method
+nevertheless few work hav been interest to solv the optim issu
+the propos solv is bas on ndt scan-matching us partic swarm optim pso and it is dub ndt-pso
+the main contribut is to solv the pos estim problem bas on pso and it ndt map
+the perform of the ndt-pso approach hav been prov in real expery perform on a car-like mobl robot in both stat and dynam environ
+ndt-pso is test for diff swarm siz and the result show that 70 partic ar mor than enough to find the best partic whil avoid loc minim ev in loop clos
+the algorithm is also suit for real tim apply with an av runnnig tim of 145 rm ms for 70 partic and 70 it of the optim process
+thi valu can be furth reduc us few partic and it
+the acc of the propos approach is also evaluatedwrtoth slam method wid us among the robot op system commun and it has been shown that ndt-pso outperform thes algorithm .

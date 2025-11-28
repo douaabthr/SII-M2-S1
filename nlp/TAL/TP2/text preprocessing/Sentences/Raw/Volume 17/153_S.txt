@@ -1,0 +1,9 @@
+Model analysis and application case for complex multi-system evolutionary optimization
+A complex system is made up of multiple related and coupled subsystems
+Each subsystem has its own set of multiple constraints and objectives and is commonly found in real-world applications
+Biogeography-based complex system optimization BBO/Complex is a population-based evolutionary intelligence paradigm that has been developed to solve complex system problems
+The paper first presents the framework of the proposed method that consists of within-subsystem migration cross-subsystem migration and mutation operators
+Then a theoretical model of the proposed method is derived using Markov chain and the probability transition matrix of each operator along with the generalized multinomial theorem
+The model provides exact mathematical formulas that predict the limiting probabilities of optimization performance for each possible population in the proposed method
+Additionally simulation results of two sample problems which include multiple subsystems and multiple objectives confirm the Markov model derived
+Finally the performance of the proposed method is investigated on an application of a battery charging system and numerical simulation shows that the proposed method is a promising optimization method for the studied complex system .

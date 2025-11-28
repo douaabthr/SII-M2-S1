@@ -1,0 +1,8 @@
+xcsf with tile code in discontinu action-valu landscap
+tile code is an effect reinforc learn method that use a rather ingeni gener mechan base on 1 a care design paramet set and 2 the assumpt that nearbi state in the problem space will correspond to similar payoff predict in the action-valu function
+previous we extend xcsf with tile code predict and compar it to tabular tile code show that 1 xcsf perform as well as parameter-optim tile code while also 2 evolv individu paramet set in each problem subspac
+our comparison wa base on a set of well-known reinforc learn environ 2d gridworld and the mountain car that involv no action-valu discontinu and so pose no challeng to tabular tile code
+in thi paper we go a step further and test xcsf with tile code on a set of problem design to challeng tile code by introduc discontinu in the action valu landscap
+the new testb call mazeworld extend 2d gridworld with impenetr obstacl a conceptu simpl modif that can dramat increas the problem complex for tabular tile code
+we compar four version of xcsf with tile code each adapt a differ set of paramet to tabular tile code on four problem of increas complex
+we show that our system 1 need fewer train problem than standard tile code to reach an optim polici 2 it can evolv adequ code paramet in each subspac without ani previou knowledg and that 3 even when xcsf is not allow to evolv these paramet the genet algorithm will still adapt classifi condit to properli decompos the problem into subspac thu be much less sensit to the paramet set than tabular tile code .

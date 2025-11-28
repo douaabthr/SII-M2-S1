@@ -1,0 +1,7 @@
+an analys of weight init method in connect with diff act funct forfeedforward neur network
+the select of weight init in an art neur network is on of the key aspect and affect the learn spee converg rat and correct of class by an art neur network
+in thi pap we investig the effect of weight init in an art neur network
+nguyen-widrow weight init random init and xavy init method ar pair with fiv diff act funct
+thi pap deal with a feedforward neur network consist of an input lay a hid lay and an output lay
+the pair combin of weight init method with act funct ar examin and test and comp bas on their best achiev loss rat in train
+thi work aim to bet understand how weight init method in neur network in combin with act funct affect the learn spee in comparison aft a fix numb of train epoch .

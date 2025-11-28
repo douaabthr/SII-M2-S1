@@ -1,0 +1,8 @@
+fmpso fuzzy-dominance bas many-objective partic swarm optim
+the perform of multiobject evolv algorithm bas on pareto-dominance detery when apply to many-objective problem which ar the problem hav high than three object
+in view of thi vary altern dominance-based approach hav been suggest in the lit
+anoth maj concern in solv thes problem is the select of prop vary op for expl the problem s solv spac
+thi work propos a new algorithm fuzzy-dominance bas many-objective partic swarm optim fmpso that address thes two concern
+it us the ex smpso as bas algorithm and replac the pareto-dominance techn us in it with fuzzy-dominance as optim crit
+addit a novel arch upd scheme is introduc which provid improv converg along with the arch refin scheme which giv enh divers of solv
+we hav conduc a numb of expery on the propos method us standard benchmark problem and hav got improv result for fmpso ov oth compet approach .

@@ -1,0 +1,9 @@
+lvp extract and triplet-based seg for diabet retinopathy recognit
+til now the detect of diabet retinopathy seem to be on of the sensit research top sint it is rel to heal car of any individ
+a numb of contribut in term of detect already ex in the dic stil ther pres som problem regard the detect acc
+thi issu mot to develop a new detect model of diabet retinopathy and moreov thi model tel the sev of retinopathy from the giv fund im
+the propos model includ preprocess seg feat extract and class stag
+her triplet half band filterbank thfb seg is perform loc vect pattern lvp is us for extract the feat principl compon analys pca proc is us to reduc the dimend of the feat vect and neur network nn is us for class purpos
+the propos model comp it perform ov oth conv class lik support vect machin svm k nearest neighb k-nn and navy bay nb in term of posit and neg meas
+the posit meas ar acc spec sensit precid neg predict valu npv f1-score and matthew correl coefficy mcc
+simil the neg meas ar the fals posit rat fpr fals neg rat fnr and fals discovery rat fdr and the efficy of the propos model is prov .

@@ -1,0 +1,11 @@
+deep learn applic in the internet of thing a review tool and futur direct
+the emerg of the internet of thing iot ha enabl the prolifer of interconnect devic and sensor gener vast amount of often complex and unstructur data
+deep learn dl a subfield of machin learn ml ha shown great promis in address the challeng of process and analyz such data
+consid the increas import of dl and data analysi we decid to review the articl of the last few year in thi field to pave the way for research
+in thi articl we use the systemat literatur review slr method and in line with that we select and analyz 56 articl publish from 2019 to april 2024
+we first discuss the dl model use in the iot field and clarifi their specif use case
+secondli we outlin an analysi of research area in dl-base iot
+in addit our research extend to the tool and simul use to evalu studi in the dl-base iot domain
+we also examin the dl-base iot research dataset
+final our review identifi futur direct and open issu in dl-base iot
+we aim to contribut to an accur understand of the current state challeng and potenti breakthrough at the intersect of dl and the iot .

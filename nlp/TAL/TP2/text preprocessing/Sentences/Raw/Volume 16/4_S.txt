@@ -1,0 +1,15 @@
+Protein remote homology detection combining PCA and multiobjective optimization tools
+Protein remote homology detection PRHD is one of the intense researched and a complex problem in computational biology
+The objective of PRHD is to predict the structural and functional characteristics of un-annotated protein sequences by means of homologies
+Two sequences are said to be homologous if there exists a shared ancestry between them
+It aims to detect the evolutionary relationships among protein sequences that are distantly located via computational techniques
+Prediction of functions of protein sequences are computationally intensive
+Features extracted from protein sequences are too high and presence of insignificant redundant features degrades the performance of computational model with respect to time and cost
+Hence using Principal Component Analysis PCA the high dimensional input matrix was transformed into a lower dimension matrix
+In the first stage for each protein sequence 531 physico-chemical properties from AAIndex database are considered as features for homology detection
+The protein sequences are taken from protein families from UniProtKB database
+A set of 185 representative features have been extracted from 531 features using PCA
+In the second stage NSGA II and NSGA III two powerful optimization techniques are used to efficiently search the non-zero eigen space and retrieve distinguishable eigen vectors
+This work is tested on widely used Uniprot and SCOP benchmark datasets
+To check the efficiency of both the algorithms the controlling parameters are kept same and numerical simulations were performed
+NSGA-III outperformed NSGA-II in the results .

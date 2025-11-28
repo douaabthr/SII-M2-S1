@@ -1,0 +1,10 @@
+robust and lossless data privaci preserv optim key base data sanit
+privacy-preserv data mine ppdm is the most signific approach on data secur in which more research work is under progress
+this paper intend to propos a new ppdm model that includ two phase data sanit and restor
+initi associ rule get extract for proceed the mention phase
+the first and foremost tactic on the propos privaci preserv model is the generat of the optim key that is use to produc the sanit data from the origin data
+the same key take complet respons for process the data restor process by the receiv
+as the key extract play a major role this paper intend to propos a new hybrid algorithm trial base updat on whale and particl swarm algorithm tu-wpa for select the optim key
+the propos method is the combin of particl swarm optim and whale optim algorithm
+more import the research issu such as hide failur rate inform preserv rate fals rule generat and degre of modif are minim through the propos sanit and restor process
+final the perform of the propos tu-wpa model is verifi over other convent model .

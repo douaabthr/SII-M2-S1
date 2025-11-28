@@ -1,0 +1,5 @@
+Correction to Emotion recognition of speech signal using Taylor series and deep belief network based classification
+In the online published article corresponding author has missed to update the following affiliation Research scholar
+Sathyabama Institute of Science and Technology Chennai India
+The current affiliation is given below
+The original article has been corrected .

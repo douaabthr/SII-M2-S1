@@ -1,0 +1,11 @@
+a hybrid of cuckoo search and partic swarm optim for solv nonlinear system
+in num comput on of the most strenuous problem is to solv system of nonlinear equ
+it is known that tradit num method such as newton method and their vary requir differenty and/or good init guess for the solv
+in pract it wil be difficult to get thi init solv and cost in term of the tim to comput jacob
+theref ther is a nee to develop an algorithm to avoid the requir of thes tradit method
+thi study propos a new hybrid algorithm by incorp cuckoo search cs with partic swarm optim pso cal cspso for solv system of nonlinear equ
+the goal of the hybrid between cs and pso is to incorp the best attribut of two algorithm togeth to structure a good-quality algorithm
+on of the disadv to cs it requir a larg numb of funct evalu to get the optim solv and to pso it is trap into loc minim
+our propos hybrid algorithm attempt to overcom the disadv of cs and pso
+comput expery of nin benchmark system of nonlinear equ and 28 benchmark funct of cec 2013 with vary dimend ar apply to test the perform of cspso
+comput result show that cspso outperform oth ex algorithm by obtain the optim solv for most of the system of nonlinear equ and 28 benchmark funct of cec 2013 and rev it eff in the comparison with oth algorithm in the lit .

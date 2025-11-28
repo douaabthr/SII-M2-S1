@@ -1,0 +1,11 @@
+op prob aw miss plan on express tre us evolv comput
+miss plan solv tak an input miss spec by us bool and temp log op howev the techn hav an expon complex for ver that restrict solv to smal problem siz on
+heuristic-driven class plan techn cannot model temp constraint and hav expon comput complex
+op research problem lik the gen of the vehic rout problem hav been solv for hug problem siz us sev evolv and metah approach
+howev the cur vary do not allow problem to be tak as a form express us the back naur form nor the prob avail of the sit
+thi pap is at the conflu of class plan temp plan and the gen of the vehic rout problem
+the propos approach model an express tre consist of conjunct disjunct and the sequ op which is first solv in a greedy man us a bottom-up travers of the tre
+the solv return a pareto front of solv us prob and cost as the two object
+the algorithm is extend to multipl robot
+a genet algorithm is us for furth optim
+result show a bet perform than optim baselin ov problem siz that the class approach cannot solv .

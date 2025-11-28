@@ -1,0 +1,3 @@
+Train RBF networks with a hybrid genetic algorithm
+
+RBF neural networks are well established tools for classification and regression problems. This article adapts a hybrid genetic algorithm to estimate the main parameters of the network. The proposed method utilizes a genetic algorithm in a conjunction with a local search procedure and a termination rule. The method is tested against other RBF variants on a series of well-known problems from the relevant literature and the results are reported.

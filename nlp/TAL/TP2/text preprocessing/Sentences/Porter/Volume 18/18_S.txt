@@ -1,0 +1,20 @@
+compar analysi of accuraci and comput complex across 21 swarm intellig algorithm
+nonlinear complex optim problem are preval in mani scientif and engin field
+tradit algorithm often struggl with these problem due to their high dimension and intric natur make them time-consum
+mani research have propos new metaheurist algorithm inspir by biolog behavior in natur which compar show higher perform and accuraci than tradit optim algorithm
+nature-inspir algorithm particularli those base on swarm intellig offer adapt and effici solut to these challeng
+in recent year swarm intellig algorithm have made signific advanc
+classic and cec benchmark suit are immers use for studi the perform of optim algorithm
+accord to our literatur survey we identifi that mani algorithm were evalu base on accuraci
+current swarm intellig algorithm are use in mani applic and effici and comput complex need to be evalu
+a broad-level studi of the comput complex and accuraci of popular swarm intellig algorithm ha not been done recent
+therefor thi studi we comprehens evalu and compar 21 bio-inspir swarm intellig algorithm on eight non-separ unimod eight separ unimod five non-separ multimod seven separ multimod function and two cec 2018 mani object function
+we studi the structur and mathemat model of the select algorithm
+then we categor select algorithm into six differ behavior group
+we calcul the root mean squar error between expect and actual valu
+then we perform an rmse cross-valid statist test to understand how accur an algorithm resolv an averag problem
+we found that artifici lizard search optim also is the most promin algorithm in accuraci and effici
+besid that cat swarm optim cso squirrel search algorithm ssa and chimp optim algorithm choa-b are also consid more univers algorithm
+the squirrel search algorithm ssa is also s second-best algorithm in time complex
+wasp swarm algorithm wso and bat-inspir algorithm ba present the lowest time complex
+final sever import issu and research direct are discuss .

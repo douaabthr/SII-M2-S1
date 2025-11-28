@@ -1,0 +1,11 @@
+a new diff evolv algorithm for coop fuzzy rul min apply to anoma detect
+fuzzy class rul min can be consid as a challeng optim problem with the purpos of extract acc and interpret rul
+thi pap deal with a michig coop approach for min fuzzy rul
+the propos algorithm nam ede-frminer us an enh diff evolv that evolv pop of individ each on repres a singl rul
+the whol pop collab to gen in on shot an acc and reduc numb of rul
+ede-frminer is an intellig process of evolv that us fast arithmet op and a new coop weight mem
+thi lat allow shar inform between individ
+in addit it us a new threshold bas fit funct us a redefin support and confid meas
+the adapt threshold mech us in the fit funct aim to adapt the min system to problem with dynam train dat
+expery ar carry out us the nsl-kdd 99 intrud detect dat set and oth dat set from the uc reposit
+a comp study with oth competit evolv rul bas system is perform and the result show the effect of propos algorithm .

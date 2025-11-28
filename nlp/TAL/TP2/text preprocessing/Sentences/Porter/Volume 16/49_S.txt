@@ -1,0 +1,7 @@
+a survey of imag encrypt for healthcar applic
+recent medic imag encrypt ha attract mani research becaus of secur issu in the commun process
+the recent covid-19 ha highlight the fact that medic imag are consist creat and dissemin onlin lead to a need for protect from unauthoris utilis
+thi paper intend to review the variou medic imag encrypt approach along with their merit and limit
+it includ a survey a brief introduct and the most utilis interest applic of imag encrypt
+then the contribut of review approach are summaris and compar regard differ technic perspect
+lastli we highlight the recent challeng along with sever direct of potenti research that could fill the gap in these domain for research and develop .

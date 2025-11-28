@@ -1,0 +1,9 @@
+adv and bibliograph analys of partic swarm optim apply in elect pow system conceiv and vary
+pow system apply oft requir solv on or multipl optim problem which ar nonlinear
+due to the limit such as dimend constraint and slow converg as off by the analys method swarm intelligence-based method hav emerg as a pract optim problem solv altern
+partic swarm optim pso a well-known memb of the swarm intelligence-based famy has been acknowledg as an efficy solv for nonlinear extend optim problem
+on the on hand thi artic provid insight on bas not and progress of the pso in pow system apply and cas study highlight the best perform of pso and it vary
+techn vis ess for the apply of pso lik it form partic pres and the most compet fit funct ar also depict for the respect apply
+on the oth hand it pres a comprehend bibliograph analys of 144 high-impact journ artic concern the promin apply of pso as an optim method in pow system hav mor than twenty cit and ord by the numb of cit in descend ord
+the outcom of thi bibliograph scrutiny demonst that elsevy ie and springer artic ar the most sign
+it also recogn the most influ and high-impact journ and countries/region .

@@ -1,0 +1,10 @@
+mess broadcast by opportun commun on unit disk graph
+opportun commun is on of the key technolog in the are of advert inform shar disast evacu guid in delay-tolerant network dtns vehicul ad hoc network vanet and so on
+the efficy of opportun commun is correl with the mov pattern
+random walk ar oft us as the mov pattern of a pedest
+ev amongst thos lévy walk that is a famy of random walk is attract at as a hum mov pattern
+ther ar lot of work of lévy walk in the context of target detect in swarm robot analys hum walk pattern and model the behavy of anim for in rec year
+accord to thes result it is known as an efficy method to search and com across on anoth in a two-dimensional plan
+howev al thes work assum a continu plan and hard any result on graph ar avail
+in thi pap we assum ag mov on a unit disk graph and show the impact of the mov pattern bas on lévy walk and homesick lévy walk to the efficy of mess broadcast by them
+our sim result show that the config of lévy walk and homesick lévy walk mov pattern with the smal scal paramet diffus a mess efficy comp to it with the larg on .

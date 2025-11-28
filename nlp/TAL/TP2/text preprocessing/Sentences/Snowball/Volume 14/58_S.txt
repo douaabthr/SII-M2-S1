@@ -1,0 +1,10 @@
+soft comput approach for multi-object task alloc problem in wireless sensor network
+sensor node of a wireless sensor network wsn are resourc constrain and the real time applic of wsn may exceed the comput capac of a particular sensor node
+thus such real-tim applic of wsn cannot be complet by a singl sensor node in mani case but the problem can be solv by distribut the task among multipl sensor node
+thus given a set of sensor node and a comput heavi task to be execut to find best suitabl set of sensor node from the avail sensor node to complet the assign task is an import research problem in the wsn domain
+this allow the system to util the resourc of a sensor node in a better way and to enhanc the parallel process capac of wsn
+the sensor node should be select for a task such that with the select set of node the task can be complet in an effici manner in term of resourc consumpt
+the problem of task alloc is to select best suitabl set of sensor node for a task consid the energi consumpt communic over head network life time and comput requir
+in this paper we propos two method for this problem name modifi multi-object binari particl swarm optim mombpso and non-domin sort genet algorithm-ii nsga-ii for task alloc in wsn
+we carri out extens simul experi with vari number of iter sensor node and number of task
+simul result show that modifi binari pso perform better in term of energi consumpt and nsga-ii is perform better in term ofspreadof solut compar to mombpso .

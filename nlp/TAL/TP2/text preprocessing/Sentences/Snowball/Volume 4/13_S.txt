@@ -1,0 +1,11 @@
+paramet control of metaheurist with genet fuzzi system
+this paper introduc a genet fuzzi system for paramet control of metaheurist
+two basic metaheurist have been consid as exampl genet algorithm and tabu search
+the control paramet of the tabu search are the short and long term memori
+paramet of the genet algorithm under control are the mutat and reproduct rate
+fuzzi rule-bas model offer a natur mechan to describ global behavior as a combin of control rule
+they also inherit a mean to gradual shift between control rule which joint defin a control strategi
+they are a natur candid to construct paramet control strategi becaus they provid a way to develop decis mechan base on the specif natur of search region and transit between their boundari
+an applic exampl use the classic vehicl rout problem with time window is includ to evalu the genet fuzzi system perform
+experiment result show that gfs-control metaheurist improv search behavior and solut qualiti when compar against standard constant paramet genet and tabu search approach
+it also provid reason good suboptim solut faster than special tailor exact method report in the literatur .

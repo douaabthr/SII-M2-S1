@@ -1,0 +1,9 @@
+pearclust a novel clust algorithm with an apply to bik mobl
+bik shar system bss hav becom a key solv for urb mobl reduc traffic-related co_2 emit
+howev man bss pos challeng that requir data-driven solv particul for understand their glob behavy and forecast their evolv
+thes dynam ar from the interact among us company dock stat and city policy influ by sociolog and infrastructure-based fact
+thi pap propos a novel clust methodolog to analys bss dat across multipl city
+by clust station-day tupl instead of aggreg stat our approach capt season pattern spec ev and weekday/weekend diff
+us pearson correl as a dist met it remain robust across diff stat siz and system scal
+train on three europ bss and evalu across six city from 4 diff country our model uncov mean pattern such as work resid and leis area as wel as season chang ev in system not us in the train process
+thes insight enh bss man expand and decision-making with apply in monit anoma detect and demand predict .

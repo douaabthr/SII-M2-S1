@@ -1,0 +1,10 @@
+An Intelligent Programmed Genetic Algorithm with advanced deterministic diversity creating operator using objective surface visualization
+This paper presents a new fast Intelligent Programmed Genetic Algorithm IPGA based evolutionary optimization algorithm which requires lesser number of objective function evaluation for reaching optima
+The proposed algorithm apart from using probabilistic genetic operator i. e
+crossover and mutation also uses a deterministic diversity creating operator for generating new solution in the current population
+This is done by first projecting objective surface from higher dimension to lower dimension for visualization purpose and then deterministically generates new solution using some predefined rules in the region with higher objective function value
+As the newly generated solution is in lower-dimensional space these solutions are again projected back to higher dimensional space and then the objective function is evaluated at that point
+The proposed IPGA is tested on three different categories of standard test functions viz
+Unimodal function 2 Test Function Unrotated Multimodal function 6 Test Function and Rotated Multimodal function 5 Test Function
+Simulation results were compared with that obtained using Binary Coded GA Real Coded GA recently proposed GA with Differential Evolution crossover operator GA DEx and another success-history-based adaptive GA with aging mechanism GA aDExSPS in terms of mean and standard deviation of the objective function average number of objective function evaluation required to reach optima and algorithmic complexity
+Simulation results clearly demonstrate better performance of the proposed IPGA when compared with other variants of GAs .

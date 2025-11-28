@@ -1,0 +1,9 @@
+an approach for optimal-secure multi-path rout and intrud detect in manet
+mobl ad-hoc network manet is dynam in nat that is suscept to energy and sec constraint
+among most of the ex techn energy optim was a hect challeng which is address effect us the rout protocol
+accord thi pap propos an effect multipa rout protocol in manet bas on an optim algorithm
+the energy and the sec cris in the manet ar address effect us the clust head ch select and intrud detect strategies nam fuzzy clust and fuzzy naiv bay fuzzy nb
+then the multipa rout progress us the sec nod bas on the rout protocol bird swarm-whale optim algorithm bswoa which is the integr of bird swarm optim bsa in whal optim algorithm woa
+the select of the optim rout is bas on fit fact such as connect energy trust and throughput
+the analys of the method is don us the attack such as flood blackhol and select packet drop bas on the perform met
+the propos bswoa acquir the maxim energy throughput detect rat and a minim delay of 9.48 joul 0.676 bps 69.9% and 0.00372 ms in the pres of the attack .

@@ -1,0 +1,9 @@
+evolv intellig for brain tum recognit from mri im a crit study and review
+in med im analys brain tum recognit through med reson im mri is a challeng task becaus of the complex structure of the brain and high divers in appear of tum tissu
+hent the nee for efficy and object tum recognit techn is increas for clin acceiv as wel as routin clin apply
+prop brain tum recognit provid anatom inform of abnorm tissu in the brain which help the doct in plan tre
+the lit pres vary techn for brain tum recognit
+thi review artic aim to provid a comprehend survey of mri bas brain tum recognit techn bas on evolv intellig and seg
+accord vary research pap rel to brain tum recognit ar review and survey taxonom is pres cent on seg and class bas tum recognit techn
+bas on the review the analys is provid bas on feat extract techn im dataset impl tool evalu meas and result
+fin we pres vary research issu which ar us for research to furth research in brain tum recognit techn .

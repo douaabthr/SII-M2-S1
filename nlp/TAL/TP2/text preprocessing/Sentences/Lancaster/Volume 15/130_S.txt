@@ -1,0 +1,9 @@
+autom sleep stag class with reduc epoch of eeg
+in the rec year analys of electroencephalogram eeg sign has play vit rol in autom sleep scor techn
+class of sleep stag help in understand sleep rel issu
+man analys of sleep scor is cost tedy and time-consuming process
+it is ess to design an autom sleep scor techn which is conveny to paty and simpl the diagnost process us eeg sign
+impl of such techn en expert to ident sleep rel issu
+in thi pap eeg sign ar record for 60 subject and preprocess us infinit impuls respons iir filt
+sleep stag ar class into three maj stag viz stag 1 2 and 3 with 10 s epoch dur us stat feat of eeg and machin learn algorithm with five-fold cross valid
+propos method is mor feas for phys to diagnos sleep disord and prov to be the bet techn with improv acc comp to oth ex study .

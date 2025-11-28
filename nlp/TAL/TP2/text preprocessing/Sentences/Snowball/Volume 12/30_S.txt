@@ -1,0 +1,12 @@
+chemic reaction optim survey on variant
+chemic reaction optim cro is a recent establish popul base metaheurist for optim problem inspir by the natur behavior of chemic reaction
+optim is a way of ensur the usabl of resourc and relat technolog in the best possibl way
+we experi optim problem in our daili live while some problem are so hard that we can at best approxim the best solut with heurist or metaheurist method
+this search cro algorithm inherit sever featur from other metaheurist like simul anneal and genet algorithm
+after it invent it was success appli to various optim problem that were solv by other metaheurist algorithm
+the robust of cro algorithm was prove when the comparison with other evolutionari algorithm like particl swarm optim genet algorithm simul anneal ant coloni optim tabu search bee coloni optim etc
+show the superior result
+as a result the cro algorithm has been start to use for solv problem in differ field of optim
+in this paper we have review the cro base algorithm with respect to some well-known optim problem
+a brief descript of variant of cro algorithm will help the reader to understand the diversifi qualiti of cro algorithm
+for differ problem where cro algorithm were use the studi on paramet and the experiment result are includ to show the robust of cro algorithm .

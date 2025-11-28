@@ -1,0 +1,5 @@
+Application of grey wolf optimization algorithm for load frequency control in multi-source single area power system
+In this paper application of evolutionary intelligence-based Grey Wolf Optimizer GWO algorithm has been presented to estimate the optimal parameters of Proportional-Integral-Derivative PID controller for load frequency control LFC in multi-source single area power network
+The multi-source single area power network which is considered here is comprised of reheat turbine thermal power plant gas power plant and hydro power plant with the mechanical hydraulic governor
+In this paper the parameters of PID controller for LFC of under study system are optimized using GWO algorithm by considering four important performance indices instead of considering one or two namely Integral of Time-weighted Squared Error ITSE Integral of Time-weighted Absolute Error ITAE Integral of Squared Error ISE and Integral of Absolute Error IAE
+The implemented technique has been compared with Genetic Algorithm GA technique for 1% 2% and 5% load disturbances to show the effectiveness and applicability for LFC in multi-source single area power network .

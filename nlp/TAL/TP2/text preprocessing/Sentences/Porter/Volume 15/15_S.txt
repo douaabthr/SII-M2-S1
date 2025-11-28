@@ -1,0 +1,10 @@
+metaheurist on time seri cluster problem theoret and empir evalu
+consid the literatur and the import of use of the metaheurist techniqu in time seri data mine task especi time seri cluster tsc it seem lack of a compar studi of such techniqu in term of effici for tsc problem
+henc we tri to offer the possibl of theoret and empir evalu of metaheurist techniqu in tsc problem
+in fact we follow two main goal by perform thi theoret and empir evalu
+these goal includ at the first we would like to prove the effect role of metaheurist techniqu to enhanc the effici of tsc algorithm elimin some challeng of such algorithm e.g. sensit to initi of some primari paramet and indic the popular of their use in tsc problem dure the last year becaus of their characterist
+second we would like to offer the possibl of a comparison between some metaheurist techniqu to analyz the percentag of their effect for enhanc the accuraci of cluster result in tsc problem
+the compar analysi of result of the empir evalu for ten standard time seri data set collect from the ucr time seri data set repositori show three key conclus 1 gener metaheurist techniqu have provid reason result and signific improv in term of effici in tsc problem in all experi due to the main characterist of metaheurist that is find an approxim solut more quickli
+but it is conclud that fuzzi metaheurist techniqu base on popul solut class e.g. fatpso and fpso to provid better result versu singl solut class in tsc algorithm
+2 it is deduct that consum maximum comput time present by fuzzi metaheurist techniqu in comparison to other optim techniqu in the perform experi
+3 the paper ha propos that a hybrid of fuzzi metaheurist e.g. fatpso and the base tsc algorithm can be consid as a more adequ choic to present better result in term of accuraci in differ applic area .

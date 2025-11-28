@@ -1,0 +1,9 @@
+quant machin learn for support vect machin class
+quant machin learn aim to execut machin learn algorithm in quant comput by util pow law lik superposit and entangl for solv problem mor efficy
+support vect machin svm is prov to be on of the most efficy class machin learn algorithm in today s world
+sint in class system as dataset becom complex or mix up the svm kernel approach tend to slow and might fail
+hent our research is focus to examin the execut spee and acc of quant support vect machin class comp to class svm class by prop quant feat map select
+as the siz of the dataset becom complex a prop feat map has to be select to outperform or eq perform the class
+hent the pap focus on the select of the best feat map for som benchmark dataset
+addit expery result show that the process tim of the algorithm is consid reduc concern class machin learn
+for evalu of quant comput ov the class comput quant lab from the ibmq quant comput cloud hav been us .

@@ -1,0 +1,8 @@
+masca pso base llrbfnn model and improv fast and robust fcm algorithm for detect and classif of brain tumor from mr imag
+a novel modifi adapt sine cosin optim algorithm masca integr with particl swarm optim pso base local linear radial basi function neural network llrbfnn model ha been propos for automat brain tumor detect and classif
+in the process of segment the fuzzi c mean algorithm base techniqu drastic fail to remov nois from the magnet reson imag
+so for reduct of nois and smoothen of brain tumor magnet reson imag an improv fast and robust fuzzi c mean algorithm segment algorithm ha been propos in thi research work
+the gray level co-occurr matrix techniqu ha been employ to extract featur from brain tumor magnet reson imag and the extract featur are fed as input to the propos modifi asca pso base llrbfnn model for classif of benign and malign tumor
+in thi research work the llrbfnn model s weight are optim by use propos masca pso algorithm which provid a uniqu solut to get rid of the hectic task of radiologist from manual detect
+the classif accuraci result obtain from sine cosin optim algorithm pso and adapt sine cosin optim algorithm integr with particl swarm optim base llrbfnn model are compar with the propos masca pso base llrbfnn model
+it is observ that the result obtain from the propos model show better classif accuraci result as compar to the other llrbfnn base model .

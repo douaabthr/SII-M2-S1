@@ -1,0 +1,6 @@
+a polychrom set the bas algorithm for the input/output scheduling problem in as/rss
+thi pap propos a hybrid polychrom set the bas genet algorithm ga for the input/output scheduling problem of autom stor and retriev system as/rss
+in ord to overcom the drawback of precocy phenomen and lack of stabl of the ga a novel hybrid model through integr of genet algorithm ga and polychrom set the ps is propos
+dur the solv process polychrom set conto mat is us to assign input/output good loc reason to improv the qual of init pop
+dur the it process sim an algorithm sa is invok to jump out of the loc optim to obtain a satisfact solv
+the expery result show that the hybrid ps-sa-ga genet algorithm has obvy adv in solv the input/output scheduling problem the introduc of conto matrix constraint mod can effect improv the qual of init pop the sim an algorithm is invok to reduc the poss of prem converg and the glob optim solv can be obtain efficy .

@@ -1,0 +1,7 @@
+combin of genet algorithm and k-means for a hybrid top model tour us cas
+in rec year the prol of tour expery shar on soc med platform has led to the est of tour forum as a prev med for express opin and discuss travel expery glob
+thi emerg trend has mot research to expl for review consid as big dat to extract valu insight
+acc ident the top within each review pres a sign challeng due to the heterog and complex of the dat as wel as the divers rang of subject within the tour domain and reg vary worldwid
+the abl to acc defin review top and cre clust of rel top hold consid pot for inform decision-making process for both tour and tour op
+thi study pres a novel clust architect that combin genet algorithm and k-means along with a hybrid top discovery approach integr lat dirichlet alloc and bidirect encod repres from transform
+the propos method aim to predict and analys the most promin top within the context of tour shop destin in morocco .

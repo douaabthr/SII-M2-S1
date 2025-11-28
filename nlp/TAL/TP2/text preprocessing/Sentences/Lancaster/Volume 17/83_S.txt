@@ -1,0 +1,11 @@
+eeg sign class us a new rad bas funct neur network and jellyf meta-heuristic algorithm
+the purpos of thi pap is to investig a new method for eeg sign class
+a pow method for detect thes sign can gre contribut to area such as mak robot arm for dis peopl mind read and lie detect tool
+to thi end thi study mak two interest contribut
+as a maj contribut a new class bas on a rad bas funct neur network rbfnn is pres
+as the cent determin method of a rbfnn class has a high impact on the fin class result we hav adopt jellyf search js algorithm for choos the cent of the gauss funct in the hid lay of the rbfnn class
+addit loc linear embed lle techn is investig for reduc the dimend of eeg sign
+two sery of vary expery ar design to valid our propos
+in the first set of the expery the propos rbfnn class is comp with oth state-of-the-art rbfnn class
+in the second set of the expery the perform of the propos eeg sign class ar evalu on a challeng dataset for eeg sign class
+the expery result demonst the supery of our propos method ev comp to the method bas on the convolv neur network .

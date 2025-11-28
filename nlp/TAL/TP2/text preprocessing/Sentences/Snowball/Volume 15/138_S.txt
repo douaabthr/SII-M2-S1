@@ -1,0 +1,8 @@
+a kriging-bas multi-point sequenti sampl optim method for complex black-box problem
+the general effici global optim gego algorithm assist by krige model can solv black-box problem of complex comput
+howev a singl sampl point obtain in each iter process may caus longer objective-evalu time and slower converg speed in contrast with multi-point sampl optim method
+for this a kriging-bas multi-point sequenti sampl optim kmsso method is present
+the propos method use uncertainti estim inform of krige to construct the multiple-point general expect improv ei criterion
+in optim cycl this criterion is maxim to produc the pareto front data which will be further screen to obtain final expens evalu point
+for numer test and an engin case kmsso is compar to gego and ham algorithm and is shown to deliv better result
+it is also prove that when multipl point are ad per cycl the optim accuraci and converg properti are both improv .

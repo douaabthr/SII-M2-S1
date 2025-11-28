@@ -1,0 +1,9 @@
+a method for fuzzi time seri forecast base on interv index number and membership valu use fuzzi c-mean cluster
+fuzzi time seri forecast method are veri popular among research for predict futur valu as they are not base on the strict assumpt of tradit forecast method
+non-stochast method of fuzzi time seri forecast are prefer by the research over the year becaus these method are capabl to deal with real life uncertainti and provid signific forecast
+there are general four factor that determin the perform of the forecast method 1 number of interv noi and length of interv to partit univers of discours uod 2 fuzzif rule or featur represent of crisp time seri 3 method of establish fuzzi logic rule flrs 4 defuzzif rule to get crisp forecast valu
+consid first two factor to improv the forecast accuraci we propos a modifi non-stochast method of fuzzi time seri forecast in which interv index number and membership valu are use as input featur to predict futur valu
+we suggest a rounding-off rang and larg step-siz method to find the optim noi and use fuzzi c-mean cluster process to divid uod into interv of unequ length
+we implement two techniqu 1 regress by support vector machin and 2 neural network by multilay perceptron to establish flrs
+to test our propos method by both techniqu we conduct a simul studi on eight wide use real time seri and compar the perform with some recent develop model
+two perform measur rsme and smape are use for perform analysi and observ better forecast accuraci by the propos model .

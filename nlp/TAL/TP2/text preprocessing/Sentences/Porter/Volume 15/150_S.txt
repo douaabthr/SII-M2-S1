@@ -1,0 +1,13 @@
+variabl select for gener partial linear model with longitudin data
+variabl select and paramet estim are of great signific in all regress analysi
+a varieti of approach have been propos to tackl thi problem
+among those the penalty-bas shrinkag approach ha been most popular for the abil to carri out the variabl select and paramet estim simultan
+howev not much work is avail on the variabl select for the gener partial model gplm with longitudin data
+in thi paper we propos a variabl select procedur for gplm with longitudin data
+the infer is base on the scad-pen quadrat infer function which is obtain after the b-spline approxim to non-parametr function in the model
+the propos approach effici util the within-clust correl inform which can improv estim effici
+the propos approach also ha the virtu of low comput cost
+with the tune paramet chosen by bic the correct model is identifi with probabl tend to 1
+the result estim of the parametr compon is asymptot to a normal distribut and that of the non-parametr function achiev the optim converg rate
+the perform of the propos method is evalu through extens simul studi
+a real data analysi show that the propos approach succe in exclud the insignific variabl .

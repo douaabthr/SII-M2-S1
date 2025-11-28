@@ -1,0 +1,8 @@
+Neural network with adaptive evolutionary learning and cascaded support vector machine for fault localization and diagnosis in power distribution system
+Fault diagnosis and classification in electric power system is necessary to maintain a protected operation of power system
+The classification of this signal is complex due to the large dataset computational complexity and limited real time performance
+This paper focuses on the detection and classification of electric power transmission using neural network with adaptive evolutionary learning and cascade support vector machine SVM with wavelet descriptors of the signal to overcome such limitations
+Initially the wavelet decomposed fault signals are extracted from the simulated signals
+The received signal consists of normal signals and fault signals such as transient sag and swells signals respectively
+The wavelet descriptors of different datasets are applied to the cascade SVM for better classification
+This real experiment of this paper shows that this cascade SVM provides good generalization and much fast speed compared with traditional SVMs .

@@ -1,0 +1,8 @@
+improv perform of pareto corner search-bas object reduct in many-object optim
+multi-object optim evolutionari algorithm moea is one of the most well-known approach for solv the multi-object optim problem mop
+when the number of object is greater than three the mop are consid as many-object optim problem maop and many-object optim evolutionari algorithm maoea are propos to solv maop
+howev maop often contain redund object which do not conflict to ani other object or even correl posit to some other
+these redund object serious degrad the effici of moeas/maoea so they should be remov to help maoea work better
+therefor thi paper propos new object reduct algorithm which use a pareto corner search algorithm pcsea to gener non-domin solut at corner of pareto front pf and then appli machin learn techniqu to remov redund object
+the propos method not onli promot the strength of pcsea in find non-domin solut but also promot the strength of machin learn algorithm in automat find the optim set of object
+the experi on 36 instanc of dtlz5 i m and 10 instanc of wfg3 m show that the propos method can more often find the right set of object than six other benchmark method respect about 80% success compar to about 62% success of the other method .

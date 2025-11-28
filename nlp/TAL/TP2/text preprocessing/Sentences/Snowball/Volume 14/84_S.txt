@@ -1,0 +1,9 @@
+autom mammogram breast cancer detect use the optim combin of convolut and recurr neural network
+the object of this studi is to frame mammogram breast detect model use the optim hybrid classifi
+imag pre-process tumor segment featur extract and detect are the function phase of the propos breast cancer detect
+a median filter elimin the nois of the input mammogram
+further the optim region grow segment is carri out for segment the tumor from the imag and the optim region grow depend on a hybrid meta-heurist algorithm term as firefli updat chicken base cso fc-cso
+to the next of tumor segment featur extract is done which intend to extract the featur like grey level co-occurr matrix glcm and gray level run-length matrix grlm
+the two deep learn architectur term as convolut neural network cnn and recurr neural network rnn
+moreov both glcm and glrm are consid as input to rnn and the tumor segment binari imag is consid as input to cnn
+the result of this studi show that the and oper of two classifi output will tend to yield the overal diagnost accuraci which outperform the convent model .

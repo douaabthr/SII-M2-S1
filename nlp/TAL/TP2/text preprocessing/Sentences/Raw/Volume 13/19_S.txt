@@ -1,0 +1,10 @@
+Hybrid genetic algorithm and a fuzzy logic classifier for heart disease diagnosis
+For the past two decades most of the people from developing countries are suffering from heart disease
+Diagnosing these diseases at earlier stages helps patients reduce the risk of death and also in reducing the cost of treatment
+The objective of adaptive genetic algorithm with fuzzy logic AGAFL model is to predict heart disease which will help medical practitioners in diagnosing heart disease at early stages
+The model consists of the rough sets based heart disease feature selection module and the fuzzy rule based classification module
+The generated rules from fuzzy classifiers are optimized by applying the adaptive genetic algorithm
+First important features which effect heart disease are selected by rough set theory
+The second step predicts the heart disease using the hybrid AGAFL classifier
+The experimentation is performed on the publicly available UCI heart disease datasets
+Thorough experimental analysis shows that our approach has outperformed current existing methods .

@@ -1,0 +1,8 @@
+a two-level evolv algorithm for dynam scheduling in flex job shop environ
+in many indust real-world environ scheduling necessit contin react adjust due to unpredict perturb lead to the dynam transform of predefin stat schedules
+in thi pap we introduc a new framework nam a two-level evolv algorithm 2lea as a comprehend approach for address the dynam flex job shop scheduling problem
+the 2lea is bas on a bi-level optim design wher the up level is ded to solv the gen flex job shop scheduling problem and the low level is us as a new evolv op guid by a prob rat in the up level focus on the optim of op sequ
+thi framework is cap of handl four dynam ev job insert job cancel machin breakdown and job replac us a predictive-reactiv resched strategy
+by address the prevy unexpl dynam ev of job replac thi pap fil a sign gap in the lit and op avenu for furth research
+extend comput expery conduc on well-known benchmark inst from the brandimart and hurink dataset demonst the effect and efficy of our propos scheduling algorithm
+our result showcas the supery perform of 2lea ov state-of-the-art approach in term of solv qual affirm it pot as a lead solv for both stat and dynam scheduling challeng .

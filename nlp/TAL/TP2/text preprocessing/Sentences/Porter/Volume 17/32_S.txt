@@ -1,0 +1,9 @@
+artifici intellig techniqu to predict the perform of teacher for kindergarten iraq as a case studi
+the teacher of a kindergarten is a paramount factor that affect the child s futur and the educ process as all
+the major object of the work is to build a model for predict the perform of the iraqi kindergarten teacher by use ai techniqu and provid feedback for kindergarten teacher by determin the import teacher attribut use featur select method
+the propos work contain three major stage the data prepar the featur select stage and final the classif stage
+the dataset ha been collect by the questionnair the number of sampl wa 1450 sampl of teacher from differ citi in iraq which were select randomli while the number of featur wa twenty-six
+two type of featur select techniqu util were chi-squar and classif and regress tree cart method
+three techniqu had been use in the classif stage support vector machin svm naïv bay nb and deep neural network dnn
+the result show the featur had valu differ in import
+the featur select techniqu had a posit effect on the perform where the accuraci wa 91.7% 99.31% and 99.68% when use nb svm and dnn consecut when use the cart select method and 75.3% 75.4% and 98.7% consecut for all featur .

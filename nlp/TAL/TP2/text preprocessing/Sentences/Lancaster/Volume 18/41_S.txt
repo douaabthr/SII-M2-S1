@@ -1,0 +1,11 @@
+an opposit learn and chaot loc search-based art elect field algorithm for engin optim
+metah algorithm ar stochast optim techn inspir by nat phenomen with their perform driv by two key op expl and exploit
+despit their success a common limit is their suscept to prem converg and slow progress toward optim solv
+to address thes challeng thi study pres an innov extend of the art elect field algorithm aef a method root in charg system search principl
+the propos algorithm incorp oppositional-based learn obl and an elit chaot loc search mech to enh both glob and loc search cap
+obl improv the expl of the glob search spac whil the elit chaot loc search focus on refin solv around near-optimal reg ens accel converg
+thi hybrid approach is test on cec2020 bound-constrain num optim problem and real-world apply such as topolog optim and gear train design
+the find demonst the supery of the propos algorithm in term of achiev bet optim solv fast converg rat and reduc algorithm complex when comp to ex state-of-the-art algorithm
+som not perform of the propos algorithm ar it demonst supery perform ov al list algorithm for 10d problem f_1 f_2 f_3 f_5 f_7 f_9 f_ 10 and most 20d problem f_1 f_2 f_3 f_5 f_7 f_8 f_9
+it show comp result with oth algorithm for spec cas f_4 f_6 f_8 in both 10d and 20d set consist outperform or match state-of-the-art altern
+thi highlight oc-aefa s robust and versatil across divers benchmark problem .

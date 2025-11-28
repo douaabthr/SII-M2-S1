@@ -1,0 +1,12 @@
+multi-sensor target track algorithm combin node energi plan and distribut collabor
+the tradit target track algorithm can onli util the inform of a singl sensor and cannot fulli util the advantag of multipl sensor
+to address this issu this studi design a multi-sensor target track algorithm base on node capac plan and distribut collabor
+first aim at the problem of distribut track applic in multi-sensor network a wireless sensor target track algorithm base on node energi constraint is construct
+by construct a node track model the energi consumpt is reduc accord to the distribut connect network and node plan is introduc
+then for sensor network with limit energi a node plan algorithm use convex relax method is develop to solv complex integ program problem
+final in view of the various complex problem exist in the sensor network a distribut social learn algorithm base on it own data and neighbor decision-mak is establish
+this algorithm ultim improv the perform of the multi-sensor target track algorithm by transmit decis about environment state
+the result demonstr that in the converg comparison between the trackingnet dataset and the mot 15 dataset the converg of research algorithm began to stabil when the system was iter 106 and 48 time respect
+in addit when the system iter to 200 and 157 time the error of the algorithm slowli began to level off and was at a smaller valu
+the abov result show that the research algorithm has achiev better perform in multi-sensor target track task
+it can better handl the relationship between target and improv the effect of target track .

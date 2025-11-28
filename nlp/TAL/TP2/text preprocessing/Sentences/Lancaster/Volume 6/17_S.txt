@@ -1,0 +1,12 @@
+on evolv subspac clust with symbios
+subspac clust ident the attribut support for each clust as wel as ident the loc and numb of clust
+in the most gen cas attribut assocy with each clust could be un
+a multi-objective evolv method is propos to ident the un attribut support of each clust whil detect it dat inst
+the propos algorithm symbiot evolv subspac clust s-esc borrow from symbios in the sens that each clust solv is defin in term of a host singl memb of the host pop and a numb of coevolv clust centroid or symbiont in an independ symbiont pop
+symbiont defin clust and theref attribut subspac wherea host defin set of clust to constitut a non-degenerate solv
+the symbiot repres of s-esc is the key to mak it scal to high-dimensional dataset whil an integr subsampl process mak it scal to task with a larg numb of dat item
+benchmark is perform against a test suit of 59 subspac clust task with four wel known comp algorithm from both the full-dimension and subspac clust lit em minecl procl statpc
+perform of the s-esc algorithm was found to be robust across a wid cross-section of property with a common paramet util throughout
+thi was not the cas for the comp algorithm
+spec perform could be sensit to the particul dat distribut or paramet sweep might be necess to provid comp perform
+an addit evalu is perform against a non-symbiotic ga with s-esc stil return supery clust solv .

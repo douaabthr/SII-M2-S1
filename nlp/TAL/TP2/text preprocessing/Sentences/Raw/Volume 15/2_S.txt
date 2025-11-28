@@ -1,0 +1,11 @@
+Hybridizing salp swarm algorithm with particle swarm optimization algorithm for recent optimization functions
+The salp swarm algorithm SSA has shown its fast search speed in several challenging problems
+Research shows that not every nature-inspired approach is suitable for all applications and functions
+Additionally it does not provide the best exploration and exploitation for each function during the search process
+Therefore there were several researches attempts to improve the exploration and exploitation of the meta-heuristics by developing the newly hybrid approaches
+This inspired our current research and therefore we developed a newly hybrid approach called hybrid salp swarm algorithm with particle swarm optimization for searching the superior quality of optimal solutions of the standard and engineering functions
+The hybrid variant integrates the advantages of SSA and PSO to eliminate many disadvantages such as the trapping in local optima and the unbalanced exploitation
+We have used the velocity phase of the PSO approach in salp swarm approach in order to avoid the premature convergence of the optimal solutions in the search space escape from ignoring in local minima and improve the exploitation tendencies
+The new approach has been verified on different dimensions of the given functions
+Additionally the proposed technique has been compared with a wide range of algorithms in order to confirm its efficiency in solving standard CEC 2005 CEC 2017 test suits and engineering problems
+The simulation results show that the proposed hybrid approach provides competitive often superior results as compared to other existing algorithms in the research community .

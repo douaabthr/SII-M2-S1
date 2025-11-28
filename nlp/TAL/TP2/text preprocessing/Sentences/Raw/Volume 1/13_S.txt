@@ -1,0 +1,7 @@
+A parallel immune optimization algorithm for numeric function optimization
+Immune optimization algorithms show good performance in obtaining optimal solutions especially in dealing with numeric optimization problems where such solutions are often difficult to determine by traditional techniques
+This article presents the parallel suppression control algorithm PSCA a parallel algorithm for optimization based on artificial immune systems AIS
+PSCA is implemented in a parallel platform where the corresponding population of antibodies is partitioned into subpopulations that are distributed among the processes
+Each process executes the immunity-based algorithm for optimizing its subpopulation
+In the process of evolving the solutions the activities of antibodies and the activities of the computation agents are regulated by the general suppression control framework GSCF which maintains and controls the interactions between the populations and processes
+The proposed algorithm is evaluated with benchmark problems and its performance is measured and compared with other conventional optimization approaches .

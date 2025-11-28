@@ -1,0 +1,13 @@
+Twitter sentiment analysis using hybrid Spider Monkey optimization method
+The use of social media over the past few years has escalated enormously
+Social media has formed a platform for the availability of abundant data
+Thousands of people express their perceptions through social media
+Sentiment Analysis SA of such views and perceptions is very substantial to measure public notion on a peculiar/specific subject matter of concern
+SA is a remarkable field of data mining concerned with identification and translation of sentiments accessible on social media
+Twitter is a microblogging site in which users can post updates tweets to friends followers
+This paper proposes a mechanism for extracting the sentiments from the tweets posted on Twitter
+Tweets can be classified as positive neutral or negative
+The metaheuristic-based clustering techniques are superior to conventional techniques due to the subjective behaviour of tweets
+A hybrid strategy named as Hybrid Spider Monkey optimization with k-means clustering is introduced to obtain the optimal cluster-heads of the dataset
+The accuracy of the proposed method is determined on two datasets namely sender2 and twitter
+To analyse the authenticity of the proposed method a comparative analysis is performed with a few significant Nature-Inspired Algorithms such as Spider-Monkey optimization Particle-Swarm algorithm Genetic-Algorithm and Differential Evolution .

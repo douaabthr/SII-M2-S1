@@ -1,0 +1,11 @@
+an efficy method for group key man in internet of thing us machin learn approach
+internet of thing iot repres a network of pervas dev with diff charact and feat
+it is import to provid sec in iot as internet play a promin rol in the commun process
+in thi pap a novel group and hierarch group key man scheme is propos
+the dev ar found into group and plac into vary level of hierarchy
+the group lead shar a key to the memb in the group and the key nee to be upd bas on the entry and exit of the memb into and out of the group
+also the machin learn techn ar us to mak the system adapt to the provid of the key to the dev which ent into the group
+incr gauss mixt model is us to determin wheth the particul dev belong to the group or not
+the propos algorithm machin learn bas group and hierarch key man is sim and comp with the group and hierarch key man scheme for solv sec problem in iot in term of throughput and delay with vary no
+of group and overal cost with respect to no
+of nod and mobl spee .

@@ -1,0 +1,11 @@
+categor of intercloud user and auto-sc of resourc
+optim alloc of resourc in intercloud comput is np-complet program
+constraint are mani and configur of each cloud vari from each other
+the map of the task to avail virtual machin is challeng
+in real life scenario custom requir may chang
+the complex of the problem increas as requir chang in term of capac speed and time
+to tide overfrequ chang in custom requir and optimum util of avail resourc a heurist algorithm is propos which will fit to the specif
+the propos algorithm is primarili divid into three phase name categor of user genet algorithm-bas resourc alloc and earliest deadlin first schedul
+the object is to map the task to be execut to avail vm of the multi-cloud feder in order to have minimum makespan time and maximum custom satisfact
+after pr simul on synthet data compar the simul result with the exist schedul algorithm
+result of the simul confirm that the propos categor of the user in cloud domain can be benefici in mani fold and can address the exist challeng as per concern metric .

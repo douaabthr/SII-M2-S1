@@ -1,0 +1,9 @@
+patch-bas pose invari featur for singl sampl face recognit
+pose variat is consid as one of the major challeng that degrad the perform of face recognit system
+exist techniqu address thi problem from differ attitud
+howev these method may be ineffici or impract in the case of singl sampl face recognit
+thi articl present an automat patch-bas pose invari featur extract method that can handl pose variat for the aforement case
+the propos method extract gabor and histogram of orient gradient featur from landmark-bas patch
+the featur are then concaten dimension reduc use princip compon analysi fuse use canon correl analysi and normal use min-max normal
+experiment result carri out on the feret databas have shown the outstand perform of the propos method compar to that of the state-of-the-art approach
+the propos approach achiev 100 and 96 and 94.5 recognit rate for moder and wide pose variat respect .

@@ -1,0 +1,8 @@
+a multi-analysis on priv preserv of assocy rul us hybrid approach
+nowaday extend obtain person dat has mad privacy-preserving dat min ppdm issu a sign on
+ppdm handl sec the priv of sensit knowledg or person dat without leak the util of the dat
+sev techn hav been introduc with the concern of priv yet ther ex certain limit in ppdm in achiev the feas standard
+hent thi pap intend to develop a sanit and rest model by concern object funct lik hid fail rat inform preserv rat fals rul gen rat degr of mod compress ratio tamp and low pass filt for bet preserv of priv dat
+in sanit and rest a key is gen optim us hybrid model nam genet algorithm with crow search algorithm ga-cs
+moreov the sensit dat is rest efficy by the auth us at the receiv end
+fin the propos ga-cs approach is comp ov conv schemes such as firef ff self-adaptive ff genet algorithm partic swarm optim and diff evolv approach and the enh outcom ar obtain .

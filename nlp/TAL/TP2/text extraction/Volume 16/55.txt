@@ -1,0 +1,3 @@
+Towards fair machine learning using combinatorial methods
+
+With the rise of artificial intelligence and machine learning in the last decade, there has been an increasing interest in developing a solid theory and implementing algorithmic fairness, which has eventually resulted in a large volume of work over the past few years. Despite the enormous amount of work done on the topic over a concise period, there has been little consensus of a unifying theory of algorithmic fairness. In this paper, we develop a notion of fairness that is based on the notion of discrepancy of set systems, a widely studied topic in the theory of computer science and combinatorics. (Chazelle Bernard in The discrepancy method: randomness and complexity. Cambridge University Press (2001)).

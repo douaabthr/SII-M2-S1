@@ -1,0 +1,10 @@
+pso base combin kernel learn framework for recognit of first-person activ in a video
+this paper present human activ recognit problem from first-person view-point ego-centr video
+the task is to understand the activ of a person by an observ wearabl camera or robot from real-tim video data
+an effici human activ recognit system demand the choic of use trait and the suitabl kernel for those trait
+in this work we have propos a combin kernel learn ckl framework use pso as optim algorithm for first-person activ recognit in a video
+this framework doe appropri featur select and combin those featur from their respect kernel from the video data in a product way
+the propos algorithm learn an optim composit kernel from the combin of the basi kernel construct from differ motion-rel featur of the first-person video
+to determin both basi kernel and their combin this method can optim a data-depend kernel evalu measur
+the perform of the propos ckl is evalu by combin differ type of motion featur from the first-person video jpl-interact dataset
+the result show a compar better rate of accuraci than that of other state-of-the-art human activ recognit method .

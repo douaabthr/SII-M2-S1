@@ -1,0 +1,11 @@
+a new differenti evolut algorithm for cooper fuzzi rule mine applic to anomali detect
+fuzzi classif rule mine can be consid as a challeng optim problem with the purpos of extract accur and interpret rule
+this paper deal with a michigan cooper approach for mine fuzzi rule
+the propos algorithm name ede-frmin use an enhanc differenti evolut that evolv popul of individu each one repres a singl rule
+the whole popul collabor to generat in one shot an accur and reduc number of rule
+ede-frmin is an intellig process of evolut that use fast arithmet oper and a new cooper weight memori
+this latter allow share inform between individu
+in addit it use a new threshold base fit function use a redefin support and confid measur
+the adapt threshold mechan use in the fit function aim to adapt the miner system to problem with dynam train data
+experi are carri out use the nsl-kdd 99 intrus detect data set and other data set from the uci repositori
+a compar studi with other competit evolutionari rule base system is perform and the result show the effect of propos algorithm .

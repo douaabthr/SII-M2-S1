@@ -1,0 +1,9 @@
+improv rider for vehicular adhoc network rout via neural network
+nowaday it is necessari to know about the traffic inform in a citi for traffic regul
+the gather of effectu traffic inform help travel to make better decis regard the travel path
+queri like how do we get traffic inform ? and which path is the shortest distanc between two vertic ? are wide address while queri of the type how do we get traffic inform effici and econom ? and which path is the shortest travel time between two vertic ? need further analysi
+therefor this paper introduc a new shortest path select model which is base on the shortest travel time requir to travel sourc to destin
+for this predict an optim neural network model is introduc where the histor data is insist under the train process
+the factor consid for predict the averag travel time to reach the destin are congest level distanc and time interv respect
+moreov the train is carri out use a new rider with an updat overtak evalu ru-o
+final the better of the present approach is valid over the exist model in term of certain measur .

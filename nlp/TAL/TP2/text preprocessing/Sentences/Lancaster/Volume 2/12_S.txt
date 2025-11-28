@@ -1,0 +1,10 @@
+num simpl for blo control and analys of build block in genet program
+in tree-based genet program ther is a tend for the siz of the program to increas from gen to gen a phenomenon known as blo
+it is standard pract to plac som form of control on program siz eith by limit the numb of nod or the dep of the program tre or by ad a compon to the fit funct that reward smal program parsimony press
+oth hav propos direct simpl individ program us algebra method
+in thi pap we ad node-based num simpl as a tre prun crit to control program siz
+we investig the effect of on-line program simpl both algebra and num on program siz and resourc us
+we also investig the distribut of build block within a genet program pop and how thi is chang by us simpl
+we show that simpl result in reduc in expect program siz mem us and comput tim
+we also show that num simpl perform at least as wel as algebra simpl and in som cas wil outperform algebra simpl
+we furth show that although the two on-line simpl method destroy som ex build block they effect gen new mor divers build block dur evolv which compens for the neg effect of disrupt of build block .

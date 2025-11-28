@@ -1,0 +1,12 @@
+precis recal curv prc classif tree
+the classif of imbalanc data ha present a signific challeng for most well-known classif algorithm that were often design for data with rel balanc class distribut
+nevertheless skew class distribut is a common featur in real world problem
+it is especi preval in certain applic domain with great need for machin learn and better predict analysi such as diseas diagnosi fraud detect bankruptci predict and suspect identif
+in thi paper we propos a novel tree-bas algorithm base on the area under the precis recal curv for variabl select in the classif context
+our algorithm name as the precis recal curv classif tree or simpli the prc classif tree modifi two crucial stage in tree build
+the first stage is to maxim the area under the precis recal curv in node variabl select
+the second stage is to maxim the harmon mean of recal and precis f-measur for threshold select
+we found the propos prc classif tree and it subsequ extens the prc random forest work well especi for class-imbalanc data set
+we have demonstr that our method outperform their classic counterpart the usual cart and random forest for both synthet and real data
+furthermor the roc classif tree propos by our group previous base on the area under the roc curv ha shown good perform in imbalanc data
+their combin the prc roc tree ha also show great promis in identifi the minor class .

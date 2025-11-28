@@ -1,0 +1,12 @@
+a novel method to solv visual track problem hybrid algorithm of grasshopp optim algorithm and differenti evolut
+to provid effect resolut for complex real-lif problem and other optim problem abund variou procedur have been present in the last few decad
+thi paper propos a simpl but effici hybrid evolutionari algorithm call goa-d for solv visual track problem
+in the propos hybrid algorithm grasshopp optim algorithm goa oper in refin the vector
+in contrast the differenti evolut de algorithm is use for transform the decis vector base on genet oper
+the improv in maintain the balanc between explor and exploit abil is made by incorpor genet oper name mutat and crossov in goa
+the success of goa-d is estim by 23 classic benchmark function cec05 function and cec 2014 function
+the goa-d algorithm result prove that it is veri viabl associ with the metaheurist up-to-d procedur
+similarli visual track problem are resolv by the goa-d algorithm as a real challeng case studi
+visual track sever object robustli in a video stream with complex background and object are benefici in subsequ gener comput vision structur
+but in exercis it is problemat to plan an effect video-bas visual track scheme owe to the fast-mov object probabl occlus and divers light circumst
+investig outcom indic that the goa-de-bas tracker can energet track a random target in mani thought-provok case .

@@ -1,0 +1,12 @@
+A parallel classification framework for protein fold recognition
+Proteins tertiary structure which is determined by its amino acid sequence via the protein folding process have essential role in the function of protein
+Protein fold recognition is one of the interesting studies in bioinformatics
+In this paper to address this issue we propose a Feature Selection FS method based on Map_Reduce framework and Vortex Search Algorithm VSA
+FS is one of the most important steps of pre-processing data which aims to select a variable subset of relevant features
+In unparalleled mode and typical data over hundreds of feature selection and dimension reduction algorithms have been provided such as Principle Component Analysis Linear Discriminant Analysis and so on
+Nevertheless these algorithms are not implemented for real-world applications when data instances increasing in three-dimensional volume velocity and variety that called Big Data actually if we want to use previous feature selection methods on Big Data volume of large and complex computing will be required
+VSA was inspired from the vortex pattern created by the vortical flow of the stirred fluids
+In Map_Reduce framework Map and Reduce functions executed in parallel mode
+In the proposed method in each step of Map function a VSA is employed to find an optimized subset of features and decrease feature search space
+In the light of the above consideration we evaluate the proposed method in classification of a benchmark dataset for protein fold recognition
+The experimental results indicate that the proposed method improves prediction accuracy considerably .

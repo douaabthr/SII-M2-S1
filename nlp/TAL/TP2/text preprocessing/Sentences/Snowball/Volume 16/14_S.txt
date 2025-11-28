@@ -1,0 +1,10 @@
+optim site and size of electr vehicl park lot by consid technic constraint
+current the administr of transport system enabl the distribut network oper and end-sid custom to proper execut demand respons program by instal park lot and employ the concept of vehicle-to-grid
+in this studi to minim the voltag drop and power loss in distribut network and sever case optim site and size of smart park lot spl includ photovolta system wind turbin wt energi storag system and diesel generat are model as a bi-object function
+direct load control dlc and time of use tou base on the demand respons program drp have been use for simul
+in addit a two-stag optim algorithm has been devis to solv the optim problem
+in the first stage all respons to form the pareto optim front the respons of each object are generat use a genet algorithm
+in the second stage the best solut is achiev use max min decision-mak method
+the result obtain from the simul reveal that due to the posit implement of tou and dlc of drp total technic constraint of spl-base distribut network were improv
+this mean that power loss and voltag profil object are satisfi
+all of the simul are carri out on a 33 buse ieee system by matlab softwar .

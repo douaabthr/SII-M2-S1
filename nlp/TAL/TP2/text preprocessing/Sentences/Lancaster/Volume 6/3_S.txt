@@ -1,0 +1,5 @@
+knowledg extract and rul set compact in xcs for non-markov multi-step problem
+the apply of the xcs famy of class system within multi-step problem has shown prom but xcs class system us solv thos problem with a larg numb of class
+if they can gen compact and ready interpret solv when us in multi-step problem it wil enh their appl and us in a wid rang of robot control and knowledg discovery task
+in thi pap we describ som method develop for xcs to compact the rul set and acquir explicit policy knowledg for multi-step problem espec non-markov problem
+expery result show the abl to obtain a very compact rul set out of the fin pop of class with littl or no degrad of overal perform .

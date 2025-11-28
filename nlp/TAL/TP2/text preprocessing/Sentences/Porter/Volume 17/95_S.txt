@@ -1,0 +1,12 @@
+separ of speech music use temporal-spectr featur and neural classifi
+separ of speech and music play a vital role in multipl field relat to audio and speech process
+the spectrogram of speech and music show distinct pattern
+thi serv as the motiv for the differenti of speech and music signal in an audio segment
+the pattern have been further emphas use sobel edg kernel mel-spectrogram
+for the incept of thi paper we have made a dataset from all india radio news archiv which is have separ and overlap speech and music data in differ languag
+the differ input featur are extract from these audio segment and further emphas befor feed them to the differ classifi for distinguish speech and music frame
+we also compar the differ classif algorithm for their vari perform in term of accuraci
+we have found that the convolut neural network base approach on mel-spectrogram and mfcc-delta-rnn method have given a significantli better result compar to other approach
+further we want to see how these approach work in the audio data of differ languag henc we have appli the propos method in three differ languag such as bengali punjabi and tamil
+we have seen that the perform of the propos method in all languag is consist
+the paper ha also attempt to solv the problem of classifi audio segment with overlap speech and music region and achiev a good level of accuraci .

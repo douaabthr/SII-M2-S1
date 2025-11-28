@@ -1,0 +1,5 @@
+Special issue on Recent advances on computational intelligence techniques and applications in big data
+In an era where Big Data has permeated every aspect of our lives the importance of Computational Intelligence CI cannot be overstated
+CI is not merely a set of computational techniques it is a dynamic amalgamation of soft computing machine learning engineering disciplines and more
+It investigates simulates and analyzes exceptionally intricate issues and phenomena closely related to Evolutionary Intelligence
+This special issue aims to explore the rapid strides made in CI in the context of Big Data .

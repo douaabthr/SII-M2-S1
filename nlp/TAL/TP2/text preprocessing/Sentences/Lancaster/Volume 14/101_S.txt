@@ -1,0 +1,10 @@
+dnav an algorithm bas on dna-computing and vortex search algorithm for task scheduling problem
+in thi pap we pres dnav algorithm for the gen job-shop scheduling problem also known as flex jssp
+jssp is an np-complete problem which mean ther is prob no determin or exact algorithm that can find the optim solv in polynom tim for arbit inst of the problem unless p np
+in the dna comput algorithm although the hardw is not access in the fut we wil hav thos comput that work bas on biolog hardw
+their most import adv ov silicon-based comput ar their capac for dat stor
+dnav is an improv of the dna comput algorithm by us a metah search algorithm cal vortex search vs algorithm
+the strongness of dna comput is it parallel
+in the unavail of dna comput the dnav reduc the tim complex of dna comput by employ the vs algorithm
+the efficy of the dnav has been test with standard test inst of job-shop scheduling problem
+our impl result show that the dnav algorithm work effect ev for larg scal inst on cur silicon-based comput .

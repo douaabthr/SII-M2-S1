@@ -1,0 +1,12 @@
+A new artificial bee colony algorithm using a gradual weight method for the bi-objective traveling salesman problems
+The traveling salesman problem TSP is a typical problem in combinatorial optimization
+The unique objective of the traditional TSP is to minimize the tour distance
+When more than one objective is taken into account to be optimized simultaneously the problem is known as a multi-objective TSP
+In the present paper a bi-objective traveling salesman problem BOTSP is considered where both the cost and the distance are taken as optimization objectives
+We introduce a new algorithm that solves the BOTSP called Gw-ABC
+This algorithm is based on an Artificial Bee Colony Algorithm ABC and uses a Gradual Weight Generation method
+Firstly we apply a gradual method to prepare the weight vectors
+In fact weight vectors values are gradually distributed in the objective space and change relatively to the optimization process from cycle to another
+Secondly we apply the ABC algorithm with the generated weights to our problem
+The proposed algorithm is experimentally tested on well-known benchmark instances of different sizes and compared with other state-of-the-art algorithms
+The obtained experimental results show that Gw-ABC is significantly better .

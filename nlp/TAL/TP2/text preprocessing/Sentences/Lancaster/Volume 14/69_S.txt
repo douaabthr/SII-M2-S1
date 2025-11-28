@@ -1,0 +1,8 @@
+volt stabl constrain transmit network expand plan us fast converg grey wolf optim algorithm
+transmit network expand plan problem tnep is of utmost import in pow system now a day
+in thi pap a volt stabl ind l-index is apply to limit the volt of bus
+hent tnep is form incorp thi volt stabl feat
+thu form tnep is term as volt stabl constrain tnep vsc-tnep
+tnep has been solv us vary conv and non-conventional strategies by vary research in thes day
+her tnep and vsc-tnep for ieee-24 bus test system is solv us grey wolf optim techn gwo and mod gwo
+the mod gwo algorithm nam fast converg gwo fcgwo is valid ov 25 standard benchmark test funct and comp with oth techn .

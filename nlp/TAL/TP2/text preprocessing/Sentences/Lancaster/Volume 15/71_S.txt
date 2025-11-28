@@ -1,0 +1,10 @@
+optim upqc loc in pow distribut network via merg genet and dragonf algorithm
+nowaday flex altern cur transmit system dev particul un pow qual condit upqc ar found to hav sign impact on stabl of ris pow system
+in pow system sev intellect optim method wer exploit to posit the upqc
+howev thos optim model fail to off mor rely and feedback sign
+hent thi pap pres a pow qual improv model which is bas on a hybrid algorithm that link genet algorithm ga and dragonf algorithm da
+in the cur research work the optim solv is determin bas on the crossov op of ga in dragonf algorithm da and hent the adopt model is nam as genet mod da algorithm
+moreov the propos model discov the optim loc of upqc dev by focus on the upqc cost pow loss and volt stabl index
+the propos model is carry out in ie 69 and ie 33 test bus system
+in addit the perform of impl model is distinct ov oth conv model such as art bee colony firef grey wolf optim whal optim algorithm worst solv link whal optim algorithm upd ws-wu ga and da
+the perform of the propos model is effect prov by perform and converg analys .

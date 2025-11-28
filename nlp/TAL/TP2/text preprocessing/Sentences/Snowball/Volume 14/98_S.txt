@@ -1,0 +1,15 @@
+dna motif discoveri use chemic reaction optim
+dna motif discoveri mean to find short similar sequenc element within a set of nucleotid sequenc
+it has becom a compulsori need in bioinformat for it use applic such as compress summar and cluster algorithm
+motif discoveri is an np-hard problem and exact algorithm cannot solv it in polynomi time
+mani optim algorithm were propos to solv this problem
+howev none of them can show it supremaci by overcom all the obstacl
+chemic reaction optim cro is a popul base metaheurist algorithm that can easili fit for the optim problem
+here we have propos an algorithm base on chemic reaction optim techniqu to solv the dna motif discoveri problem
+the four basic oper of cro have been redesign for this problem to search the solut space local as well as global
+two addit oper repair function have been propos to improv the qualiti of the solut
+they have been appli to the final solut after the iter stage of cro to get a better one
+use the flexibl mechan of elementari oper of cro along with the addit oper repair function it is possibl to determin motif more precis
+our propos method is compar with other tradit algorithm such as gibb sampler alignac align nucleic acid conserv element meme multipl expect maxim for motif elicit and acri ant-colony-regulatory-identif by test real-world dataset
+the experiment result show that the propos algorithm can give better result than other tradit algorithm in qualiti and in less run time
+besid statist test have been perform to show the superior of the propos algorithm over other state-of-the-art in this area .

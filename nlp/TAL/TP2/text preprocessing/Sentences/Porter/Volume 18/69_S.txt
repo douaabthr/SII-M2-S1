@@ -1,0 +1,13 @@
+a linear partit divers metric for evalu of permutation-bas metaheurist algorithm
+metaheurist algorithm implicitli or explicitli typic aim to achiev a delic balanc between explor and exploit when improv a popul of solut for a given optim problem
+divers metric are crucial indic for both explor and exploit which serv as a valuabl tool for assess the perform of metaheurist algorithm
+although sever metric for divers have been propos the major of them are onli suitabl for problem with continu space
+howev mani optim problem are defined/model base on discret variabl and permut represent is wide use for model real-world problem
+mani exist metric are not applic to permutation-bas problem
+appli other exist metric to such problem frequent encount two primari drawback comput cost and effect to repres the actual divers of the popul
+to address these drawback a new exclus divers metric is propos in thi work for optim problem model by permut
+thi method calcul divers by linear and partit the problem space base on the popul distribut in the space and count the number of individu in the partit
+compar to the eleven avail metric includ both permutation-bas and usabl non-permutation-bas metric in the literatur the propos method demonstr superior perform exhibit accept accuraci stabil sensit and robust particularli in the presenc of outlier and requir minim comput cost
+the accuraci of the result of the method is on averag 35% better than baselin metric
+the comput cost of the method is also nearli 50% better than the fastest avail method
+these characterist make the metric a valuabl mean for analyz exist algorithm behavior or design new one .

@@ -1,0 +1,10 @@
+a novel method for high-level synthesi of datapath in digit filter use a moth-flam optim algorithm
+high-level synthesi hl is one of the most import process in digit vlsi circuit design
+owe to complex and enorm of the design space in hl problem employ meta-heurist method and swarm intellig ha been consid as a highli favor option when solv such problem
+thi research work propos a moth-flam optim mfo algorithm-bas method for hl of datapath in digit filter where schedul alloc and bind step were perform simultan
+it wa observ that the effici of the propos method enjoy an improv effici thank to the mention simultan step while be combin with the mfo algorithm
+by compar the perform of the propos method with genet algorithm base method and particl swarm optim base method for hl of digit filter benchmark it can be infer that the propos method outperform the other two method in hl of digit filter
+thi is evid approv by a maximum improv observ in the rate of the delay the occupi area of the chip and the power consumpt for 2.99% 6.58% and 6.48% respect
+in addit to the mention improv anoth strike characterist of the propos method is it fast runtim in reach a respons
+thi could significantli lower the cost while increas the design speed of circuit have larg dimens
+as well an averag 20% rise wa also discern in the algorithm runtim compar to the other two method .

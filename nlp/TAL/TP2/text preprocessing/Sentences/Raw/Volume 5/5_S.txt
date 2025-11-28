@@ -1,0 +1,8 @@
+Constructing controllers for physical multilegged robots using the ENSO neuroevolution approach
+Evolving controllers for multilegged robots in simulation is convenient and flexible making it possible to prototype ideas rapidly
+However transferring the resulting controllers to physical robots is challenging because it is difficult to simulate real-world complexities with sufficient accuracy
+This paper bridges this gap by utilizing the Evolution of Network Symmetry and mOdularity ENSO approach to evolve modular neural network controllers that are robust to discrepancies between simulation and reality
+This approach was evaluated by building a physical quadruped robot and by evolving controllers for it in simulation
+An approximate model of the robot and its environment was built in a physical simulation and uncertainties in the real world were modeled as noise
+The resulting controllers produced well-synchronized trot gaits when they were transferred to the physical robot even on different walking surfaces
+In contrast to a hand-designed PID controller the evolved controllers also generalized well to changes in experimental conditions such as loss of voltage and were more robust against faults such as loss of a leg making them strong candidates for real-world applications .

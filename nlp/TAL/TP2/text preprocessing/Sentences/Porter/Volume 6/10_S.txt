@@ -1,0 +1,8 @@
+a fast anomali detect system use probabilist artifici immun algorithm capabl of learn new attack
+in thi paper we propos anomali base intrus detect algorithm in comput network use artifici immun system capabl of learn new attack
+uniqu characterist and observ specif to comput network are consid in develop faster algorithm while achiev high perform
+although these characterist play a key role in the propos algorithm we believ they have been neglect in the previou relat work
+we evalu the propos algorithm on a number of well-known intrus detect dataset as well as two new real dataset extract from the data network for intrus detect
+we analyz the detect perform and learn capabl of the propos algorithm in addit to perform criteria such as fals alarm rate detect rate and respons time
+the experiment result demonstr that the propos algorithm exhibit fast respons time low fals alarm rate and high detect rate
+they can also learn new attack pattern and identifi them the next time they are introduc to the network .

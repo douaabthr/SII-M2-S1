@@ -1,0 +1,15 @@
+lsga combin level-sets and genet algorithm for seg
+a novel techn is pres to combin genet algorithm gas with level-set funct to seg object with known shap and vary on im
+the individ of the ga also known aschromosomesconsist of a sequ of paramet of a level-set funct
+each chromosome repres a un seg conto
+an init pop of seg conto is gen bas on the learn vary of the level-set paramet from train im
+each seg conto an individ is evalu for it fit bas on the text of the reg it enclos
+the fittest individ ar allow to prop to fut gen of the ga run us select crossov and mut
+the ga thu provid a framework for combin text and shap feat for seg
+level-set-based seg method typ perform grady desc minim on an energy funct to deform a seg conto
+the comput complex of comput der increas as the numb of term increas in the energy funct
+in contrast her the level-set-based curv evolution/deformat is perform derivative-fr us a genet algorithm
+the algorithm has been test for seg thermograph im of hand and for seg the prost in pelv ct and mri im
+in thi pap we describ the form the lat is describ in 11,12
+the lsga success seg entir hand on im in which hand ar on part vis
+at the end of the pap we report expery evalu of the perform of lsga and comp it with algorithm us singl feat the gab wavelet bas text seg method 1,9 and the level-set bas seg algorithm of chan and ves 6 .

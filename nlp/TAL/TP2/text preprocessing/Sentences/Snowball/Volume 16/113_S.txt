@@ -1,0 +1,13 @@
+smart advertis design a visual aesthet effect improv base on imag data analysi
+smart advertis is an import part of the modern inform industri
+the main problem of smart advertis in chines citi at this stage includ clutter set singl form lack of coordin and integr between advertis and citi and urban build and inconspicu visual effect
+in order to deal with these problem it is necessari to optim the design of smart advertis to enhanc the visual aesthet effect
+imag aesthet qualiti assess has good applic prospect in industri such as imag recommend and imag edit aesthet and can be use to help smart advertis improv visual aesthet
+this paper propos an object quantit score method for imag aesthet base on a multi-scal featur extract network which is a comput intellig approach
+the model is main compos of multipl multi-scal featur extract unit cascad and each unit contain a featur extract layer compos of 3 differ convolut kernel fusion layer and map layer
+the featur extract layer form the input end of the network by combin the global view and local view of the imag
+at the output end the emd function is use as the loss function and the output distribut is a probabl densiti mass function of 1 10 point
+in order to verifi the effect of the method in this paper the ava dataset which is common use in the field of imag aesthet evalu is select for test experi
+in this paper two paramet spearman rank correl coeffici and accuraci rate are select as indic to evalu the method in this paper
+the experiment result show that the method propos in this paper is feasibl and effect
+outperform sever mainstream model on the ava dataset .

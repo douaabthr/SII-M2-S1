@@ -1,0 +1,10 @@
+integr vikor-topsis strategy bas on pict fuzzy knowledg and acc meas with apply in waste-water tre
+in contrast to a fuzzy and intuit fuzzy ainf set a pict fuzzy pif set may be tak as an effect tool to tackl decision-making problem
+fuzzy and intuit fuzzy set the can be extend to pif-set the
+in light of the insufficy of ex inform and knowledg meas thi work propos a knowledg meas for pif-sets
+the suggest knowledg meas eff and consist ar prov us num exampl by comp it to ex inform andprop knowledg meas in the pif-context
+asid from that the propos knowledg meas is us to develop an acc meas for pif-sets
+in pattern id problem the us of propos acc meas is pres
+their effect is demonst by us num exampl
+a mod vert of the vlse kriterijumsk optimizacij kompromisno resend vik approach bas on the propos acc meas is pres with the goal to address a multi-criteria decision-making mcdm difficul in a pict fuzzy context
+fin a cas study on how to choos the most suit method to tre wastew is provid .

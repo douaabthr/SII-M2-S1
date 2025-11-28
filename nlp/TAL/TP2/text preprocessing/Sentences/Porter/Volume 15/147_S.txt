@@ -1,0 +1,8 @@
+gener of gcd matric
+special matric are wide use in inform societi
+the gcd-matric have be conduct to studi over descart direct-product of some finit posit integ set
+if descart direct-product s s_ 1 time s_ 2 time cdot time s_ n with n finit posit integ set as direct product term then s is finit too
+without loss of gener set s left d_ 1 d_ 2 ldot d_ t right and foral text a text a _ 1 text a _ 2 ldot text a _ n text b text b _ 1 text b _ 2 ldot text b _ n in s the gener greatest common factor is defin as gcd text a text b prod nolimits_ i 1 n gcd text a _ i text b _ i
+and creat a squar matrix left langl s right rangl s_ ij _ text t time text t gcd d_ i d_ j _ text t time text t possess the gener greatest common factor gcd d_ i d_ j as array s_ ij gcd d_ i d_ j
+we have research upper bound and lower bound of the determin det left langl s right rangl of the t time t gcd-matrix left langl s right rangl and comput the determin s valu under special or specif condit in the articl
+at last some well result about the gcd-matrix ha been extend from descart direct-product of some finit posit integ set to gener direct product of the poset .

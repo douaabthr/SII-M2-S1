@@ -1,0 +1,7 @@
+mcoa mutat and self-adapt cuckoo optim algorithm
+as with other nature-inspir algorithm the cuckoo optim algorithm coa produc a popul of candid solut to find the near optim solut to a problem
+in thi paper sever modif includ a dynam mutat oper are propos for thi algorithm
+design of experi is employ to determin factor control the valu of paramet and the target level of those valu to achiev desir output
+the effici of the modifi coa algorithm is substanti with the help of sever optim test problem
+the result are then compar to other well-known algorithm such as pso de and harmoni search use a non-parametr statist procedur
+in order to analyz it effect the propos modifi coa is appli to a featur select problem and spacecraft attitud control problem .

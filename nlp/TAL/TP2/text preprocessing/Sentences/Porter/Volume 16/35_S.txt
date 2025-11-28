@@ -1,0 +1,11 @@
+solv unconstrain constrain optim and constrain engin problem use reconfigur water cycl algorithm
+water cycl algorithm wca is a recent meta-heurist algorithm present to solv variou optim problem
+wca ha receiv critic intrigu from research in differ field
+nevertheless the search equat provid in wca is not of adequ explor behavior
+in thi studi a reconfigur version of the wca is propos the propos algorithm is name as rwca
+so as to improv the explor procedur a new posit updat strategi is propos by integr cauchi oper and a greedi select procedur
+furthermor in order to promot the exploration-exploit balanc of the rwca algorithm a nonlinear control paramet is propos
+the perform of rwca is exhibit on 19 unconstrain benchmark function
+statist analysi prove that rwca significantli improv the perform of basic wca by provid better solut qualiti faster converg and stronger robust
+moreov rwca ha been use to solv five constrain numer and three engin applic problem
+base on the experi and compar find rwca illustr the adequaci and effect to solv variou constrain problem as well as it capabl of provid promis and competit result solv real-world challeng engin problem .

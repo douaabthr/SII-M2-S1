@@ -1,0 +1,8 @@
+an evolv multitask optim algorithm via reference-point bas nondomin sort approach
+multiobject multifact evolv algorithm momfe which solv multipl task simult bas on a singl pop has receiv consid at in rec decad
+howev the neg transmit us lead to slow converg or wors distribut
+to mak us of the pot simil between diff task thi pap propos an enh vert for the momfe us a reference-point bas nondomin sort approach denot as mfea-rp
+by us multipl dimend scal subtask in diff dimend can be optim simult with a singl set of ref point
+the efficy of the method is substanty by multiobject benchmark problem and pract inst
+in most of the test prob mfea-rp converg fast to the tru pareto front
+better-distributed solv ar success found which ind the bet repres to the solv spac .

@@ -1,0 +1,13 @@
+a novel approach to build accur and divers decis tree forest
+decis tree is one of the best express classifi in data mine
+a decis tree is popular due to it simplic and straightforward visual capabl for all type of dataset
+decis tree forest is an ensembl of decis tree
+the predict accuraci of the decis tree forest is more than a decis tree algorithm
+constant effort are go on to creat accur and divers tree in the decis tree forest
+in this paper we propos tangent weight decis tree forest twdforest which is more accur and divers than random forest
+the strength of this techniqu is that it use a more accur and uniform tangent weight function to creat a weight decis tree forest
+it also improv perform by take opinion from previous tree to best fit the successor tree and avoid the toggl of the root node
+due to this novel approach the decis tree from the forest are more accur and divers as compar to other decis forest algorithm
+experi of this novel method are perform on 15 well known public avail uci machin learn repositori dataset of various size
+the result of the twdforest method demonstr that the entir forest and decis tree produc in twdforest have high predict accuraci of 1 7% more than exist method
+twdforest also creat more divers tree than other forest algorithm .

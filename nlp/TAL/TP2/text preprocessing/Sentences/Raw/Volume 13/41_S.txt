@@ -1,0 +1,10 @@
+Metaheuristic anopheles search algorithm
+Today various optimization problems have been solved using different optimization techniques such as linear programming nonlinear programming and dynamic programming
+These methods mainly try to find optimal solution in the proximity of starting point
+Due to increase in complexity of optimization problems and number of optimal points efficiency of these methods in finding global optima has decreased
+The mentioned challenges encouraged researchers to introduce novel methods inspired by natural phenomena
+In this study Anopheles metaheuristic search algorithm which is inspired by transmission of Malaria disease by Anopheles mosquito is proposed
+Our proposed method might be utilized in engineering optimization problems with continuous design variables
+The algorithm explores search space using random search in order to eliminate unnecessary information
+The efficiency of Anopheles optimization algorithm is evaluated using famous optimization problems
+Also the performance of the proposed method is compared with other optimization methods .

@@ -1,0 +1,8 @@
+improv perform for classif with incomplet data use wrapper-bas featur select
+miss valu are an unavoid problem of mani real-world dataset
+inadequ treatment of miss valu may result in larg error on classif thu deal well with miss valu is essenti for classif
+featur select ha been well known for improv classif but it ha been seldom use for improv classif with incomplet dataset
+moreov some classifi such as c4 . 5 are abl to directli classifi incomplet dataset but they often gener more complex classifi with larger classif error
+the purpos of thi paper is to propos a wrapper-bas featur select method to improv the abil of a classifi abl to classifi incomplet dataset
+in order to achiev the purpos the featur select method evalu featur subset use a classifi abl to classifi incomplet dataset
+empir result on 14 dataset use particl swarm optimis for search featur subset and c4 . 5 for evalu the featur subset in the featur select method show that the wrapper-bas featur select is not onli abl to improv classif accuraci of the classifi but also abl to reduc the size of tree gener by the classifi .

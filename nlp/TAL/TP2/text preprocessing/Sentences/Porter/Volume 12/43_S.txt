@@ -1,0 +1,12 @@
+gender recognit use four statist featur techniqu a compar studi of perform
+nowaday mani applic use biometr system as a secur purpos
+these system use fingerprint iri retina hand geometri etc
+that have uniqu pattern from person to anoth
+the human face is one of the most import organ that ha mani physiolog characterist such as the subject gender race age and mood
+determin the gender of the face can reduc the process time of large-scal face-bas system and may improv the perform
+mani studi were propos for gender recognit but sever were evalu use the accuraci as a perform metric which is improp for unbalanc data
+further they use a grayscal color and extract featur either from the whole imag or equal divid block as a grid
+in thi paper novel method are propos base on statist featur that have the abil to repres the face landmark
+these featur are gist pyramid histogram of orient gradient gist base on discret cosin transform and princip compon analysi that are extract use face local region
+the perform are evalu use area-under-the-curv that is comput from the receiv oper characterist or roc curv
+at the end the acquir perform ha been compar by two state-of-the-art techniqu that show that the propos approach enhanc the perform between 1 and 3% but the number of featur is increas .

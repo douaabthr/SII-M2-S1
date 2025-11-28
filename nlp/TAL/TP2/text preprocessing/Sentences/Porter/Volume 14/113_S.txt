@@ -1,0 +1,14 @@
+so 2.0 an evolutionari approach for so algorithm
+with the shortcom on the solut given for most-rec optim problem decision-mak from differ field yearn the exist of tenaci breakthrough
+in fact they all share the same oblig to optim work effici whether to minim cost consumpt or to maxim the profit acquir
+metaheurist search is the more-advanc method proven to be use for difficult optim task
+moreov develop record also signal rapid develop of these algorithm contribut sever notabl and power optim algorithm
+among them symbiot organ search so receiv notic attent due to it simplic and also it parameter-less natur
+nonetheless sever consider issu are still challeng for further develop
+for instanc local optima and prematur converg issu found from ani improp and ineffici comput procedur on higher dimension problem
+also exploit and explor trade-off is anoth essenti issu involv stabil for optim perform
+in that case thi work propos a new evolutionari approach name so 2.0
+there are two distinct featur associ with the evolut self-parameter-upd spu techniqu and chaotic map sequenc
+both featur are integr for a better balanc of explor and exploit in which spu focus on explor and chaotic map focus on exploit instead
+thi work also appli benchmark function test and engin design optim problem in advanc for valid purpos of the perform
+the experiment result show that so 2.0 deliv not onli better perform from it predecessor and also sever recent so modif which can be conclud as one success approach for better so algorithm but also enhanc the comput effici and capabl of search optim solut .

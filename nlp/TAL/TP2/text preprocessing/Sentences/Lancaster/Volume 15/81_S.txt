@@ -1,0 +1,8 @@
+video super-resolution us hybrid support vect regress act crit neur network model
+the aim of video super-resolution sr is to produc a high-resolution hr video fram from num success low-resolution lr fram
+ev though ther ar a larg numb of techn employ for the video sr al thes ex techn fac a hect challeng at vary condit
+thu thi pap propos an effect video resolv strategy us the hybrid support vect regress act crit neur network svr acn model for video enh
+the sr im form us the individ svr model and acn ar integr us the weight av conceiv
+the acn is tun optim by the propos fractional-based sin cosin algorithm f-sca which is respons for the glob optim converg
+the expery of the propos method util three video tak from the cambridge-driving label video databas camvid and the result ar analys for three scal fact
+the result prov that the propos model off a bet sr im with a bet psnr ssim and sdme of 33.6447 db 0.9398 and 45.2779 respect .

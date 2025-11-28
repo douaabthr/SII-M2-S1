@@ -1,0 +1,11 @@
+hybrid encrypt framework for sec big dat stor in multi-cloud environ
+in the pres scenario big dat is fac many challeng regard the dat stor dat theft and unauth access
+many research ar cont on develop the sec mech for big dat stor
+to overcom the abov issu thi pap cont on develop the encrypt algorithm for stor big dat in the mult cloud stor
+the mult cloud stor environ permit the us to stor the dat in to diff cloud stor serv
+thi pap aim to develop the sec framework which restrict the insid attack
+the propos framework contain dat upload slic index encrypt distribut decrypt retriev and merg process
+the hybrid encrypt algorithm was develop to provid the sec to the big dat bef stor it in to the mult cloud
+the sim analys is carry with real tim cloud stor environ
+the propos algorithm record around 2630 kb/s for the encrypt process
+the result prov the supery of the propos algorithm comp to the bench mark algorithm .

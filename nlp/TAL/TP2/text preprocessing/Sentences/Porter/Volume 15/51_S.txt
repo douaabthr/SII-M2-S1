@@ -1,0 +1,9 @@
+glowworm swarm base fuzzi classifi with dual featur for speech emot recognit
+nowaday a great attent is focus on the studi of the emot content in speech signal sinc the speech signal is one of the quickest and natur tactic to commun among human and thu mani system have been suggest to recogn the emot content of a spoken utter
+thi paper scheme two contribut gender recognit and emot recognit
+in the first contribut there ha two phase featur extract and classif
+the pitch featur is extract and given for classif use k-nearest neighbor classifi
+in the second contribut featur like non-neg matrix factor and pitch are extract and given as the input to adapt fuzzi classifi to recogn the respect emot
+in addit the limit of membership function are optim chosen use a renown optim algorithm name glowworm swarm optim gso
+thu the propos adapt fuzzi classifi use gso is term as gso-fc
+the perform of propos model is compar to other convent algorithm like grey wolf optim firefli particl swarm optim artifici bee coloni and genet algorithm in correspond with vari perform measur like accuraci sensit specif precis fals posit rate fals neg rate neg predict valu fals discoveri rate f1score and mathew correl coeffici .

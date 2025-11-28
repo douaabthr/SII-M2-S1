@@ -1,0 +1,13 @@
+dam id in structure el by grasshop optim algorithm us dynam structure behavy
+tim inspect of structures is necess to prev dam progress and ens the saf and efficy of structures at the lowest cost
+the ex of defect and part fail in structures is the sourc of gen fail and threats to the behavy of structures
+in many cas impend fail may not be app from it appear
+hent the study of structural fail is on of the ess area of research that help increas the structure s lif and control the fail of structures
+thi research aim to investig an approach for detect dam in the structure espec in the plat
+an efficy method util the grasshop optim algorithm goa as an optim solv is pres her to detect the multiple-damag of structural system
+accel chang of a structure ar consid as a crit for dam occur
+the structural dam detect problem is first transmut into a standard optim problem deal with continu vary
+then the goa is util to solv the optim problem for find the sit and sev of structural dam
+to assess the perform of the propos method for dam id num exampl with consid meas nois ar consid
+al the result demonst the effect of the propos method for acc determin the sit and sev of multiple-damag
+also the perform of the goa for dam detect comp to the diff evolv algorithm dea is confirm by a num exampl .

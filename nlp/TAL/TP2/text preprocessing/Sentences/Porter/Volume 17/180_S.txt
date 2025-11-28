@@ -1,0 +1,19 @@
+icsompa a novel improv hybrid algorithm for global optimis
+the marin predat algorithm mpa is among the recent propos metaheurist algorithm ma and it got it inspir from the ocean predat forag behaviour base on brownian and levi motion
+good explor converg accuraci eas of implement easi paramet set fewer paramet etc . are some of it strength
+nevertheless it experi prematur converg and local optima trap sometim
+the competit swarm optimis cso is a particl swarm optimis pso variant
+it got it inspir from the social group collect decision-mak and social behaviour
+good exploit a balanc between exploit and explor low prematur converg algorithm simplic etc . are some of it strength
+howev it ha a loss of divers and prematur converg
+aim at solv the mpa s weak and utilis the complementari strength of mpa and cso an improv hybrid mpa ha been propos and it s name icsompa
+the mpa wa first improv by utilis a chaotic map strategi for the mpa initialis utilis an adapt converg factor cf for step size control aim at strike a balanc between local exploit and global explor utilis the weibul distribut in place of brownian motion aim at prevent algorithm local trap and utilis chaotic sequenc in the mpa s earli stage as oppos to use random number to avoid overlap and uneven agent distribut
+the improv mpa wa then hybridis with the cso aim at leverag the mpa s and cso s strength to provid higher converg accuraci converg speed and avoid local optima trap
+the propos algorithm s perform wa test and valid use the congress on evolutionari comput cec suit and engin design problem
+the cec2014 cec2017 cec2020 cec2022 and the 3 most employ engin design problem have been utilis
+six differ set of experi have been conduct utilis differ dimens of the cec suit by carri out converg accuraci analysi converg rate analysi the wilcoxon test the friedman test and the bonferroni-holm test
+some of the state-of-the-art and variant ma have been utilis for comparison purpos
+from the experiment result the icsompa had a superior perform compar to the ma use for comparison
+the experi on the cec suit show that it can strike a good balanc between explor and exploit
+in gener it also ha higher converg accuraci and rate
+the statist analys conduct show a signific differ between the result obtain by the icsompa and the other algorithm .

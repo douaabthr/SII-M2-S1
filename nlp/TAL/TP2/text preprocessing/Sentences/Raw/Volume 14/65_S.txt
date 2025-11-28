@@ -1,0 +1,10 @@
+Automated face retrieval using bag-of-features and sigmoidal grey wolf optimization
+A content based image retrieval system is one of the prime research fields due to the exponential increasing of multimedia data over Internet especially images
+Although a number of content based image retrieval methods have been introduced it is still a challenging task specially for face recognition
+Therefore this work presents an automated face retrieval system using an enhanced bag-of-features framework
+The bag-of-features framework has been modified by incorporating a new sigmoidal grey wolf optimization algorithm
+The sigmoidal grey wolf optimization algorithm uses a sigmoid decreasing function to escape it from local optima
+The efficiency of the proposed sigmoidal grey wolf optimization algorithm has been analyzed over various standard benchmark functions for average fitness values and convergence behavior
+Furthermore it has successfully been used to generate the codewords in bag-of-features framework
+The modified bag-of-features has been utilized in content based image retrieval for Oracle Research Laboratory ORL face database
+The simulation results represent that the proposed method effectively retrieves the faces as compared to other nature-inspired based methods .

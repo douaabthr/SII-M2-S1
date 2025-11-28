@@ -1,0 +1,11 @@
+evolv multitask algorithm bas on a dynam solv encod strategy for the minim s-club cov problem
+the problem of find a coher subgraph not thes-club model which is a subgraph with diamet at most is a wid apply top in soc network analys and group of object model
+in particul the minim s-club cov problem min s-club cov is a rec introduc vary in the lit which ask to cov the vert of a graph with a minim numb ofs-club
+the ex of common connect among thes high connect compon enco the apply of multitask optim to lev the shar mean knowledg in the discovery of multiples-club at the sam tim
+theref thi study propos a multitask evolv algorithm to solv the minimums-club cov problem
+our propos is design with an effect solv repres method and evolv op for the vary in the numb of club
+each solv is repres by two compon wher the gen numb of a compon can be diff for each individ and can chang dur perform evolv op
+we also propos a solv gen method bas on a random greedy algorithm that help to ens individ qual and pop divers in the init pop
+the propos algorithm is evalu on two dataset in the dimac libr
+thi study then analys the influ of diff fact of the input dat on the propos algorithm result
+bas on stat analys of the perform result it is clear that our propos s solv is supery to an ex algorithm on two-thirds of the expery dat set .

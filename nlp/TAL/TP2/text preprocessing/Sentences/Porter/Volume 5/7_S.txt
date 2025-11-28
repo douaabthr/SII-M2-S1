@@ -1,0 +1,5 @@
+product system rule as protein complex from genet regulatori network an initi studi
+thi short paper introduc a new way by which to design product system rule
+an indirect encod scheme is present which view such rule as protein complex produc by the tempor behaviour of an artifici genet regulatori network
+thi initi studi begin by use a simpl boolean regulatori network to produc tradit ternary-encod rule befor move to a fuzzi variant to produc real-valu rule
+competit perform is shown with relat genet regulatori network and rule-bas system on benchmark problem .

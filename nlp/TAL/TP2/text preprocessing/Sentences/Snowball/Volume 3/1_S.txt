@@ -1,0 +1,15 @@
+lsga combin level-set and genet algorithm for segment
+a novel techniqu is present to combin genet algorithm gas with level-set function to segment object with known shape and variabl on imag
+the individu of the ga also known aschromosomesconsist of a sequenc of paramet of a level-set function
+each chromosom repres a uniqu segment contour
+an initi popul of segment contour is generat base on the learn variat of the level-set paramet from train imag
+each segment contour an individu is evalu for it fit base on the textur of the region it enclos
+the fittest individu are allow to propag to futur generat of the ga run use select crossov and mutat
+the ga thus provid a framework for combin textur and shape featur for segment
+level-set-bas segment method typic perform gradient descent minim on an energi function to deform a segment contour
+the comput complex of comput deriv increas as the number of term increas in the energi function
+in contrast here the level-set-bas curv evolution/deform is perform derivative-fre use a genet algorithm
+the algorithm has been test for segment thermograph imag of hand and for segment the prostat in pelvic ct and mri imag
+in this paper we describ the former the latter is describ in 11,12
+the lsga success segment entir hand on imag in which hand are onli partial visibl
+at the end of the paper we report experiment evalu of the perform of lsga and compar it with algorithm use singl featur the gabor wavelet base textur segment method 1,9 and the level-set base segment algorithm of chan and vese 6 .

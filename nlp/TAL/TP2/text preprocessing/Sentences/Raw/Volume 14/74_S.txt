@@ -1,0 +1,10 @@
+Random offset minimization in low frequency front-end amplifiers using swarm intelligence based techniques
+Random offset in amplifiers arises mainly due to random variations i. e
+inherent mismatch in transistor parameters and greatly impacts its overall design specifications especially in case of low frequency application
+It must be minimized for high precision in the amplifier s performance
+A new approach for minimization of random offset voltage in amplifiers has been proposed through the use of swarm intelligence based optimization algorithms due to their derivative free nature and easy search mechanism
+The approach involves firstly modelling the random offset voltage due to mismatch between transistors parameters based on Pelgrom s model and then minimizing the formulated model subjected to design constraints using swarm intelligence based algorithms
+Two case studies are considered firstly a high swing Folded Cascode Operational Transconductance Amplifier OTA and secondly a Recycling Folded Cascode RFC OTA
+Comparative analysis have been performed by recording best worst and mean data for 2500 function evaluations and also using statistical analysis such as Friedmann s test and Mann Whitney s U test
+The results indicate that the Hybrid Whale Particle Swarm Optimization HWPSO algorithm outperforms the other state of the art algorithms by giving a minimum random offset voltage of 7.2 mV and 1.452 mV with a mean rank of 1.55 and 1.75 for the 1st and 2nd case studies respectively
+Validation of HWPSO results have been done by performing simulations and Monte Carlo Analysis for the two amplifiers in Cadence Virtuoso which are found to be in close agreement with the algorithmic results .

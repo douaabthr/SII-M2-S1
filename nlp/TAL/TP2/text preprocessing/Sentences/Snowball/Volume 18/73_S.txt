@@ -1,0 +1,9 @@
+pearclust a novel cluster algorithm with an applic to bike mobil
+bike share system bss have becom a key solut for urban mobil reduc traffic-rel co_2 emiss
+howev manag bss pose challeng that requir data-driven solut particular for understand their global behavior and forecast their evolut
+these dynam aris from the interact among user compani dock station and citi polici influenc by sociolog and infrastructure-bas factor
+this paper propos a novel cluster methodolog to analyz bss data across multipl citi
+by cluster station-day tupl instead of aggreg statist our approach captur season pattern special event and weekday/weekend differ
+use pearson correl as a distanc metric it remain robust across differ station size and system scale
+train on three european bss and evalu across six citi from 4 differ countri our model uncov meaning pattern such as work residenti and leisur area as well as season chang even in system not use in the train process
+these insight enhanc bss manag expans and decision-mak with applic in monitor anomali detect and demand predict .

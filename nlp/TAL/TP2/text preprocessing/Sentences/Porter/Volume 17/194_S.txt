@@ -1,0 +1,11 @@
+ardod adapt radiu density-bas outlier detect
+outlier detect ha garner consider attent in recent year due to it wide-rang applic across variou research domain
+thi surg in interest ha led to the develop of numer detect techniqu predominantli base on distanc or densiti metric
+a notabl limit of these exist method is their relianc on paramet adjust significantli affect the outcom
+addit these method exhibit intrins flaw distance-bas approach struggl with cluster with vari local densiti while density-bas method fail to identifi pattern within low-dens area
+moreov most prior techniqu are adept at identifi onli one kind of outlier local global or group of outlier
+address these challeng we introduc the adapt radiu density-bas outlier detect ardod method which depart from the tradit parameter-depend approach
+ardod is a novel parameter-fre algorithm that dynam determin the necessari paramet base on the data distribut within the featur space
+thi innov method demonstr robust perform in detect all three categori of outlier
+the efficaci and superior perform of ardod are valid through an extens experiment analysi involv variou synthet and real-world dataset
+thi analysi showcas ardod s advantag over seven establish method local outlier factor lof angle-bas outlier detect abod robust distance-bas outlier score rdo direct densiti ratio chang rate-bas outlier detect dcrod empirical-cumulative-distribution-bas outlier detect ecod mean-shift outlier detector mod and local global outlier detect lgod underscor it potenti as a versatil tool in outlier detect research .

@@ -1,0 +1,7 @@
+modifi soccer game optim and it applic on power flow and distribut gener placement problem of distribut system
+distribut power flow dpf and distribut gener dg placement are import problem in modern distribut system dss
+the dpf problem is model as an optim problem of minim the node power mismatch while consid the correct of node voltag as solut variabl
+the node locat and dg rate of dg placement dgp problem are consid as optim paramet with an object of minim the network loss nl
+the soccer game optim sgo model the movement of soccer game player by move-off and move-forward phase and ha the drawback of perform simpl arithmet averag for repres random stochast movement of player dure it move-forward phase
+thi paper endeavour to first remodel the move-forward phase by adapt levi flight mechan to simul the random jump action of player to a long distanc in get the ball and score a goal and then develop new modifi sgo msgo base method for solv the formul dpf and dgp problem
+the simul studi exhibit that the propos dpf method is 751 and 666 time faster than the nr pf techniqu and the dgp method is abl to save the nl by 65% and 69% for 33 and 69 node system respect .

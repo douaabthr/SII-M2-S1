@@ -1,0 +1,11 @@
+recombin oper and select strategi for evolutionari markov chain mont carlo algorithm
+markov chain mont carlo mcmc method are often use to sampl from intract target distribut
+some mcmc variant aim to improv the perform by run a popul of mcmc chain
+in thi paper we investig the use of techniqu from evolutionari comput ec to design population-bas mcmc algorithm that exchang use inform between the individu chain
+we investig how one can ensur that the result class of algorithm calledevolutionari mcmc emcmc sampl from the target distribut as expect from ani mcmc algorithm
+we analyt and experiment show use exampl from discret search space that the propos emcmc can outperform standard mcmc by exploit common partial structur between the more like individu state
+the mcmc chain in the popul interact through recombin and select
+we analyz the requir properti of recombin oper and accept or select rule in emcmc
+an import issu is how to preserv the detail balanc properti which is a suffici condit for an irreduc and aperiod emcmc to converg to a given target distribut
+transfer ec techniqu to population-bas mcmc should be done with care
+for instanc we prove that emcmc algorithm with an elitist accept rule do not sampl the target distribut correctli .

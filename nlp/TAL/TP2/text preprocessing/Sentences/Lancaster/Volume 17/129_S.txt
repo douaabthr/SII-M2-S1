@@ -1,0 +1,14 @@
+art intellig trend analys on healthc podcast us top model and senty analys a data-driven approach
+ov the past few decad the top of art intellig ai has gain consid at in both research and industry
+in particul the healthc sect has wit a surg in the us of ai apply as the mat of thes method increas
+howev as the us of machin learn ml in healthc continu to grow we believ it wil becom increas import to examin publ perceiv of thi trend to ident pot impedy and fut direct
+cur work focus main on academ dat sourc and indust apply of ai
+howev to gain a comprehend understand of the increas societ interest in ai digit med such as podcast should be consult as they ar access to a broad audy
+in ord to examin thi hypothes we investig the ai trend develop in healthc from 2015 until 2021
+in thi study we propos a web min approach to collect a novel dat set consist of 29 healthc podcast with 3449 episod
+we ident 102 ai-related buzzword that wer extract from vary gloss and hyp cyc
+thes buzzword wer us to conduc an extend trend detect and analys study on the collect dat us machin learning-based approach
+we success detect an ai trend and follow it evolv in healthc podcast ov sev year
+besid the foc are of ai we ar abl to detect 14 top clust and vis the trend or decreas domin top ov the whol period und consid
+in addit we analys the senty in podcast toward the ident top and del furth insight for trend detect in healthc
+fin the collect dat set can be us for trend detect besid ai-related top us top clust .

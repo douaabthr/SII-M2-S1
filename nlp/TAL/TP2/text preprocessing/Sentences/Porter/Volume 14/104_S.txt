@@ -1,0 +1,11 @@
+a hybrid evolutionari approach for identifi spam websit for search engin market
+with the increas digit usag web visibl ha becom critic essenti for organ when cater to a larger audienc
+thi visibl on the web is directli relat to web search on search engin which is often govern by search engin optim techniqu like link build and link farm amongst other
+the current studi identifi metric for segreg websit for the purpos of link build for search engin optim as it is import to invest resourc in the right websit sourc
+these metric are further use for detect websit outlier for effect optim and subsequ search engin market
+two case studi of knowledg manag portal from differ domain are use have 1682 and 1070 websit respect for valid of the propos approach
+the studi evolutionari intellig by propos a k-mean chaotic firefli algorithm coupl with k-nearest neighbor outlier detect for solv the problem
+factor like page rank page author domain author alexa rank social share googl index and domain age emerg signific in the process
+further the propos chaotic firefli variant are compar to k-mean integr firefli algorithm bat algorithm and cuckoo search algorithm for accuraci and converg show compar accuraci
+find indic that the converg speed are higher for propos chaotic firefli approach for tune absorpt and attract coeffici result in faster search for optim cluster centroid
+the propos approach contribut both theoret and methodolog in the domain of vendor select for identifi genuin websit for avoid invest on untrustworthi websit .

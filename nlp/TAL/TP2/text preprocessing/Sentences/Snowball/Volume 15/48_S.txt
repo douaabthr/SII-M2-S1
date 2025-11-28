@@ -1,0 +1,10 @@
+dbfs dragonfli bay fusion system to detect the tamper jpeg imag for forens analysi
+due to the advanc of a varieti of photo edit and imag process softwar imag forens analysi has becom an import research topic in recent year
+number of research work are present for imag forens analysi
+accord this paper propos a method name as dragonfli bay fusion system dbfs by integr the naiv bay nb classifi and the dragonfli optim for detect the tamper joint photograph expert group imag
+initi the input imag is appli to the exist six forens tool separ and the classifi binari map is generat
+then the propos dbfs fuse these decis for generat the optim decis
+here the nb classifi creat the model by find the mean and varianc of everi featur and this model is given as input to the dragonfli optim for optim generat the probabilist measur
+final the posterior probabl of each featur is determin with respect to the tamper class and the origin class and the tamper imag block is determin
+the perform of the propos system is evalu with the exist method such as fuzzi theori base classif rule-bas classif averag method and weight averag method for the evalu metric accuraci fals posit rate fpr and true posit rate tpr
+the experiment result show that the propos system outperform the exist method by obtain the maximum accuraci of 0.9519 minimum fpr of 0.0490 and maximum tpr of 0.8720 when compar to the exist method .

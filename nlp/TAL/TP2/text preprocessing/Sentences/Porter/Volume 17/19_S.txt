@@ -1,0 +1,7 @@
+impact analysi of platform posit and orient error on warship weapon target strike
+in order to evalu the weapon strike effect in the joint of ship format thi paper discuss the influenc of platform posit and orient error on weapon strike effect
+base on the mathemat model the damag expect of platform posit and orient error the long-rang strike accuraci of shipboard missil and the target indic accuraci of cross-platform are analyz quantit
+the model includ weapon strike likelihood the navig posit error model and error transfer model of ship platform
+the simul wa be perform in matlab environ
+the larger the posit and orient error is the more cross platform target sign error will increas
+and the acquisit probabl and weapon strike effect of missil long-rang attack will reduc .

@@ -1,0 +1,8 @@
+simpl u-net as a deep learn intellig med assist tool in glaucom detect
+glaucom is look on as the most import caus of irremedy vis loss worldwid
+ear detect of ey diseas espec glaucom is sery for prep tim med car and keep down the vis loss
+in thi pap a fast seg algorithm is propos which is bas on a new simpl u-net architect for opt disc and retin vessel seg
+the propos method includ a mod and reinforc structure that wil reduc the predict tim whil maintain the perform and acc at an comp level due to oth stat of the art method
+for exampl for opt disc seg the propos method can seg the opt disc in 0.008 second on drions-db dataset and for vessel seg it can seg in 0.03 second on driv dataset
+accord to thes result and an extend of the propos method can be us as a real-time intellig med system which abl to be impl on the us hardw equip in the ophthalmolog clin
+thi method which can perform opt disc and retin vessel seg task in a short tim increas the perform of ophthalmolog in glaucom diagnos .

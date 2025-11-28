@@ -1,0 +1,14 @@
+artifici intellig trend analysi on healthcar podcast use topic model and sentiment analysi a data-driven approach
+over the past few decad the topic of artifici intellig ai ha gain consider attent in both research and industri
+in particular the healthcar sector ha wit a surg in the use of ai applic as the matur of these method increas
+howev as the use of machin learn ml in healthcar continu to grow we believ it will becom increasingli import to examin public percept of thi trend to identifi potenti impedi and futur direct
+current work focus mainli on academ data sourc and industri applic of ai
+howev to gain a comprehens understand of the increas societ interest in ai digit media such as podcast should be consult as they are access to a broader audienc
+in order to examin thi hypothesi we investig the ai trend develop in healthcar from 2015 until 2021
+in thi studi we propos a web mine approach to collect a novel data set consist of 29 healthcar podcast with 3449 episod
+we identifi 102 ai-rel buzzword that were extract from variou glossari and hype cycl
+these buzzword were use to conduct an extens trend detect and analysi studi on the collect data use machin learning-bas approach
+we success detect an ai trend and follow it evolut in healthcar podcast over sever year
+besid the focu area of ai we are abl to detect 14 topic cluster and visual the trend or decreas domin topic over the whole period under consider
+in addit we analyz the sentiment in podcast toward the identifi topic and deliv further insight for trend detect in healthcar
+final the collect data set can be use for trend detect besid ai-rel topic use topic cluster .

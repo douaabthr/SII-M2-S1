@@ -1,0 +1,9 @@
+high adapt regress tre
+the develop of machin learn method that ar both acc and interpret is of paramount import in healthc and many oth field
+the high adapt lasso hal has been shown to hav predict perform on par with state-of-th art algorithm
+hal involv perform regul regress of the outcom on a tens produc of ind bas funct
+in thi pap we show that thi bas can be repres as a non-recursive partit of the feat spac and propos a method for map thi partit imply by hal to a recurs partit
+such a map then allow for the repres of hal as a decid tre thereby provid interpret of predict mad by the algorithm
+we ref to thi post-hoc method for interpret as high adapt regress tre hart
+we provid a set of algorithm to construct thi map and conveny vis the result tre
+us real dat we show that hal s predict perform is on par with state-of-the-art method and we demonst the construct and interpret of hart .

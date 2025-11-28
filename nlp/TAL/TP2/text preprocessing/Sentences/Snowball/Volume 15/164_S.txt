@@ -1,0 +1,9 @@
+a compar analysi of meta-heurist optim algorithm for featur select and featur weight in neural network
+featur select and featur weight are frequent use in machin learn for process high dimension data
+it reduc the number of featur in the dataset and make the classif process easier
+meta-heurist algorithm are wide adopt for featur select and featur weight due to their enhanc search abil
+this paper compar five differ meta-heurist optim algorithm that are recent introduc for featur select and featur weight in artifici neural network
+this includ chimp optim algorithm tunic swarm algorithm bear smell search algorithm antlion optim algorithm and modifi antlion optim algorithm
+experiment evalu are perform on five differ dataset to illustr the signific improv observ dure classif process of all the algorithm utilis in the compar analysi
+both tunic swarm algorithm and chimp optim algorithm has gain better classif accuraci than other algorithm
+howev all these algorithm are found to be more effect for featur select and featur weight process .

@@ -1,0 +1,3 @@
+New solver and optimal anticipation strategies design based on evolutionary computation for the game of MasterMind
+
+This paper presents and compares several evolutionary solutions for the well-known MasterMind game, a classic board game invented in the 1970s. First, we propose a novel evolutionary approach (which we callnested hierarchical evolutionary search) to solve the MasterMind game, comparing the obtained results with that of existing algorithms. Second, we show how to design novel game anticipation strategies for the MasterMind game, by applying genetic programming. In this case we compare the performance of the new obtained strategies with that of the classical ones, obtaining advantages in all the cases tested.

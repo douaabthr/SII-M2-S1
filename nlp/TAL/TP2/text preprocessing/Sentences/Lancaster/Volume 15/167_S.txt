@@ -1,0 +1,9 @@
+wavelet correl analys relev vect machin diseas predict for immov cult rel
+the prev protect of cult rel is the import top of cult rel protect research
+aim at the short of cult rel dat analys and diseas predict in thi pap a wavelet correl analys relev vect machin regress method is propos which can acc predict the diseas of immov cult rel by us the monit environ dat and the correspond diseas degr of cult rel
+first the correl of mult tim sery of immov cult rel is quantit obtain by us wavelet correl analys and the valid of charact vary of cult rel diseas is ident
+then accord to the effect charact vary the relev vect machin predict model is construct
+fin the good perform of the method is ver by us the environ monit dat of the rock mass fract in the nor qianfo cliff of dafo templ in binzhou city of shaanx provint in chin
+the expery result show that the propos method is mor effect than the tradit diseas predict method bas on back prop neur network support vect machin princip compon analys relev vect machin and random forest for immov cult rel
+thi method is univers and easy to impl for multi-source dat predict of immov cult rel diseas
+it not on provid idea for dat analys of the internet of thing for cult rel protect but also giv a sci theoret ref for the prev protect of cult rel .

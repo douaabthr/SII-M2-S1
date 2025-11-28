@@ -1,0 +1,8 @@
+decision-mak and coordin of green suppli chain with corpor social respons under loss avers
+this paper take a two-level green suppli chain compos of a manufactur and a retail as the research object and investig the influenc of loss avers prefer and corpor social respons csr on the optim price green decision-mak and perform of suppli chain member
+first the basic game model under three differ decision-mak situat are construct and the optim decis of the abov model is obtain
+second the result of differ decision-mak model are compar and the influenc of corpor social respons level and loss avers prefer on suppli chain decision-mak and perform is analyz
+final in order to improv the perform of suppli chain a combin contract of revenu share and respons share is design to coordin the green suppli chain under differ prefer of the manufactur
+the result show that the retail undertak csr is conduc to the green develop of the suppli chain but the loss avers prefer of the manufactur will have a negat impact on the suppli chain member
+in addit when the manufactur has ration prefer with the improv of the retail s csr level the effect coordin interv length of coordin factor under combin contract increas and the coordin flexibl of suppli chain increas
+when the manufactur loss avers prefer the upper and lower limit of the coordin factor of the combin contract will increas with the increas of loss avers prefer and the length of the coordin interv will decreas which will lead to the difficulti of cooper among suppli chain member .

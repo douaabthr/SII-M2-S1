@@ -1,0 +1,10 @@
+cybernet a hybrid deep cnn with n-gram feat select for cyberb detect in onlin soc network
+cyberb is an expery that cre neg impact on individ
+becaus of the begin of the soc network cyberb becom sery issu
+stat of art machin learn bas approach outperform to provid the maxim acc at charact level detect of abud word caus cyberb
+to achiev the promin acc in thi pap we adopt the deep learn mech with sev lay convolv neur network cnn model with n-gram feat select nam as hybrid deep cnn hdcnn
+by util thi model in four stag architect the word level and charact level cyberb detect perform effect
+ev though the attack cre the neg impact on soc network us vary of uncateg and abud word
+to solv thi problem thi research work maj focus on synonym-character level cyberb detect which is refer as cybernet model her aft
+the propos cybernet model train with synonym of al word with charact to prev malicy us from send cyberb text in no poss way
+expery result conduc on real world dataset the qualit result analys prov that the propos approach provid much bet perform comp to the conv approach .

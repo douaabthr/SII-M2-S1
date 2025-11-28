@@ -1,0 +1,12 @@
+a new approach for social navig and interact use a dynam proxemia model
+thi paper treat the problem of social navig and human robot interact
+in most previou work address thi issu the proxemia concept ha been consid static with regard to the activ s natur
+furthermor the f-format type is not consid
+the differ activ of peopl can not be consid similarli
+for exampl the way to navig social without disturb a group drink coffe or discuss a poster is differ just like the interact locat when serv coffe or explain a poster
+the main contribut of thi paper is to propos a dynam proxemia model approach dpma for social navig and interact
+it is base on proxemia and spatial model which allow the robot to navig social by consid the comfort of peopl and to interact in appropri interact condit
+it consid the f-format type and the natur of the activ addit to the differ social space and the navig and interact constraint
+then it use a social map to encod them
+the perform and the effici dpma are evalu both in three simul environ use the ro stage simul and on a real robot use as a servic robot in a mediat event exampl
+promis result are given in thi paper .

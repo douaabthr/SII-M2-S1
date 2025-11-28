@@ -1,0 +1,9 @@
+simul of urban pattern evolut trend base on satellit gi and remot sens
+exist hyperspectr remot sens imag classif method have separ featur extract and classifi
+at the same time separ train will increas network complex and be veri time-consum
+therefor a deep learn space-spectrum combin with hyperspectr remot sens imag classif algorithm is propos
+first mathemat transform is use to stabil the growth rate of remot sens imag radiat valu and reduc the standard deviat of spatial distribut characterist of gi inform dn valu so as to increas the growth rate of remot sens spectral radiat valu in suburban area
+then a band combin strategi lstm algorithm that focus on global featur is select to regroup the band of the spectral vector of each pixel of the hyperspectr data which can effect extract the context featur between adjac spectra
+final princip compon analysi is perform on the satellit remot sens imag and retain the first few princip compon to achiev dimension reduct the multiscal convolut neural network is appli to extract the spatial featur of the satellit remot sens imag after dimension reduct
+the end-to-end structur is use to extract spectral featur and spatial featur simultan to realiz satellit remot sens imag analysi
+the simul experi prove that the calcul accuraci of the urban pattern chang trend of the algorithm in thi paper is high and the calcul result are more converg which can provid more accur trend of the urban pattern chang and play a guid role in the futur construct of the citi .

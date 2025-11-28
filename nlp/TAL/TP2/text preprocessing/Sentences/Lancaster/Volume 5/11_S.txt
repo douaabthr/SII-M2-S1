@@ -1,0 +1,7 @@
+xcsf with loc delet prev detry forget
+the xcsf class system it solv regress problem with a pop of overlap loc approxim
+we show that problem solv stabl and acc may be lost in particul set main due to xcsf s glob delet
+we introduc loc delet which prev thes detry effect to larg ext
+we show expery that loc delet can prev forget in vary problem particul wher the problem spac is non-uniformly or non-independently sampl
+whil we us xcsf with hyper-ellipsoidal receiv field and linear approxim herein loc delet can be apply to any xcs vert wher loc can be simil defin
+for fut work we propos to apply xcsf with loc delet to unb non-uniformly distribut loc sampl problem with complex manifold structures within which vary target er valu may be reach select .

@@ -1,0 +1,8 @@
+mut inform for feat select estim or count
+in class feat select is an import pre-processing step to simpl the dataset and improv the dat repres qual which mak class becom bet easy to train and understand
+becaus of an abl to analys non-linear interact between feat mut inform has been wid apply to feat select
+along with count approach a tradit way to calc mut inform many mut inform estim hav been propos to allow mut inform to work direct on continu dataset
+thi work focus on comp the effect of count approach and kernel dens estim kde approach in feat select us partic swarm optim as a search mech
+the expery result on 15 diff dataset show that kde can work wel on both continu and discret dataset
+in addit feat subset evolv by kde achiev simil or bet class perform than the count approach
+furtherm the result on art dataset with vary interact show that kde is abl to capt correct the interact between feat in both relev and redund which can not be achiev by us the count approach .

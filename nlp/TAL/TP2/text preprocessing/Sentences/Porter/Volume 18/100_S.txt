@@ -1,0 +1,11 @@
+fault detect in photovolta modul use i v curv and machin learn
+consid grow global demand for electr it is essenti to invest in clean and renew energi product
+invest in renew energi product is crucial to creat a sustain matrix that can effici meet consumpt need
+reduc cost for solar energi oper and mainten o m is critic to ensur the econom viabil of photovolta pv project
+effici manag of these cost can make the differ between a success project and an unprofit instal
+thi work propos the structur of a dataset use real measur of current voltag i v curv from a solar plant
+base on thi two classif were perform to detect shade and soil in pv modul
+two differ method were use for featur process
+one dataset wa creat use complet i v curv while the other reli sole on key paramet from a characterist curv
+the dataset use incorpor data on current voltag irradi and modul temperatur at the time of measur
+differ machin learn model were compar achiev 100% accuraci in soil classif and 93.2% in shade classif .

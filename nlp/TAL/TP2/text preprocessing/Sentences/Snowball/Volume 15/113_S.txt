@@ -1,0 +1,3 @@
+gis-bas fuzzi sentiment analysi framework to classifi urban element accord to the orient of citizen and tourist express in social network
+we propos the integr in a gis platform of a sentiment analysi method aim at evalu the mood and impress that citizen and tourist express in unstructur comment in the various social group connect to live and aggreg place built environ servic infrastructur of urban fabric
+this approach allow the extract and classif of user opinion in term of emot categori and constitut a knowledg base capabl of evalu appropri strategi for plan and design intervent on urban element for the purpos of their better usabl and percept by user .

@@ -1,0 +1,12 @@
+editori
+thank you for give me thi opportun to act as the guest editor of thi special issu which is on nature-inspir algorithm for high-perform comput in comput vision
+to tackl complex real-world problem scientist have been look into natur process and creatur both as model and metaphor for year
+optim is at the heart of mani natur process includ darwinian evolut social group behavior and forag strategi
+over the last few decad there ha been remark growth in the field of nature-inspir search and optim algorithm
+nature-inspir algorithm provid a systemat introduct to all major nature-inspir optim algorithm for optim
+current these techniqu are appli to a varieti of problem rang from scientif research to industri and commerc
+the two main famili of algorithm that primarili constitut thi field today are the evolutionari comput method and the swarm intellig algorithm
+although both famili of algorithm are gener dedic to solv search and optim problem they are certainli not equival and each ha it own distinguish featur
+reinforc each other s perform make power hybrid algorithm capabl of solv mani intract search and optim problem
+mani problem in scienc and engin can be formul as optim problem subject to complex nonlinear constraint
+the solut to highli nonlinear problem usual requir sophist optim algorithm and tradit algorithm may struggl to deal with such problem .

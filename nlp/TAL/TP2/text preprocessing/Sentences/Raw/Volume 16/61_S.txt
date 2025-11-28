@@ -1,0 +1,10 @@
+Termite alate optimization algorithm a swarm-based nature inspired algorithm for optimization problems
+Swarm based algorithms play a very important role in solving optimization problems as these algorithms perform better than the traditional techniques
+Various such swarm-based algorithms are developed and experimented with by previous researchers
+However the complexity and number of input parameters to be tuned are the significant disadvantages for most of these swarm-based algorithms
+In this present study a new swarm-based nature inspired algorithm called Termite Alate Optimization Algorithm TAOA is proposed based on the phototactic activity of a termite alate group
+The advantage of this algorithm is its faster convergence rate with effective exploration and exploitation capability
+The algorithm also has a moderate number of process parameters and computational complexity
+To evaluate the capability total 30 benchmark instances and 5 real-life problems are solved by this algorithm
+Apart from the benchmark and real-life instances the algorithm is also applied in the flow shop problem to evaluate its effectiveness
+Finally a comparison between the results of TAOA and other existing algorithms is carried out which validates its ability .

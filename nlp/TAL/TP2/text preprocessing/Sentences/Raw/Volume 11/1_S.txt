@@ -1,0 +1,15 @@
+Editorial
+I personally thank for the great opportunity offered to me to act as the Guest Editor of this special issue which is on nature inspired algorithms and their applications
+Nature-Inspired Algorithms NIA hasattained immense popularityin recent years for tackling thehard real world NP hard and NP complete problems and complex optimization functions for which actual solution doesn t exist
+The main purpose behind the development of such algorithms is to optimize engineering problems
+Since the world is looking towards industrialization engineering problems are becoming tedious and tricky to optimize
+This is because of growing dimensions time complexity variables space complexity and so on
+In order tocope up with such situation nature-inspired algorithms are designed to optimize multi-objective functions numerical benchmark functions and solve NP-hard problems for more variables dimensions etc
+In fact NIA is mainly categorized into two evolutionary algorithms and Swarm intelligence-based algorithms
+Evolutionary algorithms are purely based on the evolutionary behaviour of natural systems
+These algorithms employ recombination and mutation operators for optimizing the complex issues e.g. genetic algorithm differential evolution and so on
+Swarm intelligence SI based algorithms also termed as swarm optimization techniques attempt to optimize the engineering problems by imitating the collective searching behaviour of natural swarms
+Swarm intelligence and evolutionary algorithms form a hot topic in the developments of new algorithms inspired by nature
+Besides these categories NIA hasdifferent other classifications that are dependent tosource of inspiration
+For instance artificial neural network mimics the decision-making process of human brain
+It also gains much attention from the researchers to solve prediction and classification problems .

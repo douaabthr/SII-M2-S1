@@ -1,0 +1,12 @@
+a model for optim energy man in a microgrid us bioga
+a mor sustain energy matrix can be achiev through an integr approach to energy gen and end-consumer self-production
+thi altern can reduc consum energy cost and en the mat and boost of distribut gen technolog
+us rely cost model with smart-grid technolog en mor econom efficy energy system
+prevy disregard energy solv can becom viabl solv such as elect energy gen us bioga
+in thi context the contribut of thi study is threefold
+first we develop a cost model of elect and mech energy gen for loc consum in microgrid-producing bioga
+second we integr into the model a dual-fuel mot to gen elect energy us a vary mixt of bioga and oth fuel and the biometh upgrad system to supply the mech demand
+third bas on thi model an optim energy man tool is propos
+the perform of thi tool is analys through scenario sim of an ex microgrid compos of a mot engin fuel by bioga produc intern a photovolta pv system a battery bank and connect to the util
+the result ind the econom adv of adopt the tool and the us of the propos model
+besid the reduc elect cost it also allow analys of how each piec of equip contribut to the elect cost which can be help in fut decid about equip siz .

@@ -1,0 +1,10 @@
+a hybrid class model for predict of academ perform of stud a big dat apply
+predict the educ perform of stud turn into mor complex aspect due to the vast dat volum in the databas
+the conv system hav fail to analys and monit the progress of the stud oft the prom perform is not being address
+it is due to inappropry method select and investig lag
+thi pap intend to predict the educ perform of stud bas on socio-demographic inform
+it introduc a perform predict architect that includ two mod
+on mod is to handl the big dat via mapreduc framework incorp the conceiv of principl compon analys wherea the second mod is an intellig mod that predict the perform of the stud us dat process stag
+for thi thi pap introduc a new hybrid class which hybrid the deep believ network and support vect machin
+the output from the propos class giv an acc predict of stud perform
+the perform of the propos predict model is comp ov oth conv method in term of acc spec sensit precid neg predict valu f1-score matthew correl coefficy fals posit rat fals neg rat and fals discovery rat and prov the supery of propos predict model .

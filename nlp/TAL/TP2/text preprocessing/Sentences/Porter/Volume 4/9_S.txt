@@ -1,0 +1,9 @@
+on the role of age divers for effect age oper
+age is a gener mechan that some random search heurist employ to increas the divers of their collect of search point
+a more divers collect of search point is believ to improv the search heurist s perform for difficult problem
+the most promin random search heurist with age are evolutionari algorithm and artifici immun system
+while it is known that random search heurist with age can be veri much more effici than random search heurist without age the detail of the origin of such benefit are difficult to understand
+we contribut to thi understand by present a detail and structur analysi of age
+we prove that in addit to divers with respect to search point divers with respect to age play a key role
+we analyz differ way of deal with age divers by mean of theoret as well as empir analys
+major result includ a more structur understand of age and showcas where age divers can make the differ between effici and complet ineffici optim .

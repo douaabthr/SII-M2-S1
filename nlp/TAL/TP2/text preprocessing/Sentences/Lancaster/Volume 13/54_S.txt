@@ -1,0 +1,10 @@
+an intellig program genet algorithm with adv determin divers cre op us object surfac vis
+thi pap pres a new fast intellig program genet algorithm ipg bas evolv optim algorithm which requir less numb of object funct evalu for reach optim
+the propos algorithm apart from us prob genet op i. e
+crossov and mut also us a determin divers cre op for gen new solv in the cur pop
+thi is don by first project object surfac from high dimend to low dimend for vis purpos and then determin gen new solv us som predefin rul in the reg with high object funct valu
+as the new gen solv is in lower-dimensional spac thes solv ar again project back to high dimend spac and then the object funct is evalu at that point
+the propos ipg is test on three diff categ of standard test funct viz
+unimod funct 2 test funct unrot multimod funct 6 test funct and rot multimod funct 5 test funct
+sim result wer comp with that obtain us bin cod ga real cod ga rec propos ga with diff evolv crossov op ga dex and anoth success-history-based adapt ga with ag mech ga adexsp in term of mean and standard devy of the object funct av numb of object funct evalu requir to reach optim and algorithm complex
+sim result clear demonst bet perform of the propos ipg when comp with oth vary of gas .

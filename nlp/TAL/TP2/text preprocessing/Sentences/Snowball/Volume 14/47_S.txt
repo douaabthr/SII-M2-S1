@@ -1,0 +1,9 @@
+architectur for distribut queri process use the rdf data in cloud environ
+from past decad the advanc in the field of rdf data manag pose mani challeng to research
+process larg volum of rdf data is veri difficult task in the cloud
+the rdf data actual contain complex graph along with larg number of schema
+distribut the rdf data with tradit approach or partit them with convent mechan lead to faulti distribut as well as generat larg number of join oper
+to address the abov issu this paper develop architectur for distribut queri process use the adapt hash partit approach along with hash join oper
+this paper also develop an algorithm for execut the queri by minim the join
+this paper present an evalu of the propos model with other standard model
+the experiment result prove that the propos method had faster respons time compar to the other standard model .

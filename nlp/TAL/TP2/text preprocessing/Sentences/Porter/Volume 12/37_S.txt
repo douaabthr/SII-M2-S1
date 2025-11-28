@@ -1,0 +1,11 @@
+hybrid decis tree for data stream base on increment flexibl naiv bay predict at leaf node
+mine data over stream in one pass and use constant memori is a challeng task
+decis tree are one of the most popular classifi for both batch and increment learn due to their high degre of interpret eas of construct and good accuraci
+the most popular decis tree for stream classif is hoeffd tree base on hoeffd bound
+literatur show a few variant of decis tree base on differ bound
+the default class predict method adopt in decis tree is major class approach
+later the accuraci of predict wa scale up by a hybrid decis tree where naiv bay classifi wa use for predict
+kernel densiti estim kde is employ in flexibl naiv bay for classif
+howev it is suitabl for model static data set
+thi paper propos an increment flexibl naiv bay ifnb base hybrid decis tree paradigm that use kde to model continu attribut at leaf node of the tree for improv the class predict accuraci
+experiment result on both synthet and real dataset show that the propos ifnb base leaf classifi achiev improv over the class predict method adopt in exist decis tree for data stream .

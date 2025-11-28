@@ -1,0 +1,9 @@
+studi on the evolut of hot topic in the urban develop
+urban is crucial import for peopl to improv the qualiti of life
+thus it is of import to studi the evolut of hot topic to explor the function of citi for meet the increas demand of peopl
+in this paper we explor the semant analysi of hot topic and trend in urban studi from the literatur which provid a research direct for futur studi
+base on articl collect from the scienc citat index expand and confer proceed citat index-sci databas from 2000 to 2016 we found that the number of urban studi increas in stabil dure that time
+follow by england and china usa was the largest contributor for studi in this field
+base on the keyword and abstract of these articl we extract the topic of the studi use a cluster method and topic model and calcul the hot valu of the topic
+final we obtain 15 hot topic in the field of urban studi among which citi school region econom and estat were the hottest topic that indic the focus of the research studi
+an anomali detect method was use to analyz the chang trend of topic hot valu and we found that the hot valu of these topic overal were on the rise especi urban educ and urban plan increas signific which indic that they attract an increas amount of scholar attent but the hot valu of health and gis decreas signific recent which suggest that research interest in these two topic is decreas .

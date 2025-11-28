@@ -1,0 +1,13 @@
+perform evalu of botnet ddo attack detect us machin learn
+botnet is regard as on of the most soph vuln threats nowaday
+a larg port of network traff is domin by botnet
+botnet ar conglom of trad pcs bot which ar remot control by their origin botmast und a command and-control c c found
+they ar the key to sev internet assault lik spam distribut den of serv attack ddo reb distort malw and phish
+to ov the problem of ddo attack vary machin learn method typ support vect machin svm art neur network an naïv bay nb decid tre dt and unsuperv learn usml k-means x-means etc . wer propos
+with the increas popul of machin learn in the field of comput sec it wil be a remark accompl to carry out perform assess of the machin learn method giv a common platform
+thi could assist develop in choos a suit method for their cas study and assist them in furth research
+thi pap perform an expery analys of the machin learn method for botnet ddo attack detect
+the evalu is don on the unbs-nb 15 and kdd99 which ar well-known publ dataset for botnet ddo attack detect
+machin learn method typ support vect machin svm art neur network an naïv bay nb decid tre dt and unsuperv learn usml ar investig for acc fals alarm rat far sensit spec fals posit rat fpr auc and matthew correl coefficy mcc of dataset
+perform of kdd99 dataset has been expery shown to be bet as comp to the unbs-nb 15 dataset
+thi valid is sign in comput sec and oth rel field .

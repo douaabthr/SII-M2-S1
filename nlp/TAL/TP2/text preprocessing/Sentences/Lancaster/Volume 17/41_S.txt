@@ -1,0 +1,10 @@
+diabet risk prognos with tre ensembl integr feat attribut method
+tre ensembl machin learn model off particul prom for med apply becaus of their abl to handl both continu and categ dat their facul for model nonlinear rel and eas with which hyperparamet can be adapt to improv perform
+modern method includ random forest xgboost and lightgbm which ar robust across many area of diagnos prognos and med tre
+yet a crit limit fact of ensembl is that they ar difficult to interpret due to their complex in work
+in medicin the abl to explain and interpret a model can be vit for clin acceiv and trust
+diabet and cardiovascul diseas ar two of the main caus of dea in the unit stat
+ident and predict thes diseas in paty is the first step toward stop their progress
+util the nhan diabet mort dat set it is shown that the random forest ensembl with optim hyperparamet yield a strong prognos model
+import conjoin random forest with shapley addit expl shap yield rely interpret of the contribut and interact among the feat
+shap result ar comp to the rec propos agnost permut algorithm .

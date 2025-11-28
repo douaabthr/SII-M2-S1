@@ -1,0 +1,8 @@
+a multi-analysi on privaci preserv of associ rule use hybrid approach
+nowaday extens obtain person data ha made privacy-preserv data mine ppdm issu a signific one
+ppdm handl secur the privaci of sensit knowledg or person data without leak the util of the data
+sever techniqu have been introduc with the concern of privaci yet there exist certain limit in ppdm in achiev the feasibl standard
+henc thi paper intend to develop a sanit and restor model by concern object function like hide failur rate inform preserv rate fals rule gener rate degre of modif compress ratio tamper and low pass filter for better preserv of privaci data
+in sanit and restor a key is gener optim use hybrid model name genet algorithm with crow search algorithm ga-csa
+moreov the sensit data is restor effici by the author user at the receiv end
+final the propos ga-csa approach is compar over convent scheme such as firefli ff self-adapt ff genet algorithm particl swarm optim and differenti evolut approach and the enhanc outcom are obtain .

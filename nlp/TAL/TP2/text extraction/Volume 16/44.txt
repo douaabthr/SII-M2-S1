@@ -1,0 +1,3 @@
+Retraction Note: FPGA logic design method based on multi resolution image real time acquisition system
+
+Retraction Note to: Evolutionary Intelligence (2018) 12:367–375https://doi.org/10.1007/s12065-018-0194-9

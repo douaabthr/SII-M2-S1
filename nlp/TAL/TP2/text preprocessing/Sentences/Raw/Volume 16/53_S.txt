@@ -1,0 +1,8 @@
+Flower pollination algorithm with pollinator attraction
+The Flower Pollination Algorithm FPA is a highly efficient optimization algorithm that is inspired by the evolution process of flowering plants
+In the present study a modified version of FPA is proposed accounting for an additional feature of flower pollination in nature that is the so-called pollinator attraction
+Pollinator attraction represents the natural tendency of flower species to evolve in order to attract pollinators by using their colour shape and scent as well as nutritious rewards
+To reflect this evolution mechanism the proposed FPA variant with Pollinator Attraction FPAPA provides fitter flowers of the population with higher probabilities of achieving pollen transfer via biotic pollination than other flowers
+FPAPA is tested against a set of 28 benchmark mathematical functions defined in IEEE-CEC 13 for real-parameter single-objective optimization problems as well as structural optimization problems
+Numerical experiments show that the modified FPA represents a statistically significant improvement upon the original FPA and that it can outperform other state-of-the-art optimization algorithms offering better and more robust optimal solutions
+Additional research is suggested to combine FPAPA with other modified and hybridized versions of FPA to further increase its performance in challenging optimization problems .

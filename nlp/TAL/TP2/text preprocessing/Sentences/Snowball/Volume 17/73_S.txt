@@ -1,0 +1,8 @@
+simplifi u-net as a deep learn intellig medic assist tool in glaucoma detect
+glaucoma is look on as the most import caus of irremedi vision loss worldwid
+earli detect of eye diseas especi glaucoma is serious for prepar time medic care and keep down the vision loss
+in this paper a fast segment algorithm is propos which is base on a new simplifi u-net architectur for optic disc and retin vessel segment
+the propos method includ a modifi and reinforc structur that will reduc the predict time while maintain the perform and accuraci at an compar level due to other state of the art method
+for exampl for optic disc segment the propos method can segment the optic disc in 0.008 second on drions-db dataset and for vessel segment it can segment in 0.03 second on drive dataset
+accord to these result and an extens of the propos method can be use as a real-tim intellig medic system which abl to be implement on the usual hardwar equip in the ophthalmolog clinic
+this method which can perform optic disc and retin vessel segment task in a short time increas the perform of ophthalmologist in glaucoma diagnos .

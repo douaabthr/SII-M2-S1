@@ -1,0 +1,13 @@
+funct approxim with lwpr and xcsf a comp study
+funct approxim also cal regress is an import tool in num mathem and engin
+the most challeng approxim problem ar when the funct class is unknown and the surfac has to be approxim onlin from incom sampl
+on way to achiev good approxim of complex non-linear funct is to clust the input spac into smal patch apply linear model in each nich and recombin thes model via a weight sum
+whil it is rath simpl to optim fit a linear model to giv dat it is fair complex to find a reason structuring of the input spac in ord to exploit linear in the und funct
+we comp two non-parametric regress algorithm that ar abl to approxim multi-dimensional non-linear funct onlin
+the xcsf learn class system is a mod vert of xcs which is agenetics-based machin learn algorithm
+loc weight project regress is astatistics-based machin learn techn that is main us for funct approxim task in robot
+for both algorithm the relev conflict perform criter areaccuracyandpop siz that is the numb of loc model
+we expl the trade-off between thos criter on three benchmark problem by mean of intens grid search for pareto optim solv
+detail learn behavy is investig us select pareto optim paramet
+the illust of fin input spac clust shed light on the structuring cap
+a discuss of adv and drawback complet thi comp study .

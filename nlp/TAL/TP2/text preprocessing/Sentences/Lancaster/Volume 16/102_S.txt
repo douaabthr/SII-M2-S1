@@ -1,0 +1,10 @@
+big data-driven engl teach for soc med a neur network-based approach
+big dat and intellig art hav gre broad the channel for peopl to acquir knowledg
+the pract apply of art intellig technolog in colleg engl classroom can not on help teach prep mor sci and adv teach plan and also effect improv the qual of colleg engl teach
+in thi pap we employ deep neur network to design a big data-driven engl teach improv scheme
+the propos method can help teach and stud improv teach strategies and assist stud to learn mor acc and efficy
+first we analys the cur deficy and reason in engl teach
+second we analys the apply of art intellig in text corp construct
+third we us neur network to design an intellig fac recognit system for teach to improv the attend rat
+for by analys the stud writ we design a writ scor method bas on the neur network model which can evalu stud writ cont
+fin we expery evalu and ver the effect of the propos method in thi pap .

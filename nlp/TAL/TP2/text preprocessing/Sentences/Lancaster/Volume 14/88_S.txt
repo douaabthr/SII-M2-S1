@@ -1,0 +1,7 @@
+enh cartes genet program through pref select of larg solv
+we demonst how the efficy of cartes genet program method can be enh through the pref select of phenotyp larg solv among eq good solv
+the adv is demonst in two qualit diff problem the eight-bit par problem and the paig regress problem
+in both cas the pref select of larg solv provid an adv in term of the perform and of spee i. e
+numb of evalu requir to evolv optim or high-quality solv
+perform can be furth enh by self-adapting the mut rat through the one-fifth success rul
+fin we demonst that for problem lik the paig regress in which neut play a smal rol perform can be furth improv by pref select larg solv also among candid with simil fit .

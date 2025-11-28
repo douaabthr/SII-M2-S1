@@ -1,0 +1,10 @@
+ga-pparm constraint-bas object function and genet algorithm for privaci preserv associ rule mine
+now a day privacy-preserv data mine is an import research topic that find signific inform from the databas while hide sensit inform
+number of algorithm are present for conceal sensit inform
+thi paper present the privaci preserv associ rule mine by constraint-bas object function and the genet algorithm ga
+the propos method use the frequent pattern fp growth algorithm for mine the associ rule from the databas
+at first the fp-growth algorithm extract the fp from the databas by appli the support threshold and then gener the associ rule from the fp by appli the confid threshold
+then the gener associ rule are process by the ga for produc the privaci preserv associ rule while preserv the sensit rule
+final the privaci preserv associ rule are provid to the third parti user
+the perform of the propos method is evalu with the exist particl swarm optim pso for the evalu metric privaci and util
+the experiment result show that the propos method mine the privaci preserv associ rule from the databas with the maximum privaci of 0.124 and the minimum util of 0.0989 when compar to the exist method .

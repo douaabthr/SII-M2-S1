@@ -1,0 +1,11 @@
+discret marin predat algorithm for symmetr travel salesman problem
+this paper address the well-known np-hard problem the symmetr travel salesman problem stsp which has numer applic in logist and graph theori
+to solv this complex problem a discret version of the marin predat algorithm d-mpa is introduc
+although mpa has been extens studi for various optim problem and real-world applic it use in rout problem particular tsp remain relat unexplor
+to adapt mpa for stsp the posit of individu are initi updat use the classic mpa algorithm
+the continu valu generat by the classic mpa are then convert to discret valu follow by the applic of a permut oper to maintain divers in the popul
+in addit a local search algorithm 2 opt is appli to further improv the result for stsp instanc
+the effect of the propos algorithm is demonstr on stsp benchmark instanc of size rang from 14 to 439
+the perform of d-mpa is compar against sever exist algorithm includ the genet algorithm ga bat algorithm ba discret firefli algorithm dfa evolutionari simul anneal esa island-bas distribut genet algorithm idga discret imperialist competit algorithm dica and discret grey wolf optim dgwo
+to ensur an unbias and rigor comparison descript statist such as mean and standard deviat are use and a wilcoxon signed-rank test is conduct for statist valid
+the result demonstr that d-mpa not onli compet but also consist outperform these algorithm make it a valuabl resourc for the research communiti .

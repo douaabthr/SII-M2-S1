@@ -1,0 +1,14 @@
+optim schedul of a micro-grid with multi-period island constraint use hybrid cfc techniqu
+thi paper propos an effici techniqu for optimum schedul of micro-grid with multi-period island restrict
+the propos method is joint implement of cuttl fish algorithm cfa and crow search algorithm csa is known cfc method
+here the cfa search behavior is modifi by the csa updat posit
+the propos cfc system is util for optim schedul of micro-grid and consider decreas the calcul load
+the main purpos of propos work is diminish the micro-grid oper cost togeth with the dispatch- unit oper cost cost of power transmiss as main grid with inconveni cost recogn with consum
+the cost of power transmiss from main phase can be posit or neg base on the flow direct of transmiss line link the microcircuit to main phase
+neg cost that repres an export of power to main grid emerg as econom advantag of micro-grid
+cost of inconveni impli the penalti of modifi load program outsid the time interv particular by the consum
+constant penalti factor is util for priorit load with respect to oper sensit insid the particular time interv in which a superior valu of the penalti factor impli a least flexibl load base on time interv oper set
+the valu of the penalti factor is chosen reason greater to unit gener cost and market price
+in propos techniqu the cfc is use for establish the correct program of the mg combin accord to load side power rang
+the cfc method object function can be defin as system data subject to equal and inequ limit
+at that time cfc model is perform at matlab/simulink work platform and perform is estim to exist techniqu .

@@ -1,0 +1,10 @@
+orad a new framework of offlin reinforc learn with q-valu regular
+offlin reinforc learn rl defin a framework for learn from previous collect static buffer
+howev offlin rl is prone to approxim error caus by out-of-distribut ood data and particularli ineffici for pixel-bas learn task compar with state-bas input control method
+sever pioneer effort have been made to solv thi problem some use pessimist q-valu approxim for unseen observ while other train a model to simul the environ to train a model on previous collect data to learn polici
+howev these method requir accur and time-consum estim of the q-valu or the environ model
+base on thi observ we present offlin rl method with augment data orad a handi but non-trivi extens to offlin rl algorithm
+we show that simpl data augment e. g
+random translat and random crop significantli elev the perform of the state-of-the-art offlin rl algorithm
+besid we find that regular of the q-valu can also enhanc perform
+extens experi on the pixel-bas input control-atari demonstr the superior of orad over sota offlin rl method consid both perform and data effici and reveal that orad is more effect for the pixel-bas control .

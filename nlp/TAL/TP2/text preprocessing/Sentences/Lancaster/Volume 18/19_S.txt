@@ -1,0 +1,12 @@
+fast impl of extrem learn machine-based directrank for surrogate-assisted evolv algorithm
+surrogate-assisted evolv algorithm saea hav been wid us to solv comput expend optim problem
+the extrem learn machine-based directrank eldr is a single-layer feed-forward neur network surrog model design for saea
+eldr estim the supery of two solv with a high estim acc ev in high-dimensional problem
+howev eldr requir a long comput tim as the problem dimend and the numb of hid neuron increas thu mak it difficult to apply it to high-dimensional problem
+a surrog model should be comput efficy and en rapid fit estim
+theref thi pap propos a fast impl techn i.e. fast vert eldr feldr that achiev mathem equ learn result with low comput complex
+addit thi pap propos a pointw scor funct to rend the predict result reus
+the expery result confirm the effect of feldr when comp with the origin eldr
+the learn result of the propos feldr wer equ to thos of the origin eldr whil reduc the train tim by up to 97% espec when us a larg hid lay on a high dimend problem
+moreov due to the reus predict result the comput tim of the feldr-assisted sae can be furth decreas by 79.5% when comp with that of the origin eldr-assisted sae
+the reduc train tim and reus predict result of feldr rend it feas to apply eldr to high-dimensional optim problem and real a high predict acc with a larg numb of hid neuron .

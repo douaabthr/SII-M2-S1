@@ -1,0 +1,17 @@
+engl text senty analys bas on gen advers network
+engl text senty analys is an import task in nat langu process nlp
+hum civil has a long hist and each reg has it own un hist of langu develop
+by the way langu is const upd and chang with the develop of the tim
+espec engl is on of the most popul langu in the world
+it has a long hist and is wid us in al country and nat in the world
+theref how to effect recogn the emot of engl text through comput technolog is stil an urg problem to be solv
+in thi pap we propos a gen advers network gan bas method to analys the engl text senty
+in thi method the gam between the gen and discrimin from the gan is us to upd the model s understand abl of sem analys and the emot class and recognit ar real through it train
+gan is mor lik a young child who const upd his understand of langu by receiv foreign inform in his lif
+the gen main impl emot analys and gen a new sent which the senty is simil to the recognit result
+whil the discrimin determin wheth the input langu is real emot
+theref we first train a sent gen to giv us som rel poss sent bas on our input som ref word
+when the network converg we analys the engl text through the senty analys network and then input the analys result into the sent gen network and the output sent into the discrimin for judg
+meanwhil the whol process includ text analys bas on big dat
+when the result gen by the senty analys network and the gen network can deceiv the discrimin the result gen by the network ar clos to the real senty analys result
+our result show that thi approach is effect in op dat set .

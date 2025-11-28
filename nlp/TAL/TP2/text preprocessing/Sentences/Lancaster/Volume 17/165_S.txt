@@ -1,0 +1,10 @@
+a nearest neighb query method for search object with tim and loc inform bas on spatiotemp simil
+it is cruc for us to find lot of inform with tim and geograph tag on the internet
+theref a nearest neighb query method cal str-knn is propos
+us the method of calc the spatiotemp simil between two object the spatiotemp vary of the dat object ar norm and map to the three-dimensional spac
+the dist simil between two dat object in the three-dimensional spac is us to approxim their act spatiotemp simil
+in thi way a three-dimensional str-tree index is built for the dat object in the three-dimensional spac
+thi index can effect combin the spat temp vary of the dat object ens that each dat object is travers no mor than ont dur query process
+fin an acc search algorithm of str-knn is design to find up to the top-k query result through a singl calc
+in the expery when the dat volum is 6 mil the query tim of str-knn 3dr k nn and rt-k nn algorithm ar 12 ms 43 ms and 55 ms respect
+when k is tak as 50 the query tim of the three algorithm ar 12 ms 43 ms and 55 ms respect ind that the new algorithm can gre improv the query efficy .

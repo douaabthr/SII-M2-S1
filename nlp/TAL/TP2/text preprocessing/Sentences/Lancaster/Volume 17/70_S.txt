@@ -1,0 +1,11 @@
+fir and manoeuvr optim for flow shop scheduling problem
+the purpos of thi pap is to introduc a new rich sourc of idea and techn that could be us to build new algorithm cap to solv num encount optim problem in diff field of sci and engin
+the art of war is on of the most rich disciplin in term of already expery strategies and tact that can inspir research to design new pow and efficy metah
+the framework of the propos method ar inspir by the main war phas and contain sev compon init intellig conceiv suppress adv assault and exploit
+the bas fir and manoeuvr tact is adopt in the suppress and adv phas
+the propos fir and manoeuvr algorithm fma is a hybrid of a greedy algorithm with a multi-neighbouring search proc
+the develop algorithm has been employ to minim makesp of the class flow shop scheduling problem
+a mathem model is pres to describ the study optim problem
+comp expery on taillard s dat set confirm that the fma result ar mor acc than already publ dat
+a comparison between the fma and oth popul nature-inspired algorithm has been conduc
+it was rev that the propos metah outperform the class genet algorithm the migr bird optim and the whal optim algorithm .

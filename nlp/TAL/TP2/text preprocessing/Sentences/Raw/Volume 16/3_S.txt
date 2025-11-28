@@ -1,0 +1,10 @@
+Optimal reconfiguration of distribution network feeders considering electrical vehicles and distributed generators
+Penetration of electrical vehicles and distributed generation resources in distribution networks is increasing and it is needed to investigate their effect on system s operation scheme reliability
+But the simultaneous presence of electrical vehicles and distributed generation resources requires meticulous planning because lack of access to an application can reduce the lifetime of these technologies leading to multiple blackouts in the power grid
+Therefore this study proposes the dynamic distribution network reconfiguration in the presence of distributed generation units and electrical vehicles with various objective functions including energy loss operational cost and energy not supplied
+Moreover the time of use mechanism as a demand response application is introduced to enhance the power usage of subscribers
+In order to generalize the proposed approach Time varying electricity prices and different load levels are considered to provide accurate production planning of distributed generation resources and electrical vehicles in the real space of the electricity network
+The inherent complexity of the distribution feeder reconfiguration problem has made the presentation of solution techniques a topic of ongoing research
+Therefore a hybrid improved particle swarm optimization artificial bee colony optimization algorithm has been presented to alleviate the complexities of the optimization problem
+The resented method is tested on the 95 bus system and a comparison is drawn between its outcomes and that of other methods including particle swarm optimization artificial bee colony optimization and enhanced gravitational search
+The review of the results manifests that the proposed method is superior to other evolutionary algorithms .

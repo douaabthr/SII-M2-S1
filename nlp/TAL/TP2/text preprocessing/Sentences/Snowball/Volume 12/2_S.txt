@@ -1,0 +1,12 @@
+the anglerfish algorithm a deriv of random increment construct techniqu for solv the travel salesman problem
+combinatori optim focus on arriv at a global optim solut given constraint incomplet inform and limit comput resourc
+the combin of possibl solut are rather vast and often overwhelm the limit comput power
+smart algorithm have been develop to address this issu
+each offer a more effici way of travers the search landscap
+critic have call for a realign in the bio-inspir metaheurist field
+we propos an algorithm that simplifi the search oper to onli random popul initi follow the random increment construct techniqu which essenti compartment optim into smaller sub-unit
+this reliev the need of complex oper normal impos on the current metaheurist pool
+the algorithm is more generic and adapt to ani optim problem
+benchmark is conduct use the travel salesman problem
+the result are compar with the result of advanc metaheurist algorithm
+henc suggest that arbitrari explor is practic as an oper to solv optim problem .

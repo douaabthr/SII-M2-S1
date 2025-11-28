@@ -1,0 +1,7 @@
+multipl global peak big bang-big crunch algorithm for multimod optim
+the main challeng of multimod optim problem is identifi multipl peak with high accuraci in multidimension search space with irregular landscap
+this work propos the multipl global peak big bang-big crunch mgp-bbbc algorithm which address the challeng of multimod optim problem by introduc a special mechan for each oper
+the algorithm expand the big bang-big crunch algorithm a state-of-the-art metaheurist inspir by the univers s evolut
+specif mgp-bbbc group the best individu of the popul into cluster-bas center of mass and then expand them with a progress lower disturb to guarante converg
+dure this process it i appli a distance-bas filter to remov unnecessari elit such that the one on smaller peak are not lost ii promot isol individu base on their nich count after cluster and iii balanc explor and exploit dure offspr generat to target specif accuraci level
+experiment result on twenti multimod benchmark test function show that mgp-bbbc general perform better or competit with respect to other state-of-the-art multimod optim .

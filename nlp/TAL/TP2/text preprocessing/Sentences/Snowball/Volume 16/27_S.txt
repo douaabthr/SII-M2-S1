@@ -1,0 +1,11 @@
+design of deer hunt optim algorithm for accur 3d indoor node local
+indoor local is one of the emerg technolog in locat base servic which find use for commerci as well as civilian industri
+global posit system are a familiar solut for outdoor local system
+but the presenc of complic obstacl in build pose a major challeng in indoor local
+though few indoor local techniqu base on rang and fingerprint base techniqu are devis they are time consum and labori
+therefor this paper devis an effici deer hunt optim algorithm with weight least squar estim dhoa-wls techniqu for accur 3d indoor node local techniqu
+the propos dhoa-wls techniqu has the abil to accomplish minim local error with least local time
+in dhoa-wls techniqu the dhoa is use to estim the primari target locat to elimin the non-lin of sight error
+base on the primari locat attain the wlse techniqu is appli to determin the accur target s final locat
+in order to valid the 3d indoor local perform of the dhoa-wls techniqu an extens simul analysi is perform and the result are investig in term of differ measur
+the simul outcom demonstr the superior perform of the dhoa-wls techniqu over the recent state of art techniqu .

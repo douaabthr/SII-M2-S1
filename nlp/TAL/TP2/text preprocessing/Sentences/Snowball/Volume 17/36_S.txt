@@ -1,0 +1,11 @@
+emerg materi reserv problem with option contract consid low carbon dispos cost
+in this paper we studi option contract for emerg materi reserv due to unexpect event
+conting occur random and the amount of realize cannot be known until it break out
+therefor it is import to stockpil some necessari suppli in advanc
+howev a larg advanc stockpil on the demand side would incur low-carbon dispos cost which are not econom
+also the supplier will have no incent to stockpil for the demand due to low carbon dispos cost and product cost
+therefor we propos a contractu approach with option to stimul supplier to stockpil for his client
+three model are discuss base on the consider of low-carbon dispos cost a central decis case a non-opt decentr case and a decentr case with option
+the outcom demonstr that the number of first order under the decentr case without option is less than the order quantiti under the central case
+moreov the size of the first purchas volum in all three case depend on the both parti practic factor
+meanwhil the reason interv of option fee is obtain by analysi .

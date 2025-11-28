@@ -1,0 +1,4 @@
+a perform simul and verif method of packet schedul algorithm for data stream base on qos
+in the process of network-bas data flow transmiss for various applic of inform servic there are some problem such as limit bandwidth and unclear prioriti level of busi data which affect the end-to-end reliabl transmiss effici becaus the system cannot perceiv the link state
+tradit parallel link redund scheme have not fundament solv the problem of invulner and reliabl
+on the basi of sort out the demand of servic data flow transmiss this paper propos a perform verif method of data flow packet schedul algorithm base on qos to solv the problem of network delay and congest and explor a reliabl end-to-end servic data flow transmiss mode .

@@ -1,0 +1,9 @@
+art intellig techn to predict the perform of teach for kindergart iraq as a cas study
+the teach of a kindergart is a paramount fact that affect the child s fut and the educ process as al
+the maj object of the work is to build a model for predict the perform of the iraq kindergart teach by us ai techn and provid feedback for kindergart teach by determin the import teach attribut us feat select method
+the propos work contain three maj stag the dat prep the feat select stag and fin the class stag
+the dataset has been collect by the questionnair the numb of sampl was 1450 sampl of teach from diff city in iraq which wer select random whil the numb of feat was twenty-six
+two typ of feat select techn util wer chi-square and class and regress tre cart method
+three techn had been us in the class stag support vect machin svm naïv bay nb and deep neur network dnn
+the result show the feat had valu diff in import
+the feat select techn had a posit effect on the perform wher the acc was 91.7% 99.31% and 99.68% when us nb svm and dnn consecut when us the cart select method and 75.3% 75.4% and 98.7% consecut for al feat .

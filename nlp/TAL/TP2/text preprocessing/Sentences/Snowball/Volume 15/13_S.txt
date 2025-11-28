@@ -1,0 +1,10 @@
+a fair and effici resourc share scheme use modifi grey wolf optim
+with the rapid upsurg in large-scal comput resourc share in heterogen distribut system where user goal are conflict has becom a paramount research issu
+the resourc share or resourc alloc problem is attribut to alloc user task across multipl comput resourc so that the util of the resourc is improv while ensur the qualiti of servic
+in this paper the resourc alloc problem is consid as a bi-object optim problem includ minim respons time and the util imbal between resourc
+to optim both the object simultan the contribut of this paper are manifold
+first the problem is model as an optim problem by consid both the object in an integr manner
+second the resourc alloc problem is formul as a non-coop game
+final to deriv the game s solut in a distribut manner abestrespons dynam basedmodifiedgreywolfoptimizerbr-mgwoi propos
+further to assess the efficaci ofbr-mgwo it is compar with two other approach i.e. gosandncopon problem instanc of various set
+the experiment result show thatbr-mgwonot onli provid less respons time while provid better improv in util imbal which is reduc by 50% and 71% respect in comparison to thegosandncop .

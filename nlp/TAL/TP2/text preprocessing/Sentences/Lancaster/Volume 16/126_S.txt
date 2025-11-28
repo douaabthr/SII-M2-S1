@@ -1,0 +1,11 @@
+soc internet of thing a novel select approach for dynam resourc substitut
+the internet of thing iot has en bil of object around the world to be in continu interact
+soc interact between smart object ar recogn by the soc internet of thing siot vis
+an efficy resourc select remain a funda challeng for large-scal siot
+in thi pap resourc ar categ into comput and consum
+a comput resourc process dat and a consum resourc capt dat
+a novel approach in web 2.0 context is propos which combin soc network of resourc with the principl of recommend system in ord to defin the interact between resourc
+thes interact ar exploit to develop two algorithm for dynam comput and consum resourc select in cas of substitut
+the search spac of resourc is consid reduc by their categ and the cre of soc network assocy with each resourc
+each resourc is eng in on and on on soc network which consid reduc the task of replac unavail or fail resourc
+the result obtain ar enco and show the indisput contribut of resourc categ for the purpos of their substitut .

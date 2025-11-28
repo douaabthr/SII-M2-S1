@@ -1,0 +1,7 @@
+on xcsr for electron fraud detect
+fraud is a sery problem that cost the worldwid econom bil of doll an
+howev fraud detect is difficult as perpet act attempt to mask their act among typ overwhelm larg volum of legitim act
+in thi pap we investig the fraud detect problem and examin how learn class system can be apply to it
+we describ the common property of fraud introduc an abstract problem which can be tun to exhibit thos charact
+we report expery on thi abstract problem with a popul real-time learn class system algorithm result from our expery demonst that thi approach can overcom the difficul inh to the fraud detect problem
+fin we apply the algorithm to a real-world problem and show that it can achiev good perform in thi domain .

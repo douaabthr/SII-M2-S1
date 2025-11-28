@@ -1,0 +1,9 @@
+fuzzi dragon deep belief neural network for activ recognit use hierarch skeleton featur
+in comput vision human activ recognit is an activ research area for differ context such as human comput interact healthcar militari applic and secur surveil
+activ recognit is perform to recogn the goal and action of one or more peopl from a sequenc of observ base on the action and the environment condit
+still there are number of challeng and issu which motiv the develop of new activ recognit method to enhanc the accuraci under more realist condit
+thi paper propos an error-bas fuzzi dragon deep belief network error-bas ddbn which is the integr of fuzzi with ddbn classifi to recogn the human activ from a complex and divers scenario for which the keyfram are gener base on the bhattacharya coeffici from the set of frame of the given video
+the key frame from the bhattacharya are extract use the scale invari featur transform color histogram of the spatio-tempor interest domin point and hierarch skeleton
+final the featur are fed to the classifi where the classif is done use the propos error-bas fuzzi ddbn to recogn the person
+the experiment is perform use two dataset name kth and weizmann for analyz the perform of the propos classifi
+the experiment result reveal that the propos classifi perform the activ recognit in a better way by obtain the maximum accuraci of 1 a sensit of 0.99 and the specif of 0.991 .

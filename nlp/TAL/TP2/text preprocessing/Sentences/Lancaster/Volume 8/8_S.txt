@@ -1,0 +1,10 @@
+exstrac 2.0 describ and evalu of a scal learn class system
+algorithm scal is a maj concern for any machin learn strategy in thi ag of big dat
+a larg numb of pot predict attribut is emblem of problem in bioinform genet epidemiolog and many oth field
+prevy exstrac was introduc as an extend michigan-style superv learn class system that combin a set of pow heur to success tackl the challeng of class predict and knowledg discovery in complex noisy and heterog problem domain
+whil michigan-style learn class system ar pow and flex learn they ar not consid to be particul scal
+for the first tim thi pap pres a complet describ of the exstrac algorithm and introduc an effect strategy to dram improv learn class system scal
+exstrac 2.0 address scal with 1 a rul spec limit 2 new approach to expert knowledg guid cov and mut mech and 3 the impl and util of the turf algorithm for improv the qual of expert knowledg discovery in larg dataset
+perform ov a complex spectr of sim genet dataset demonst that thes new mech dram improv near every perform met on dataset with 20 attribut and mad it poss for exstrac to rely scal up to perform on rel 200 and 2000 attribut dataset
+exstrac 2.0 was also abl to rely solv the 6 11 20 37 70 and 135 multiplex problem and did so in simil or few learn it than prevy report with smal finit train set and without us build block discov from simpl multiplex problem
+furtherm exstrac us was mad simpl through the elimin of prevy crit run paramet .

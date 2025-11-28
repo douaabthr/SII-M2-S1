@@ -1,0 +1,10 @@
+a multi-strategy slim mould algorithm for solv glob optim and engin optim problem
+aim at the problem of slow converg low acc and easy to fal into loc optim of the slim mould algorithm sma we propos an improv sma ojesm
+ojesm improv the perform of the algorithm by combin strategies bas on opposition-based learn joint opposit select and equilibr optim
+first we introduc an advers learning-opposition-based learn in gen the init pop of slim mold
+second we incorp a joint invers select strategy includ select lead opposit and dynam opposit
+fin we introduc the bal candid principl of the equilibr optim algorithm into sma which enh the algorithm s optim search cap and anti-stagnation abl
+we conduc optim search expery on 29 test funct from cec2017 and 10 benchmark test funct from cec2020 as wel as nonparamet stat analys friedm and wilcoxon
+the expery result and non-parametric test result show that ojesm has bet optim acc converg perform and stabl
+to furth valid the effect of the algorithm we also perform optim test on six engin problem and the vary index musking
+in sum ojesm demonst it pract valu and adv in solv vary complex optim problem with it excel perform provid new perspect and method for the develop of optim algorithm .

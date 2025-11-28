@@ -1,0 +1,6 @@
+an improv im clust algorithm bas on kernel method and tchebychev orthogon mom
+in thi pap we introduc a new clust algorithm cal improv kernel poss fuzzy c-means algorithm imkpfcm bas on the kernel method and poss approach
+the propos imkpfcm algorithm correct sev fcm pfcm and gpfcm algorithm shortcom rely detect clust cent and allow in addit to us euclid dist the employ of oth mor pow addit norm abl to handl vary complex situ
+in thi study we apply imkpfcm algorithm as a new im clust method on the bas of tchebychev orthogon mom to extract feat vect and then comp it with fcm pfcm and gpfcm algorithm to evalu it perform
+the comp study result apply to sev im dataset rev that the imkpfcm clust algorithm improv the clust acc ov the fcm pfcm and gpfcm method
+theref we conclud that the imkpfcm algorithm is mor efficy and produc satisfact im clust result .

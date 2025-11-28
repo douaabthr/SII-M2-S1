@@ -1,0 +1,14 @@
+fogfir fog assist iot en forest fir man
+forest fir disturb the bal of the ear s ecolog system increas glob warm flood drought and decreas the oxyg level
+ear id of forest fir is the on way to mitig the risk of dam
+thi mot auth to design a fog assist wildfir detect framework us internet of thing
+the propos model is divid into three lay such as dat sens edg lay fog lay and cloud lay
+the forest are is categ into diff zon
+in the dat sens edg lay the edg nod of each zon sens the forest fir caus dat and transmit it to the correspond fog dev of the fog lay
+furtherm an integr rul bas class techn is develop in thi pap to detect the stat of the zon vhr/hr/mr/lr by the fog dev of that zon
+thi way edg nod of lr zon wil not transmit dat furth to the correspond fog dev
+as a result the energy of the edg dev is preserv
+moreov the cloud lay of the propos model involv into forest fir monit and burnt are predict us the kera ap model
+al the commun ar don her apply propos mod greedy forward algorithm
+the fir detect acc of propos fogfir model is 94% which is gre than oth ex fir detect techn
+on the oth hand the qualnet sim prov that av remain energy ov al throughput and goodput of the propos model is also high comp to oth iot commun protocol such as rpl aodv .

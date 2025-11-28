@@ -1,0 +1,13 @@
+chi-squar mutat quantum-behav pso algorithm for combin econom and emiss dispatch
+the combin econom and emiss dispatch ceed problem is crucial in the energi industri as it assist in reduc the oper cost of the gener and help to mitig the ensu advers environment impact
+the optim of ceed can also lead to the develop of new technolog for clean-energi product and util
+particl swarm optim and it deriv methodolog are wide use for the solut of such problem and they commonli face issu relat to swarm divers converg rate fall in local optima etc
+we propos a novel chi-squar mutat quantum particl swarm optim qpso-chi2 method for a more compet solut of ceed
+for establish efficaci an extens valid wa done for the propos method use standard benchmark function and a comparison is made with convent pso and other variant of qpso such as uniform gaussian exponenti and cauchi distribut
+further the comparison ha been extend to latest state-of-the-art algorithm for numer optim such as ea4eig ieee cec-2022 jde100 j2020 j21 and jso
+the algorithm is test with three practic ceed case 6 10 and 40 unit
+analysi wa done for the result obtain with variou establish method from the literatur as well as with other variant of qpso
+the research assert that the qpso-chi2 method excel in predict accuraci and comput effici outperform numer establish method
+the qpso-chi2 method achiev an overal maximum cost reduct and transmiss loss of 5.16% and 6.23% respect rel to other approach
+two novel perform evalu strategi viz
+perform plot and normal coeffici of deviat are implement to inspect the potenti of the propos qpso-chi2 .

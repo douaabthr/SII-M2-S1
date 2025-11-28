@@ -1,0 +1,7 @@
+enhanc statist nearest neighbor with steerabl pyramid transform for gaussian nois remov in a color imag
+imag denois is the foremost issu in the field of imag process and comput vision applic and the most challeng part in imag denois is to protect the data bear structur like surfac and edg to achiev better visual imag qualiti
+the non-loc mean filter techniqu perform well to denois gaussian nois while preserv the edg and detail of the origin imag in thi paper an effect gaussian denois is propos base on non-loc mean filter to improv the result imag qualiti
+an exponenti kernel function is includ in the statist nearest neighbor to decreas the predict error in nois free patch which deblur the lower contrast imag detail effect
+further steerabl pyramid transform is appli along with hard threshold to gener the imag with better visibl level
+the simul outcom show that the propos enhanc statist nearest neighbor with steerabl pyramid transform model achiev better gaussian denois perform in term of featur similar index structur similar index mean structur similar index peak signal-to-nois ratio and featur similar index with chromat inform
+in the experiment section propos model show a maximum of 2.07 db and minimum of 0.70 db improv in peak signal-to-nois ratio valu compar to the exist model non-loc mean statist nearest neighbor and attention-guid denois convolut neural network .

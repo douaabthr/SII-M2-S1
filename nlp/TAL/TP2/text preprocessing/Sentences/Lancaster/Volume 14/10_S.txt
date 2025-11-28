@@ -1,0 +1,10 @@
+on acc loc of sens nod in underw sens network a doppl shift and mod genet algorithm bas loc techn
+the problem of loc in und wat sens nod has led to propos of many techn ov the past few decad that depend prim on tim of ar and tim diff of ar
+whil thes techn ar intuit very ap and easy to deploy acc nod loc in dynam und wat environ has remain elud
+sens nod deploy underw tend to mov from their origin posit due to wat cur and hent their exact posit at a giv mom of tim ar not known with precid
+due to inh drawback of radio sign prop in underw environ loc of sens nod depend on acoust sign
+in thi pap we propos a doppl shift bas loc follow by a genet algorithm bas optim techn that improv acc in loc unknown nod in underw sens network
+the propos techn env sink nod play a pivot rol in tak ov a bulk of the comput load on account of being comp mor access and serv as comp to any oth nod in the network that ar deploy underw
+the algorithm rely on observ frequ shift doppl shift of sound wav comp to act that hap when sourc and observ ar mobl as they do in a marin environ
+whil doppl shift determin the approxim loc of an unknown sens nod genet algorithm minim the er in loc
+our propos methodolog has much low loc er as comp to ex protocol .

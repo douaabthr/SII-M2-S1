@@ -1,0 +1,11 @@
+a chaotic adapt butterfli optim algorithm
+butterfli optim algorithm is a popul intellig optim algorithm which is easi to fall into local optim and has low search accuraci
+in this paper a chaotic adapt butterfli optim algorithm caboa is propos
+first the kent map is use to initi the locat of individu butterfli and increas the divers of initi popul
+second adapt switch probabl is introduc in search phase to balanc local search and global search phase
+then the adapt weight coeffici is introduc to adjust the search direct and the move step of the individu butterfli to improv the converg speed and accuraci of the algorithm
+final cauchi variat is carri out to guid the advanc direct of the popul and avoid fall into local optimum
+in this paper the algorithm is use to obtain the optim valu of 12 benchmark test function and is appli to the design of weld beam
+experiment result show that the perform of the improv algorithm has signific advantag over other comparison algorithm in the function optim experi the averag optim valu is improv by 99% compar with the origin algorithm and about 90% compar with other improv algorithm
+meanwhil the algorithm propos in this paper obtain the optim valu of all function and has high effici
+compar with other exist optim algorithm caboa has better converg perform and certain competit and has certain advantag in the applic field .

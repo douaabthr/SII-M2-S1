@@ -1,0 +1,11 @@
+an economic/emiss dispatch base on a new multi-object artifici bee coloni optim algorithm and nsga-ii
+the convent energi resourc have limit reserv and their util is advers affect the environ
+henc it is necessari to generat electr with the least cost and emiss
+the studi in the past reveal that the combin econom emiss dispatch ceed problem has been solv by evolutionari and swarm intelligence-bas optim algorithm
+howev the methodolog to identifi the best compromis solut for the ceed problem has not been studi much in the literatur
+in this paper a multi-object optim algorithm which reduc fuel cost of power generat as well as emiss simultan is present
+the algorithm is a combin of an artifici bee coloni algorithm abc and a non-domin sort genet algorithm nsga-ii with a new constraint handl featur
+to valid the effect of the propos algorithm it is appli to three benchmark system common use to studi the effect of optim algorithm
+moreov the best compromis solut obtain by the propos algorithm is identifi by use sixteen multi-attribut decision-mak madm method
+the non-domin solut report in the past literatur for differ test system are also analys use madm method
+it has been shown that the propos algorithm give better result without violat the constraint and with the minimum number of iter .

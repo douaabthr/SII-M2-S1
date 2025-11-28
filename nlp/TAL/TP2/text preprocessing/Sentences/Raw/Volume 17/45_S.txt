@@ -1,0 +1,12 @@
+A template-based algorithm by geometric means for the automatic and efficient recognition of music chords
+In this work we introduce a template-based computational method to recognize chords through an audio recording of a musical instrument
+The algorithm is based on a temporal frequency analysis using Gabor s filter banks
+These filters are centered over adjusted frequencies of musical notes in different octaves and the adjustment is accomplished in terms of the detunings on the recording
+Using the results in the filtering stage a geometric mean of each chord is calculated
+It is important to mention that these statistics are calculated from the combination of notes that form each chord and are automatically grouped as templates
+The presence of chords is determined from these metrics
+Several experiments are carried out for major minor augmented diminished and suspended chords played on acoustic guitar classic guitar electric guitar piano and ukulele
+A comparative study against machine-learning classifiers is presented
+The results show a superior performance of the present approach
+In addition the proposed method presents the advantage that it does not require a training stage in contrast with the methods based on machine-learning algorithms
+This reduces significatively the storage and time requiered for processing .

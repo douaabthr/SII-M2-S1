@@ -1,0 +1,7 @@
+enh object recognit a comprehend analys of cnn bas deep learn model consid light condit and perspect
+object recognit is cruc in comput vis en apply lik autonom vehic navig inv man med im process robot traff sign ver and virt real
+yet fact such as light condit and perspect can impact the qual of object detect in both standalon im and real-time fee
+thi pap review rec object recognit model cont on challeng rel to light and perspect
+it off an in-depth analys of contemp deep learn model for object detect highlight their architect and perform
+the study also scrutinizes the diff dataset us in thes model
+fin it ident research gap and propos pot solv for fut research direct in comput vis to enh object recognit efficy .

@@ -1,0 +1,15 @@
+two level approach base on multifactori optim to solv the cluster shortest path tree problem
+the cluster shortest-path tree problem cluspt has a great mean in theoret research as well as a wide rang of applic in everyday life especi in the field of network optim
+be abl to solv the cluspt will path the way for improv practic system such as agricultur irrig and product distribut
+multifactori evolutionari algorithm mfea is a variant of evolutionari algorithm ea aim at simultan solv multipl factori task which can be divers in type dimension and search space
+the applic of mfea have yet to be fulli exploit but the realm has recent attract much interest from the research communiti especi those who are work on evolutionari multitask
+consid these characterist this paper describ a new approach use the mfea for solv the cluspt
+the mfea has two task the first is solv the cluspt problem and the second is solv a new problem which is decompos from the cluspt problem
+the goal of the first task is find the fittest solut as possibl for the cluspt while the goal of the second task is determin the best tree w.r. t
+cost minim which envelop all vertic of the problem
+this paper also introduc mutat crossov and popul initi oper for a propos mfea to solv the cluspt
+each of these oper deal with individu in two phase one of which ensur that the result individu is a span tree and the other phase ensur that each of it cluster sub-graph is also a span tree
+as the mfea had to deal with these two task a decod method was also creat to allow communic between the task
+to assess the effect of the propos algorithm and method the author implement them on both euclidean and non-euclidean instanc
+experi result show that the propos mfea outperform the exist mfea algorithm on two-third instanc with averag improv valu of 47%
+besid this paper analysi the converg trend of each task in generat and the affect of the number of vertic in the largest cluster on the obtain result by use both the spearman s rank correl coeffici and scatter graph .

@@ -1,0 +1,11 @@
+Automatic handwritten character recognition of Devanagari language a hybrid training algorithm for neural network
+In the field of image processing and Artificial Intelligence the character recognition and handwritten recognition have been emerging as one of the active and challenging research areas
+In recent years there has been a notable development in the research associated with character recognition in handwritten Devanagari documents
+To improve the recognition performance this paper tactics to develop new handwritten character recognition model using an improved machine learning approach
+The proposed character recognition model includes four stages like pre-processing Segmentation Feature Extraction and Classification
+Initially the scanned handwritten document for Devanagari language is subjected to pre-processing which includes stages like RGB to gray thresholding complement of image morphological operations linearization and noise removal using Median Filter
+Then the characters of the pre-processed image are segmented using k-means clustering that is a popular method for cluster analysis
+Further the features like Kirsch Directional Edge Freeman chain code and neighborhood distance weight using Delaunay Triangulation are extracted from the segmented characters
+Subsequently the classification of characters is done using Neural Network NN where the new training algorithm is used in which the weights are optimized using a hybrid optimization by combining Lion Optimization Algorithm and Grey Wolf Optimization GWO
+Here the update procedure of GWO is based on LA algorithm and hence the proposed algorithm is named as Lion Updated GWO LU-GWO
+To the next of the implementation a valuable comparative analysis confirms the improved performance of the proposed LU-GWO-NN model over conventional methods in classifying the consonants numerals and vowels from different characters .

@@ -1,0 +1,9 @@
+a novel collab filt bas recommend system us expon grasshop algorithm
+collab filt recommend item on the principl of simil
+the effect of the simil is high depend on the perform of the clust algorithm
+thi pap pres a new clustering-based collab filt method for efficy item recommend
+the new approach introduc a new vary of the grasshop optim algorithm to determin optim simil pattern
+nin nature-inspired algorithm hav been consid and test against seventeen standard benchmark funct in term of mean fit valu and the friedm test to valid the propos vary expery
+furth the eff of the new clustering-based collab filt method is test on the publ avail moviel dataset and evalu in term of mean absolv er precid and recal ov the diff clust set
+the obtain result ar comp against nin clustering-based collab filt method
+expery affirm that the propos method is a permit techn for the recommend on large-scal dataset .

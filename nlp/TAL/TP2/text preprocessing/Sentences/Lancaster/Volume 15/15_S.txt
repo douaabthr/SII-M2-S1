@@ -1,0 +1,10 @@
+metah on tim sery clust problem theoret and empir evalu
+consid the lit and the import of us of the metah techn in tim sery dat min task espec tim sery clust tsc it seem lack of a comp study of such techn in term of efficy for tsc problem
+hent we try to off the poss of theoret and empir evalu of metah techn in tsc problem
+in fact we follow two main goal by perform thi theoret and empir evalu
+thes goal includ at the first we would lik to prov the effect rol of metah techn to enh the efficy of tsc algorithm elimin som challeng of such algorithm e.g. sensit to init of som prim paramet and ind the popul of their us in tsc problem dur the last year becaus of their charact
+second we would lik to off the poss of a comparison between som metah techn to analys the perc of their effect for enh the acc of clust result in tsc problem
+the comp analys of result of the empir evalu for ten standard tim sery dat set collect from the ucr tim sery dat set reposit show three key conclud 1 gen metah techn hav provid reason result and sign improv in term of efficy in tsc problem in al expery due to the main charact of metah that is find an approxim solv mor quick
+but it is conclud that fuzzy metah techn bas on pop solv class e.g. fatpso and fpso to provid bet result vers singl solv class in tsc algorithm
+2 it is deduc that consum maxim comput tim pres by fuzzy metah techn in comparison to oth optim techn in the perform expery
+3 the pap has propos that a hybrid of fuzzy metah e.g. fatpso and the bas tsc algorithm can be consid as a mor adequ cho to pres bet result in term of acc in diff apply area .

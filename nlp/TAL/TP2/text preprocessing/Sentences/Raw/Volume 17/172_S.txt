@@ -1,0 +1,9 @@
+Pythagorean fuzzy intuitive distance measure with its applications in MADM issues
+Distance measure is a strong tool to find out the discriminant between two Pythagorean fuzzy sets P_YFSs
+Various types of distance measures exist under a Pythagorean fuzzy environment but most of these measures have given absurd outcomes and considered the distance between the numerical values of Pythagorean fuzzy parameters
+In this paper we propose an Intuitive Pythagorean fuzzy P_YF distance measure which satisfies the properties of conventional distance measure and highlights the properties of Pythagorean fuzzy information
+After that based on an extended artificial benchmark test set an analysis on comparison between the proposed Intuitive measure and the existing measures is carried out in which nine pairs of singleton P_YFSs are used
+Pattern Detection and medical diagnosis are handled with the intuitive distance measure
+In addition a comparison is made between the outcomes of the intuitive distance measure and the current measures to demonstrate that the findings of the proposed measure s calculation yield the maximum level of confidence
+Furthermore we investigate the TOPSIS VIKOR Technique for Order Performance by Similarity to Ideal Solution Vlekriterijumsko KOmpromisno Rangiranje method which is based on the proposed distance measure of P_YFSs
+With the help of illustration various methods for multi-attribute decision-making MADM issues are compared and analyzed to demonstrate the efficacy and feasibility of the TOPSIS VIKOR method .

@@ -1,0 +1,4 @@
+a hybrid ant coloni optim algorithm to solv a transport problem with stochast custom demand and electr vehicl of limit load capac
+the goal of this paper is to adapt a hybrid ant coloni optimis algorithm to solv a new mathemat model for the capacit electr vehicl rout problem cevrp with random custom demand be to be serv from a depot by electr vehicl of known limit load capac
+the comput result are given for cevrp benchmark in the determinist case and which show that this adapt is competit with anoth method of the literatur and that new best so far solut have been obtain
+the same benchmark are use to show the viabil of the propos approach for the cevrp with stochast custom demand generat by a known probabl distribut .

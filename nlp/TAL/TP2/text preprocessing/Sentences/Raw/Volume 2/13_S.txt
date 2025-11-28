@@ -1,0 +1,8 @@
+Improving the performance of evolutionary algorithms in grid-based puzzles resolution
+This paper proposes several modifications to existing hybrid evolutionary algorithms in grid-based puzzles using a-priori probabilities of 0 1 occurrence in binary encodings
+This calculation of a-priori probabilities of bits is possible in grid-based problems puzzles in this case due to their special structure with the solution confined into a grid
+The work is focused in two different grid-based puzzles the Japanese puzzles and the Light-up puzzle each one having special characteristics in terms of constraints which must be taken into account for the probabilities of bit calculation
+For these puzzles we show the process of a-priori probabilities calculation and we modify the initialization of the EAs to improve their performance
+We also include novel mutation operators based on a-priori probabilities which makes more effective the evolutionary search of the algorithms in the tackled puzzles
+The performance of the algorithms with these new initialization and novel mutation operators is compared with the performance without them
+We show that the new initialization and operators based on a-priori probabilities of bits make the evolutionary search more effective and also improve the scalability of the algorithms .

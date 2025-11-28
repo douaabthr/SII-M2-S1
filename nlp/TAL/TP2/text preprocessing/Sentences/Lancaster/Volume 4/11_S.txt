@@ -1,0 +1,12 @@
+evolv scal and modul adapt network with develop symbol encod
+evolv neur network or neuroevolv appear to be a prom way to build versatil adapt system combin evolv and learn
+on of the most challeng problem of neuroevolv is find a scal and robust genet repres which would allow to effect grow increas complex network for increas complex task
+in thi pap we propos a novel develop encod for network feat scal modul regul and hierarchy
+the encod allow to repres structural regul of network and build them from encaps and poss reus subnetwork
+thes cap ar demonst on sev test problem
+in particul for par and symmetry problem we evolv solv which ar ful gen with respect to the numb of input
+we also evolv scal and modul weightless recur network cap of autonom learn in a simpl gen class task
+the encod is very flex and we demonst thi by evolv network cap of learn via neuromod
+fin we evolv modul solv to the retin problem for which anoth wel known neuroevolv method hypern was prevy shown to fail
+the propos encod outperform hypern and cellul encod also in anoth expery in which certain connect pattern must be discov between lay
+theref we conclud the propos encod is an interest and competit approach to evolv network .

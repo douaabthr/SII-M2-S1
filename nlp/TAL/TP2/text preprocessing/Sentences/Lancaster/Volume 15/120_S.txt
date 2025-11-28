@@ -1,0 +1,9 @@
+a novel improv atom search optim algorithm for design pow system stabl
+a novel hybrid algorithm develop by merg atom search optim and sim an algorithm is pres
+the construct improv algorithm nam as improv atom search optim algorithm was propos for optim a pow system stabl adopt in a single-machin infinite-bus pow system
+the evalu wer init perform us sev benchmark funct by comp the result with genet algorithm sim an techn partic swarm optim gravit search algorithm and the origin vert of atom search optim algorithm
+the obtain result show the gre prom of the develop hybrid algorithm in term of the bal between expl and exploit phas
+the perform of the propos hybrid algorithm was also assess through design an optim perform pow system stabl for furth evalu
+to do so a pow system stabl damp control was form as an optim problem and the improv algorithm was us to search for optim control paramet in ord to show the appl and gre perform of the propos algorithm for such a complex real-world engin problem
+the obtain result for the lat cas wer comp with the best perform report approach of sin cosin algorithm and symbiot org search algorithm
+the comparison clear demonst the supery of the propos algorithm ov oth rec report best perform algorithm for pow system stabl design .

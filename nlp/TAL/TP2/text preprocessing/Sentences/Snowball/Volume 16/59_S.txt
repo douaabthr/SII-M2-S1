@@ -1,0 +1,11 @@
+a novel fulli convolut network base on marker-control watersh segment algorithm for industri soot robot target segment
+soot black is an import index in industri pollut monitor
+aim at how to effect segment soot target area from the background by use comput imag recognit technolog in the automat monitor of ringelmann scale and the industri soot is character by unstabl shape and high cloud similar which lead to inaccur result of smoke segment with tradit exist method under complex scene
+this paper propos a novel fulli convolut network fcn base on marker-control watersh segment algorithm for industri soot target segment
+first the marker-control watersh algorithm is use to extract the connect region in the soot imag and the correspond target posit of the origin imag are mark and normal to extract the candid soot region
+the marker-control watersh method can great reduc the detect time of candid region and the recognit time of fcn
+the extract candid region are input into the improv fcn for featur extract and predict
+combin with multi-scal convolut oper the featur extract abil of fcn network is enhanc
+by ad dynam weight on the basi of cross entropi the train of inaccur region is enhanc and the accuraci of segment is further improv
+experiment result on a real industri soot emiss imag data set show that the propos method is more accur than the origin model under the complex scene for smoke segment
+the f1 measur and iou index are signific improv than that of state-of-the-art segment method which exceed 87% and 85% respect .

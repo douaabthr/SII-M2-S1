@@ -1,0 +1,6 @@
+sequenti problem that test gener in learn classifi system
+we present an approach to build sequenti decis make problem which can test the gener capabl of classifi system
+the approach can be appli to ani sequenti problem defin over a binari domain and it gener a new problem with bound sequenti difficulti and bound gener difficulti
+as an exampl we appli the approach to gener two problem with simpl sequenti structur huge number of state more than a million and mani gener
+these problem are use to compar a classifi system with effect gener xc and a learner without gener q-learn
+the experiment result confirm what wa previous found mainli use single-step problem also in sequenti problem with huge state space xc can gener effect by detect those substructur that are necessari for optim sequenti behavior .

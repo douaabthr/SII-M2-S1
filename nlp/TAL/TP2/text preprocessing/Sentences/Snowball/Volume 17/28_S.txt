@@ -1,0 +1,7 @@
+a game theori base approach for distribut dynam spectrum access
+in this studi we explor the task of dynam spectrum access base on game theori to mitig spectrum shortag and improv network util in multichannel wireless network
+usual the avail network bandwidth is limit and divid into sever channel and there exist a need for effici reus and adapt alloc of such channel
+dure the communic process uuser compet with each other forcshar channel even without know accur complet channel state inform
+in order to avoid collis tradit method usual depend on central schedul or messag exchang which are cumbersom and comput expens
+to deal with this issu we propos a deep q-network base on lstm and fair channel alloc polici to learn the dynam spectrum access rule for network util maxim
+extens valid of the propos approach show that our scheme yield quit promis result .

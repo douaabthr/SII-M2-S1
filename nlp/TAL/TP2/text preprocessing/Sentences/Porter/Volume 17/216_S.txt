@@ -1,0 +1,8 @@
+a two-level evolutionari algorithm for dynam schedul in flexibl job shop environ
+in mani industri real-world environ schedul necessit continu reactiv adjust due to unpredict perturb lead to the dynam transform of predefin static schedul
+in thi paper we introduc a new framework name a two-level evolutionari algorithm 2lea as a comprehens approach for address the dynam flexibl job shop schedul problem
+the 2lea is base on a bi-level optim design where the upper level is dedic to solv the gener flexibl job shop schedul problem and the lower level is use as a new evolutionari oper guid by a probabl rate in the upper level focus on the optim of oper sequenc
+thi framework is capabl of handl four dynam event job insert job cancel machin breakdown and job replac use a predictive-react reschedul strategi
+by address the previous unexplor dynam event of job replac thi paper fill a signific gap in the literatur and open avenu for further research
+extens comput experi conduct on well-known benchmark instanc from the brandimart and hurink dataset demonstr the effect and effici of our propos schedul algorithm
+our result showcas the superior perform of 2lea over state-of-the-art approach in term of solut qualiti affirm it potenti as a lead solut for both static and dynam schedul challeng .

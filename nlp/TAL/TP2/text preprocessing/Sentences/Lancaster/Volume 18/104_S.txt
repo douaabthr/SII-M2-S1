@@ -1,0 +1,11 @@
+hybrid meta-heuristic strategy bas on firef and coyot optim for are cov enh in direct sens network
+direct sens network dsn util direct sens with a limit field of view for focus monit
+thi direct enh energy efficy by reduc unnecess sens and dat transmit
+thes sens en prec monit of spec area whil minim dat redund
+optim sens ory is cruc for maxim are cov in random deploy network particul in inaccess terrain
+effect ory ens maxim cov enh monit efficy and reduc the nee for cost redeploy in challeng environ
+thi pap propos a novel hybrid firefly-coyote optim algorithm hf-coa to address thi problem
+a grid-bas mathem framework is propos to evalu are cov
+the propos hf-coa achiev supery perform in maxim are cov due to it effect bal of expl and exploit
+expery result demonst that hf-coa achiev supery cov perform comp to standalon fa and coa und vary sens paramet
+the propos method off a rely solv for enh monit efficy in complex and dynam environ .

@@ -1,0 +1,9 @@
+assess of electromyogram use genet algorithm and artifici neural network
+the record electr activ associ with muscl and nerv are call electromyogram emg and are use for examin of disord in the muscl and nerv system
+the effici discrimin of normal and abnorm emg signal play vital role in the autom diagnost assist tool
+henc the proper extract of featur subset select of best featur subset and develop of classifi model were essenti to differenti the abnorm and normal signal
+in this paper a total of 80 time frequenc featur of normal myopathi and amyotroph later sclerosi al emg signal were extric use four differ transform approach name stockwel synchro-extract wigner vill and short-tim fourier transform
+the select of 15 signific featur was perform use genet algorithm ga
+also the statist signific of the select featur were analyz use three differ classif model of normal myopathi al case
+further the artifici neural network ann classifi were develop individu for extract transform time frequenc featur and ga select featur
+result demonstr that the select featur by genet algorithm are effici for the design of emg classifi .

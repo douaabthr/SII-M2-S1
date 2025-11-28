@@ -1,0 +1,8 @@
+chicwhal optim algorithm for the vm migrat in cloud comput platform
+nowaday virtual machin vm migrat becom veri popular in the cloud comput platform
+variou vm migrat base mechan are design for optim vm placement but remain a challeng due to improp energi consumpt in the cloud model
+thi paper propos an approach for vm migrat in the cloud use an optim algorithm chicken-whal optim algorithm chicwhal which is develop by integr the whale optim algorithm in chicken swarm optim
+in the develop approach a local migrat agent is util for monitor the memori and resourc util in the cloud continu and the vm is migrat use the servic provid base on the requir of the vm to complet a task assign
+at first the cloud system is design and then the propos chicwhal is employ by move the vm optim and the fit function for best vm migrat is carri out by consid sever paramet like load migrat cost resourc avail and energi
+the perform of the vm migrat strategi base on chicwhal is evalu in term of energi consumpt resourc avail migrat cost and load
+the propos chicwhal method achiev the maxim resourc avail of 0.989 minim migrat cost of 0.0564 the minim energi consumpt of 0.481 and the minim load of 0.0001 .

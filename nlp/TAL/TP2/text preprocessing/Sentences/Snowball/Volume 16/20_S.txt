@@ -1,0 +1,5 @@
+train rbf network with a hybrid genet algorithm
+rbf neural network are well establish tool for classif and regress problem
+this articl adapt a hybrid genet algorithm to estim the main paramet of the network
+the propos method util a genet algorithm in a conjunct with a local search procedur and a termin rule
+the method is test against other rbf variant on a seri of well-known problem from the relev literatur and the result are report .

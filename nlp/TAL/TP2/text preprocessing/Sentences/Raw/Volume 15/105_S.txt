@@ -1,0 +1,7 @@
+Hyperspectral image classification using support vector machine a spectral spatial feature based approach
+Recently spectral spatial information based algorithms are gaining more attention because of its robustness accuracy and efficiency
+In this paper an SVM based classification method has been proposed which extracts features considering both spectral and spatial information
+The proposed method exploits SVM to encode spectral spatial information of pixel and also used for classification task
+A clean comparison of relative gain achieved with inclusion of spatial features with its spectral counterpart is also investigated
+The experiment has been performed using three benchmark datasets Indian Pines Pavia University and Salinas
+Experiments show that the proposed method outperforms the classification algorithms K nearest neighbors linear discriminant analysis Naive Bayes and decision tree .

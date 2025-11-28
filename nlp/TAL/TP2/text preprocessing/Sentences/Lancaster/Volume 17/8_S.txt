@@ -1,0 +1,9 @@
+study on the evolv of hot top in the urb develop
+urb is cruc import for peopl to improv the qual of lif
+thu it is of import to study the evolv of hot top to expl the funct of city for meet the increas demand of peopl
+in thi pap we expl the sem analys of hot top and trend in urb study from the lit which provid a research direct for fut study
+bas on artic collect from the sci cit index expand and conf process cit index-science databas from 2000 to 2016 we found that the numb of urb study increas in stabl dur that tim
+follow by england and chin us was the largest contribut for study in thi field
+bas on the keyword and abstract of thes artic we extract the top of the study us a clust method and top model and calc the hot valu of the top
+fin we obtain 15 hot top in the field of urb study among which city school reg econom and est wer the hottest top that ind the foc of the research study
+an anoma detect method was us to analys the chang trend of top hot valu and we found that the hot valu of thes top overal wer on the ris espec urb educ and urb plan increas sign which ind that they attract an increas amount of scholars at but the hot valu of heal and gis decreas sign rec which suggest that research interest in thes two top is decreas .

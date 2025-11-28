@@ -1,0 +1,8 @@
+predict of forest unit volum base on hybrid featur select and ensembl learn
+aim at the characterist of forestri data with high dimension and complex sampl this paper explor an ensembl learn method suitabl for predict forest unit volum which provid a scientif basi for forest resourc manag and decision-mak
+accord to the real data provid by the nation forestri scienc data share servic platform a fl-stack model base on hybrid featur select and ensembl learn is propos
+first the model extract featur base on filter-lasso hybrid method then construct the predict model of forest unit volum base on ensembl learn and use eight predict model such as linear svm regress as the fusion basi model in the train set by stack scheme
+the data are verifi by 10 fold cross-valid
+final the fusion and optim of the basic model are carri out
+the experiment result show that the optim accuraci of the singl model is 83.81% the multi-model predict by fl-stack model is 84.55% and the r2valu is increas by 0.74 percentag point
+the compar analysi result of differ model on real data set show that the fl-stack integr predict model propos in this paper has a high accuraci in estim forest unit volum and has a great practic research valu .

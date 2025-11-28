@@ -1,0 +1,13 @@
+a novel two-stag bio-inspir method use red deer algorithm for data cluster
+data cluster is a method of divid data point into similar group
+in the last few decad there have been numer advanc in algorithm and methodolog for the analysi of cluster data
+although some algorithm likek-mean due to their easi implement and interpret are wide use for cluster their capabl of provid good solut might be sensit to the number of dimens and cluster
+due to the advantag of metaheuristic-bas cluster approach like strong searchabl they have been wide use to tackl the cluster problem
+base on thi premis we propos a new bio-inspir red deer cluster algorithm rdca
+red deer algorithm rda is a new metaheurist inspir by the behavior of the scottish red deer dure a breed season
+first the data space is partit into sever divis each of which is repres by a disjunct normal form express use cliqu algorithm
+then a search strategi employ a modifi version of rda is pursu
+experi are carri out to assess the perform of rdca in comparison to eight tradit method use six real-world and three gener dataset in term of cluster valid measur name compact separ combin turi davi bouldin and normal mutual inform score
+the propos method can handl multipl object function simultan and show good perform when the data dimens is larg
+the result indic that in most scenario the propos method outperform it counterpart
+it is also shown that the propos algorithm is less sensit to increas the number of cluster and dimens .

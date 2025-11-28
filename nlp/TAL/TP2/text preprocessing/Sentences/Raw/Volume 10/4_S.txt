@@ -1,0 +1,10 @@
+Automatic estimation of differential evolution parameters using Hidden Markov Models
+Differential evolution DE has been successful in solving practical optimization problem
+However similar to other optimization algorithms the search performance of DE depends on the efficacy of the adopted search operators
+The ability to adapt these operators within an evolutionary run enhances their ability to find better quality solutions
+This adaptation process requires learning algorithms capable of compressing the information embedded within a population into meaningful estimates to adapt the search operators
+Hidden Markov Models HMMs are learning algorithms designed to estimate parameters by compressing information collected from on a state space
+In this paper we use HMMs to compress the information within a population and use the model for adapting the DE parameters
+The resultant DE-HMM algorithm dynamically adjusts the two basic parameters of DE
+After a thorough testing of this method and conducting an extensive comparison of its performance on the CEC2005 and CEC2014 dataset it is shown that the proposed DE-HMM algorithm is able to achieve better results compared with the classical DE and other state-of-the-art methods
+On average the algorithm can achieve this performance faster than other methods in the literature .

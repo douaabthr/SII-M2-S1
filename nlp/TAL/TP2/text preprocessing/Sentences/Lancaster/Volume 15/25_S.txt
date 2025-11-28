@@ -1,0 +1,7 @@
+a quant class top optim algorithm to solv combin emit econom dispatch problem
+a combin emit and econom dispatch problem is refer as a complex multi-objective problem rel to pow system
+in thi artic an hybrid vert of class top optim known as quant class top optim is propos to solv thi problem
+in quant class top optim quant mech is us to enh the search abl of the propos algorithm
+the expl exploit and converg behavy of quant class top optim is valid us benchmark funct
+lat four test cas on combin emit and econom dispatch ar us to test the effect of quant class top optim
+thes four test prov that the propos optim algorithm is effect to solv thi real tim optim problem .

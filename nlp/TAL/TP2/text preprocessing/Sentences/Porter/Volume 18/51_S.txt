@@ -1,0 +1,15 @@
+an effici model use deep convolut neural network for model underwat imag
+underwat photographi suffer from the dispers of light in water
+blur and color distort of an imag are difficult aspect of underwat imag analysi
+variou method have been investig for provid solut for underwat imag restor
+nevertheless these approach still exhibit a regress
+herein we describ a deep convolut neural network dcnetui for medium transmiss estim
+dcnetui adopt deep convolut neural network dcnn whose layer are special design to embodi the establish assumptions/prior in imag restor
+specif layer of maxout unit are use to extract almost all haze-relev featur
+parallel convolut with multi scale featur are use to remov haze
+max-pol layer is abl to preserv resolut of the featur map
+we also propos a novel nonlinear activ function bilater rectifi linear unit brelu which allevi the noisi problem
+to refin the transmiss map gradient filter is use to smooth the imag
+final the perform of the propos and exist method were verifi by compar the experiment result with those of known method under qualiti metric set
+experi on benchmark imag show that dcnetui achiev superior perform over exist method yet keep effici and easi to use . the recommend method enhanc the color of an imag by remov the influenc of the aquat element
+it increas the ssim by 29% with a valu of 0.967 and psnr of 47% with a maximum valu of 54.537 .

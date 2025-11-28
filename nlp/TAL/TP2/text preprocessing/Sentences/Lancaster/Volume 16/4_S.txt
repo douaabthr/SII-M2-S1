@@ -1,0 +1,15 @@
+protein remot homolog detect combin pca and multiobject optim tool
+protein remot homolog detect prhd is on of the intens research and a complex problem in comput biolog
+the object of prhd is to predict the structural and funct charact of un-annotated protein sequ by mean of homolog
+two sequ ar said to be homolog if ther ex a shar ancestry between them
+it aim to detect the evolv rel among protein sequ that ar dist loc via comput techn
+predict of funct of protein sequ ar comput intend
+feat extract from protein sequ ar too high and pres of insign redund feat degrad the perform of comput model with respect to tim and cost
+hent us princip compon analys pca the high dimend input matrix was transform into a low dimend matrix
+in the first stag for each protein sequ 531 physico-chemical property from aaindex databas ar consid as feat for homolog detect
+the protein sequ ar tak from protein famy from uniprotkb databas
+a set of 185 repres feat hav been extract from 531 feat us pca
+in the second stag nsga ii and nsga ii two pow optim techn ar us to efficy search the non-zero eig spac and retriev distinct eig vect
+thi work is test on wid us uniprot and scop benchmark dataset
+to check the efficy of both the algorithm the control paramet ar kept sam and num sim wer perform
+nsga-iii outperform nsga-ii in the result .

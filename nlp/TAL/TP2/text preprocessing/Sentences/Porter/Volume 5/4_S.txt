@@ -1,0 +1,8 @@
+alan ture s unorgan machin and artifici neural network hi remark earli work and futur possibl
+in a technic report submit in 1948 alan ture present a far-sight survey of the prospect of construct machin capabl of intellig behaviour
+thi report wa all the more remark for have been written at a time when the first programm digit comput were just begin to be built leav ture with onli paper and pencil with which to explor hi modern comput idea
+ture may have been the first to suggest use randomli connect network of neuron-lik node to perform comput and propos the construct of larg brain-lik network of such neuron capabl of be train as one would teach a child
+some modern work ha been perform on ture s neural network but all of it involv the invent of new structur outsid the scope of ture s origin specif in order to solv a technic error on ture s part
+i propos an altern solut to ture s technic error one which doe not requir the invent of new structur and outlin an approach which may allow the better explor of the particular properti of ture s network in their own right
+i also give exampl of way in which to avoid view ture s earli and strikingli origin work through the len of the convent of modern neural network theori
+use a genet search to configur such network as ture suggest is like to yield non-intuit or algorithm opaqu result but thi is like to be a properti of brain-lik network themselv and a sign we are approach ture s initi goal .

@@ -1,0 +1,12 @@
+Chemical reaction optimization survey on variants
+Chemical Reaction Optimization CRO is a recently established population based metaheuristic for optimization problems inspired by the natural behavior of chemical reactions
+Optimization is a way of ensuring the usability of resources and related technologies in the best possible way
+We experience optimization problems in our daily lives while some problems are so hard that we can at best approximate the best solutions with heuristic or metaheuristic methods
+This search CRO algorithm inherits several features from other metaheuristics like Simulated Annealing and Genetic Algorithm
+After its invention it was successfully applied to various optimization problems that were solved by other metaheuristic algorithms
+The robustness of CRO algorithm was proved when the comparisons with other evolutionary algorithms like Particle Swarm Optimization Genetic Algorithm Simulated Annealing Ant Colony Optimization Tabu Search Bee Colony Optimization etc
+showed the superior results
+As a result the CRO algorithm has been started to use for solving problems in different fields of optimization
+In this paper we have reviewed the CRO based algorithms with respect to some well-known optimization problems
+A brief description of variants of CRO algorithm will help the readers to understand the diversified quality of CRO algorithm
+For different problems where CRO algorithms were used the study on parameters and the experimental results are included to show the robustness of CRO algorithm .

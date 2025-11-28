@@ -1,0 +1,9 @@
+Stochastic gradient descent linear collaborative discriminant regression classification based face recognition
+Facial recognition is an important research topic in biometric authentication to provide a secure access to a computer system
+Due to intra and inter personal variations facial expressions and aging variations are major concerns in facial recognition system
+In order to address this concern a new discriminant algorithm is proposed in this research article
+A gradient descent with momentum and style transfer function are included in linear collaborative discriminant regression classification algorithm to characterize the dissimilar contributions of the training facial images and to learn the optimal projection matrix by maximizing the ratio of the within class reconstruction error and collaborative between class reconstruction error
+Hence the proposed collaborative algorithm not only enhance the recognition accuracy and also overall computing efficiency
+In the experimental phase the performance of the proposed stochastic gradient descent linear collaborative discriminant regression classification algorithm is validated on ORL YALE and extended YALE B datasets because these databases comprise of the extensive variety of face details expressions and degree of scales
+The experimental outcome shows that the proposed algorithm achieved maximum of 93.34% 90.07% and 98.83% of recognition accuracy on ORL YALE and extended YALE B datasets respectively
+Compared to the other existing models the proposed algorithm approximately showed 1.5% to 10.5% improvement in face recognition in terms of recognition accuracy on ORL YALE and extended YALE B datasets .

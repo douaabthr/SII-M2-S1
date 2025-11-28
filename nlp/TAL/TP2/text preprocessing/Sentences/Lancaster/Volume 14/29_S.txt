@@ -1,0 +1,15 @@
+delug bas genet algorithm for feat select
+feat select method ar us to ident and remov irrelev and redund attribut from the origin feat vect that do not hav much contribut to enh the perform of a predict model
+meta-heuristic feat select algorithm us as a solv to thi problem nee to hav a good trade-off between exploit and expl of the search spac
+genet algorithm ga a popul meta-heuristic algorithm lack exploit cap which in turn affect the loc search abl of the algorithm
+bas ga us mut op to tak car of exploit which has certain limit
+as a result ga get stuck in loc optim
+to encount thi problem in the pres work we hav intellig blend the gre delug algorithm gda a loc search algorithm with ga
+her gda is us in plac of mut op of the ga
+apply of gda yield a high degr of exploit through the us of perturb of candid solv
+the propos method is nam as delug bas genet algorithm dga
+we hav apply the dga on 15 publ avail standard dataset tak from the uc dataset reposit
+to show the class independ nat of the propos feat select method we hav us 3 diff class nam k-nearest neighbo knn multi-layer perceptron mlp and support vect machin svm
+comparison of dga has been perform with oth contemp algorithm lik the bas vert of ga partic swarm optim pso sim an sa and histogram bas multi-objective ga hmog
+from the comparison result it has been observ that dga perform much bet than oth in most of the cas
+thu our main contribut in thi pap ar introduc of a new vary of ga for fs which us gda to strengthen it exploit abl and apply of the propos method on 15 well-known uc dataset us knn mlp and svm class .

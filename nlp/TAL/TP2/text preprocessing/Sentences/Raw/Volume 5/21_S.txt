@@ -1,0 +1,7 @@
+Meta-heuristic approach to proportional fairness
+Proportional fairness is a concept from resource sharing tasks amongnusers where each user receives at least 1 nof her or his total value of the infinitely divisible resource
+Here we provide an approach to proportional fairness that allows its extension to discrete domains as well as for the direct application of evolutionary computation to approximate proportional fair states
+We employ the concept of relational optimization where the optimization task becomes the finding of extreme elements of a binary relation and define a proportional fairness relation correspondingly
+By using a rank-ordered version of proportional fairness the so-called ordered proportional fairness we can improve the active finding of maximal proportional fair elements by evolutionary meta-heuristic algorithms
+This is demonstrated by using modified versions of the strength pareto evolutionary algorithm version 2 SPEA2 and multi-objective particle swarm optimization
+In comparison between proportional and ordered proportional fairness and by using relational SPEA2 the evolved maximum sets of ordered proportional fairness achieve 10 more dominance cases against a set of random vectors than proportional fairness .

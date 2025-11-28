@@ -1,0 +1,15 @@
+an efficy model us deep convolv neur network for model underw im
+underw photograph suff from the dispers of light in wat
+blur and col distort of an im ar difficult aspect of underw im analys
+vary method hav been investig for provid solv for underw im rest
+nevertheless thes approach stil exhibit a regress
+herein we describ a deep convolv neur network dcnetui for med transmit estim
+dcnetui adopt deep convolv neur network dcnn whos lay ar spec design to embody the est assumptions/prior in im rest
+spec lay of maxout unit ar us to extract almost al haze-relevant feat
+parallel convolv with mult scal feat ar us to remov haz
+max-polling lay is abl to preserv resolv of the feat map
+we also propos a novel nonlinear act funct bil rect linear unit brelu which allevy the noisy problem
+to refin the transmit map grady filt is us to smoo the im
+fin the perform of the propos and ex method wer ver by comp the expery result with thos of known method und qual met set
+expery on benchmark im show that dcnetui achiev supery perform ov ex method yet keep efficy and easy to us . the recommend method enh the col of an im by remov the influ of the aqu el
+it increas the ssim by 29% with a valu of 0.967 and psnr of 47% with a maxim valu of 54.537 .

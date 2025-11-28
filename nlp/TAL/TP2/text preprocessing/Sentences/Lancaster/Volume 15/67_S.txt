@@ -1,0 +1,8 @@
+neur network with adapt evolv learn and cascad support vect machin for fault loc and diagnos in pow distribut system
+fault diagnos and class in elect pow system is necess to maintain a protect op of pow system
+the class of thi sign is complex due to the larg dataset comput complex and limit real tim perform
+thi pap focus on the detect and class of elect pow transmit us neur network with adapt evolv learn and cascad support vect machin svm with wavelet describ of the sign to overcom such limit
+init the wavelet decompos fault sign ar extract from the sim sign
+the receiv sign consist of norm sign and fault sign such as transy sag and swel sign respect
+the wavelet describ of diff dataset ar apply to the cascad svm for bet class
+thi real expery of thi pap show that thi cascad svm provid good gen and much fast spee comp with tradit svms .

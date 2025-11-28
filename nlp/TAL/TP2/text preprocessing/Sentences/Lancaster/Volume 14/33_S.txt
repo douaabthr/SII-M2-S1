@@ -1,0 +1,13 @@
+design and analys of behavio bas ddo detect algorithm for dat cent in cloud
+in the rec year sec is the maj concern in cloud comput
+on of the maj sec threats to the cloud is distribut den of serv ddo
+thi ddo attack result in dat corrupt los of sensit inform and lead to den of cloud serv
+to overcom the drawback of sec we propos the behaviour-based ddo detect algorithm that is bas on the behavio of the us which gen the traff
+the propos work is divid into two phas which can be execut in parallel
+in gen the hack or illegitim us flood the traff and us mor bandwid
+in first phas the analys of the dynam traff and effect differenty the genuin traff and attack s traff is don in the propos algorithm
+the packet analys is respons to ident the genuin packet from the flood traff
+in second phas the cpu util is monit and the process consum mor cpu pow or the sourc is illegitim the process is reject
+the sim is carry by us the opnet sim
+the sim result ar test with three diff scenario
+it is prov that the propos model has efficy respons tim and it has bet efficy in ddo pron zon .

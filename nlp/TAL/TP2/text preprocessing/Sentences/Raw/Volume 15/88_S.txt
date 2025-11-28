@@ -1,0 +1,10 @@
+GA-PPARM constraint-based objective function and genetic algorithm for privacy preserved association rule mining
+Now a day privacy-preserved data mining is an important research topic that finds significant information from the database while hiding sensitive information
+Numbers of algorithms are presented for concealing sensitive information
+This paper presents the privacy preserved association rule mining by constraint-based objective function and the genetic algorithm GA
+The proposed method uses the Frequent Pattern FP Growth algorithm for mining the association rules from the database
+At first the FP-Growth algorithm extracts the FPs from the database by applying the support threshold and then generates the association rules from the FPs by applying the confidence threshold
+Then the generated association rules are processed by the GA for producing the privacy preserved association rules while preserving the sensitive rules
+Finally the privacy preserved association rules are provided to the third party users
+The performance of the proposed method is evaluated with the existing Particle Swarm Optimization PSO for the evaluation metrics privacy and utility
+The experimental results show that the proposed method mines the privacy preserved association rules from the database with the maximum privacy of 0.124 and the minimum utility of 0.0989 when compared to the existing method .

@@ -1,0 +1,5 @@
+Design of distributed temperature-measuring system based on 1 wire bus for ultra-kilometre frozen deep well
+The temperature field of artificial freezing curtain is a transient temperature field changing with time
+In order to ensure the safety of the project improve the timeliness and accuracy of temperature measurement and ensure the safety strength and effective water sealing of the curtain it is necessary to implement the information temperature monitoring control for the freezing process
+According to the application environment of the freezing monitoring for the long distance and multi measuring points in the construction of the coal mine over a kilometre a monitoring system of the frozen deep wells which is developed by the 1 wire bus technology is proposed
+By using high-performance single chip microcomputer designing pull-up and level detection driving circuit matching cable characteristic impedance and distributing digital temperature measurement cable the 1 wire bus network monitoring points can reach 55 and the transmission distance is over 1000 m which meets the current monitoring requirements of frozen deep wells .

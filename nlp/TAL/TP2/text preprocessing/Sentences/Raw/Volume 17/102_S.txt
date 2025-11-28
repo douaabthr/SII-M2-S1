@@ -1,0 +1,19 @@
+An optimization method in wireless sensor network routing and IoT with water strider algorithm and ant colony optimization algorithm
+A wireless sensor network is a wireless communication network and each sensor node has several sensors to collect environmental information
+Wireless sensor network nodes have limited energy resources and need optimal routing protocols to reduce energy consumption
+Failure to reduce energy consumption by sensor nodes reduces network life and efficiency
+The main problem in routing is finding optimal paths for sending packets by reducing energy consumption in sensor nodes
+This paper proposes an optimal routing method to reduce energy consumption in wireless sensor networks
+In the first step wireless sensor nodes are clustered with the Water strider algorithms WSA and cluster heads are selected for routing
+In the second step a mobile sink collects the packets from the cluster heads and sends them to the base station
+The mobile sink uses the Ant colony optimization ACO algorithms to travel a shorter path between the cluster heads
+The authors contribute to presenting a discrete version of the WSA algorithm for cluster head selection to reduce energy consumption
+The authors contribute by providing a more comprehensive objective function for clustering network nodes considering error rate energy consumption PDR rate and Euclidean distance
+Cluster head traversal with a version of the ACO algorithm to reduce energy consumption and cluster head traversal coding like the TSP problem is the contribution of other authors
+The paper aims to reduce energy consumption reduce the error rate of sending packets and increase the lifetime of the wireless sensor network
+Experiments are simulated on several simulated scenarios in Matlab
+Criteria such as energy consumption Packet delivery ratio PDR package loss rates and the number of alive nodes to evaluate the proposed method are used
+Experiments show that the proposed algorithm reduces the energy consumption and loss rates of packages of the wireless sensor network by optimally selecting cluster heads and increasing the PDR and number of alive nodes
+Comparisons show In terms of energy consumption Packet delivery ratio PDR Loss rates of packages and the number of alive nodes the proposed method is more efficient than Particle swarm optimization PSO Grey Wolf Optimizer GWO Information-centric wireless sensor networks and Cluster based routing CBR routing methods
+The PDR index in the proposed method is equal to 97.3% and is higher than PSO GWO and CS algorithms
+The delay of the proposed method in routing is 25.97% 5.78% and 17.98% less than HHO WOA and GWO algorithms respectively .

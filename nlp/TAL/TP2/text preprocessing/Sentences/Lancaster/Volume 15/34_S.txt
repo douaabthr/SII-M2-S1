@@ -1,0 +1,12 @@
+a comp approach to multiobject optim of aisc thin-walled memb
+optim of structural memb such as beam and column has receiv increas interest with adv in comput manufact and art intellig
+design pursu multiobject optim ar typ interest in minim the cost of the memb whil maxim som perform met rel to load bear cap or stress
+in thi study thin-walled memb list in aisc tabl wer optim in a simil man us genet algorithm
+the influ of sev object was consid and emphas was plac on provid the custom with a divers cho of solv
+to demonst the approach wide-flang i-beams and circul pip cross-section wer examin
+multi-dimensional pareto-fronts wer obtain
+optim cross-section wer comp to aisc beam tabl
+multi-criteria decision-making techn wer us to select a prefer solv from a pareto-front
+for i-beams improv of 3 7% ov tabl wer obtain and for pip it was 47 76%
+fin the perform of two common us genet algorithm nsga-ii and spea-ii was comp us pareto-front met
+whil spea-ii produc sev nondomin solv nsga-ii was shown to produc the overal supery front consid met pres from the lit .

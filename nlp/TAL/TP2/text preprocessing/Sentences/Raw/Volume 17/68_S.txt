@@ -1,0 +1,12 @@
+Sighted particles improving swarm optimization by making particles aware of their surroundings
+Population-based meta-heuristics use particles represented by d dimensional points to encode candidate solutions to an optimization problem
+The goal of this work is to introduce a new type of particle represented by a d dimensional hypercube
+Our new representation offers a field of view to swarm particles making them aware of their surroundings
+This gives each particle its own coverage of the search space
+We evaluated the effect of our approach in the performance of seven swarm-based algorithms including artificial bee colony cuckoo search optimization and particle swarm optimization
+We used 30 well-known benchmark functions and six different numbers of dimensions
+We compared the performances of the algorithms withblindandsightedparticles using Mann-Whitney tests
+The results of our extensive experiments show thatsightedparticles perform at least as well asblindones in 93% of all scenarios across different algorithms benchmark functions and numbers of dimensions showing significantly better results 51% of the time
+We also proposed a new scale which measures an algorithm s exploration and exploitation capabilities and we used it to explain our results
+Finally we followed asightedswarm throughout the convergence process showing its ability to cover large portions of the search space
+Our take-home message is that any swarm algorithm can adopt our particle representation in order to improve its performance because any method can benefit from improving its exploitation and exploration capabilities .

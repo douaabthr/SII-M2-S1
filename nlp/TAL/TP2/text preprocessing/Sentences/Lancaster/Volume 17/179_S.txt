@@ -1,0 +1,14 @@
+j-type random 2,3 satisfy a higher-ord log rul in discret hopfield neur network
+the discret hopfield neur network has been wid us for solv combin optim problem
+dhnn is a simpl structure with no hid lay and bin input/output which lead to low complex comp to oth network
+satisfy as a neuron repres is consid a suit log structure due to it simpl construct
+dhnn model has the pot for enh by incorp vary log rul
+the main problem of ex work is the nee for higher-ord log rul combin with system non-systematic log
+thi pap propos a novel satisfy log structure nam j-type random 2,3 satisfy by consid both the charact of the second and third-order vary per claus
+the propos log rul random assign valu bas on the structure of eith second-order third-order or both ord of the claus
+the propos j random 2,3 satisfy log rul wil stor the inform extern and on be tru if al the claus ar satisfy
+thi log wil be impl into the discret hopfield neur network
+by util the propos hybrid log rul spec the j random 2,3 satisfy the neuron in the hopfield neur network can be effect model
+the model wil be evalu us vary perform met in term of learn er retriev er energy analys and simil analys
+the propos log wil undergo a comparison analys with prevy est log rul
+bas on the ratio of glob solv the propos model exhibit a slow declin from 1 to 0 as the numb of neuron increas which suggest that the propos model wil outperform ex model in retriev glob neuron stat .

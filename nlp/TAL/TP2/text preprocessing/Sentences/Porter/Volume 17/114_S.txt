@@ -1,0 +1,13 @@
+investig of kriging-bas saea metamodel sampl for comput expens optim problem
+surrog model assist evolutionari algorithm saea are strategi wide appli to deal with comput expens optim problem ceop
+these method employ metamodel to drive an evolutionari algorithm ea to promis design region where new evalu on the true-object function must be perform
+to do thi saea are requir to handl the challeng of train a metamodel to improv it predict
+the reliabl of a metamodel is strongli relat to the sampl use for it train
+despit thi sever saea are propos without concern about the sampl strategi employ
+the ideal situat is to obtain a sampl not far away from the solut predict on the metamodel
+in thi sens the contribution/novelti of thi paper regard an investig studi to compar five strategi for defin the metamodel sampl in a propos saea framework saea/f
+the saea/f use a one-dimension ordinari krige ok metamodel and an expect improv ei merit function is appli to defin on which solut to spend the budget of true-funct evalu
+in thi investig each strategi is incorpor into saea/f and then use to solv a set of analyt function of single-object optim problem
+the comput result suggest that two of the five sampl strategi stand out the best
+the first strategi choos those solut with the lowest distanc to the centroid of the popul of solut and the second select the newest solut evalu on true-object function
+the result highlight the potenti of these approach for solv expens optim problem sinc they speed up the algorithm converg to improv solut .

@@ -1,0 +1,10 @@
+Optimized scheduling algorithm for soft Real-Time System using particle swarm optimization technique
+Scheduling of tasks in Real-Time Systems is based on static or dynamic priority like earliest deadline first EDF and rate monotonic respectively
+The static scheduler does not give assurance of scheduling all tasks during the underload scenario whereas dynamic scheduler performs poorly during an overload scenario
+This paper has proposed a swarm intelligence-based scheduling algorithm that can overcome both the situations
+This paper has used particle swarm optimization PSO based swarm technique to design the new scheduling approach
+It considers each task as a particle and applied modified PSO technique to identify the most critical task to execute
+The efficiency of the newly proposed method has been compared with existing EDF and ACO based scheduling algorithms considering two significant parameters the success ratio and the effective CPU utilization
+All three algorithms have been tested on the simulator with a Soft Real-time periodic task set on 500 timelines
+It has been observed that during the underload scenario the proposed algorithm performs equally to EDF and ACO based algorithms
+During overload and highly overload situations the proposed algorithm performs batter compared to EDF and ACO based algorithms .

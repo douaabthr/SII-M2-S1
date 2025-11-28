@@ -1,0 +1,12 @@
+a new artifici bee coloni algorithm use a gradual weight method for the bi-object travel salesman problem
+the travel salesman problem tsp is a typic problem in combinatori optim
+the uniqu object of the tradit tsp is to minim the tour distanc
+when more than one object is taken into account to be optim simultan the problem is known as a multi-object tsp
+in the present paper a bi-object travel salesman problem botsp is consid where both the cost and the distanc are taken as optim object
+we introduc a new algorithm that solv the botsp call gw-abc
+this algorithm is base on an artifici bee coloni algorithm abc and use a gradual weight generat method
+first we appli a gradual method to prepar the weight vector
+in fact weight vector valu are gradual distribut in the object space and chang relat to the optim process from cycl to anoth
+second we appli the abc algorithm with the generat weight to our problem
+the propos algorithm is experiment test on well-known benchmark instanc of differ size and compar with other state-of-the-art algorithm
+the obtain experiment result show that gw-abc is signific better .

@@ -1,0 +1,8 @@
+Distribution locational marginal price computation based on active power loss and emissions in active distribution system using nucleolus theory
+In this study a Nucleolus Theory NT based iterative method has been presented to compute Distribution Locational Marginal Price DLMP at buses where embedded generator EG units were installed in the distribution network
+The NT-based iterative method provides financial incentives to EG owners as per their contribution to loss reduction and emission reduction for specified loading conditions
+In this study DLMP values depend on the decision-maker preference among loss reduction emission reduction and distribution company additional benefit
+The main objective of the proposed method is to optimize the active power loss and emissions based on DISCO decision-maker priority subjected to EG capacity
+DLMP value for each EG unit is a variable that has to compute based on DISCO decision-maker priority
+This proposed NT based iterative method has been implemented on Taiwan power company Distribution System TPCDS consisting of 84 buses with 15 EG units and 201 bus radial distribution networks with 15 EG units under MATLAB environment and computed DLMP values based on the contribution of EG units on loss and emission reduction
+It was inferred from the results that the proposed method enables EG owners to receive more financial benefit and also enables DISCO decision-makers can operate the network with more optimal in terms of loss and emissions .

@@ -1,0 +1,8 @@
+Grey wolf optimization algorithm based on dynamically adjusting inertial weight and levy flight strategy
+Aiming at the problems of slow convergence speed low convergence accuracy and easy to fall into local optimum of grey wolf optimization algorithm GWO a dynamically adjusting inertia weight and Levy flight strategy based grey wolf optimization algorithm DFGWO is proposed
+Firstly the strategy of dynamically adjusting inertia weight is introduced to improve the updating method of wolf swarm position
+At each iteration the inertia weight value is dynamically adjusted to balance the global exploration and local development and improve the optimization accuracy and convergence speed of the algorithm
+Secondly compared with the switching probability the algorithm can perform Levy flight with high probability at the beginning of the iteration to increase the population diversity and improve the global search ability
+Thirdly the greedy strategy is introduced to select the solution with optimal adaptability
+Finally to verify the performance of the DFGWO algorithm the simulation experiments are carried out on 12 standard test functions and compared with several other algorithms
+The experimental results show that the DFGWO algorithm has good advantages in optimization accuracy convergence speed and algorithm stability .

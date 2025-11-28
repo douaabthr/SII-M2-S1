@@ -1,0 +1,6 @@
+evolv goal-driven multi-agent commun what when and to whom
+thi pap pres an evolv approach that giv a perform goal produc a commun strategy that can improv a multi-agent system s perform with respect to the desir goal
+the evolv strategy determin what when and to whom ag commun
+the propos approach furth en tun the trade-off between the perform goal and commun cost to produc a strategy that achiev a good bal between the two object accord the system s design nee
+expery ar design to evalu the approach us the wump world apply domain with vary of three fact fit paramet includ object weight and act and commun cost fit goal and sim environ
+result show that the system s perform can be high tun by control commun and that the pres approach has sign util in improv the perform with respect to the goal .

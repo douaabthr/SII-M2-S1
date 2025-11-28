@@ -1,0 +1,12 @@
+a space transform crow search algorithm for optim problem
+new and effici meta-heurist algorithm are alway in demand to solv real world optim problem due to it exploit capabl in the search domain to generat the global optim solut
+crow search algorithm csa is one of the latest meta-heurist algorithm introduc in the literatur to solv optim task
+the clever behaviour of crow attract the research to think how to achiev a better optim by use crow as a base element
+like other optim algorithm the csa suffer with local optima and stagnat problem
+in addit for complex real world problem csa has not suffici explor capabl
+therefor in the current work an attempt is made to enhanc the explor behaviour of the csa by combin the space transform search sts method
+the propos algorithm is name as sts-csa
+the propos sts-csaintegr space transform search techniqu and comput the solut in current search space and transform search space simultan to generat solut that is closer to global optimum solut
+to assess the perform in solv optim problem sts-csa has been evalu by appli standard ieee cec 2017 benchmark function
+three real-world engin problem are also verifi to assess the effect of the propos algorithm in solv the practic problem
+the perform analysi such as statist measur converg analysi and complex measur reveal that the propos method is reliabl and effici in solv practic optim problem .

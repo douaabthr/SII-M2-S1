@@ -1,0 +1,5 @@
+Simultaneous versus incremental learning of multiple skills by modular robots
+This paper is concerned with the problem of learning multiple skills by modular robots
+The main question we address is whether it is better to learn multiple skills simultaneously all-at-once or incrementally one-by-one
+We conduct an experimental study with modular robots of various morphologies that need to acquire three different but correlated skills efficient locomotion navigation towards a target point and obstacle avoidance using a real-time on-board evolution as the learning method
+The results indicate that the one-by-one strategy is more efficient and more stable than the all-at-once strategy .

@@ -1,0 +1,3 @@
+A learning classifier system with mutual-information-based fitness
+
+This paper introduces a new variety of learning classifier system (LCS), called MILCS, which utilizes mutual information as fitness feedback. Unlike most LCSs, MILCS is specifically designed for supervised learning. We present experimental results, and contrast them to results from XCS, UCS, GAssist, BioHEL, C4.5 and Naïve Bayes. We discuss the explanatory power of the resulting rule sets. MILCS is also shown to promote the discovery ofdefault hierarchies, an important advantage of LCSs. Final comments include future directions for this research, including investigations in neural networks and other systems.

@@ -1,0 +1,12 @@
+fuzzy log apply to mut siz in evolv strategies
+tun of algorithm paramet is a complex but very import issu in the design of evolv algorithm
+thi pap discuss a new conceiv of mut siz tun in evolv strategies
+the propos algorithm us dat on evolv hist in ear gen to tun the mut siz
+a fuzzy log part examin thi hist dat and tun the mut siz of individ to improv the algorithm s converg and it resist to get stuck in a loc optim
+the fuzzy log part tun the mut siz and keep an appropry rel of algorithm s expl and exploit
+the propos conceiv is discuss and sev test on funct optim problem ar perform
+in test we us a set of dat and funct with diff difficul recommend in the common us benchmark
+the result of expery suggest that the propos method is mor efficy and resist to get stuck in suboptim solv
+the propos algorithm has been us in recogn the typ of ultra-high energy cosm ray partic that in the extend air show when hit the ear atmosph
+it could be us for a wid rang of simil problem
+it is poss that the propos method could be adapt to oth typ of optim method inspir by nat evolv for exampl evolv algorithm .

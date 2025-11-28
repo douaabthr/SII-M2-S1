@@ -1,0 +1,9 @@
+a neighborhood search base cat swarm optim algorithm for cluster problem
+cluster is an unsupervis techniqu that group the similar data object into a singl subset use a distanc function
+it is also use to find the optim set of cluster in a given dataset and each cluster consist of homogen data object
+in present work an algorithm base on cat swarm optim cso is adopt for find the optim set of cluster center for alloc the data object
+further some improv are also incorpor in cso algorithm for improv cluster perform
+these modif are describ as an improv solut search equat to improv converg rate and an acceler veloc equat for balanc explor and exploit process of cso algorithm
+moreov a neighborhood-bas search strategi is introduc to handl local optima problem
+the perform of propos algorithm is test on eight real-lif dataset and compar with well-known cluster algorithm
+the simul result show that propos algorithm provid qualiti result in comparison to exist cluster algorithm .

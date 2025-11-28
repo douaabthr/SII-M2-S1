@@ -1,0 +1,13 @@
+a novel approach to build acc and divers decid tre forest
+decid tre is on of the best express class in dat min
+a decid tre is popul due to it simpl and straightforward vis cap for al typ of dataset
+decid tre forest is an ensembl of decid tre
+the predict acc of the decid tre forest is mor than a decid tre algorithm
+const effort ar going on to cre acc and divers tre in the decid tre forest
+in thi pap we propos tang weight decid tre forest twdforest which is mor acc and divers than random forest
+the strength of thi techn is that it us a mor acc and uniform tang weight funct to cre a weight decid tre forest
+it also improv perform by tak opin from prevy tre to best fit the success tre and avoid the toggl of the root nod
+due to thi novel approach the decid tre from the forest ar mor acc and divers as comp to oth decid forest algorithm
+expery of thi novel method ar perform on 15 wel known publ avail uc machin learn reposit dataset of vary siz
+the result of the twdforest method demonst that the entir forest and decid tre produc in twdforest hav high predict acc of 1 7% mor than ex method
+twdforest also cre mor divers tre than oth forest algorithm .

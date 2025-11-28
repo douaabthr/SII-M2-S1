@@ -1,0 +1,9 @@
+ga outburst predict model use rough set and support vector machin
+thi paper is concern with the problem of ga outburst predict in coal mine work face
+to predict the ga outburst accur thi paper use the rough set theori rs and support vector machin svm to establish the predict model
+firstli base on the analysi of influenc factor of ga outburst 10 factor includ coal thick variat geolog structur and ga chang are select as the influenc factor
+by use the attribut reduct algorithm to elimin redund inform the ga outburst influenc factor as input to the predict model are reduc from 10 to 6 in decis tabl
+secondli by appli the particl swarm optim pso algorithm to optim penalti paramet and kernel function of svm and improv the gener perform of model the nonlinear relationship between main influenc factor and intens of ga outburst is establish
+final 60 set of data of jiulishan coal mine in henan are use as train and test sampl to verifi the propos predict model and the discrimin result is compar with that of rbf model and svm model
+the result show that the predict accuraci of the propos model is 93% which is improv compar with the other two model
+the rs-psosvm model can reduc data redund avoid the model to fall into the local extremum and can predict the risk level of ga outburst effect .

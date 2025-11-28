@@ -1,0 +1,7 @@
+adapt a novel similar and it applic in fuzzi risk analysi
+general trapezoid fuzzi number gtfns and their similar measur have been wide appli in fuzzi risk analysi
+howev some exist similar measur of gtfns cannot identifi the similar of some special gtfns proper
+in this studi we introduc the exponenti distanc of center of graviti cog and an amend valu to adapt a novel similar measur between gtfns
+then seven properti of this new method are investig and prove
+in addit in order to verifi the superior of the new method fifteen special test set are given to compar the perform of seven exist similar measur with the new method
+moreov the present new similar measur is use to solv a case studi about the failur risk analysi of six major subsystem of the reciproc pump system rps in which differ paramet are express by general trapezoid fuzzi linguist term .

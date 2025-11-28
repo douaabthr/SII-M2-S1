@@ -1,0 +1,11 @@
+solv multi-objective truss structural optim problem consid nat frequ of vibr and autom memb group
+minim the mass of a structure and maxim it first nat frequ of vibr ar conflict object of real interest in structural design
+to avoid problem with reson which can lead to their collaps structures can be design by mak the first nat frequ of vibr high
+furtherm it is cruc to stay away from excit frequ
+her we form and solv multi-objective structural optim problem of truss with thes conflict object
+thi typ of problem is uncommon in the lit sint the nat frequ of vibr ar gen set as constraint rath than as object funct
+the gen diff evolv 3 gde3 the nondomin sort genet algorithm ii nsga-ii decid space-based nich dn-nsga-ii the competit mechanism-based multi-objective partic swarm optim cmopso and the mopso with multipl search strategies mmopso ar the algorithm us in thi pap
+addit cardin constraint ar us to man the difficul of discov the best memb group which is very effect in address the problem analys in thi pap
+the expery ref to the 10 25 72 and 200 bar truss
+each involv two analys tak into account the perform ind and the us of a mult tourna decid mtd method to extract the desir solv
+furtherm the design vary of each extract solv includ it optim topolog ar provid .

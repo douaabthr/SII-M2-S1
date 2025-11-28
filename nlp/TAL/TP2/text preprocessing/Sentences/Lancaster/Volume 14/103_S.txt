@@ -1,0 +1,6 @@
+dimend reduc of hyperspect im us sign entrop and spat inform in genet algorithm with discret wavelet transform
+band select is being perform in hyperspect imagery as a dimend reduc meas to enh the efficy of process and analys of the dat
+in thi pap a genet algorithm bas method is propos that us weight combin of sign entrop and im spat inform in the object funct
+the spat dimend that also includ hug redund has been reduc us discret wavelet transform to mak the method mor tim efficy without comprom the qual of the output
+the perform of the method is evalu by class the hyperspect im with select band and meas the acc of the class output
+the propos method is also comp with oth stat of the art method and found to be mor efficy in select inform rich band in the hyperspect dat .

@@ -1,0 +1,8 @@
+an efficy derivative-fr algorithm for bound constrain mixed-integer optim
+mix integ optim is very import and comply task in the optim field which wid ex in the engin problem
+in ord to improv the efficy of derivative-fr algorithm when solv the mix integ optim problem we propos an efficy derivative-fr algorithm which is bas on the mod minim posit bas and the techn of search direct rot
+the method us the mod minim posit bas on nee at most n 1 funct evalu at every it comp with the derivative-fr algorithm bas on the maxim 2npositive bas wher the numb of vary
+meantim the techn of search direct rot we propos can overcom the disadv of the method bas on the minim posit bas which can caus undesir larg angl between som posit bas direct and larg unexpl feas domain
+accord the converg to stat point is prov
+to evalu the perform of our method we comp it with two class algorithm on 50 benchmark problem
+the result of num expery show that the method can reduc the numb of funct evalu and improv the efficy of the algorithm .

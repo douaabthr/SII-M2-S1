@@ -1,0 +1,9 @@
+Performance assessment of the main metaheuristics for sustainable supply chains
+The sustainable supply chains optimization is a high-dimensional multi-objective optimization problem
+The involved costs can be categorized as economic environmental and social
+Metaheuristics can be used for tackling this kind of problem efficiently
+This short note deals with a comparative analysis of the main metaheuristics according to recent surveys for a sustainable supply chain model
+The considered techniques are genetic algorithm particle swarm optimization simulated annealing and non-dominated sorted genetic algorithm
+Moreover two hybrid models are also included i. e
+genetic algorithm combined with simulated annealing and genetic algorithm combined with particle swarm optimization
+The latter provides the best result with a constraint satisfaction rate equal to 0.9968 .

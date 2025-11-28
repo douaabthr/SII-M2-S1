@@ -1,0 +1,8 @@
+copula extend power aggreg oper and merec method under linguist q-rung orthopair fuzzi inform an applic to plastic wast manag solut select
+the increas global consumpt of plastic has led to an alarm surg in non-biodegrad wast pose sever threat to ecosystem and wildlif
+address these challeng requir advanc decision-mak framework to navig the complex of compet factor and uncertainti in plastic wast manag pwm
+this studi present a pioneer decision-mak framework tailor to the linguist q-rung orthopair fuzzi l q rof environ offer enhanc capabl for handl imprecis and uncertainti
+a key innov of this work is the introduct of new oper law for l q rof valu ground in archimedean copula and co-copula acc theori
+these law exhibit essenti properti such as idempot bounded and monoton form the foundat for novel power aggreg oper ao includ the l q rof copula extend power averag l q rof cepa and geometr l q rof cepg oper along with their weight variant
+by integr these ao with the method base on the remov effect of criteria merec weight techniqu we propos a comprehens decision-mak approach for identifi optim pwm strategi
+the robust and applic of the framework are demonstr through a detail case studi sensit analysi and compar evalu highlight it effect in deliv reliabl and insight decis for pwm challeng .

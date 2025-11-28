@@ -1,0 +1,12 @@
+a template-based algorithm by geomet mean for the autom and efficy recognit of mus chord
+in thi work we introduc a template-based comput method to recogn chord through an audio record of a mus instru
+the algorithm is bas on a temp frequ analys us gab s filt bank
+thes filt ar cent ov adjust frequ of mus not in diff octav and the adjust is accompl in term of the detun on the record
+us the result in the filt stag a geomet mean of each chord is calc
+it is import to ment that thes stat ar calc from the combin of not that form each chord and ar autom group as templ
+the pres of chord is determin from thes met
+sev expery ar carry out for maj min aug dimin and suspend chord play on acoust guit class guit elect guit piano and ukulel
+a comp study against machine-learning class is pres
+the result show a supery perform of the pres approach
+in addit the propos method pres the adv that it doe not requir a train stag in contrast with the method bas on machine-learning algorithm
+thi reduc sign the stor and tim requy for process .

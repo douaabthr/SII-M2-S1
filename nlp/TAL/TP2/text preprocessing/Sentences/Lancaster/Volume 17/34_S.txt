@@ -1,0 +1,10 @@
+orad a new framework of offlin reinforc learn with q-value regul
+offlin reinforc learn rl defin a framework for learn from prevy collect stat buff
+howev offlin rl is pron to approxim er caus by out-of-distribution ood dat and particul inefficy for pixel-based learn task comp with state-based input control method
+sev pion effort hav been mad to solv thi problem som us pessim q-values approxim for unseen observ whil oth train a model to sim the environ to train a model on prevy collect dat to learn policy
+howev thes method requir acc and time-consuming estim of the q-values or the environ model
+bas on thi observ we pres offlin rl method with aug dat orad a handy but non-trivial extend to offlin rl algorithm
+we show that simpl dat aug e. g
+random transl and random crop sign elev the perform of the state-of-the-art offlin rl algorithm
+besid we find that regul of the q-values can also enh perform
+extend expery on the pixel-based input control-atari demonst the supery of orad ov sot offlin rl method consid both perform and dat efficy and rev that orad is mor effect for the pixel-based control .

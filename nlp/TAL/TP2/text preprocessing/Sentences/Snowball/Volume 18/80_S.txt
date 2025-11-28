@@ -1,0 +1,11 @@
+challeng and opportun of ambient intellig ami in the 21st centuri a histor review
+this articl present a systemat review base on prisma methodolog with 38 main studi 2000 2024 of academ databas and we analyz the evolut challeng and opportun of ambient intellig ami in the 21st centuri
+ami is defin as the capabl of environ to interact intellig and adapt through sensor and devic that respond effect to the presenc and need of user
+key real-world applic includ healthcar remot monitor of chronic patient and predict of behavior in dementia care home autom adapt light and temperatur system and secur intrud detect and nfc-base access control system
+the taxonomi of ami system compris three phase i iot base sens ii ai-driven reasoning-actu and iii human comput interact interfac to creat an intellig and adapt environ
+also the comput intellig or supervis learn model is address highlight wide use classif algorithm such as decis tree naïv bay k-nearest neighbor support vector machin and artifici neural network
+it s import to highlight that comput intellig model aren t the same as ami system
+although these model are crucial for make data-driven decis they requir signific preprocess such as clean up data nois or normal it to function proper within ami environ
+this articl provid a comprehens overview of the current state of ami address both opportun and challeng
+ethic and social consider such as privaci autonomi and econom scalabl are critic factor for ami s widespread accept
+futur research direct emphas scalabl architectur interdisciplinari collabor e.g. ai ethic and secur edg comput align with recent technolog advanc .

@@ -1,0 +1,9 @@
+a multi-cor parallel strategi for statist signific test in learn classifi system
+permutation-bas statist for evalu the signific of class predict predict attribut and pattern of associ have onli appear within the learn classifi system lc literatur sinc 2012
+while still not wide util by the lc research commun formal evalu of statist confid are imper to larg and complex real world applic such as genet epidemiolog where it is standard practic to quantifi the likelihood that a seemingli meaning statist could have been obtain pure by chanc
+learn classifi system algorithm are rel comput expens on their own
+the compound requir for gener permutation-bas statist may be a limit factor for some research interest in appli lc algorithm to real world problem
+technolog ha made lc parallel strategi more access and thu more popular in recent year
+in the present studi we examin the benefit of extern parallel a seri of independ lc run such that permut test with cross valid becom more feasibl to complet on a singl multi-cor workstat
+we test our python implement of thi strategi in the context of a simul complex genet epidemiolog data mine problem
+our evalu indic that as long as the number of concurr process doe not exceed the number of cpu core the speedup achiev is approxim linear .

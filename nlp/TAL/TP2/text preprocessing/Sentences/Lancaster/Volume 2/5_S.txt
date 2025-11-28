@@ -1,0 +1,9 @@
+evolv parallel and grad distribut lat tun of fuzzy rule-based system
+the tun of fuzzy rule-based system is oft apply to improv their perform as a post-processing stag ont an init set of fuzzy rul has been extract
+thi optim problem can becom a hard on when the siz of the consid system in term of the numb of vary rul and particul dat sampl is big
+distribut genet algorithm ar excel optim algorithm which exploit the nowaday avail parallel hardw mult microprocess and clust and could help to allevy thi grow in complex
+in thi work we pres a study on the us of the distribut genet algorithm for the tun of fuzzy rule-based system
+to thi end we analys the apply of a spec grad distribut real-coded genet algorithm which employ eight subpop in a hypercub topolog and loc parallel at each subpop
+we test our approach on nin real-world dataset of diff siz and with diff numb of vary
+the empir perform in solv qual and comput tim is assess by comp it result with thos from a high effect sequ tun algorithm
+the result show that the distribut approach achiev bet result in term of qual and execut tim as the complex of the problem grow .

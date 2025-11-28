@@ -1,0 +1,10 @@
+Threshold estimation from software metrics by using evolutionary techniques and its proposed algorithms models
+The software metrics play the important role in the software industry
+As the software industry growing in size and complexity enhanced support is mandatory for computing and managing the software quality
+Quality measurement is one of the key features of the manager in the software industry where threshold plays the crucial role
+Software measurement is necessary by means for evaluating different quality attributes and characteristics such as size complexity maintainability and usability
+Instead of that effective and efficient software system is straightforward dependent on the meaning of suitable thresholds
+The objective of this paper is to estimate the threshold values from software metrics by using novel evolutionary intelligence techniques
+The threshold and aging software design optimization algorithms and models to prevent software aging by using machine learning evolutionary algorithms
+Apart from the above-mentioned techniques this paper also proposed a novel threshold estimation aging and survivability aware sensitive reusability optimization model of an object-oriented software system
+To expand firmness aging and survivability aware sensitive optimization threshold scheme aging prediction and software rejuvenation model and algorithms proposed .

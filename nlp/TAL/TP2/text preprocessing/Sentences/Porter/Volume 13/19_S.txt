@@ -1,0 +1,10 @@
+hybrid genet algorithm and a fuzzi logic classifi for heart diseas diagnosi
+for the past two decad most of the peopl from develop countri are suffer from heart diseas
+diagnos these diseas at earlier stage help patient reduc the risk of death and also in reduc the cost of treatment
+the object of adapt genet algorithm with fuzzi logic agafl model is to predict heart diseas which will help medic practition in diagnos heart diseas at earli stage
+the model consist of the rough set base heart diseas featur select modul and the fuzzi rule base classif modul
+the gener rule from fuzzi classifi are optim by appli the adapt genet algorithm
+first import featur which effect heart diseas are select by rough set theori
+the second step predict the heart diseas use the hybrid agafl classifi
+the experiment is perform on the publicli avail uci heart diseas dataset
+thorough experiment analysi show that our approach ha outperform current exist method .

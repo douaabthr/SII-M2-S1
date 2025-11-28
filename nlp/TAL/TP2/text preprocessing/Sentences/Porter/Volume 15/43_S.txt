@@ -1,0 +1,9 @@
+a hybrid optim model for resourc alloc in ofdm-bas cognit radio system
+cognit radio cr system ha been consid as the key technolog for the mobil comput and wireless commun in futur
+howev the main challeng of the cr system is the alloc of resourc with minim transmiss power at an enhanc rate of transmiss
+thi paper propos the hybrid method which is the combin of grey wolf optim gwo and group search optim gso to alloc the resourc in the cr system in an optim manner
+it simul the gwogs-bas cr system reli on the orthogon frequenc divis multiplex ofdm to alloc the recours optim
+after attain the respect simul it compar the perform of the gwog to the convent algorithm like genet algorithm ga particl swarm optim pso artifici bee coloni abc firefli ff gso gwo and soap
+moreov it provid the valuabl compar analysi in term of converg rank cost and impact of orthogon
+in addit it reveal the statist analysi of the entir benchmark algorithm to attain the optimum result
+thu the experiment result affirm the challeng perform of the propos method against the convent algorithm .

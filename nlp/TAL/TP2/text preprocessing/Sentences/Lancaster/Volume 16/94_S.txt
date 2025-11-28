@@ -1,0 +1,9 @@
+metaverse-driven remot man solv for scene-based energy stor pow stat
+the metavers is a new internet apply and soc form that integr a vary of new technolog
+with the carbon peak carbon neut goal and the propos of a new pow system the construct of a pow system in the metavers is the trend of fut develop
+for the apply of the metavers in the pow system the metavers is recogn by mean of digit twin technolog internet of thing technolog and oth mean and then the energy stor pow stat system in the metavers is analys
+to thi end thi pap propos a metaverse-driven remot man scheme for energy stor pow stat and giv a spec design scheme
+with the help of large-scal comput expery and the parallel execut of virt and real clos loop the remot man and virtual-re interact of the real energy stor pow stat system is real and the energy stor pow stat system is promot from the man and control that rely on sim to the intellig man and control driv by the metavers
+in addit in view of the demand of energy stor pow stat system for high-precision pow load predict thi pap also propos a pow load predict model bas on genet algorithm-bp neur network
+consid the dat charact a scene-based class model gen method is design
+the sim result show that comp with the bp neur network algorithm the perform of the predict model propos in thi pap has been sign improv and it can achiev effect predict of pow load .

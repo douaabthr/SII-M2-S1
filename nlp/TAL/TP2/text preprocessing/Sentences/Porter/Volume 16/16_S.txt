@@ -1,0 +1,11 @@
+ufs-lstm unsupervis featur select with long short-term memori network for remot sens scene classif
+the aim of thi research is to perform remot sens scene classif becaus it support numer strateg research field like land use and land cover monitor
+howev classifi an enorm amount of remot sens data is a challeng task in scene classif
+in thi research work a new model is introduc to improv the featur extract abil for better scene classif
+a multiscal retinex techniqu is employ for color restor and contrast enhanc in the aerial imag that are collect from uc merc aerial imag dataset and resisc45
+further the featur extract is carri out use steerabl pyramid transform gray level co-occurr matrix featur and local ternari pattern
+the featur extract mechan reduc overfit risk improv train process and data visual abil
+gener the extract featur are high dimens so an unsupervis featur select base on multi subspac random and collabor with state transit algorithm is propos for select activ featur for better multiclass classif
+the select featur are fed to long short term memori network for scene type classif
+the experiment result show that the propos model achiev 99.14 98.09% and 99.25% of overal classif accuraci on uc merc resisc45 and aerial imag dataset
+the propos model show a minimum of 0.03 and maximum of 18.6 improv in classif accuraci compar to the exist model like self-attent base deep featur fusion multitask learn system with convolut neural network multilay featur fusion wasserstein gener adversari network and transfer learn model on uc merc resisc45 and aerial dataset respect .

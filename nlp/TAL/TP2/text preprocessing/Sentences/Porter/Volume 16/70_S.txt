@@ -1,0 +1,10 @@
+binari artifici electr field algorithm
+artifici electr field algorithm aefa is one of the recent population-bas optim techniqu it is inspir by the electrostat forc theori
+thi articl aim to design a novel binari version of the aefa scheme to improv the perform of the origin aefa scheme in discret space
+the popular s-shape and v-shape function are use to design the binari version of the aefa
+the effici and the optim abil of the propos binari version of the aefa are studi theoret as well as experiment
+an extens experiment studi is perform to understand the perform of the propos scheme
+a set of 24 benchmark problem are solv use binari version of aefa the experiment result are compar with nine state-of-the-art algorithm
+the run time complex and wilcoxon s signed-rank statist test are also conduct to judg the propos algorithm
+in addit to the experiment studi theoret analysi is also carri out which suggest the converg scenario of the propos scheme
+these studi suggest that the design binari version of the aefa are veri effici and compet in address difficult optim problem .

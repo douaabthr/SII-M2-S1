@@ -1,0 +1,9 @@
+quasi-dynam opposit learn enhanc runge-kutta optim for solv complex optim problem
+the runge-kutta optim rung algorithm is a recent propos metaphor-fre metaheurist optim borrow practic mathemat foundat of the famou runge-kutta differenti equat solver
+despit it rel new emerg thi algorithm ha sever applic in variou branch of scientif field
+howev there is still much room for improv as it suffer from prematur converg result from ineffici search space explor
+to overcom thi algorithm drawback thi research studi propos a brand-new quasi-dynam opposition-bas learn qdopp mechan to be implement in a standard runge-kutta optim to elimin the local minimum point over the search space
+enhanc the asymmetr search hyperspac by take advantag of variou posit of the current solut within the domain is the critic novelti to enrich gener divers in the popul significantli improv the algorithm s overal explor capabl
+to valid the effect of the propos runge-qdopp method thirty-four multidimension optim benchmark problem compris of unimod and multimod test function with variou dimension have been solv and the correspond result are compar against the predict obtain from the other opposition-bas learn variant as well as some state-of-art literatur optim
+furthermor six constrain engin design problem with differ function characterist have been solv and the respect result are benchmark against those obtain for the well-known optim
+comparison of the solut outcom with literatur optim for constrain and unconstrain test problem reveal that the propos qdopp ha signific advantag over it counterpart regard solut accuraci and effici .

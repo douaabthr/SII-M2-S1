@@ -1,0 +1,7 @@
+singl layer chebyshev neural network model with regression-bas weight for solv nonlinear ordinari differenti equat
+in this investig a novel singl layer function link neural network name chebyshev artifici neural network chann model with regression-bas weight has been develop to handl ordinari differenti equat
+in chann the hidden layer is remov by an artifici expans block of the input pattern by use chebyshev polynomi
+thus the techniqu is more effectu than the multilay ann
+initi weight from the input layer to the output layer are taken by a regression-bas model
+here feed-forward structur and back-propag algorithm of the unsupervis version have been util to make the error valu minim
+numer exampl and comparison with other method exhibit the superior behavior of this techniqu .

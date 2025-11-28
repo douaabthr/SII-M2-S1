@@ -1,0 +1,8 @@
+a new approach bas on expon entrop with mod kernel fuzzy c-means clust for mri brain seg
+im clust is on of the most import and challeng process of digit im process and comput vis ref to partit an im into mean reg
+in med im the seg of anatom magnet reson im mri is a cruc step to a multitud of apply includ computer-aided diagnos monit of cant patholog morphomet analys and vis of hum tissu
+unfortun mr im contain intens inhomog and nois produc by the scan tool can lead to inacc and unrely result seg
+in thi context we propos a robust and efficy fuzzy clust method cal mod kernel with expon entrop mk2e which is introduc by mod the kernel fuzzy c-means method and by incorp the fuzzy expon entrop and a logarithm penal term
+moreov we hav examin an import theoret quest regard the mathem property behind our fuzzy mk2e clust algorithm such as converg
+expery wer perform on norm brain im from t1-weighted mri scan with vary nois level and intens inhomog
+the result illust the supery of our propos method ov oth six comp method in term of acc seg and execut tim .

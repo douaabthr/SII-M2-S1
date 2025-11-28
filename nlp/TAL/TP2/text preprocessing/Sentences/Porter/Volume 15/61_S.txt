@@ -1,0 +1,12 @@
+a survey of energy-awar cluster head select techniqu in wireless sensor network
+recent wireless sensor network wsn are becom veri famou as they are inexpens and easi to maintain and manag
+the network contain a group of sensor node which are capabl of sens comput and transmit
+energi effici is one of the most import challeng problem in wsn
+sensor node have inadequ energi and instal in remot area
+henc it is difficult to restor the batteri in wsn
+therefor to maxim the network lifetim appropri cluster techniqu and cluster head ch select method should be implement
+the main idea behind the cluster techniqu is that it cluster the sensor node and reduc the compos data simultan and then it broadcast the data
+in thi process ch select is an essenti part
+therefor thi survey paper provid an overview of the cluster techniqu for reduc energi consumpt by review sever ch select techniqu in wsn that provid high energi effici
+sever techniqu have been employ for ch select base on partit cluster optim low-energi adapt cluster hierarchi hierarch distribut and other classif method
+final an analysi is done base on the implement tool metric employ accuraci and achiev of the consid ch select techniqu .

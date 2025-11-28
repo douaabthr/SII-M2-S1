@@ -1,0 +1,7 @@
+evolutionari linkag creation between inform sourc in p2p network
+the present paper propos a peer-to-p p2p inform retriev and share system that evolutionarili creat linkag of inform sourc that are use for both inform publish and inform user where inform is manag in a decentr manner
+the propos system reli on interact among inform publish who actual generat inform and have the greatest knowledg of the inform inform user who use the inform and a network that creat use linkag of inform sourc inform publish
+in order to enhanc the valu of their own inform sourc inform publish propos new linkag of inform sourc that indic inform sourc with which they would like to have their own inform sourc co-occur
+the inform user evalu the linkag propos by the inform publish
+the network evolutionarili reconstruct the topolog structur of the p2p network base on the fit obtain from the user
+simul result suggest that it is possibl to find more inform sourc that user desir use the topolog structur reconstruct by the propos system as compar to the use of non-reconstruct topolog structur .

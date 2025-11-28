@@ -1,0 +1,11 @@
+Uncertain inference network in evidential reasoning
+As a dominant method in evidential reasoning Bayesian network has been proved powerful in discrete fields
+Although Bayesian network performs reliable in continuous variables and interval estimations it relies on discretizing continuous variables or building an approximate model to conduct which causes information loss and accuracy reduction
+In order to bridge this gap this paper introduces two inference rules combined with four inference rules proposed by other scholars
+Then we propose a concept of uncertain inference network that consists of six basic structures matching inference rules to represent relationships and logic connection among the evidence
+Evidence is represented by uncertain sets that can apply to continuous variables using membership functions to represent vague concepts
+Furthermore a numeric experiment for a forensic investigation of fire incidents is given to compare the results of uncertain inference network and Bayesian network
+We found three merits in the case study
+First an uncertain inference network has simpler data access for each node because Bayesian network depends on conditional probability tables while uncertain inference network only relies on membership function
+Second an uncertain inference network has a more wide application because it can perform continuous variables with certain mathematical formulas without discretizing or approximating
+Third an uncertain inference network has a more accurate result because Bayesian network gives a point estimation with a 0 1 value while uncertain inference network conducts an interval estimation with a range value .

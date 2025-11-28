@@ -1,0 +1,11 @@
+a random-permutation bas ga for gen travel salesm problem in imprec environ
+a random-permutation techn and the feat of the genet algorithm ga ar combin togeth to develop a novel heur for solv gen travel salesm problem
+her the random-permutation techn is us to find the sequ of clust of a prob solv in which a complet tour to be com
+the feat of ga ar us to select the city from diff clust of the sequ
+the algorithm has the abl to solv the problem in both the crisp as wel as in the imprec environ
+a fuzzy membership-based select process is propos to select a solv for the mat pool
+a gen comparison rul of the solv is propos to rank the pot solv of the pop in imprec environ
+in the crisp environ the efficy of the propos approach is test against a set of diff benchmark test problem from gtsplib hav siz up to 226 city with 26 clust
+it is observ from the expery result that the algorithm produc 100% acc result for al the benchmark test problem und consid
+imprec test problem ar gen from diff benchmark crisp test problem of tsplib and ar us to test the algorithm in the imprec environ
+it is also observ from the expery result that the propos approach find multipl optim path i. e mor than on path if ex for the problem in the crisp as wel as in the imprec environ .

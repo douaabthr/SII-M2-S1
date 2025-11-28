@@ -1,0 +1,7 @@
+metaverse-driven new energi of chines tradit cultur educ edg comput method
+how to make chines tradit cultur shine again ha becom the focu of our research
+the emerg of the metavers ha led to further develop of virtual realiti vr technolog
+therefor vr technolog can be reli on to creat a vr world in the form of three-dimension interact so that tradit cultur can break through the limit of time and space and deepen peopl s understand of tradit chines cultur
+due to the wide applic of edg comput technolog offload vr comput task to edg server can reduc the averag time latenc and improv the user experi
+for thi reason we design a two-phas task offload algorithm to obtain the optim solut of the task offload problem by implement nash equilibrium
+simul result show that the metaverse-driven vr of chines tradit cultur can effect reduc the averag latenc so that user can deepli experi the new energi of chines tradit cultur .

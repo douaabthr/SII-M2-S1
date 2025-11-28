@@ -1,0 +1,9 @@
+cuddl death algorithm use abc for detect unhealthi node in wireless sensor network
+wireless sensor network consist of some sensor node that have a minimum oper capabl with less memori capac for store data and limit energi sourc
+the deploy of these node or sensor take place random in a dynam or static environ
+this type of placement of node in a hostil environ can be charg by the malici node in a wireless sensor network wsn
+this vulner in node make the wireless sensor network unstabl and lead to mani type of demerit like limit batteri lifetim less comput and limit memori space
+to avoid these attack and to reduc the impact creat by the malici node we suggest a simpl and effect way of detect and remov unhealthi node in the environ
+we propos a simpl scheme by use the artifici bee coloni algorithm which is known as the cuddl death design
+the theme of a scheme is to find the unhealthi or malici cluster head node in the network and remov that particular node without creat ani harm to the other node in the environ
+it also help to improv the energi effici packet deliveri ratio with maximum throughput in wsn .

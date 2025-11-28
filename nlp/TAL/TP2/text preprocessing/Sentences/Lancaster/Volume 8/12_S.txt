@@ -1,0 +1,10 @@
+quadr assign problem a landscap analys
+the anatom of the fit landscap for the quadr assign problem is study in thi pap
+we study the property of both random problem and real-world problem
+us auto-correlation as a meas for the landscap rug we study the landscap of the problem and show how thi property is rel to the problem mat with which the problem ar repres
+our main goal in thi pap is to study new property of the fit landscap which hav not been study bef and we believ ar mor cap of reflect the problem difficul
+us loc search algorithm which exhaust expl the platea and the loc optim we expl the landscap stor al the loc optim we find and study their property
+the property we study includ the tim it tak for a loc search algorithm to find loc optim the numb of loc optim the prob of reach the glob optim the expect cost of the loc optim around the glob optim and the basin of attract of the glob and loc optim
+we study the property for problem of diff siz and through extrapol we show how the property chang with the system siz and why the problem becom hard as the system siz grow
+in our study we show how the real-world problem ar simil to or diff from the random problem
+we also try to show what property of the problem mat mak the landscap of the real problem be diff from or simil to on anoth .

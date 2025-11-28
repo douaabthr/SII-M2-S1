@@ -1,0 +1,8 @@
+a group evalu base binari pso algorithm for featur select in high dimension data
+this paper propos a group evolut base featur select techniqu use binari pso which is an essenti tool of pre-process for solv classif problem
+a new updat mechan for calcul pbest and gbest are also propos and the relev and redund of the select featur subset are consid as an object function
+the propos algorithm is test and compar with four exist featur select algorithm
+in this studi a decis tree classifi is employ to evalu the classif accuraci of the select featur subset on five benchmark dataset
+the result show that propos algorithm can be success use to improv classif accuraci and to improv stabil indic as well
+it is also observ that with increas weight on relev of the function there is a signific reduct on the cardin of featur and increas in classif accuraci
+the exist four algorithm usual select a smaller featur subset while the propos algorithm can achiev higher classif accuraci on most of the test dataset .

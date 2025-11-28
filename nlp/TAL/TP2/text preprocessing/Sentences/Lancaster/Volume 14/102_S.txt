@@ -1,0 +1,10 @@
+art intellig and gam the control autonom uav swarm
+autonom unman aer vehic uav op as a swarm can be deploy in aust environ wher cyb electromagnet act oft requir speedy and dynam adjust to swarm op
+us of cent control uavsynchron mech or pre-planned set of act to control a swarm in such deploy would hind it abl to del expect serv
+we introduc art intellig and gam the bas flight control algorithm to be run by each autonomousuavto determin it act in near real-time whil rely on on loc spat temp and electromagnet em inform
+eachuavus our flight control algorithm posit itself such that the swarm maintain mobl ad-hoc network manet connect and uniform asset distribut ov an are of interest
+typ task for swarm us our algorithm includ detect loc and track of mobileemtransmit
+we pres a form analys show that our algorithm can guid a swarm to maintain a connectedmanet promot a uniform network spreading whil avoid overcrowd with oth swarm memb
+we also prov that they maintainmanetconnect and at the sam tim they can lead a swarm of autonomousuav to follow or avoid anemtransmit
+sim expery inopnetmodel ver the result of form analys that our algorithm ar cap of provid an adequ are cov ov a mobileemsourc and maintainmanetconnect
+thes algorithm ar good candid for civil and milit apply that requir agil respons to the chang in dynam environ for task such as detect loc and track mobileemtransmit .

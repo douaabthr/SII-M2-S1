@@ -1,0 +1,7 @@
+Optimum-path forest stacking-based ensemble for intrusion detection
+Machine learning techniques have been extensively researched in the last years mainly due to their effectiveness when dealing with recognition or classification applications
+Typically one can comprehend using a Machine Learning system to autonomously delegate routines save human efforts and produce great insights regarding decision-making tasks
+This paper introduces and validates a stacking-based ensemble approach using Optimum-Path Forest classifiers in intrusion detection tasks
+Instead of only using the famous NSL-KDD dataset we propose a new dataset called uneSPY which we believe will fill the gap concerning new intrusion detection datasets
+Both datasets were evaluated under several classifiers including Logistic Regression Decision Trees Support Vector Machines Optimum-Path Forests and compared against Optimum-Path Forest stacking-based ensembles
+Experimental results showed an Optimum-Path Forest stacking-based ensemble classification suitability particularly when considering its ability to generalize large volumes of data while sustaining its performance .

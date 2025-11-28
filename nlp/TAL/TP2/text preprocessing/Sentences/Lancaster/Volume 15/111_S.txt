@@ -1,0 +1,10 @@
+optim scheduling algorithm for soft real-time system us partic swarm optim techn
+scheduling of task in real-time system is bas on stat or dynam pri lik earliest deadlin first edf and rat monoton respect
+the stat scheduler doe not giv ass of scheduling al task dur the underload scenario wherea dynam scheduler perform poor dur an overload scenario
+thi pap has propos a swarm intelligence-based scheduling algorithm that can overcom both the situ
+thi pap has us partic swarm optim pso bas swarm techn to design the new scheduling approach
+it consid each task as a partic and apply mod pso techn to ident the most crit task to execut
+the efficy of the new propos method has been comp with ex edf and aco bas scheduling algorithm consid two sign paramet the success ratio and the effect cpu util
+al three algorithm hav been test on the sim with a soft real-time period task set on 500 timelin
+it has been observ that dur the underload scenario the propos algorithm perform eq to edf and aco bas algorithm
+dur overload and high overload situ the propos algorithm perform bat comp to edf and aco bas algorithm .

@@ -1,0 +1,9 @@
+research on storag method for fuzzi rdf graph base on neo4j
+with the wide applic of the semant web and the rapid develop of the resourc descript framework rdf the demand for data process of inconsist or imprecis inform ha becom more and more urgent
+recent the fuzzi extens of rdf data ha receiv widespread attent becaus of their abil to repres and process fuzzi inform
+an import issu for the success of fuzzi rdf applic is how to achiev persist data storag and queri capabl
+in thi articl we investig the storag and queri of fuzzi rdf data
+to accomplish thi we studi how to formal map fuzzi rdf graph repres by the label direct graph structur to properti graph pg databas storag model
+we implement the process that the map relationship between fuzzi rdf graph and properti graph
+moreov we manag these data by a chosen neo4j graph dbm in order to support express queri servic over the store data
+final we have compar our method base on neo4j graph databas with the method base on relat databas and the experiment result prove that use the graph databas model to store fuzzi rdf graph data set is effect and feasibl .

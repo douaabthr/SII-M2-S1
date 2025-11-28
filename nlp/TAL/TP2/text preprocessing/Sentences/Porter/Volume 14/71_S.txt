@@ -1,0 +1,9 @@
+an optim featur select method for histopatholog tissu imag classif use adapt jaya algorithm
+due to the complex background and heterogen structur classif of histopatholog tissu imag is a challeng problem
+further the select of appropri featur is an import phase of classif process as irrelev and redund featur may result in high comput and degrad the perform
+therefor a new adapt jaya algorithm ha been introduc in thi paper which is use to obtain the promin featur set from the extract featur
+the propos adapt jaya algorithm modifi the updat equat use the best and the worst solut
+for the featur extract a pre-train alexnet ha been use due to it distinguish perform in the imag classif
+moreov the perform of five differ classifi have been analyz over the select featur in context of classifi the histopatholog tissu imag into four categori name epithelium tissu nervou tissu connect tissu and muscular tissu
+experiment result valid that the propos adapt jaya algorithm attain better optim valu on cec2015 function
+the propos method elimin 91.3% featur from the extract featur which is maximum among other consid method and also achiev high classif accuraci .

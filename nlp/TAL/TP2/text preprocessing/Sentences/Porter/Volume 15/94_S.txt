@@ -1,0 +1,8 @@
+comparison of variou electr market price strategi to reduc gener cost of a microgrid system use hybrid woa-sca
+thi paper aim to minim the gener cost of a low voltag lv grid-connect microgrid system use a novel hybrid whale optim algorithm woa sine cosin algorithm sca optim techniqu
+three differ method of electr market price are formul in turn and the gener cost is evalu for each method to sort out the best among them which yield the least gener cost of the same microgrid system
+both activ and passiv particip of grid are studi to acknowledg it import
+numer result show that the time of usag tou method of electr market price prove to be the most conveni and econom method for cost analysi of the system
+the gener cost wa at it maximum when the electr price wa a constant valu
+also dure the tou method of electr price a 15% surg in the price wa realiz when the grid wa passiv particip in suppli power to the system
+figur and statist data aid the fact that propos hybrid woasca outperform woa in consist provid a robust and superior qualiti result .

@@ -1,0 +1,11 @@
+optim for cost-effect design of water distribut network a comprehens learn approach
+the comprehens learn gravit search algorithm clgsa has demonstr it effect in solv continu optim problem
+in this research we extend the clgsa to tackl np-hard combinatori problem and introduc the discret comprehens learn gravit search algorithm d-clgsa
+the d-clgsa framework incorpor a refin posit and veloc updat scheme tailor for discret problem
+to evalu the algorithm s effici we conduct two set of experi
+first we assess it perform on a divers rang of 24 benchmark encompass unimod multimod composit and special discret function
+second we appli the d-clgsa to a practic optim problem involv water distribut network plan and manag
+the d-clgsa model was coupl with the hydraul simul solver epanet to identifi the optim design for the water distribut network aim for cost-effect
+we evalu the model s perform on six distribut network name two-loop network hanoi network new-york citi network goyang network bakryun network and balerma network
+the result of our studi were promis surpass previous studi in the field
+consequ the d-clgsa model hold great potenti as an optim for econom and reliabl plan and manag water network .

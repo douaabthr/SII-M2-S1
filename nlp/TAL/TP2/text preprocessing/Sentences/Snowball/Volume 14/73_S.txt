@@ -1,0 +1,13 @@
+twitter sentiment analysi use hybrid spider monkey optim method
+the use of social media over the past few year has escal enorm
+social media has form a platform for the avail of abund data
+thousand of peopl express their percept through social media
+sentiment analysi sa of such view and percept is veri substanti to measur public notion on a peculiar/specif subject matter of concern
+sa is a remark field of data mine concern with identif and translat of sentiment access on social media
+twitter is a microblog site in which user can post updat tweet to friend follow
+this paper propos a mechan for extract the sentiment from the tweet post on twitter
+tweet can be classifi as posit neutral or negat
+the metaheuristic-bas cluster techniqu are superior to convent techniqu due to the subject behaviour of tweet
+a hybrid strategi name as hybrid spider monkey optim with k-mean cluster is introduc to obtain the optim cluster-head of the dataset
+the accuraci of the propos method is determin on two dataset name sender2 and twitter
+to analys the authent of the propos method a compar analysi is perform with a few signific nature-inspir algorithm such as spider-monkey optim particle-swarm algorithm genetic-algorithm and differenti evolut .

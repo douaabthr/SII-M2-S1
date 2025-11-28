@@ -1,0 +1,9 @@
+solv combin econom emiss dispatch model via hybrid differenti evalu and crow search algorithm
+one of the major aspect regard the oper and plan of a power system was to reduc the emiss of pollut and fuel cost in thermal power plant
+this issu was resolv as an optim crisi where the reduct of emiss of pollut and fuel cost was done and it is known as the combin econom emiss dispatch ceed problem
+various techniqu were introduc for improv the perform of the power plant with respect to algorithm reliabl solut accuraci global optim and converg speed for resolv the ceed issu
+therefor this work establish a ceed approach for the smart grid system and resolv it by exploit the hybrid concept of the crow search algorithm csa and differenti evolut de
+the hybrid model of the two well-known scheme is achiev by updat the solut of both the scheme and merg them with the random search model
+thus the new approach is name as hybrid de and csa model
+the ceed approach is subject to reduc it cost and therefor suffici trade-off between the emiss and econom cost could be sustain
+the present hybrid scheme is simul on 3 divers bus system and it perform is evalu over other state-of-the-art model in term of cpu time and generat strategi .

@@ -1,0 +1,9 @@
+an evalu of ear biometr system base on enhanc jaya algorithm and surf descriptor
+recent the ear biometr ha receiv much attent for human recognit due to it uniqu shape and rich local featur
+howev extract discrimin featur from ear imag is a crucial task in presenc of illumin chang low contrast nois and pose variat
+with the aim of neutral the effect of these factor thi paper propos an automat enhanc techniqu use meta-heurist optim to enhanc the ear imag
+here we modifi a recent and simpl yet meta-heurist optim techniqu known as jaya algorithm by introduc a mutat oper to enhanc the ear imag in few iter and the propos approach is name as enhanc jaya algorithm
+then we employ a pose-invari local featur extractor surf to extract local featur
+final thek-nnclassifi ha use to evalu the rate of correct identif
+extens experi are conduct on four standard dataset and the perform evalu is carri out by qualit and quantit measur
+experiment result clearli indic the propos enhanc approach is competit as compar to two classic method he clahe and two meta-heurist algorithm pso and de-bas imag enhanc techniqu .

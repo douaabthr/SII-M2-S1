@@ -1,0 +1,13 @@
+multi-moth flam optim for solv the link predict problem in complex network
+provid a solv for the link predict problem attract sev comput sci field and becom a popul challeng in research
+thi challeng is pres by introduc sev approach keen to provid the most prec predict qual within a short period of tim
+the difficul of the link predict problem com from the spars nat of most complex network such as soc network
+thi pap pres a parallel metah framework which is bas on moth-flame optim mfo clust and pre-processed dataset to solv the link predict problem
+thi framework is impl and test on a high-performance comput clust and carry out on larg and complex network from diff field such as soc cit biolog and inform and publ network
+thi framework is cal parallel mfo for link predict pmfo-lp
+pmfo-lp is compos of dat preprocess stag and predict stag
+dataset divid with stratified sampl feat extract dat under-sampling and feat select ar perform in the dat preprocess stag
+in the predict stag the mfo bas on clust is us as the predict optim
+the pmfo-lp provid a solv to the link predict problem with mor acc predict result within a reason amount of tim
+expery result show that pmfo-lp algorithm outperform oth well-regarded algorithm in term of er rat the are und curv and speedup
+not that the sourc cod of the pmfo-lp algorithm is avail athttp github . com/rehambarham/pmfo_mpi . cpp .

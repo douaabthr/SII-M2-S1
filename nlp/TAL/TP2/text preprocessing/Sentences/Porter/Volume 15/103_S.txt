@@ -1,0 +1,9 @@
+a new improv salp swarm algorithm use logarithm spiral mechan enhanc with chao for global optim
+recent salp swarm algorithm ssa ha emerg as a new population-bas meta-heurist techniqu in the area of optim
+it is mainli inspir from the navig and forag behaviour of salp swarm
+the aforement algorithm weak is stagnat in local optima and low converg rate
+to overcom these drawback we propos a new improv spiral chaotic salp swarm algorithm call isc-ssa
+compar with origin ssa isc-ssa includ logarithm spiral mechan incorpor with chaotic search method capabl to enhanc further it perform
+the function of isc-ssa algorithm is firstli test on 20 unimod multimod and composit mathemat optim problem with ten differ chaotic map to select the most appropri one for isc-ssa modif
+then the algorithm is appli to solv sever engin optim problem
+the compar experiment result with competit metaheurist algorithm reveal that isc-ssa algorithm can gener the best solut .

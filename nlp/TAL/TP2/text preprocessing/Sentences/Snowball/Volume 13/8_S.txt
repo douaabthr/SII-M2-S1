@@ -1,0 +1,10 @@
+a node-prior base large-scal overlap communiti detect use evolutionari multi-object optim
+communiti structur is one of the most import featur in complex network
+howev with increas of network scale some exist method cannot effect detect the communiti structur of complex network and the avail method most aim at non-overlap network
+in this paper we focus on overlap communiti detect in large-scal network becaus most of the communiti in real-world network are overlap
+in order to improv the accuraci of large-scal overlap communiti detect we suggest a communiti detect method base on node prioriti
+the propos algorithm has two advantag 1 we defin a prioriti function text f _ text nn to assess the close between adjac node
+it explor the potenti communiti structur in advanc and reduc the scale of network
+2 we employ nsga-ii and select all pareto front to mine large-scal overlap communiti
+the propos algorithm is test by the artifici and real dataset
+the result show that the propos algorithm can effect improv the accuraci of communiti detect and has better optim effect .

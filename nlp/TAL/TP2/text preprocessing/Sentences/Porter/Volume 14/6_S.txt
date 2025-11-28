@@ -1,0 +1,8 @@
+paramet tune of a quadrotor pid control by use nature-inspir algorithm
+thi paper aim to investig the control of a quadrotor by pid control
+the mathemat model is deriv from euler lagrang approach
+due to nonlinear coupl and under-actu constraint the model impos difficulti to gener it control by use classic way
+firstli we have design a control structur which weaken the coupl and permit to develop a decentr control
+secondli in order to get the optim path track the control paramet were tune by stochast nature-inspir algorithm genet algorithm evolut strategi differenti evolutionari and cuckoo search
+a comparison studi between these algorithm accord to the path track is carri out by implement simul under matlab/simulink
+the result show the effici of the propos strategi where the optim algorithm achiev good perform with a slight differ between the indic techniqu .

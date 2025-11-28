@@ -1,0 +1,13 @@
+a hybrid evsa approach in cluster search space with ad-hoc partit for multi-robot search
+thi paper examin the problem of multi-robot target search in an unknown environ
+sinc no inform is avail about the target so the search is similar to the explor problem
+in thi paper a new method is propos to improv the effici of explor
+the object of the propos approach is to minim the explor time by reduc the redund coverag and comput overhead
+for explor the concept of frontier is be use
+the follow hypothesi formul in order to improv the explor 1 introduct of an ad-hoc partit method to handl redund coverag
+2 reduct of the search space by cluster group the frontier cell to minim the comput overhead
+3 introduct of method for robot next posit assign problem name nearest frontier-clust center method when a singl robot is search in the sub-region
+a hybrid of egyptian vultur and simul anneal base approach when more than one robot are search within a sub-region
+perform of the propos approach is evalu through simul in two differ workspac with a team size of 2 and 4 robot
+four differ perform measur name redund coverag object local time explor time and explor percentag are consid to evalu the perform of the propos method
+result show that propos hybrid-evsa method complet explor much faster in both the workspac with the team size of 2 and 4 robot as compar to other state of art approach due to low comput overhead and reduc redund coverag .

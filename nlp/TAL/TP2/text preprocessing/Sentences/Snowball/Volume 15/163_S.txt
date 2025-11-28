@@ -1,0 +1,8 @@
+multi-view fusion for recommend with attent deep neural network
+recommend system have been wide develop and introduc in numer applic
+howev due to the lack of suffici user feedback data the recommend perform of such system is often affect by data sparsiti
+to address this problem a multi-view fusion recommend algorithm with an attent deep neural network is propos
+a two-stag joint learn solut is design in the propos model which combin user attribut item attribut and user-item interact inform into a unifi framework
+the convolut neural network and attent mechan are appli to improv effect of extract featur from user and item attribut
+the extend deep neural network model base on matrix factor and multiple-lay percept is use to enhanc the featur extract of user and item interact inform
+experiment result on the movielens-1 m and book-cross real dataset show that the propos algorithm can achiev the best recommend accuraci compar with other classic recommend algorithm even with extrem spars data .

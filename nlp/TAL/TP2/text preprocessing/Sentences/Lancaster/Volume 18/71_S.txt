@@ -1,0 +1,10 @@
+apply of interv laplac transform in a produc system with pric and qual depend demand via wat cyc algorithm
+laplac transform is a pot mathem approach util in many disciplin includ mathem engin phys and control the
+it is gen us to simpl challeng mathem issu and solv diff equ
+interv uncertainty is a not us in decid the risk analys and stat to express and man uncertainty in a mor flex and less spec fash
+it is also known as interval-valued uncertainty or interv uncertainty analys
+it diff from point estim and prec prob and is espec help when ther is littl knowledg of a vary s spec valu or when work with uncertain dat
+her we apply the conceiv of interv laplac transform for solv a manufact model as wel as demand funct is tak as interv form on sel pric and the qual of the item
+we hav solv the develop interv valu produc model with the help of on num exampl interv ord rel and wat cyc algorithm wca
+in ord to just the result from wca we hav comp the result from oth popul metah algorithm
+last an investig of post optim is being research to off som man insight .

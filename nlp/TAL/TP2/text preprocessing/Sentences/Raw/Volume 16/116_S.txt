@@ -1,0 +1,11 @@
+Short-term forecasting electricity load by long short-term memory and reinforcement learning for optimization of hyper-parameters
+Electricity load forecasting is an essential operation of the power system
+Deep learning is used to improve accurate electricity load forecasting
+In this study combining Long short-term memory and reinforcement learning are proposed to encourage the advantage of a single approach for forecasting
+Importance input features including the mutual feature of electricity load are used to increase accuracy
+First multi-time series input can handle by Long short-term memory and the addition of features supports to the load feature will make the model better efficient
+Because the LSTM model is quite complex choosing a good set of hyperparameters is difficult
+Therefore the purpose of using reinforcement learning is to optimize hyper-parameters of the Long short-term memory model
+The proposed model is the combination of Long-short term memory and reinforcement learning
+The proposed model will be applied in two electricity load data sets the real-life data of Vietnam Electricity and the other public data set
+In one day ahead forecasting the proposed model archives superior performance than the benchmark .

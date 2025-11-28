@@ -1,0 +1,11 @@
+Marine predators social group optimization a hybrid approach
+Numerous heuristic and metaheuristic algorithms inspired by nature have been developed so far
+These algorithms have demonstrated their excellence in resolving challenging problems across a variety of fields
+However many optimization algorithms fail while solving a complex real-world problem efficiently in an independent way because these problems have a distinct search behavior as they contain numerous equality and inequality constraints of the linear nonlinear and non-convex types
+In this study two optimization algorithms the Marine Predators Algorithm MPA and the Social Group Optimization SGO algorithm are hybridized in order to increase their efficiency and problem-solving capability to solve this type of problem
+This proposed hybrid optimization algorithm is named as Marine Predators Social Group Optimization MPSGO algorithm
+This hybrid algorithm combines the strengths of both techniques to enhance the efficiency and effectiveness of the optimization process
+It is validated through thirty benchmark functions of CEC2014 and after that 26 real-world optimization problems test suites of CEC 2020 from the chemical and mechanical engineering domain have been solved
+The validation results are compared with ten state-of-art optimization algorithm and real-world optimization problem result is compared with BiPop matrix adaptation evolution strategy BP-ϵMAg-ES enhanced Multi-Operator Differential Evolution EnMODE LSHADE for Constrained Optimization COLSHADE Cohort Intelligence self-adaptive penalty function CI-SAPF and Cohort Intelligence self-adaptive penalty function Colliding Bodies Optimization CI-SAPF-CBO
+As MPSGO is a hybrid algorithm again we have compared its performance with the seven best modified and improved optimization algorithms
+In terms of convergence quality and improving solution quality the simulated results of MPSGO have been shown to be competitive with those of state-of-the-art hybrid improved and advanced optimization algorithms proving the validity as well as the feasibility of the MPSGO algorithm .

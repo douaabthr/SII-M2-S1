@@ -1,0 +1,6 @@
+int recognit of aer target bas on deep learn
+three air target int recognit method bas on deep learn ar propos to real the funct of recogn air target int bas on real-time situ inform to resolv the problem that pilot cannot effect observ and analys observ within a short period of tim in complex air battlefield environ and tradit air target int recognit algorithm hav shortcom such as complex feat filt and rely on expert expery
+the method us expert expery to sim comb in the air on the sim platform we design obtain and filt key post inform of aer target and correspond expert script int label dur comb and send them to a design ful connect network a convolv neur network and a recur neur network for train
+the train result show that al three network can achiev air target int recognit and the recur neur network bas model can achiev the int recognit with an acc of 80%
+comp with tradit method such as d-s inf the propos method is mor gen and robust
+fin the feas and effect of the method we propos is ver by the sim and expery .

@@ -1,0 +1,11 @@
+optim for reinforc learn bas 3d anim exerc
+3d anim mak art liv and giv work of art with vit thu en art charm to be bet pres and art pract to cre mor valu
+due to the supery 3d model cre of 3d anim it has import pract prospect in the field of art
+at the sam tim 3d anim is an import part of the anim industry and it art styl affect the qual of anim work and der
+against the backdrop of comput technolog comput has a gre influ on 3d anim art which gre enh the art express of 3d anim and promot new anim form
+the art express of 3d anim is main reflect in the perform of light and film spac and mot len detail and text and tradit art express of 3d technolog
+howev when view 3d anim we ar oft affect by the network bandwid which lead to lag in 3d anim video and affect the us qual of expery qoe
+accord to the dur of 3d anim video thi pap divid them into three typ and obtain bet us qoe through reinforc learn rl
+the dataset of 3d anim video of diff dur ar us to train the rl model and the correspond reward funct paramet of diff 3d anim video dur ar obtain
+theref duration-sensitive asynchron adv act crit a3c rl algorithm is pres
+the expery result show that the a3c-rl algorithm has a much bet us qoe for 3d anim video than that of state-of-the-art algorithm .

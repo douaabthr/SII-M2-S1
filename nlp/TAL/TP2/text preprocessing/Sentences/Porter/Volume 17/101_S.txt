@@ -1,0 +1,10 @@
+intellig contribut of the artifici orca algorithm for continu problem and real-tim emerg medic servic
+the artifici orca algorithm aoa is an exist swarm intellig algorithm empow in thi paper by two well-known mutat oper and opposition-bas learn yield the novel method deep self-learn artifici orca algorithm dslaoa opposit deep self-learn artifici orca algorithm odslaoa and opposit artifici orca learn algorithm
+the dslaoa and odslaoa are base on the cauchi and gauss mutat oper
+their effect is evalu on both continu and discret problem
+the suggest algorithm are test and compar to seven recent state-of-the-art metaheurist in the continu context
+the result demonstr that when compar to the other algorithm dslaoa base on the cauchi oper is the most effect techniqu
+after that a specif real-world scenario involv emerg medic servic in a dire situat is tackl
+the ambul dispatch and emerg call cover problem is the address problem and a mathemat formul is made to model thi issu
+aoa dslaoac and dslaoag are test and contrast with a success recent heurist in thi field
+the experi are run on real data and the result show that the swarm approach are effect and help in determin the resourc requir in thi kind of emerg .

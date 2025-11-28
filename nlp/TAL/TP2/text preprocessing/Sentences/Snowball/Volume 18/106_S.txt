@@ -1,0 +1,11 @@
+emerg deep learn approach for urban satellit imag analysi a survey on classif segment and chang detect
+the studi of urban satellit imageri has undergon a signific transform due to the emerg of deep learn techniqu
+this survey thorough examin current progress in deep learn model design for three primari task classif segment and chang detect in urban environ
+a total of 114 review studi were analyz includ convolut neural network cnns hybrid model and transformer-bas model such as resnet unet hrnet br-net mask2form transcfccnn and stcd-effv2t unet
+promin dataset such as eurosat uc-merc spacenet deepglob levir-cd and xbd were examin alongsid perform metric like accuraci f1 score iou precis and recal with result visual through compar bar plot
+our comparison analysi indic that model such as googlenet efficientnet-b7 and maxvit achiev classif accuraci over 99% while segment model like mask2form and br-net exhibit iou score over 92%
+stcd-effv2t unet achiev except f1 score of up to 98.79% for chang detect
+these model are crucial for urban develop and environment chang monitor facilit the classif of land cover type segment of build road and urban featur as well as the detect of urban and environment chang
+this studi defin grow trend and challeng incorpor model general dataset divers and comput complex
+it addit suggest futur direct includ the use of mamba network for scalabl tempor model the incorpor of vision transform for enhanc featur extract and the util of gan for dataset augment
+this paper offer a comprehens and systemat synthesi of deep learn methodolog establish a fundament refer for subsequ research in urban satellit imag analysi .

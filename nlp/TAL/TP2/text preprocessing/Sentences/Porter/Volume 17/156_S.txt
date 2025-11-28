@@ -1,0 +1,7 @@
+optim convolut neural network use elitist firefli algorithm for remot sens classif
+thi articl explor the applic of a new optim convolut neural network cnn to segment remot sens
+the paper design a modifi version of the firefli algorithm to provid an optim structur of the cnn
+the method is then appli to segment the remote-sens imag
+the author compar the propos method with sever other architectur on two multispectr remot sens dataset evalu model perform and accuraci
+the find demonstr that the project cnn method provid the most effici outcom and can be a viabl option for remot sens analysi and classif due to their rel eas of train and high accuraci rate
+furthermor the author discuss the potenti for further request of cnn in remot sens statist analysi .

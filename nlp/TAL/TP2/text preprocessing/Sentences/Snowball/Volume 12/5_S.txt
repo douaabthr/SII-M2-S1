@@ -1,0 +1,8 @@
+a movabl damp wave algorithm for solv global optim problem
+this paper present a new optim methodolog call movabl damp wave algorithm for solv global optim problem
+the propos methodolog mimic mathemat the behavior of waveform induc by oscil phenomena
+it start by creat multipl initi random solut which are updat through introduc a mathemat model base on a damp wave function
+in the propos methodolog the updat mechan of solut are base on design a mathemat relat for the movabl wave with the aim to effect achiev robust solut
+therefor this methodolog can be more robust statist sound and converg quick to the optim global solut
+the perform of the propos is valid by carri out on 23 benchmark problem and three engin design problem
+the result show vivid that the propos is a reliabl algorithm and outperform the compar algorithm in most case .

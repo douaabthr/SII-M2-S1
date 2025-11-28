@@ -1,0 +1,5 @@
+produc system rul as protein complex from genet reg network an init study
+thi short pap introduc a new way by which to design produc system rul
+an indirect encod scheme is pres which view such rul as protein complex produc by the temp behavio of an art genet reg network
+thi init study begin by us a simpl bool reg network to produc tradit ternary-encoded rul bef mov to a fuzzy vary to produc real-valued rul
+competit perform is shown with rel genet reg network and rule-based system on benchmark problem .

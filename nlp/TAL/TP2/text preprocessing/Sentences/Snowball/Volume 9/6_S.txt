@@ -1,0 +1,7 @@
+reduc project angl for binari tomographi with particl aggreg
+this paper extend particl aggreg reconstruct techniqu part a reconstruct algorithm for binari tomographi base on the movement of particl
+part suppos that pixel valu are particl and that particl diffus through the imag stay togeth in region of uniform pixel valu known as aggreg
+in this work a variat of this algorithm is propos and a focus is place on reduc the number of project and whether this impact the reconstruct of imag
+the algorithm is test on three phantom of vari size and number of forward project and compar to filter back project a random search algorithm and to sart a standard algebra reconstruct method
+it is shown that the propos algorithm outperform the aforement algorithm on small number of project
+this potenti make the algorithm attract in scenario where collect less project data are inevit .

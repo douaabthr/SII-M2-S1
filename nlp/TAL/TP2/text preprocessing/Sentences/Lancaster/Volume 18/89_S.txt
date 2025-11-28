@@ -1,0 +1,7 @@
+mycel neur architect search
+thi pap propos mycelium-nas a novel biolog inspir neur architect search nas approach bas on mycel network grow and adapt
+thi novel approach form nas as an emerg grow process wher architect dynam evolv through adapt expand fus and reory of network compon mir the org expl of mycel
+in particul it introduc hyph grow strategies branch fus and ory as new op for dynam construct neur architect
+a fitness-driven select process optim perform whil pen excess paramet
+evalu on im class task mycelium-nas demonst competit perform on cifar-10 cifar-100 and fashion-mnist dataset achiev a compel bal between acc and paramet efficy in comparison to est architect
+our result highlight the pot of biologically-inspired search strategies to address the crit challeng in nas off a resource-conscious and adapt paradigm for autom neur network design .

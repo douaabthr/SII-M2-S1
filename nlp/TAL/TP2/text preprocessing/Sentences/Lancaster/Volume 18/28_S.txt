@@ -1,0 +1,9 @@
+del a strategy for resolv redund in ent pair within dual ent link for rel tripl extract
+cur the mainstream method for rel tripl extract main employ joint model and hav achiev sign result
+howev thes method stil fac challeng in deal with the complex of unstruct text
+in joint model bas on label rel tripl extract the birt model suff from the issu of redund ent pair lead to the gen of incorrect tripl
+to address thi issu thi pap introduc a ground ent extract which is design to aid the dual ent link del in addit advers train method ar introduc dur the del train process
+expery result demonst that the del model extract ent pair from two direct when comp to the prevy birt model it gen mor acc ent pair
+on the webnlg dataset the acc increas by 2.9% and f1 improv by 1.1%
+on the nyt10 dataset acc increas by 1.0% recal increas by 0.5% and f1 scor improv by 0.7%
+thi bring sign enh to the tripl ent extract task and in comparison with 8 baselin model across al dataset the del model achiev bet result .

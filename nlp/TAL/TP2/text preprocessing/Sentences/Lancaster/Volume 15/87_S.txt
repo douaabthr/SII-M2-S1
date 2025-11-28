@@ -1,0 +1,12 @@
+analys on dual algorithm for optim clust head select in wireless sens network
+clust is the approach which is util for aggreg the nod as a group cal clust which is us for reduc the rout overhead
+thi is a funda approach to extend the lif expect of wireless sens network
+howev the main challeng in wsn is the clust head select whil tak the energy stabl into account
+optim within the wsn is the outstand concern to provid intellect for the extend period of network lifetim
+sint clust is a topolog control method to decreas the process of sns it extend improv overal system scal and energy efficy
+moreov the appropry select of ch play cruc rol for attain sustain wsn
+thi pap propos the firef contribut with firef cyc random fcr for the select of clust head in wsn
+the random cre solv in thi algorithm is found bas on three distribut funct lik uniform norm and gamm distribut
+moreov the analys is mad on the second algorithm firef cyc grey wolf optim fcgwo by mod r 1 and r 2 random vect of grey wolf optim
+in real the fcr and fgcgwo algorithm ar plan on select the optim clust head by cont main on minim of delay minim of the dist between nod and stabl of energy
+the analys is perform and explain in term of al nod network lifetim and energy efficy und the three distribut .

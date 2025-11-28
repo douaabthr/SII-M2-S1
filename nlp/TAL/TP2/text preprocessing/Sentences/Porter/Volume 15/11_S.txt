@@ -1,0 +1,9 @@
+analysi on intellig machin learn enabl with meta-heurist algorithm for solar irradi predict
+the solar forecast is an effect method to enhanc the oper of an electr system for merg a larg amount of solar power gener system and intend to expand a new empir method to model the predict uncertainti of the solar irradi
+the propos model compris three phase such as a data acquisit b featur extract and c predict
+initi benchmark data avail from local meteorolog organ are collect that includ the numer weather forecast data like temperatur dew point humid visibl wind speed and other descript inform
+onc the data is collect featur extract is done by first-ord and second-ord statist model
+first order statist like mean median standard deviat the maximum valu of entir data and minimum valu of entir data and second-ord statist like kurtosi skew correl and entropi are extract as the featur
+these featur are further appli to three machin learn algorithm name multilay perceptron mlp convolut neural network cnn and recurr neural network rnn
+as main novelti of thi paper the number of hidden neuron of all these network is optim by a hybrid algorithm merg both the deer hunt optim algorithm dhoa and grey wolf optim gwo which is name as grey updat dhoa gu-dhoa
+the improv of these network with the assist of a hybrid meta-heurist algorithm will be highli effect for solar irradi predict overcom the exist machin learn algorithm .

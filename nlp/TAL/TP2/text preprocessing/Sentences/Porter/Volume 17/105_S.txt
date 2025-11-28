@@ -1,0 +1,10 @@
+simultan sensor and relay node deploy for smart car park surveil
+thi studi aim to optim the deploy of wireless sensor network for smart car park surveil applic
+our propos approach involv simultan deploy sensor node sn and relay node which we argu is more effici than exist sequenti placement method
+our approach identifi optim posit for both type of node to minim their number and the network diamet while ensur the coverag of each target point by at leastksn and network connect constraint
+to accomplish thi we have develop a multi-object linear program model molp to solv small instanc of the deploy problem
+still for larg instanc we have introduc a novel algorithm call the greedi chao whale optim meta-heurist gcwoa which is mainli base on a greedi algorithm to gener initi random node posit while satisfi the problem s constraint and a chao local search cl techniqu use chao map to decid whether to includ a given node in the final solut
+the solut popul wa divid into two sub-popul with the first undergo cl and the second undergo the whale optim algorithm woa to optim the solut further
+we have compar the perform of our propos gcwoa with that of molp and well-known exist meta-heurist includ woa genet algorithm ga and particl swarm optim pso
+our result reveal that the averag fit of the gcwoa is close to optim and lower by 23.45% 28.75% and 26.32% than basic woa ga and pso respect
+the gcwoa exhibit faster converg and a lower run time than the basic woa ga and pso .

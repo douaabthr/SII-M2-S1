@@ -1,0 +1,10 @@
+a novel two-phas hybrid select mechan feeder to improv perform of many-object optim algorithm
+solv many-object optim problem ha becom one of the most popular research area in recent year due to it ever-increas applic in industri and other field
+in thi paper a novel two-phas hybrid feeder tphf is propos to provid elit solut for select mechan of many-object optim algorithm maoa to improv their perform
+the propos tphf framework gener solut use a novel particl swarm optim pso oper along with a genet algorithm oper dure a two-phas calcul search base on the averag veloc of the pso particl
+tphf focus on the worst solut of the popul to find a better place for them
+therefor it frequent reset the pso particl to the worst solut
+the new pso oper use the novel idea of dynam inertia and learn factor and a novel veloc updat equat
+the classic global best set of the classic pso oper is replac by a pso feeder which use the novel idea of use group of the best/worst solut to feed the new pso oper base on the phase of the search
+the propos tphf is appli to some of the most famou and state-of-the-art maoa with their correspond default paramet
+the result of the comparison between these maoa with their correspond tphf version on maf test suit show a signific improv in the perform of the tphf version in 62.2% of the case . graphic abstract

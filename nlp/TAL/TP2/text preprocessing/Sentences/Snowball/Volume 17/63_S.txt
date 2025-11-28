@@ -1,0 +1,14 @@
+divers activ function based-hybrid rbf-elm neural network for medic classif
+the current abund of the collect biomed data provid an import tool for the develop of medic data classif system
+howev process big data requir power algorithm
+in this perspect we propos a hybrid classifi that combin radial basi function rbf and extrem learn machin elm neural network
+this combin is motiv by the high perform and the complementari of these two type of neural network
+the basic idea reli on complement a compact rbf network by an elm network that contain a divers of hidden neuron
+the optim of the number form and type of the elm hidden neuron is perform use a genet algorithm ga
+the object of the propos classifi can be summar as follow
+first it benefit from the complementari properti of rbf and elm like local respons of rbfs and global respons of elm
+second it make use of the advantag of elm like fast train and the possibl of use a varieti of activ function
+third it allevi the ill condit problem of elm by join the systemat initi of rbf to the random initi of elm
+fourth the optim process perform use ga is simplifi becaus it concern onli the ad neuron which their role is complement the rbf network
+to assess the perform of the propos classifi we carri out test on six medic dataset from the uci machin learn repositori and compar the obtain result with those of other state-of-the-art work
+the obtain averag perform measur i.e. accuraci sensit and specif for wisconsin breast cancer are 97.38% 98.38% 96.85% for pima indian diabet are 77.61% 57.35% 88.22% for heart statlog are 83.71% 77.92% 88.34% for hepat are 87.10% 95.89% 40.10% for parkinson are 92.62% 96.50% 80.76% and for liver-disord are 72.48% 82.68% 58.39% respect

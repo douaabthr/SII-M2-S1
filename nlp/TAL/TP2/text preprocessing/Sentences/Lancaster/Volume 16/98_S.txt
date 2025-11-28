@@ -1,0 +1,11 @@
+us machin learn and rna to enh the eff of anti-tumor immunotherapy
+rna ribonuc ac play a cruc rol in a vary of physiolog and patholog process
+ov the past few decad research hav design many typ of rna and their der and apply them to diff field of biolog
+study hav confirm that rna molec play an import rol in tum grow metastas metabol and immun escap
+bas on the research of tumor-associated rna and the apply of rel technolog rna has been design and apply in tum immunotherapy
+machin learn ml algorithm can be us to solv tum typ class predict with the large-scal dat som with high predict acc and oth with limit acc
+for the ear detect of tum thi pap propos to us machin learn and rna technolog to est a tum typ predict model to enh the effect of anti-tumor immunotherapy
+the model first preprocess the dat
+then thi pap us an improv princip compon analys algorithm to perform feat dimend reduc and dat fus on the rna express and dna methyl dat of paty with 32 tum typ
+fin the dat is fed into a tum typ class bas on the cnn-lstm model for train and predict
+the expery result show that the method propos in thi pap has excel perform in tum class and has import guid sign for the ear diagnos and tre of tum paty which furth ind that the intellig ml method can be us for dat analys in the field of tum typ predict .

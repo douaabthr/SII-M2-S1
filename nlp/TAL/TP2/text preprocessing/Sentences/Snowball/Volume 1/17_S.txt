@@ -1,0 +1,11 @@
+genetic-bas approach for cue phrase select in dialogu act recognit
+automat cue phrase select is a crucial step for design a dialogu act recognit model use machin learn techniqu
+the approach current use are base on specif type of featur select approach call rank approach
+despit their comput effici for high dimension domain they are not optim with respect to relev and redund
+in this paper we propos a genetic-bas approach for cue phrase select which is essenti a variabl length genet algorithm develop to cope with the high dimension of the domain
+we evalu the perform of the propos approach against sever rank approach
+addit we assess it perform for the select of cue phrase enrich by phrase s type and phrase s posit
+the result provid experiment evid on the abil of the genetic-bas approach to handl the drawback of the rank approach and to exploit cue s type and cue s posit inform to improv the select
+furthermor we valid the use of the genetic-bas approach for machin learn applic
+we use select set of cue phrase for build a dynam bayesian network model for dialogu act recognit
+the result show it use for machin learn applic .

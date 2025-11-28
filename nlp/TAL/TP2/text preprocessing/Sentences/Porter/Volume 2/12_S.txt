@@ -1,0 +1,10 @@
+numer simplif for bloat control and analysi of build block in genet program
+in tree-bas genet program there is a tendenc for the size of the program to increas from gener to gener a phenomenon known as bloat
+it is standard practic to place some form of control on program size either by limit the number of node or the depth of the program tree or by ad a compon to the fit function that reward smaller program parsimoni pressur
+other have propos directli simplifi individu program use algebra method
+in thi paper we add node-bas numer simplif as a tree prune criterion to control program size
+we investig the effect of on-lin program simplif both algebra and numer on program size and resourc usag
+we also investig the distribut of build block within a genet program popul and how thi is chang by use simplif
+we show that simplif result in reduct in expect program size memori use and comput time
+we also show that numer simplif perform at least as well as algebra simplif and in some case will outperform algebra simplif
+we further show that although the two on-lin simplif method destroy some exist build block they effect gener new more divers build block dure evolut which compens for the neg effect of disrupt of build block .

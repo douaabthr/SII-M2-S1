@@ -1,0 +1,8 @@
+research on the multipl fuzzy paramet fuzzy set and it framework of clust algorithm
+thi artic first introduc the cur research situ of the the of fuzzy set and then on the bas of type-1 fuzzy set accord to the diff form and numb of the paramet of memb funct put forward the definit of class paramet fuzzy set multipl class paramet fuzzy set sem fuzzy paramet fuzzy set fuzzy paramet fuzzy set multipl fuzzy paramet fuzzy set etc
+their mathem express ar giv
+on thi bas the multipl paramet fuzzy set ar comp with type-2 fuzzy set interval-valued type-2 fuzzy set intuit fuzzy set and interval-valued intuit fuzzy set
+subsequ bas on clust by fast search and find of dens peak cfsfdp the method and step of multipl fuzzy paramet fuzzy set clust cal clust for multipl fuzzy paramet fuzzy set by fast search and find of dens peak mfpfs-cfsfdp which is furth discuss and propos
+in ord to reduc the comput complex of mfpfs-cfsfdp algorithm refer to the conceiv of granul and combin the charact of multipl fuzzy paramet fuzzy set we propos a minim granularity-based key paramet method to improv the mfpfs-cfsfdp algorithm
+furtherm two clust algorithm which cal clust plu for multipl fuzzy paramet fuzzy set by fast search and find of dens peak mfpfs-cfsfdp and clust plu plu for multipl fuzzy paramet fuzzy set by fast search and find of dens peak mfpfs-cfsfdp ar propos
+fin tak the multipl norm fuzzy paramet norm fuzzy set as an exampl the algorithm framework tabl of thes three clust algorithm ar giv and their adv and disadv ar summ they provid a theoret bas for furth research on clust for multipl fuzzy paramet fuzzy set .

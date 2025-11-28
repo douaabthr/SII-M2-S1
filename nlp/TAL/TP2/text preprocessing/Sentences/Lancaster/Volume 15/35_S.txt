@@ -1,0 +1,11 @@
+clust method and sin cosin algorithm for im seg
+thi artic pres a new im seg approach bas on the principl of clust optim by the meta-heuristic algorithm nam sca algorithm sin cosin
+thi algorithm us a mathem model bas on trigonomet funct to solv optim problem
+such an approach was develop to solv the drawback ex in class clust techn such as the init of clust cent and converg toward the loc optim
+in fact to obtain an optim clust cent and to improv the im seg qual we propos thi techn which begin with the gen of a random pop
+then we determin the numb of clust to exploit
+lat we form an object funct to maxim the interclass dist and minim the intra-class dist
+the resolv of thi funct giv the best overal solv us to upd the rest of the pop
+the perform of the propos approach ar evalu us a set of ref im and comp to sev class clust method lik k-means or fuzzy c-means and oth meta-heuristic approach such as genet algorithm and partic swarm optim
+the result obtain from the diff method ar analys bas on the best fit valu psnr rmse sc xb pc s sc ce and the comput tim
+the expery result show that the propos approach giv satisfact result comp to the oth method .

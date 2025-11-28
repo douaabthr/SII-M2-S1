@@ -1,0 +1,11 @@
+paramet control of metah with genet fuzzy system
+thi pap introduc a genet fuzzy system for paramet control of metah
+two bas metah hav been consid as exampl genet algorithm and tabu search
+the control paramet of the tabu search ar the short and long term mem
+paramet of the genet algorithm und control ar the mut and reproduc rat
+fuzzy rule-based model off a nat mech to describ glob behavy as a combin of control rul
+they also inherit a mean to grad shift between control rul which joint defin a control strategy
+they ar a nat candid to construct paramet control strategies becaus they provid a way to develop decid mech bas on the spec nat of search reg and transit between their bound
+an apply exampl us the class vehic rout problem with tim window is includ to evalu the genet fuzzy system perform
+expery result show that gfs-controlled metah improv search behavy and solv qual when comp against standard const paramet genet and tabu search approach
+it also provid reason good suboptim solv fast than spec tail exact method report in the lit .

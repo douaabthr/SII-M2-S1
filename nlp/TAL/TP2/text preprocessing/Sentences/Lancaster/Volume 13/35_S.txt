@@ -1,0 +1,6 @@
+comparison of metah algorithm for unrel parallel machin weight earliness/tardi scheduling problem
+thi pap investig unrel parallel machin scheduling problem wher the object ar to minim tot weight sum of earliness/tardi cost
+three diff metah algorithm ar comp with oth to determin what kind swarm intellig bas evolv or singl solv of metah is effect to solv thes problem
+in thi study art bee colony abc genet algorithm and sim an algorithm ar chos as swarm intellig bas algorithm evolv algorithm and singl solv algorithm
+al propos algorithm ar cre without mod in ord to determin effect of thes metah
+expery result show that abc outperform it oppon in view of solv qual as swarm intellig bas metah algorithm .

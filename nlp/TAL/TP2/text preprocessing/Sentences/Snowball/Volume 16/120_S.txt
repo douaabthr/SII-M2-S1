@@ -1,0 +1,10 @@
+price and coordin of marin servic chain with empti equip reposit
+the empti equip reposit eer problem is deem an ineffici of the marin industri
+howev owe to trade imbal as the fundament caus of eer such problem is inevit and requir consider in price decis
+accord this studi explor a marin servic chain with one carrier and two domin forward provid transport servic between two port
+we built a mathemat model to examin how carrier and forward determin price decis with and without eer cost share
+we find that the smaller one between empti equip balanc and eer cost determin price decis
+we also investig whether the eer cost-shar mechan can coordin the servic chain and subsequ found that the eer cost-shar mechan aggrav doubl margin
+then we design a two-part tariff coordin mechan to coordin the servic chain
+last we studi the effect of eer cost share and coordin mechan on the environ
+interest we find that eer cost-shar and coordin should be avoid from the perspect of environment protect .

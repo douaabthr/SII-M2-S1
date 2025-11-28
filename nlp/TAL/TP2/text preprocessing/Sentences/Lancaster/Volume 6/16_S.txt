@@ -1,0 +1,5 @@
+new solv and optim anticip strategies design bas on evolv comput for the gam of mastermind
+thi pap pres and comp sev evolv solv for the well-known mastermind gam a class board gam inv in the 1970s
+first we propos a novel evolv approach which we callnest hierarch evolv search to solv the mastermind gam comp the obtain result with that of ex algorithm
+second we show how to design novel gam anticip strategies for the mastermind gam by apply genet program
+in thi cas we comp the perform of the new obtain strategies with that of the class on obtain adv in al the cas test .

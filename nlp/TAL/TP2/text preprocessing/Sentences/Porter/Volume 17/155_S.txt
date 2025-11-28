@@ -1,0 +1,10 @@
+a dynam tri-popul multi-object evolutionari algorithm for constrain multi-object optim problem
+balanc between the converg feasibl and divers of the popul is the key to solv constrain multi-object optim problem cmop
+howev the exist constrain multi-object optim evolutionari algorithm cmoea face challeng in converg to the constrain pareto front cpf with well-distribut feasibl solut
+to address thi issu thi paper propos a dynam tri-popul multi-object evolutionari algorithm call tdpscmo
+in the initi phase the first and second popul evolv dynam to solv the origin cmop and the unconstrain multi-object optim problem mop
+thi dynam offspr gener emphas converg and feasibl
+in the later stage the alloc of comput resourc to the first popul is adjust base on the variat in offspr number
+simultan a third popul is introduc to enhanc popul divers by treat constraint violat degre as an addit object function thu captur more valuabl inform
+the perform of tdpscmo is further test through 57 benchmark test problem and 21 real-world applic use sever state-of-the-art algorithm
+the result show the competit of the propos algorithm when address cmop .

@@ -1,0 +1,8 @@
+central reinforc learn for multi-ag cooper environ
+we studi reinforc learn method in multi-ag domain where a central control collect all inform and decid an action for everi agent
+howev multi-ag reinforc learn marl suffer from the combinatori explos of action space
+in this work we propos an improv proxim polici optim ppo algorithm whose neural network is base on attent mechan to solv the combinatori explos issu
+our model output joint-act instead of distribut action
+paramet share of attent mechan enabl the size of neural network linear with local observ s length of singl agent regardless of the agent number
+besid credit assign of multi-ag is natur address by gradient ascent in the attent layer
+experi result demonstr that our method outperform independ ppo and central ppo with other network .

@@ -1,0 +1,11 @@
+a novel ful convolv network bas on marker-controlled watersh seg algorithm for indust soot robot target seg
+soot black is an import index in indust pollut monit
+aim at how to effect seg soot target are from the background by us comput im recognit technolog in the autom monit of ringelman scal and the indust soot is charact by unst shap and high cloud simil which lead to inacc result of smok seg with tradit ex method und complex scen
+thi pap propos a novel ful convolv network fcn bas on marker-controlled watersh seg algorithm for indust soot target seg
+first the marker-controlled watersh algorithm is us to extract the connect reg in the soot im and the correspond target posit of the origin im ar mark and norm to extract the candid soot reg
+the marker-controlled watersh method can gre reduc the detect tim of candid reg and the recognit tim of fcn
+the extract candid reg ar input into the improv fcn for feat extract and predict
+combin with multi-scale convolv op the feat extract abl of fcn network is enh
+by ad dynam weight on the bas of cross entrop the train of inacc reg is enh and the acc of seg is furth improv
+expery result on a real indust soot emit im dat set show that the propos method is mor acc than the origin model und the complex scen for smok seg
+the f1 meas and iou index ar sign improv than that of state-of-the-art seg method which excess 87% and 85% respect .

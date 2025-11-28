@@ -1,0 +1,8 @@
+The hub location s method for solving optimal control problems
+In this paper the p-hub median s algorithm is modified to find an approximate solution of bounded continuous-time nonlinear optimal control problems NOCP
+For this purpose after presenting the similarities between uncapacitated single allocation p-Hub median problem USApHMP which is a special case of the well-studied hub location problem and a discretized form of NOCP an improvement on sequential general variable neighborhood search algorithm SGVNS is proposed
+This algorithm that denoted as new-sequential general variable neighborhood search N-SGVNS is based on three local searches that use efficient neighborhood interchange
+In addition comparing the NOCP with the USApHMP has led us to introduce a suitable method to find an approximate solution for NOCP
+Our results of the implementation of the N-SGVNS on the real-world data set for the USApHMP show the high accuracy of the obtained solutions
+Because of the proposed algorithm is able to solve the USApHMP successfully we hoped that this method would also be successful for NOCP
+Solving of benchmark NOCP and then comparing the results of the N-SGVNS with recently developed algorithms suggest that the presented strategy may provide an outstanding framework for designing cost-effective control functions .

@@ -1,0 +1,14 @@
+vaccin hesit in the post-vaccin covid-19 era a machin learn and statist analysi driven studi
+backgroundth covid-19 pandem ha badli affect peopl of all age global
+therefor it vaccin ha been develop and made avail for public use in unpreced time
+howev becaus of variou level of hesit it did not have gener accept
+the main object of thi work is to identifi the risk associ with the covid-19 vaccin by develop a prognosi tool that will help in enhanc it accept and therefor reduc the lethal of sars-cov-2 . method the obtain raw vaer dataset ha three file indic medic histori vaccin statu and post vaccin symptom respect with more than 354 thousand sampl
+after pre-process thi raw dataset ha been merg into one with 85 differ attribut howev the whole analysi ha been subdivid into three scenario i medic histori ii reaction of vaccin iii combin of both
+further machin learn ml model which includ linear regress lr random forest rf naiv bay nb light gradient boost algorithm lgbm and multilay feed-forward perceptron mlp have been employ to predict the most probabl outcom and their perform ha been evalu base on variou perform paramet
+also the chi-squar statist lr rf and lgbm have been util to estim the most probabl attribut in the dataset that result in death hospit and covid-19 . result for the abov mention scenario all the model estim differ attribut such as cardiac arrest cancer hyperlipidemia kidney diseas diabet atrial fibril dementia thyroid etc . for death hospit and covid-19 even after vaccin
+further for predict lgbm outperform all the other develop model in most of the scenario wherea lr rf nb and mlp perform satisfactorili in patch . conclus the male popul in the age group of 50 70 ha been found most suscept to thi viru
+also peopl with exist seriou ill have been found most vulner
+therefor they must be vaccin in close observ
+gener no seriou advers effect of the vaccin ha been observ therefor peopl must vaccin themselv without ani hesit at the earliest
+also the model develop use lgbm establish it supremaci over all the other predict model
+therefor it can be veri help for the policymak in administr and priorit the popul for the differ vaccin program .

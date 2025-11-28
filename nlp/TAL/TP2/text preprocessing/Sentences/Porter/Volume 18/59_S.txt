@@ -1,0 +1,12 @@
+an enhanc spars subset select model base on adapt project distanc
+subset select focus on identifi repres sampl from a larg dataset to produc a data subset that can repres the main featur of the origin data and also reduc the data size in an effect way
+spars represent theori put emphasi on enhanc the data sparsiti while subset select aim to reduc the data size
+spars subset select is an import branch of subset select that incorpor spars represent theori into the explor of subset select
+spars model repres select model ha demonstr outstand perform in data classif and video summar
+nonetheless it suffer from the issu of poor typic of the select repres
+although some recent work have address thi problem to some extent by introduc the concept of cluster code term most of the cluster code term construct by these exist method are implicit and the model structur is complic ineffici and difficult to be understood
+to overcom these difficulti we propos an adapt project distance-bas spars subset select model
+thi model construct a cluster code item by adapt calcul the project distanc between data
+it can not onli elimin redund and noisi featur in the origin data but also ensur that the select repres are more typic
+to solv the propos model an effici algorithm is develop by virtu of the altern direct method of multipli
+extens experi with compar analysi demonstr that the propos model outperform sever state-of-the-art model in variou task includ subset select cluster analysi classif and face imag repres select .

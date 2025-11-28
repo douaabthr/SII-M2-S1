@@ -1,0 +1,3 @@
+Correction to: Fast aggregation method of WSNs dynamic data based on micro-cluster evolutionary learning
+
+Correction to: Evolutionary Intelligence (2024)

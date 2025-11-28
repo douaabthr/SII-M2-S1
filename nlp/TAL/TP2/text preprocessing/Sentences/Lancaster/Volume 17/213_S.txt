@@ -1,0 +1,7 @@
+optim perform of feedforward and convolv neur network through dynam act funct
+train algorithm in the domain of deep learn hav led to sign breakthrough across divers and subsequ domain includ speech text im and video process
+whil the research around deep network architect not exempl by resnet s expand 152 lay structures has yield remark outcom the expl of comput simpl shallow convolv neur network cnn remain an are for furth expl
+act funct cruc in introduc non-linearity within neur network hav driv subst adv
+in thi pap we delv into hid lay act particul examin their complex piece-wis linear attribut
+our comprehend expery showcas the supery eff of thes piece-wis linear act ov tradit rect linear unit across vary architect
+we propos a novel adapt act algorithm adact exhibit prom perform improv in divers cnn and multilay perceptron config thereby pres compel result to support it us .

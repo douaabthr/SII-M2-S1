@@ -1,0 +1,9 @@
+evolv dictionari base sentiment score framework for patient author text
+in recent day the govern and other organ are focus on provid better health care to peopl
+understand the patient experi of care-receiv is key for provid better health care
+with prevail usag of social media applic patient are express their experi over social media
+thi patient author text is a free-unstructur data which is avail over social media in larg chunk
+to extract the sentiment from thi huge data a domain-specif dictionari is requir to get better accuraci
+the propos approach defin a new domain-specif dictionari and use thi in sentiment score to enhanc the overal sentiment classif on patient author text
+we conduct experi on the propos approach use nh choic dataset and compar it with popular classifi like linear regress stochast gradient descent dictionary-bas approach vader and afinn
+the result prove that the propos approach is an effect strategi for sentiment analysi over patient author text which help in improv the classif accuraci .

@@ -1,0 +1,7 @@
+coordin control of multi band pss mbpss with type 2 fuzzi base sssc control design for power system stabil improv
+thi work suggest a coordin control of multi band power system stabil mbpss and type 2 fuzzi logic control t2flc lead lag static synchron seri compens sssc for power system stabil enhanc
+initi hybrid avoa-p optim design of coordin control of pss and t2flc lead lag sssc control is compar for best perform of transient stabil improv with avoa ps and pso base same coordin control and test model of smib power system
+the demonstr of hybrid avoa-p algorithm base coordin control of t2flc lead lag control the percentag of reduct in ita valu compar to avoa ps and pso optim techniqu are 28.71 54.02 and 64.33% respect
+the next stage it is demonstr that coordin control of havoa-p optim design of mbpss and t2flc lead lag control is compar with coordin control of pss and t2flc lead lag control and pss with lead lag sssc damp control of same test model under differ oper condit of synchron gener and the locat of fault condit of the system
+lastli to check the effect and robust analysi of transient stabil improv it is further extend to three machin 9 bu power system test model
+it is demonstr in havoa-p optim design of mbpss and t2flc lead lag sssc damp control system respons improv better damp of oscil as compar with coordin control of pss and t2flc lead lag control of power system test model under three differ conting of the system .

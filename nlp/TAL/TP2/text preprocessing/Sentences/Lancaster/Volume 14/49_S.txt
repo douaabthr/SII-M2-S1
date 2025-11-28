@@ -1,0 +1,12 @@
+analys on real tim sec attack in healthc retail and bank apply in the cloud
+cloud comput is us by larg enterpr to provid serv to custom
+the maj adv of adapt cloud system is that the cli nee not hav to man the maint and op of the cloud system along with the maint of hardw but they wil hav ful control ov the dat
+the downsid of the cloud system ar the sec threats that includ confid and sec issu
+softw as a serv platform as a serv and infrastruct as a serv al com with it own sec issu of diff complex
+the sec challeng pos by cloud comput system ar overshadow the econom edg it has
+bas on the analys of the research perform in the are of sec issu in the cloud it is evid that a detail analys on the sam wil throw light on root caus and vuln
+the research prim throws light on the stat and detail analys on the sec attack in the cloud system in diff domain
+the pap focus on the issu and threats in healthc retail and bank domain
+analys on the attack in thes domain wil giv insight on the loss mitig tim etc
+the real tim dat on sec threats is acquir from it cloud serv provid
+the stat on the sam wil op up diff perspect of cloud sec issu and can throw light on the poss research direct and that is the mot behind thi prelimin research .

@@ -1,0 +1,12 @@
+distributed-elite loc search bas on a genet algorithm for bi-objective job-shop scheduling und time-of-us tariff
+the rapid grow of elect demand has led govern around the world to impl energy-conscious policy such as time-of-us tariff
+the manufact sect can embrac thes policy by impl an innov scheduling system to reduc it energy consum
+theref thi study address bi-objective job-shop scheduling with tot weight tardy and elect cost minim und time-of-us tariff
+the problem can be decompos into two sub-problems op sequ and start tim determin
+to solv thi problem we propos a distributed-elite loc search bas on a genet algorithm that us loc improv strategies bas on the distribut of elit
+spec chromosome encod us two lin of gen repres correspond to the op sequ and start tim
+we propos a decod method to obtain a schedule that incorp op sequ and start tim
+a perturb scheme to reduc elect cost was develop
+fin a loc search framework bas on the distribut of elit is us to guid the select of individ and the determin of perturb
+comprehend num expery us benchmark dat from the lit demonst that the propos method is mor effect than nsga-ii moea/d and spea2
+the result pres in thi work may be us for the manufact sect to adopt the time-of-us tariff policy .

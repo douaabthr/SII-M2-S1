@@ -1,0 +1,8 @@
+a multi-objective approach for solv transmit expand plan problem consid wind pow uncertainty
+security-constrained transmit expand plan sctep is a vit pow system problem
+in last year to attain energy sustain wind pow has receiv sign at as on of the popul renew energy resourc
+thi pap solv multi-objective optim of tep consid uncertainty of wind pow
+the uncertainty is model by weibul prob distribut funct and monte-carlo sim is employ to consid the uncertainty into the problem
+in the problem the object ar invest cost of new lin and expect energy not supply obtain by n-1 sec constraint crit
+sint sctep is a complex large-scal mixed-integer and non-linear combin optim problem multi-objective crow search algorithm and multi-objective partic swarm optim ar util to find pareto front
+on mod 24 bus ie system the optim framework is investig and the result ar discuss .

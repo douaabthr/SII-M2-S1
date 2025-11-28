@@ -1,0 +1,18 @@
+multi-resolution analys and deep neur network architect bas hybrid feat extract techn for plant diseas id and sev estim
+the crop protect techn us efficy plant diseas id ar high benef for smart agricult man which furth decreas the gap between the demand/supply of consum farm
+howev an efficy feat extract techn is desir to achiev high acc least graph process and low process tim for colo im
+theref thi work propos a hybrid novel feat extract techn for colo plant leaf im to overcom thes challeng
+thi work is divid into two part 1
+plant diseas id and 2
+plant diseas sev estim
+in thi techn multiresolv analys us large-scal coefficy of discret wavelet transform dwt is perform us orthogon wavelet
+the orthogon wavelet such as daubechy biorthogon symlet and coiflet with appropry van mom ar util to select sign feat
+then the eig decomposit of large-scal dwt-based colo im feat is util us princip compon analys pca wher on the eigenvalu with larg vary ar consid for furth feat select
+sev expery ar carry out for the select of felicit sub-bands decomposit level
+the deep neur network dnns architect such as alexnet resnet 101 and inceiv v3 ar incorp to class the obtain feat
+the dnns op on convolv neur network which util the weight from pre-learned imagenet databas class to class vary class
+the combin of dnns with transf learn and fin tun is mad to tun the paramet for bet eff
+expery wer perform on the plantvil databas which contain healthy/diseased im of plant such as appl corn grap and tomato leav
+a new databas is cre by capt the im of ric crop leav includ healthy and diseas leav
+a tot of 8000 im ar process for diseas id
+the propos techn provid 99% acc for diseas id task and 90% for diseas sev estim in the real-life ric dataset and outperform the ex techn in thi field of research .

@@ -1,0 +1,10 @@
+a hybrid harmoni search algorithm for mri brain segment
+automat magnet reson imag mri brain segment is a challeng problem that ha receiv signific attent in the field of medic imag process
+in thi paper we present a new dynam cluster algorithm base on the hybrid of harmoni search hs and fuzzi c-mean to automat segment mri brain imag in an intellig manner
+in our algorithm the capabl of standard hs is modifi to automat evolv the appropri number of cluster as well as the locat of cluster center
+by incorpor the concept of variabl length encod in each harmoni memori vector thi algorithm is abl to repres variabl number of candid cluster center at each iter
+a new hs oper call the empti oper ha been introduc to support the select of empti decis variabl in the harmoni memori vector
+the pbmf cluster valid index is use as an object function to valid the cluster result obtain from each harmoni memori vector
+evalu of the propos algorithm ha been perform use both real mri data obtain from the center for morphometr analysi at massachusett gener hospit and simul mri data gener use the mcgill univers brainweb mri simul
+experiment result show the abil of thi algorithm to find the appropri number of natur occur region in brain imag
+furthermor the superior of the propos algorithm over variou state-of-the-art segment algorithm is demonstr quantit .

@@ -1,0 +1,6 @@
+research and apply of ahp-fuzzy comprehend evalu model
+ahp ref to the decid mak method that decompos the el that ar alway rel to decision-making into level of object criter schemes etc . and conduc qualit and quantit analys on thi bas
+fuzzy comprehend evalu method is a comprehend evalu method bas on fuzzy mathem which convert qualit evalu into quantit evalu accord to the memb the of fuzzy mathem
+in thi pap yaahp softw is us for weight calc and consist test of ahp and sensit analys is also carry out
+the fuzzy comprehend evalu method is us to determin the evalu index set and the fuzzy com set and the evalu model is construct by fuzzy synthes
+on thi bas the empir analys is carry out .

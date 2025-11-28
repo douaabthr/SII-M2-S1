@@ -1,0 +1,17 @@
+an intellect model of pest detect and class us enh optimization-assisted singl shot detect and graph at network
+ident pest in the plant is consid to be an efficy acc and sustain way to improv the food qual and econom valu in the agricult industry
+it equip farm with cutting-edge instru to safeguard their harvest less their effect on the environ and satisfy the grow nee for sust on a worldwid scal
+deep learn can complet transform the id of pest as it develop protect agricult s produc and resist against ever-changing insect threats
+it can be difficult to combin multipl method for pest id includ art intellig satellit im and detect
+it is difficult to mak sur that such innov ar avail to farm and funct wel togeth
+it s common for farm as wel as oth agricult personnel to requir cert to prop util pest detect equip and understand the find
+for thes innov to be wid adopt the gap in understand must be clos
+address thes challeng requir an effect novel deep learning-based pest detect method
+in thi pap a deep learning-based pest detect and class model is develop to ident diseas caus by pest at an ear stag
+init the im ar collect from onlin dataset
+collect im underw detect us the adapt singl shot detect assd
+to enh the acc and efficy of assd the model paramet ar fine-tuned by util the enh run city gam optim
+thi optim process aim to improv the precid of pest detect
+the class of pest is don us the propos multi-scale and dil graph at network
+thi innov network architect is design to categ the pest effect
+the outcom of the propos model is just by comp it with oth class and algorithm .

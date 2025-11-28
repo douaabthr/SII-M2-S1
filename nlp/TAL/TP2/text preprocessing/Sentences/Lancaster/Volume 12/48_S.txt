@@ -1,0 +1,10 @@
+a histogram bas fuzzy ensembl techn for feat select
+feat select fs is an integr part of many machin learn problem in provid a bet and time-efficient class model
+in rec tim many new fs algorithm hav been propos which combin well-established algorithm to overcom drawback of the constitu algorithm
+the gen process of combin is to allow them to op consecut or simult
+thes rudy combin in many cas do not allow for prop includ of the adv of the spec algorithm and thi necessit an altern approach for combin
+init without interrupt the flow of the algorithm we allow them to gen their result
+aft select of the most domin feat the rest of the combin is don us the conceiv of histogram and assign a weight to the fuzzy feat bas on the qual of the candid solv in which they appear
+in the propos method the outcom of the three popul us algorithm with compl exploit expl trade-off nam genet algorithm ga bin partic swarm optim bpso and ant colony optim aco ar combin togeth
+then 14 popul uc dataset hav been us to evalu the propos fs method
+result obtain by our propos ensembl ar comp with som popul fs model lik gravit search algorithm histogram bas mult object ga ga bpso and aco and it show that our algorithm outperform the oth .

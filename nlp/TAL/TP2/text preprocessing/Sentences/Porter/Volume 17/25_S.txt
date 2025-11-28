@@ -1,0 +1,7 @@
+adapt wideband sens scheme base on bayesian experiment design
+in thi paper we investig the problem of wideband sens for cognit radio
+due to resourc constraint a cognit node target at find a given number of spectrum hole which is studi under a novel wideband sens architectur
+specif the cognit node can dynam focu it sens measur on differ portion of contigu channel
+an adapt wideband sens scheme is propos under the standard bayesian experiment design framework via three step 1 defin a bayesian cost that incorpor the number of desir spectrum hole 2 design hypothesi test rule to detect access opportun and 3 identifi a scheme to adapt the measur dure the sens process
+in order to facilit implement we further propos an approxim bayesian experi design scheme to reduc the comput complex
+the perform gain of our wideband sens scheme is demonstr via numer simul .

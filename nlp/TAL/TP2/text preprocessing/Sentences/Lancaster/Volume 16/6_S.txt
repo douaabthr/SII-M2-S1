@@ -1,0 +1,7 @@
+reference-lines ste guid assign and upd for pareto-based many-objective partic swarm optim
+the reference-lines-framework has been success us for develop efficy many-objective evolv algorithm
+in thi pap the conceiv and methodolog of such evolv algorithm ar adapt in the parl of multi-objective partic swarm optim mopso for address the challeng of assign and upd the glob and loc guid
+the propos algorithm which is refer to as rmaopso is develop via fiv mod us the framework so that a divers set of guid can be select to ste the search of mopso toward the pareto-optimal front
+the mod includ glob guid assign loc and glob guid upd lin assign to the guid and swarm and evolv search for glob guid
+the propos algorithm is test on dtlz and wfg test inst of 3 5 8 10 and 15 object
+result obtain from rmaopso show it eff ov six multi-objective evolv and mopso algorithm from the lit .

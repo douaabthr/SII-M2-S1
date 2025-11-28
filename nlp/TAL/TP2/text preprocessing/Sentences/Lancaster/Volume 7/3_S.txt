@@ -1,0 +1,7 @@
+swarm intellig bas algorithm a crit analys
+many optim algorithm hav been develop by draw inspir from swarm intellig si
+thes si-based algorithm can hav som adv ov tradit algorithm
+in thi pap we carry out a crit analys of thes si-based algorithm by analys their way to mim evolv op
+we also analys the way of achiev expl and exploit in algorithm by us mut crossov and select
+in addit we also look at algorithm us dynam system self-organization and markov chain framework
+fin we provid som discuss and top for furth research .

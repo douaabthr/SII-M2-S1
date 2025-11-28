@@ -1,0 +1,11 @@
+an opt contract on emerg mat reserv consid qual catastroph chang
+thi pap investig an opt contract for emerg mat reserv becaus of qual catastroph chang
+the qual catastroph chang hap random and the real numb can not be observ until it hap
+thu it is necess to reserv som emerg mat beforehand
+howev the demand is not qual to mak the stor
+meanwhil the supply has no mot to mak stor for the demand
+thu an opt contract is propos to enco the supply to mak backup for the demand and shar the short cost if the backup less than the real opt ord quant
+three model ar discuss the cent model without opt the dec model without opt and the dec model with opt
+the result demonst that the ord quant for the first tim und the cent scenario is gre than that und the dec model without opt
+and the ord of the purchas quant for the first tim und the three scenario depend on the paramet decid by the both play
+meanwhil through analys the effect rang of opt fee is prov to be limit to an interv .

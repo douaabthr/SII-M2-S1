@@ -1,0 +1,10 @@
+a histogram base fuzzi ensembl techniqu for featur select
+featur select fs is an integr part of mani machin learn problem in provid a better and time-effici classif model
+in recent time mani new fs algorithm have been propos which combin well-establish algorithm to overcom drawback of the constitu algorithm
+the general process of combin is to allow them to oper consecut or simultan
+these rudimentari combin in mani case do not allow for proper inclus of the advantag of the specif algorithm and this necessit an altern approach for combin
+initi without interrupt the flow of the algorithm we allow them to generat their result
+after select of the most domin featur the rest of the combin is done use the concept of histogram and assign a weightag to the fuzzi featur base on the qualiti of the candid solut in which they appear
+in the propos method the outcom of the three popular use algorithm with complementari exploit explor trade-off name genet algorithm ga binari particl swarm optimis bpso and ant coloni optimis aco are combin togeth
+then 14 popular uci dataset have been use to evalu the propos fs method
+result obtain by our propos ensembl are compar with some popular fs model like gravit search algorithm histogram base multi object ga ga bpso and aco and it show that our algorithm outperform the other .

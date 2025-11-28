@@ -1,0 +1,5 @@
+evolv synthes of low-sensitivity digit filt us adjac matrix
+an evolv synthes method to gen digit filt with low coefficy sensit is pres
+the method us a chromosome cod bas on the graph adjac matrix repres
+it is shown that the propos chromosome repres en to easy ver and avoid the gen of topolog invalid and non-computable individ dur the evolv process
+the efficy of the propos algorithm is test in the synthes of two low-pass digit filt and the result ar comp with oth exampl found in the lit .

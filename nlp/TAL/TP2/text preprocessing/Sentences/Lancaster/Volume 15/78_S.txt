@@ -1,0 +1,11 @@
+fuzzy integr salp swarm algorithm-based riden for prost cant detect us histopatholog im
+on of the dread diseas in the med industry is prost cant and it is grow at a high rat among men
+hent it is a necess to detect cant in an ear stag due to the alarm increas in the report
+vary techn ar introduc for effect prost cant detect us histopatholog im
+accord an autom method is propos for seg and class prost cant
+thi pap pres the prost cant detect method us histopatholog im by propos the fuzzy-based salp swarm algorithm-based rid neur network ssa-ridenn class
+at first the input im is fed to the pre-processing step and then the seg is perform us col spac transform and thresholding
+ont the seg is perform the feat extract is don by extract multipl kernel scal inv feat transform feat along with the text feat that ar extract bas on loc optim ory pattern describ to improv the class acc
+fin the prost cant detect is don bas on the propos fuzzy-based ssa-ridenn which is develop by integr fuzzy approach with ssa-ridenn
+the perform of the propos fuzzy-based ssa-ridenn is analys us sensit spec and acc
+the propos fuzzy-based ssa-ridenn produc the maxim acc of 0.9190 a maxim sensit of 0.9084 and maxim spec of 0.9 ind it supery .

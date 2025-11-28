@@ -1,0 +1,8 @@
+toward the evolut of vertical-axi wind turbin use supershap
+we have recent present an initi studi of evolutionari algorithm use to design vertical-axi wind turbin vawt wherein candid prototyp are evalu under fan gener wind condit after be physic instanti by a 3d printer
+that is unlik other approach such as comput fluid dynam simul no mathemat formul are use and no model assumpt are made
+howev the represent use significantli restrict the rang of morpholog explor
+in thi paper we present initi explor into the use of a simpl gener encod known as gieli superformula that produc a highli flexibl 3d shape represent to design vawt
+first the target-bas evolut of 3d artefact is investig and subsequ initi design experi are perform wherein each vawt candid is physic instanti and evalu under fan gener wind condit
+it is shown possibl to produc veri close match design of a number of 3d object through the evolut of supershap produc by gieli superformula
+moreov it is shown possibl to use artifici physic evolut to identifi novel and increasingli effici supershap vawt design .

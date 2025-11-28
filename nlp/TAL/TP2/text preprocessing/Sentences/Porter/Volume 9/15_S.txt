@@ -1,0 +1,6 @@
+evolv goal-driven multi-ag commun what when and to whom
+thi paper present an evolutionari approach that given a perform goal produc a commun strategi that can improv a multi-ag system s perform with respect to the desir goal
+the evolv strategi determin what when and to whom agent commun
+the propos approach further enabl tune the trade-off between the perform goal and commun cost to produc a strategi that achiev a good balanc between the two object accord the system s design need
+experi are design to evalu the approach use the wumpu world applic domain with variat of three factor fit paramet includ object weight and action and commun cost fit goal and simul environ
+result show that the system s perform can be highli tune by control commun and that the present approach ha signific util in improv the perform with respect to the goal .

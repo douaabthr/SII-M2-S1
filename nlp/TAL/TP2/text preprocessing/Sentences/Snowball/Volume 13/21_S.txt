@@ -1,0 +1,7 @@
+structur hole detect base on weight meta path in heterogen network
+with the rapid develop of onlin social network the detect of structur hole i. e
+identifi the key node that can bridg with individu or group without direct relationship in social network has attract more attent of a larg number of research
+the exist research main focus on the influenc of a homogen network structur ignor the import of node type and differ edg in onlin social network
+in this paper an algorithm base on weight meta path for detect structur hole in heterogen network sh_wmp is propos
+sh_wmp not onli flexibl integr rich semant inform of heterogen network but also util edg weight and potenti link inform to improv the perform
+experiment result show that the propos method outperform the comparison method .

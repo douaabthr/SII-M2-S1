@@ -1,0 +1,15 @@
+editori
+i person thank for the great opportun offer to me to act as the guest editor of this special issu which is on natur inspir algorithm and their applic
+nature-inspir algorithm nia hasattain immens popularityin recent year for tackl thehard real world np hard and np complet problem and complex optim function for which actual solut doesn t exist
+the main purpos behind the develop of such algorithm is to optim engin problem
+sinc the world is look toward industri engin problem are becom tedious and tricki to optim
+this is becaus of grow dimens time complex variabl space complex and so on
+in order tocop up with such situat nature-inspir algorithm are design to optim multi-object function numer benchmark function and solv np-hard problem for more variabl dimens etc
+in fact nia is main categor into two evolutionari algorithm and swarm intelligence-bas algorithm
+evolutionari algorithm are pure base on the evolutionari behaviour of natur system
+these algorithm employ recombin and mutat oper for optim the complex issu e.g. genet algorithm differenti evolut and so on
+swarm intellig si base algorithm also term as swarm optim techniqu attempt to optim the engin problem by imit the collect search behaviour of natur swarm
+swarm intellig and evolutionari algorithm form a hot topic in the develop of new algorithm inspir by natur
+besid these categori nia hasdiffer other classif that are depend tosourc of inspir
+for instanc artifici neural network mimic the decision-mak process of human brain
+it also gain much attent from the research to solv predict and classif problem .

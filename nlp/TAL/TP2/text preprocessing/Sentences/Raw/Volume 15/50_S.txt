@@ -1,0 +1,10 @@
+Optimal floor planning in VLSI using improved adaptive particle swarm optimization
+Floor planning is necessary to design the VLSI circuit
+The complete computational characteristics of the manufactured chip are evaluated by floor planning process
+It is the multi-objective problem in which different objectives are fulfilled at a time
+Here a new Interactive Self-Improvement based Adaptive Particle Swarm Optimization ISI-APSO technique is proposed to enhance the exploration efficiency and accuracy than convolutional PSO
+Within less computation time the proposed ISI-APSO technique attains best global search throughout the space
+The simulation results show that the proposed ISI-APSO algorithm achieves better performance than other heuristic algorithms in exploring efficiency and speed of convergence
+In order to place the whole modules and their internally connected wire lengths the Multi-objective optimization method is utilized
+Therefore the necessary layout area is minimized
+Moreover the implemented results demonstrate the importance of the proposed algorithm with respect to the robust performance .

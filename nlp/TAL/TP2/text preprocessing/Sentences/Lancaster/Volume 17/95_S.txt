@@ -1,0 +1,12 @@
+sep of speech mus us temporal-spectr feat and neur class
+sep of speech and mus play a vit rol in multipl field rel to audio and speech process
+the spectrogram of speech and mus show distinct pattern
+thi serv as the mot for the differenty of speech and mus sign in an audio seg
+the pattern hav been furth emphas us sobel edg kernel mel-spectrograms
+for the inceiv of thi pap we hav mad a dataset from al ind radio new arch which is hav sep and overlap speech and mus dat in diff langu
+the diff input feat ar extract from thes audio seg and furth emphas bef fee them to the diff class for distinct speech and mus fram
+we also comp the diff class algorithm for their vary perform in term of acc
+we hav found that the convolv neur network bas approach on mel-spectrograms and mfcc-delta-rnn method hav giv a sign bet result comp to oth approach
+furth we want to see how thes approach work in the audio dat of diff langu hent we hav apply the propos method in three diff langu such as bengal punjab and tamil
+we hav seen that the perform of the propos method in al langu is consist
+the pap has also attempt to solv the problem of class audio seg with overlap speech and mus reg and achiev a good level of acc .

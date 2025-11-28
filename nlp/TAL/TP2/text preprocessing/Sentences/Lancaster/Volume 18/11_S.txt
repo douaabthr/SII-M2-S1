@@ -1,0 +1,10 @@
+integr of metah op through unstruct evolv gam the approach a novel hybrid methodolog
+thi pap introduc a novel approach to address the complex of cur optim challeng by develop hybrid metah algorithm
+thes algorithm combin the strengths of diff strategies to enh solv id and refin
+in thi work the integr of metah op us the unstruct evolv gam the to reg and merg the adv feat of the cheetah optim and partic swarm optim to solv continu optim problem is propos
+the cheetah optim and partic swarm optim ar chos for their supery exploit and expl cap respect
+our methodolog unfold in two prim phas combin and mod
+in the combin phas cheetah optim and partic swarm optim search strategies ar merg cre a un pop that gen new candid solv posit bas on the best solv and a mod fact
+dur the mod phas pairw competit bas on unstruct evolv gam the assess candid solv against the object funct adjust their mod fact and posit accord
+we conduc vary expery to evalu our approach against the origin cheetah optim and partic swarm optim as wel as sev oth well-known metah algorithm and hybrid schemes across 30 benchmark funct in dimend of 30 50 and 100
+the result rev that our hybrid scheme outperform the comp algorithm demonst enh perform effect and robust through a detail converg and sign analys .

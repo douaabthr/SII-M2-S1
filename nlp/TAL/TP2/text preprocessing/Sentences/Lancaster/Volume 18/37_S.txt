@@ -1,0 +1,11 @@
+docu clust with evolv multi-word search query
+text clust hold sign valu across vary domain due to it abl to ident pattern and group rel inform
+cur approach which rely heavy on a comput simil meas between docu ar oft limit in acc and interpret
+we pres a novel approach to the problem bas on a set of evolv search query
+clust ar form as the set of docu match by a singl search query in the set of query
+the query ar optim to maxim the numb of docu return and to minim the overlap between clust docu return by mor than on query
+wher query contain mor than on word they ar interpret disjunct
+we hav found it us to assign on word to be the root and constrain the query construct such that the set of docu return by any addit query word intersect with the set return by the root word
+not al docu in a collect ar return by any of the search query in a set so ont the search query evolv is complet a second stag is perform whereby a knn algorithm is apply to assign al unassign docu to their nearest clust
+we describ the method and pres result us 8 text dataset comp effect with well-known ex algorithm
+we not that as wel as achiev the highest acc on thes dataset the search query form provid the qualit benefit of being interpret and mod whilst provid a caus expl of clust construct .

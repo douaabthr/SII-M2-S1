@@ -1,0 +1,7 @@
+applic of improv time seri apriori algorithm by frequent itemset in associ rule data mine base on tempor constraint
+the basic idea of apriori algorithm is first introduc in thi paper which is to find all frequent set in a transact
+the frequent requir of these frequent set are greater than or equal to the minimum support of the set
+on thi basi the work principl of the tradit apriori algorithm is analyz and the exist problem are point out
+to solv these problem an improv apriori algorithm is propos for time seri of frequent itemset
+final on the basi of analyz the method and process of mine associ rule for time seri thi improv time seri apriori algorithm for frequent itemset is appli to mine associ rule base on time constraint
+the experiment result show that the improv apriori algorithm is better than the tradit one in storag space .

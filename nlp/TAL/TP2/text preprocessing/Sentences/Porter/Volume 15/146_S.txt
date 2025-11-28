@@ -1,0 +1,7 @@
+applic of morpholog wavelet and permut entropi in gear fault recognit
+in thi paper a new gear fault recognit method wa propos by use morpholog wavelet and permut entropi
+firstli the morpholog haar wavelet wa propos base on morpholog wavelet and it wa use to pre-process the measur gear vibrat signal
+then the permut entropi wa use as the eigenvalu of gear fault to be extract from the vibrat signal which includ four work condit normal mild wear moder wear and broken teeth
+final accord to differ fault correspond to differ permut entropi distribut the variou fault state were classifi and the permut entropi distribut of non-denois signal were compar
+it could be seen that the morpholog haar wavelet had good de-nois effect and permut entropi could express the featur of differ gear condit
+the exampl of gear fault recognit prove that the combin of morpholog wavelet and permut entropi could effect improv the abil of gear fault classif .

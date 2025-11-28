@@ -1,0 +1,11 @@
+a new meta-heurist algorithm base on chemic reaction for partit cluster problem
+in the field of engin heurist algorithm are wide adopt to solv varieti of optim problem
+these algorithm have proven it efficaci over classic algorithm
+it is seen that chemic reaction consist of an effici comput procedur to design a new product
+the format of new product contain number of object state event and well defin procedur step
+a meta-heurist algorithm inspir through chemic reaction is develop call artifici chemic reaction optim acro algorithm
+in thi work an acro algorithm is adopt to solv partit cluster problem
+but thi algorithm suffer with slow converg rate and sometim stuck in local optima
+to handl these aforement problem two oper are inculc in acro algorithm
+the perform of propos algorithm is test over well-known cluster dataset
+the simul result confirm that propos acro algorithm is an effect and competit algorithm to solv partit cluster problem .

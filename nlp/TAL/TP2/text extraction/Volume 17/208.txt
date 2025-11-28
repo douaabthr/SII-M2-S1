@@ -1,0 +1,3 @@
+On the new solution to interval linear fractional programming problems
+
+In this paper, we study the interval linear fractional programming problems using the concept of\(g-\)division. We transform the problem into a new linear fractional programming problem and obtain a nondominated solution to the interval linear fractional programming problem. We show that the new solution dominates the previous nondominated objective value presented in the literature. Finally, some examples are provided to illustrate our results.

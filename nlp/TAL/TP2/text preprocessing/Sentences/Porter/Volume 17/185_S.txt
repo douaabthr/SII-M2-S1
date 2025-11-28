@@ -1,0 +1,7 @@
+3s optim a new meta heurist global optim algorithm
+in thi research an origin algorithm call 3s optim 3so is present which is inspir by swarm intellig si techniqu
+thi novel propos 3so algorithm take both the local exploit and the global explor into consider so it ha satisfactori converg speed and good solut accuraci
+in order to evalu the search abil of 3so algorithm thi paper use a set of famou test function includ 23 function of cec-bc-2005 and 29 test function of cec-bc-2017
+it prove that the 3so algorithm ha a great competit with the most advanc optim method in term of solut accuraci converg speed and stabil from the experiment result
+in order to fulli demonstr the practic applic potenti of the new techniqu the 3so algorithm is success appli to four engin design problem
+the simul result show that the propos 3so algorithm can effect deal with practic applic problem .

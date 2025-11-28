@@ -1,0 +1,8 @@
+a survey of recent advanc in analysi of skin imag
+skin disord signific impact qualiti of life necessit advanc diagnost tool
+machin learn ml and deep learn dl particular convolut neural network cnns offer promis solut
+ml aid in imag segment and lesion classif while dl captur intric featur for improv accuraci
+challeng includ limit annot data the black box natur of ai decision-mak and seamless integr into clinic workflow
+recent advanc such as develop of ml and dl algorithm and avail of public avail dataset hold promis for earlier diagnos and improv outcom in dermatolog
+build ml and dl model robust to variat in imag qualiti light condit and patient demograph is henc paramount to enhanc the accuraci and effici of skin imag analysi in clinic practic
+in conclus while ml and dl techniqu show promis explor hybrid approach combin the strength of both could lead to more robust diagnost tool for dermatolog revolution skin disord diagnosi and treatment .

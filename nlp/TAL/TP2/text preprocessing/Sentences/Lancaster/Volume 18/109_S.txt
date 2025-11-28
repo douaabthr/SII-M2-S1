@@ -1,0 +1,9 @@
+quasi-opposition-based learn in a shuffl partic swarm optim for solv frequ mod sound paramet id problem
+thi pap propos novel vary of the shuffl partic swarm optim spso algorithm for solv the frequ mod sound paramet id fmspi problem
+in the spso framework the pop is divid into sev parallel group and each group undergo an independ evolv process us partic swarm optim pso
+thi study employ two distinct strategies to achiev an improv bal between the expl and exploit cap of the spso algorithm
+first it introduc a group-specific strategy for the inert weight fact paramet which is dynam adjust for each group dur every it of the spso algorithm
+second to facilit an intens search in prom reg of the solv spac a quasi-opposition-based strategy is incorp into the spso
+expery result on fmspi problem demonst that the propos strategies sign enh the perform of the spso algorithm
+also in ord to demonst the effect of propos algorithm ie cec2014 test set is us and the obtain result ar comp against three oth shuffl algorithm includ sfl sce and sde
+as evid the wilcoxon signed-rank test of report result the propos algorithm demonst stat supery perform vers al competit .

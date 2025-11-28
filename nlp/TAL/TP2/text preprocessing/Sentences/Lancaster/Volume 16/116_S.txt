@@ -1,0 +1,11 @@
+short-term forecast elect load by long short-term mem and reinforc learn for optim of hyper-parameters
+elect load forecast is an ess op of the pow system
+deep learn is us to improv acc elect load forecast
+in thi study combin long short-term mem and reinforc learn ar propos to enco the adv of a singl approach for forecast
+import input feat includ the mut feat of elect load ar us to increas acc
+first multi-time sery input can handl by long short-term mem and the addit of feat support to the load feat wil mak the model bet efficy
+becaus the lstm model is quit complex choos a good set of hyperparamet is difficult
+theref the purpos of us reinforc learn is to optim hyper-parameters of the long short-term mem model
+the propos model is the combin of long-short term mem and reinforc learn
+the propos model wil be apply in two elect load dat set the real-life dat of vietnam elect and the oth publ dat set
+in on day ahead forecast the propos model arch supery perform than the benchmark .

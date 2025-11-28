@@ -1,0 +1,10 @@
+cross domain assocy us transf subspac learn
+transf learn has gain mor at rec by util knowledg acquir from on domain to adv a learn perform in anoth domain
+ex homog transf learn method hav progress to a point wher feat spac ar common in train and test domain
+howev heterog transf learn is stil in it nasc stag wher feat of train and test domain ar diff
+tak thi into account bregm diverg regul is us to minim the prob distribut diff between train and test domain and to tak them togeth to a shar subspac
+to discrimin dat within individ domain a project matrix is obtain us fish linear discrimin analys subspac learn algorithm
+expery is perform on two efficy us biomet the fac and fingerprint
+two typ of cross-domain set ar us 1 fac finger2fing wher train sampl com from fac label sampl and fingerprint unlabel sampl dat set whil test is perform on a fingerprint dataset
+2 fing face2fac wher train sampl com from fingerprint label sampl and fac unlabel sampl dat set whil test is perform on a fac dataset
+thi pap propos a cross domain assocy between fac and fingerprint that find util in forens apply .

@@ -1,0 +1,9 @@
+Kernel representations for evolving continuous functions
+To parameterize continuous functions for evolutionary learning we use kernel expansions in nested sequences of function spaces of growing complexity
+This approach is particularly powerful when dealing with non-convex constraints and discontinuous objective functions
+Kernel methods offer a number of beneficial properties for parameterizing continuous functions such as smoothness and locality which make them attractive as a basis for mutation operators
+Beyond such practical considerations kernel methods make heavy use of inner products in function space and offer a well established regularization framework
+We show how evolutionary computation can profit from these properties
+Searching function spaces of iteratively increasing complexity allows the solution to evolve from a simple first guess to a complex and highly refined function
+At transition points where the evolution strategy is confronted with the next level of functional complexity the kernel framework can be used to project the search distribution into the extended search space
+The feasibility of the method is demonstrated on challenging trajectory planning problems where redundant robots have to avoid obstacles .

@@ -1,0 +1,10 @@
+opposit bas competit grey wolf optim for emg feat select
+thi pap propos a competit grey wolf optim cgwo to solv the feat select problem in electromyograph emg pattern recognit
+we model the rec est feat select method competit bin grey wolf optim cbgwo into a continu vert cgwo which en it to perform the search on continu search spac
+moreov anoth new vary of cgwo nam opposit bas competit grey wolf optim obcgwo is propos to enh the perform of cgwo in feat select
+the propos method show supery result in sev benchmark funct test
+as for emg feat select the propos algorithm ar evalu us the emg dat acquir from the publ access emg databas
+init sev us feat ar extract from the emg sign to construct the feat set
+the propos cgwo and obcgwo ar then apply to select the relev feat from the origin feat set
+four state-of-the-art algorithm includ partic swarm optim flow pollin algorithm butterf optim algorithm and cbgwo ar us to examin the effect of propos method in feat select
+the expery result show that obcgwo can provid optim class perform which is suit for rehabilit and clin apply .

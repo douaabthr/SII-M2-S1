@@ -1,0 +1,8 @@
+Image compression using explored bat algorithm by Renyi 2 d histogram based on multilevel thresholding
+The main objective of the image compression is to extract meaningful clusters from a given image
+A meaningful cluster is possible with perfect threshold values which are optimized by assuming Renyi entropy as an objective function
+Due to the equal distribution of energy over the entire 1 D histogram it is computationally complex
+In order to improve the visual quality of a reconstructed image a 2 D histogram based multilevel thresholding is proposed to maximize the Renyi entropy using explored bat algorithm
+Thus procured results are compared with other optimization techniques and these are incorporated
+It is the first time incorporating a weighted peak signal to noise ratio WPSNR and the visual PSNR VPSNR in the proposed method because of the failure in measuring the visual quality of peak signal to noise ratio PSNR
+Experimental results are examined on a standard set of images which are observed precisely and efficiently in the multilevel thresholding problem .

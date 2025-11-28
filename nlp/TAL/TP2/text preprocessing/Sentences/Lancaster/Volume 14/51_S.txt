@@ -1,0 +1,17 @@
+predict bipol disord and schizophrenia bas on non-overlapping genet phenotyp us deep neur network
+comput psychiatry is an emerg field of sci
+it focus on ident the complex rel between the brain s neurobiolog
+ment il has rec becom an import problem to be address as the numb of peopl affect is increas ov tim
+schizophrenia and bipol disord ar two maj typ of psychy disord
+most of the peopl ar expery thes il in their lifetim
+but diagnos psychy disord is ev mor a complex problem
+genet fact play a vit rol in develop ment il
+interest few psychy disord hav common genet overlap between each oth
+it caus detry effect on diagnos the il acc
+to overcom thi ex issu a rank bas gen biomark id and class framework is propos to ident the overlap and non-overlapping gen pattern of bipol disord and schizophrenia
+the dataset us in thi expery is obtain from gen express omnib databas
+as an outcom of thi expery sev biomark ar ident as the overlap gen
+also 60 and 68 inform gen biomark ar ident on bipol disord and schizophrenia dataset as feat subset to discrimin the sampl
+overlap gen ar elimin to increas the diagnost acc of the disord
+the perform of the propos system is evalu with standard ex machin learn algorithm
+thi propos framework attain 97.01% and 95.65% acc on bipol disord and schizophrenia dataset with deep neur network model outperform oth benchmark algorithm and prov it eff .

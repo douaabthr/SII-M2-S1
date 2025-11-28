@@ -1,0 +1,9 @@
+advanc and bibliograph analysi of particl swarm optim applic in electr power system concept and variant
+power system applic often requir solv one or multipl optim problem which are nonlinear
+due to the limit such as dimension constraint and slow converg as offer by the analyt method swarm intelligence-bas method have emerg as a practic optim problem solut altern
+particl swarm optim pso a well-known member of the swarm intelligence-bas famili ha been acknowledg as an effici solut for nonlinear extens optim problem
+on the one hand thi articl provid insight on basic notion and progress of the pso in power system applic and case studi highlight the best perform of pso and it variant
+technic vision essenti for the applic of pso like it form particl present and the most compet fit function are also depict for the respect applic
+on the other hand it present a comprehens bibliograph analysi of 144 high-impact journal articl concern the promin applic of pso as an optim method in power system have more than twenti citat and order by the number of citat in descend order
+the outcom of thi bibliograph scrutini demonstr that elsevi ieee and springer articl are the most signific
+it also recogn the most influenti and high-impact journal and countries/region .

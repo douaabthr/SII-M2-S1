@@ -1,0 +1,13 @@
+a novel two-stage bio-inspired method us red deer algorithm for dat clust
+dat clust is a method of divid dat point into simil group
+in the last few decad ther hav been num adv in algorithm and methodolog for the analys of clust dat
+although som algorithm likek-means due to their easy impl and interpret ar wid us for clust their cap of provid good solv might be sensit to the numb of dimend and clust
+due to the adv of metaheuristic-based clust approach lik strong search they hav been wid us to tackl the clust problem
+bas on thi prem we propos a new bio-inspired red deer clust algorithm rdca
+red deer algorithm rda is a new metah inspir by the behavy of the scot red deer dur a bree season
+first the dat spac is partit into sev divid each of which is repres by a disjunct norm form express us cliqu algorithm
+then a search strategy employ a mod vert of rda is pursu
+expery ar carry out to assess the perform of rdca in comparison to eight tradit method us six real-world and three gen dataset in term of clust valid meas nam compact sep combin tur davy bouldin and norm mut inform scor
+the propos method can handl multipl object funct simult and show good perform when the dat dimend is larg
+the result ind that in most scenario the propos method outperform it counterpart
+it is also shown that the propos algorithm is less sensit to increas the numb of clust and dimend .

@@ -1,0 +1,13 @@
+A new evolutionary neural networks based on intrusion detection systems using locust swarm optimization
+The need to avoid computer system breaches is increasing
+Many researchers have adopted different approaches such as intrusion detection systems IDSs to handle various threats
+Intrusion detection has become an imperative system to detect various security breaches
+Until today researchers face the problem of building reliable and effective IDSs that can handle numerous attacks with changing patterns
+This paper deals with feed-forward neural network FNN training problems using the application of a recently invented meta-heuristic optimization algorithm locust swarm optimization LSO for the first time
+FNN is combined with LSO FNN-LSO to build an advanced detection system and improve the performance of IDS
+Our method is applied to a series of experiments to study the capability and performance of the proposed approach
+Experimental studies began by using intrusion detection evaluation data namely NSL-KDD and UNSW-NB15 to benchmark the performance of the proposed approach
+The most common evolutionary trainers namely particle swarm optimizer PSO-based trainer and genetic algorithm GA-based trainer were implemented to verify the results
+Compared with existing methods in the literature our proposed approach provides to be more accurate to be an alternative solution for IDS
+The experimental results show that our training algorithm not only attained a very good performance in terms of speed convergence but also achieved reliability due to the reduced likelihood of being trapped in local minima
+Furthermore our proposed model improves the detection rate .

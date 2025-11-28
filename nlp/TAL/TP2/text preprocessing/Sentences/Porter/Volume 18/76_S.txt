@@ -1,0 +1,10 @@
+smadasyn-boost cross-project transfer learn for effect secur fault predict
+purpos security-rel softwar fault predict is essenti yet challeng due to limit label vulner data and the inconsist of fault pattern across softwar project
+thi studi aim to improv the generaliz of fault predict model use a cross-project learn approach
+method we propos a cross-project transfer learn framework for secur fault predict enhanc by featur distribut align techniqu includ kolmogorov smirnov ks test anderson darl test and pearson correl
+to effect address the issu of class imbal preval in vulner dataset we introduc smadasyn a hybrid oversampl method that integr the strength of smote synthet minor oversampl techniqu and adasyn adapt synthet sampl
+the propos approach is empir valid across six apach softwar project use a rang of classifi decis tree naiv bay logist regress and random forest along with ensembl method such as bag boost and stack
+result experiment result demonstr that random forest consist achiev the highest perform particularli in term of f1-score and recal
+statist valid use the friedman test and nemenyi post-hoc analysi confirm the signific and robust of the result across dataset
+conclus the propos method effect enhanc secur fault predict in cross-project scenario
+by combin featur align and advanc sampl techniqu the framework deliv accur and generaliz predict offer practic valu for softwar secur assur .

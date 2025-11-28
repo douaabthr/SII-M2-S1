@@ -1,0 +1,8 @@
+herit of morpholog and behavio trait in evolv robot
+in the field of evolv robot choos the correct genet repres is a comply and del mat espec when robot evolv behavio and morpholog at the sam tim
+on princip problem is the lack of method or tool to investig and comp repres
+in thi pap we introduc and evalu such a tool bas on the biolog not of herit
+herit capt the proport of phenotyp vary caus by genotyp vary and is oft us to bet understand the transmiss of trait in real biolog system
+as a proof of conceiv we comp the herit of vary robot trait in two system on us a direct tre bas repres and on us an indirect gramm bas repres
+we meas chang in herit dur the cours of evolv and investig how direct and indirect repres can be bias toward mor expl or exploit throughout the cours of evolv
+the empir study show that herit can be a us tool to analys diff repres without run complet evolv process us them .

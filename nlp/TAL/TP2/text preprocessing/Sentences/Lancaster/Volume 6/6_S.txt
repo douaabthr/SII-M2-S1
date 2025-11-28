@@ -1,0 +1,10 @@
+learn complex overlap and nich imb bool problem us xcs-based class system
+xcs is an accuracy-based learn class system which has been success apply to learn vary class and funct approxim problem
+rec it has been report that xcs cannot learn overlap and nich imb problem us the typ expery setup
+thi pap describ two approach to learn thes complex problem first tun the paramet and adjust the method of standard xcs spec for such problem
+second apply an adv vary of xcs
+spec we develop prevy an xcs with code-fragment act nam xcscfa which has a mor flex genet program lik encod and explicit state-action map through comput act
+thi approach is examin and comp with standard xcs on six complex bool dataset which includ overlap and nich imb problem
+the result ind that to learn overlap and nich imb problem us xcs it is benef to eith deact act set subsum or us a rel high subsum threshold and a smal er threshold
+the xcscfa approach success solv the test complex overlap and nich imb problem without paramet tun becaus of the rich alphabet inconsist act and espec the redund provid by the code-fragment act
+the maj contribut of the work pres her is overcom the ident problem in the wide-spread xcs techn .

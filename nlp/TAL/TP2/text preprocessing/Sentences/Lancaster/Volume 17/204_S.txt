@@ -1,0 +1,13 @@
+a fuzzy-based emot detect method to class the attract of urb green spac
+in europ study the most us definit of urb green spac ug is bas on the europ urb atla which includ publ green area prim us for recr and green area adjac to urb area that ar man or util for recr purpos
+ug play a vit rol in cre sustain and resy city as they provid ess soc benefit for the well-being and heal of urb resid
+both plan and sci acknowledg the import of involv act or pass cit in defin criter for design and man includ and funct ug
+accord to a post-normal sci approach the integr of hard dat from sci sourc with soft dat gath from cit eng hold the pot to shap an innov support system for publ policy address sign urg and uncertain challeng pertain to ug
+nowaday the abund of dat gen through onlin review opin and com allow for collect valu inform about peopl s opin and senty toward ug
+thi study propos a methodolog framework that util emot detect techn to ident and analys cit emot concern ug through soc review
+to bal comput cost and class acc the framework introduc a fuzzy emotion-based class method cal fredoc fuzzy relev emot docu class
+thi method incorp a lightweight nat langu pro-cessing nlp approach to detect and annot term assocy with spec emot categ within the text
+the framework adopt the psycho-evolutionary class approach bas on r
+plutchik s observ of gen emot respons
+thi model is impl within a geograph inform system gis for the purpos of categ ug spec green park accord both to who report key ind and to the detect relev emot
+the outcom is a novel class model of ug that can assist decision-makers in ident the attract of ug as catalyst for urb transform process .

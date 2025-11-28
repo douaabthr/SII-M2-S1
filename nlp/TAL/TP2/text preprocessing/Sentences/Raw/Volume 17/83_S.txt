@@ -1,0 +1,11 @@
+EEG signals classification using a new radial basis function neural network and jellyfish meta-heuristic algorithm
+The purpose of this paper is to investigate a new method for EEG signals classification
+A powerful method for detecting these signals can greatly contribute to areas such as making robotic arms for disabled people mind reading and lie detection tools
+To this end this study makes two interesting contributions
+As a major contribution a new classifier based on a radial basis function neural network RBFNN is presented
+As the center determination method of a RBFNN classifier has a high impact on the final classification results we have adopted Jellyfish search JS algorithm for choosing the centers of the Gaussian functions in the hidden layer of the RBFNN classifier
+Additionally Locally Linear Embedding LLE technique is investigated for reducing the dimensionality of EEG signals
+Two series of various experiments are designed to validate our proposals
+In the first set of the experiments the proposed RBFNN classifier is compared with other state-of-the-art RBFNN classifiers
+In the second set of the experiments the performances of the proposed EEG signals classifications are evaluated on a challenging dataset for EEG signals classification
+The experimental results demonstrate the superiority of our proposed method even compared to the methods based on the convolutional neural networks .

@@ -1,0 +1,8 @@
+credibility-based fuzzy and incomplet inform valu in fuzzy program
+the research show that tradit poss meas has defect in deal with fuzzy program whil the cred meas with self-duality is mor prov bet
+bas on the cred the many research study the inform valu and fuzzy und complet inform
+howev most of the real-life decision-making problem hav incomplet inform and the abov research method cannot solv the problem in thi situ
+theref bas on cred the we investig the incomplet inform valu and fuzzy when the fuzzy inform is incomplet in the fuzzy program by employ the two-stage method
+to meas the maxim siz of pay for incomplet inform and the import of fuzzy we pres two optim ind which ar the expect valu of incomplet inform and the valu of fuzzy solv and study their theoret property and rat by som num exampl
+the theoret result obtain in thi pap
+the result obtain in thi pap theoret guar the effect of fuzzy decid mak on the incomplet inform valu in fuzzy system .

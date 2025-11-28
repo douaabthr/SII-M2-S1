@@ -1,0 +1,12 @@
+evolv optim for enh self-supervised learn lev genet algorithm for repres learn
+contrast learn has ar as a pot method in self-supervised learn ssl seek to acquir rich and sign repres from unlabel dat by differenty between posit and neg sampl
+howev the eff of contrast learn is heavy cont upon many aspect includ feat repres hyperparamet and dat aug techn which ar oft man tun and suboptim
+to address thes challeng thi research pres a un framework nam hoclg that us genet algorithm gas to autom and optim thes crit compon for contrast learn
+in fact by combin ga with contrast learn we provid a system method for optim feat repres improv the qual of learn repres adjust hyperparamet investig dat aug techn and form ssl challeng
+thi study examin the us of self-supervised learn to enh the precid of ident dam reg in med im us high-intensity focus ultrasound hifu
+the framework is pretrain on large-scal dataset imagenet deeples breast ultrasound and fine-tuned for ultrasound im analys
+expery find ind that the propos method may improv repres learn eff and provid subst progress in med pict interpret
+spec it achiev the highest acc of 94.3% on the deep les ct im dataset and the highest precid of 96.7% on the breast ultrasound dataset
+key innov includ a custom contrast loss funct lev cauchy distribut for simil scor and a ga-driven optim of resnet architect aug policy and hyperparamet . our find highlight hoclg s abl to improv repres qual and diagnost acc in med im particul for scenario with limit label dat
+the framework s evolv approach off a scal solv for ssl optim with pot apply beyond healthc
+thi work adv the integr of metah and ssl provid a robust tool for autom high-precision med im analys .

@@ -1,0 +1,12 @@
+an efficy hybrid pso polygam crossov bas clust algorithm
+clust of dat into coher group is an op are of research with lot of apply in diff domain
+many tradit and metah algorithm hav been propos in the lit but the main inh problem with most of thes algorithm is that they can easy get trap in loc optim and can lead to prem converg
+thu a sign bal is requir between expl and exploit to find a near optim solv
+thi pap attempt to resolv thi problem by propos a real encod hybrid algorithm psopc us pso for glob search and polygam approach for crossov in ord to refin the expl and exploit strategy
+paramet lik inert weight crossov prob and alph valu in arithmet crossov ar also tun dynam to refin the optim process
+the propos hybrid algorithm is sim on sev real lif dat set
+it has also been comp with oth four standard wel known metah clust algorithm i. e
+partic swarm optim genet algorithm diff evolv firef algorithm and grey wolf optim
+the comput result demonst that the psopc outperform oth approach in context of within clust dist clust qual meas and converg spee to find the near optim solv
+sim result clear rev that the propos algorithm psopc is abl to gen compact clust
+vary extern qual evalu meas lik precid sensit acc and g-measure us for qual evalu demonst that the propos algorithm is abl to perform bet clust than the oth comp algorithm .

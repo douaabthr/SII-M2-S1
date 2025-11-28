@@ -1,0 +1,9 @@
+commun efficy optim in fed learn bas on multi-objective evolv algorithm
+fed learn is an emerg technolog that can effect safeguard person inform
+as oppos to tradit cent learn fed learn can avoid dat shar whil maintain glob model train
+howev in the process of upd the glob model it wil consum hug cli commun resourc which hind the wid apply of thi technolog
+to reduc the commun overhead without sery reduc the acc of the glob model und the fed learn framework we us decomposit bas multi-objective optim algorithm moea/d to optim the structure of the glob model
+for the structure of the glob model a high scal cod method is us for cod which improv the efficy of the evolv neur network
+as a comparison we us the non-dominated sort genet algorithm ii nsga ii to optim the problem und the sam condit and ver the effect of both algorithm accord to the obtain pareto solv
+we ver that moea/d has bet converg when us multilay and convolv neur network as the glob model
+overal moea/d can furth strengthen the structure optim of the fed learn model and reduc commun cost .

@@ -1,0 +1,9 @@
+dendrit neuron model optim with mountain gazel optim for time-series forecast
+time-series forecast predict and estim hav been act research top in rec year due to their crit rol in decision-making and fut plan
+art neur network an ar wid employ for forecast apply and hav demonst sign perform improv
+in thi pap we util a spec typ of an the dendrit neuron model dnm for time-series forecast
+we apply an optim dnm model by util the pow of metah mh optim algorithm
+spec we employ an mh algorithm the mountain gazel optim mgo to optim the paramet of the dnm improv it config process and ultim improv the acc of the forecast
+furtherm we comp mgo perform with sev oth optim algorithm us to optim the dnm model
+comprehend evalu ar conduc on four publ avail tim sery dataset us multipl evalu ind
+the result demonst the supery of the mgo-dnm model ov compet method with optim dnm config consist outperform the tradit dnm in forecast task .

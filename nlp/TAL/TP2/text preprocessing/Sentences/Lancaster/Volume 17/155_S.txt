@@ -1,0 +1,10 @@
+a dynam tri-population multi-objective evolv algorithm for constrain multi-objective optim problem
+bal between the converg feas and divers of the pop is the key to solv constrain multi-objective optim problem cmop
+howev the ex constrain multi-objective optim evolv algorithm cmoea fac challeng in converg to the constrain pareto front cpf with well-distributed feas solv
+to address thi issu thi pap propos a dynam tri-population multi-objective evolv algorithm cal tdpscmo
+in the init phas the first and second pop evolv dynam to solv the origin cmop and the unconstrain multi-objective optim problem mop
+thi dynam offspr gen emphas converg and feas
+in the lat stag the alloc of comput resourc to the first pop is adjust bas on the vary in offspr numb
+simult a third pop is introduc to enh pop divers by tre constraint viol degr as an addit object funct thu capt mor valu inform
+the perform of tdpscmo is furth test through 57 benchmark test problem and 21 real-world apply us sev state-of-the-art algorithm
+the result show the competit of the propos algorithm when address cmop .

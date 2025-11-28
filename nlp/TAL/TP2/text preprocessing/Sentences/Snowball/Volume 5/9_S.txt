@@ -1,0 +1,9 @@
+analys biohel use challeng boolean function
+in this work we present an extens empir analysi of the biohel genetics-bas machin learn system use the k-disjunct normal form k-dnf famili of boolean function
+these function present a broad set of possibl challeng for most machin learn techniqu such as differ degre of specif class imbal and nich overlap
+moreov as the ideal solut are known it is possibl to assess if a learn system is abl to find them and how fast
+specif we studi two aspect of biohel it sensit to the coverag breakpoint paramet that determin the degre of general pressur appli by the fit function and the impact of the default rule polici
+the result show that biohel is high sensit to the choic of coverag breakpoint and that use a default class suitabl for the problem allow the system to learn faster than use other default class polici e. g
+the major class polici
+moreov the experi indic that biohel s scalabl depend direct on bothk the specif of the k-dnf term and the number of term in the problem
+in the last part of the paper we discuss altern polici to adjust the coverag breakpoint paramet .

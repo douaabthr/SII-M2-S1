@@ -1,0 +1,7 @@
+A quantum class topper optimization algorithm to solve combined emission economic dispatch problem
+A combined emission and economic dispatch problem is referred as a complex multi-objective problem related to power system
+In this article an hybridized version of class topper optimization known as quantum class topper optimization is proposed to solve this problem
+In quantum class topper optimization quantum mechanism is used to enhance the searching ability of the proposed algorithm
+The exploration exploitation and convergence behavior of quantum class topper optimization is validated using benchmark functions
+Later four test cases on combined emission and economic dispatch are used to test the effectiveness of quantum class topper optimization
+These four tests prove that the proposed optimization algorithm is effective to solve this real time optimization problem .

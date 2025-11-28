@@ -1,0 +1,5 @@
+Extending a simple genetic cooperative-competitive learning fuzzy classifier to low quality datasets
+Exploiting the information in low quality datasets has been recently acknowledged as a new challenge in Genetic Fuzzy Systems
+Owing to this in this paper we discuss the basic principles that govern the extension of a fuzzy rule based classifier to interval and fuzzy data
+We have also applied these principles to the genetic learning of a simple cooperative-competitive algorithm that becomes the first example of a Genetic Fuzzy Classifier able to use low quality data
+Additionally we introduce a benchmark comprising some synthetic samples and two real-world problems that involve interval and fuzzy-valued data that can be used to assess future algorithms of the same kind .

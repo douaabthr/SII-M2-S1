@@ -1,0 +1,10 @@
+a node-priority bas large-scal overlap commun detect us evolv multi-objective optim
+commun structure is on of the most import feat in complex network
+howev with increas of network scal som ex method cannot effect detect the commun structure of complex network and the avail method most aim at non-overlapping network
+in thi pap we foc on overlap commun detect in large-scal network becaus most of the commun in real-world network ar overlap
+in ord to improv the acc of large-scal overlap commun detect we suggest a commun detect method bas on nod pri
+the propos algorithm has two adv 1 we defin a pri funct text f _ text nn to assess the clos between adjac nod
+it expl the pot commun structure in adv and reduc the scal of network
+2 we employ nsga-ii and select al pareto front to min large-scal overlap commun
+the propos algorithm is test by the art and real dataset
+the result show that the propos algorithm can effect improv the acc of commun detect and has bet optim effect .

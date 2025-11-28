@@ -1,0 +1,13 @@
+modsw a new act funct for neur network
+the act funct ar extrem import to neur network sint they ar respons for learn the abstract charact of the dat through nonlinear mod
+the pap pres a new act funct which is refer to as modsw
+it is continu differenty unbound abov bound below and non-monotonic
+our result demonst that modsw outperform relu on a numb of challeng dataset and neur network model
+in the begin of the expery neur network ar train and class us benchmark dat lik diagnost wisconsin breast cant and ir and modsw achiev 93.57% and 95.56% acc respect
+second expery wer conduc on fiv distinct neur network depth that rang from fiv to eight lay ov mnist dataset
+the modsw act funct obtain 95.57% 95.29% 94.93% 94.69% and 95.03% acc on 8 lay 7 lay 6 lay 5 thin lay and wid 5 lay neur network respect
+fin expery wer conduc on two distinct convolv neur network with two convolv lay and four convolv lay ov cifar-10 dataset
+the modsw act funct obtain 60.04% and 69.22% acc on two convolv lay and four convolv lay model respect
+stat feat meas demonst that modsw has the best mean acc lowest root mean squ er lowest standard devy lowest vary and lowest mean squ er
+the study ind that modsw has fast converg comp to relu mak it a valu fact in deep learn
+the result of the expery suggest that modsw can be a prom substitut for relu lead to bet perform in neur network model .

@@ -1,0 +1,9 @@
+mesh smooth of complex geometri use variat of cohort intellig algorithm
+sever approach includ optim base method were develop for mesh qualiti improv use onli node movement keep intact the element connect
+in thi research a socio-inspir optim approach refer to as cohort intellig ci wa investig for mesh smooth
+minim of summat of condit number of all element wa the final aim
+the geometr boundari of the object defin the surfac and edg constraint for movement of extern node
+movement of intern node wa complet govern by variat of ci algorithm viz
+roulett wheel follow best follow better alien and random select follow worst and follow itself
+the approach wa demonstr with pentagon prism hexagon prism and hexagon prism with hole
+the perform of follow best and roulett wheel variat of ci algorithm wa observ to be satisfactori as compar to other variat of the algorithm .

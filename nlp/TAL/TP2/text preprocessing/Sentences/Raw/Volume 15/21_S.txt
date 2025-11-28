@@ -1,0 +1,13 @@
+A novel approach to build accurate and diverse decision tree forest
+Decision tree is one of the best expressive classifiers in data mining
+A decision tree is popular due to its simplicity and straightforward visualization capability for all types of datasets
+Decision tree forest is an ensemble of decision trees
+The prediction accuracy of the decision tree forest is more than a decision tree algorithm
+Constant efforts are going on to create accurate and diverse trees in the decision tree forest
+In this paper we propose Tangent Weighted Decision Tree Forest TWDForest which is more accurate and diverse than random forest
+The strength of this technique is that it uses a more accurate and uniform tangent weighting function to create a weighted decision tree forest
+It also improves performance by taking opinions from previous trees to best fit the successor tree and avoids the toggling of the root node
+Due to this novel approach the decision trees from the forest are more accurate and diverse as compared to other decision forest algorithms
+Experiments of this novel method are performed on 15 well known publicly available UCI machine learning repository datasets of various sizes
+The results of the TWDForest method demonstrate that the entire forest and decision trees produced in TWDForest have high prediction accuracy of 1 7% more than existing methods
+TWDForest also creates more diverse trees than other forest algorithms .

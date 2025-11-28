@@ -1,0 +1,11 @@
+Revolutionizing cultural heritage preservation an innovative IoT-based framework for protecting historical buildings
+Italy offers a cultural heritage of considerable value that needs to be protected
+Indeed natural deterioration linked to the passage of time affects ancient artifacts and buildings
+Sometimes the deterioration compromises the functionality of cultural assets pushing them toward decay
+In this scenario effective intervention seems impossible on the various critical points because of the wide variability of factors involved and the wide range of possible treatments
+However the spread of low-cost technologies has led to the possibility of having different devices and sensors able to communicate and interact with each other and humans the Internet of Things IoT
+In this scenario the IoT paradigm makes it possible to map reality by defining a coherent virtual representation Digital Twin which could help preserve Cultural Heritage
+This work introduces an IoT-based system combining monitoring predictive maintenance and decision-making regarding the implementable interventions for protecting cultural heritage buildings
+For this purpose deep and machine learning techniques allow for the detection and classification of damages on specific materials
+The experimental phase consists of two phases the first aims to evaluate the accuracy of the proposed architecture and the second exploits a prototype capable of interacting with expert users
+The results of the experimental campaign are promising .

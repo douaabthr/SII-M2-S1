@@ -1,0 +1,8 @@
+select and estim interest rate model with evolutionari method
+select and estim parsimoni model is often desir but hard to achiev
+thi is particularli true when model can potenti contain a veri larg number of paramet but data are scarc as is the case for mani macro-econom model in gener and interest-r model in particular
+these model need to cater for a larg number of potenti relationship and depend but are fit on low-frequ data to focu on the bigger pictur and long-term effect
+to identifi the ideal model and estim it is then particularli demand from an optim perspect
+in thi paper we suggest an evolutionari approach that consid model select and estim simultan
+numer experi with artifici data suggest that the approach is well suit for thi type of problem
+in an empir applic for short-term and long-term interest rate denomin in us dollar euro and the japanes yen respect parsimoni model structur are identifi that highlight the depend as well as spill-ov across matur and currenc .

@@ -1,0 +1,11 @@
+optim use lion algorithm a biolog inspir from lion s social behavior
+nature-inspir optim algorithm especi evolutionari computation-bas and swarm intelligence-bas algorithm are be use to solv a varieti of optim problem
+motiv by the oblig of have optim algorithm a novel optim algorithm base on a lion s uniqu social behavior had been present in our previous work
+territori defens and territori takeov were the two most popular lion s social behavior
+this paper take the algorithm forward on rigor and divers perform test to demonstr the versatil of the algorithm
+four differ test suit are present in this paper
+the first two test suit are benchmark optim problem
+the first suit had comparison with publish result of evolutionari and few renown optim algorithm while the second suit lead to a compar studi with state-of-the-art optim algorithm
+the test suit 3 take the large-scal optim problem wherea test suit 4 consid benchmark engin problem
+the perform statist demonstr that the lion algorithm is equival to certain optim algorithm while outperform major of the optim algorithm
+the result also demonstr the trade-off maintain of the lion algorithm over the tradit algorithm .

@@ -1,0 +1,6 @@
+machin learn algorithm for diabet detect a comp evalu of perform of algorithm
+rec machin learn algorithm ar wid us for the predict of diff attribut and thes algorithm find widespread apply in a vary of domain
+machin learn in heal car has been on of the cor area of research wher machin learn model ar us on the med dataset to predict diff attribut
+thi work provid a comp evalu of diff class as wel as ensembl machin learn model which ar us to predict the risk of diabet from two diff dataset i.e. pim ind diabet dataset and early-stage diabet risk predict dataset
+from the comp analys it is found that the superlearn model provid the best acc i. e
+86% for pim ind diabet dataset and it provid 97% acc for diabet risk predict dataset .

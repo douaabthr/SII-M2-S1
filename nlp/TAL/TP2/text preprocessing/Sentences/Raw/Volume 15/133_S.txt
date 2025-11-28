@@ -1,0 +1,12 @@
+Fuzzy assessment of the risk factors causing cost overrun in construction industry
+Cost is considered as one of the most important parameters for the success of any construction project
+Therefore the risk factors causing cost overrun in the construction industry should be assessed
+In this study 55 important risk factors causing cost overrun in Indian construction projects are identified through intensive literature review and expert opinion
+A new fuzzy based model has been proposed to estimate the risk magnitude of these factors as the theory has the potential to deal with the vagueness uncertainty and subjective nature of any problems and It is capable of handling the almost same analogous which is found in the complex construction projects
+In order to assess the risk factors causing cost overrun probability index and severity index are considered
+A new cost overrun factor index namely fuzzy index for cost overrun is calculated which indicates the risk magnitude of a certain factor
+The applicability of the model has been shown by an example
+The risk magnitude for the factor fluctuation in price material is determined by collecting the data from the experts of Indian construction industry
+On the basis of these risk magnitudes the importance level the factors are assessed
+Top ten factors for causing cost overrun in the Indian construction industry are recognised as fluctuation in price material lowest bid procurement policy inflation inappropriate govt
+Policy mistakes and discrepancies in the contract document inaccurate time and cost estimate additional work frequent design change unrealistic contract duration and financial difficulty faced by contractors .

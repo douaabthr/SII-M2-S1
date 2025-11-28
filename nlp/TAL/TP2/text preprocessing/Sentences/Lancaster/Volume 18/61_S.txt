@@ -1,0 +1,9 @@
+novel hybrid swarm intellig algorithm for solv the capacit vehic rout problem efficy
+thi pap introduc a novel glob optim framework igwoa_obl_ms which integr the whal optim algorithm woa and grey wolf optim gwo furth enh through the integr of mut strategies ms and opposition-based learn obl
+the igwoa_obl_ms aim to effect bal expl and exploit by util woa s cap for extend glob search alongsid gwo s proficy loc optim
+obl expand the search spac whil mut strategies enh solv divers and address stagn
+the framework s perform is rig evalu on cec 2022 benchmark funct show supery optim cap comp to ex method
+it is furth test on a rang of standard capacit vehic rout problem cvrp benchmark dataset demonst scal and robust across diff problem scal
+fin the algorithm is apply to two real-world cem delivery cas study wher it effect optim the dual object of bal cost and tim
+thi highlight it pract appl in sustain log and it abl to handl complex multi-objective trade-offs
+thes result est the igwoa_obl_ms framework as a sign adv in hybrid meta-heuristics provid robust scal solv for cvrp and complex multidimend optim challeng .

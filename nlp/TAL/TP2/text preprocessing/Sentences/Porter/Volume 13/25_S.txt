@@ -1,0 +1,7 @@
+multi-label featur select base on inform entropi fusion in multi-sourc decis system
+featur select play an import role in high-dimension multi-sourc data which can improv classif perform of learn algorithm
+most of exist multi-sourc inform fusion focu on the singl decis system without consid multi-sourc and multi-label problem togeth
+nevertheless data from differ sourc along with multipl label simultan are absolut frequent in mani real-world applic
+for thi issu in thi paper a multi-sourc multi-label decis system is propos which ha more than one decis label
+to remov some redund or irrelev featur in multi-sourc multi-label decis system a featur select algorithm base on posit region for multi-sourc multi-label data is explor which use the featur depend carri on the fusion decis tabl
+final exampl are introduc to elabor the detail process of the propos algorithm and experiment result show the effect perform of the propos algorithm on multi-sourc and multi-label data .

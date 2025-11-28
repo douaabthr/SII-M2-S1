@@ -1,0 +1,11 @@
+cent of grav cog a novel optim algorithm
+thi pap propos a novel optim algorithm cal cent of grav cog
+the main ide of cog is attribut the pot funct to a set of partic in problem spac and find the conto lin
+with each partic mov with a predefin loc in search spac the pot funct is defin bas on partic s fit valu
+the partic ar then rank accord to their finess
+through clust of partic the conto lin wil be construct which then lead to determin their cent of grav
+thi process wil it continu by upd the partic in each it and ultim achiev the glob cog
+the propos cog algorithm is shown to be us for diff typ of uni-modal to multi-modal benchmark funct
+also optim som import engin problem has been consid
+the perform of thi new optim algorithm has been comp with som of the optim algorithm
+sim result confirm that the cog algorithm provid perform improv comp to oth ex method in vary scenario .

@@ -1,0 +1,11 @@
+Optimization using lion algorithm a biological inspiration from lion s social behavior
+Nature-inspired optimization algorithms especially evolutionary computation-based and swarm intelligence-based algorithms are being used to solve a variety of optimization problems
+Motivated by the obligation of having optimization algorithms a novel optimization algorithm based on a lion s unique social behavior had been presented in our previous work
+Territorial defense and territorial takeover were the two most popular lion s social behaviors
+This paper takes the algorithm forward on rigorous and diverse performance tests to demonstrate the versatility of the algorithm
+Four different test suites are presented in this paper
+The first two test suites are benchmark optimization problems
+The first suite had comparison with published results of evolutionary and few renowned optimization algorithms while the second suite leads to a comparative study with state-of-the-art optimization algorithms
+The test suite 3 takes the large-scale optimization problems whereas test suite 4 considers benchmark engineering problems
+The performance statistics demonstrate that the lion algorithm is equivalent to certain optimization algorithms while outperforming majority of the optimization algorithms
+The results also demonstrate the trade-off maintainability of the lion algorithm over the traditional algorithms .

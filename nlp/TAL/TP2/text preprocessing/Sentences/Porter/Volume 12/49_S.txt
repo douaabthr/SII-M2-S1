@@ -1,0 +1,9 @@
+optim fopid/pid control paramet tune for the avr system base on sine cosine-algorithm
+to enhanc the control perform an advanc sine cosine-algorithm sca is employ for fraction order pid fopid control tune in thi paper
+the sca-fopid control is base on model-bas control design method of physic system to get better perform
+the fopid control is design by sca optim techniqu use the time domain object function for avr system
+the sca techniqu is respons to optim five paramet of fopid control base on minimum valu of object function of the control design
+the propos sca-fopid control is design at a global optimum of object function is acheiv
+then the avr system ha good regul of termin voltag at the output to meet desir perform
+the propos method ha a good refer track abil and frequenc respons
+thi method is compar with the pid and fopid control design of avr system in the recent year the propos sca-fopid control give an excel perform from the extens simul studi .

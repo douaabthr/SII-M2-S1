@@ -1,0 +1,9 @@
+compos compact diff evolv
+thi pap propos a novel algorithm for solv continu complex optim problem with a rel low mem consum
+the propos approach nam compos compact diff evolv consist of a set of compact diff evolv unit which simult search the decid spac from vary perspect
+a random in the virt pop allow the algorithm to behav on on hand as a multipl loc search with a multi-start log integr within it
+on the oth hand the compact unit commun among each oth by mean of a ring topolog and prop of inform
+mor spec the most prom elit solv and scal fact valu of each compact unit ar migr to the neighbo unit so that the search of the glob optim is perform
+in oth word whil each singl compact unit perform a loc search by exploit the direct suggest by each elit solv the entir structure combin the achiev of each loc search op toward the direct of the glob search
+the propos algorithm is charact by a limit mem consum and is memory-wise equ to a population-based algorithm with a smal pop
+num result show that the propos approach outperform oth compact algorithm and vary modern population-based structures .

@@ -1,0 +1,9 @@
+a practic method for the expert academ persona classif base on text classifi
+the expert academ persona classif are indispens for expert intellig automat recommend
+it can also be appli to academ evalu charact knowledg base construct and so on
+the paper introduc a text classifi train for the persona of expert academ classif base on support vector machin
+the problem of expert academ persona is convert into text classif
+first we automat construct text train dataset base on seed expert databas from wikipedia
+then a unifi model for chinese-english expert classif is train after text preprocess and vector
+final we verifi the effect of our method on the real dataset acquir from the internet
+experiment result show that the propos method outperform the baselin method and achiev a f1-measur of 83.5% for expert academ classif .

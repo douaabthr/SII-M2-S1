@@ -1,0 +1,10 @@
+multi-class autoencoder-ensembled predict model for detect of covid-19 sev
+coronavir pandem has hamp hum lif al ov the world with sev sery casual and num deceas cas
+though the pac of the pandem slow down ow to the vaccin process stil new mut vary of the vir continu to evolv
+our research aim on develop an autoencod ae bas multi-class predict model for detect the sev of coronavir
+our propos model is bas on certain symptom such as fev dry cough fatigu difficul in breath ach sor throat nas congest diarrhe etc
+our ai driv predict model can efficy ident distinct class of sev which includ no-infection mild mod and sev cas wher a paty may requir intend med car
+we hav consid machin learn model includ log regress support vect machin and decid tre and recur deep neur network model for perform comparison with propos autoencod ae bas model
+our autoencoder-based log regress decid tre and support vect machin improv the predict perform and acc toward anticip the spread of coronavir
+it has been observ that ae-based deep learn model outperform som of the ex machin learn and deep learn techn with a maxim acc of 99.66%
+hent ae-based model wer found to be mor suit for multi-class predict of large-scal patient-centric dat in term of f1-score acc precid recal model test train loss and oth valid stat .

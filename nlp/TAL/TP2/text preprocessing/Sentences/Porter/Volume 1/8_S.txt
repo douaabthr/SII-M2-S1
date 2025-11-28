@@ -1,0 +1,8 @@
+the dca some comparison
+the dendrit cell algorithm dca is an immune-inspir algorithm develop for the purpos of anomali detect
+the algorithm perform multi-sensor data fusion and correl which result in a context awar detect system
+previou applic of the dca have includ the detect of potenti malici port scan activ where it ha produc high rate of true posit and low rate of fals posit
+in thi work we aim to compar the perform of the dca and of a self-organ map som when appli to the detect of syn port scan through experiment analysi
+a som is an ideal candid for comparison as it share similar with the dca in term of the data fusion method employ
+it is shown that the result of the two system are compar and both produc fals posit for the same process
+thi show that the dca can produc anomali detect result to the same standard as an establish techniqu .

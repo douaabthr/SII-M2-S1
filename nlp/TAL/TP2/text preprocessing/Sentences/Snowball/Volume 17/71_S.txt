@@ -1,0 +1,9 @@
+a robust featur select method base on meta-heurist optim for speech emot recognit
+most of the tradit featur select method do not show effect perform on speech emot recognit system
+one of the recent advanc in the featur select is use meta-heurist optim algorithm
+individu each algorithm play a key role in mani speech process base applic
+howev hybrid meta-heurist are one most impress techniqu in the field of featur select and optim problem
+henc in this paper propos a new robust hybrid-meta-heurist featur select model name as cseo fs model as to improv the accuraci of ser task and also reduc the burden of comput capabl
+in this studi we investig the perform of the propos approach use speech-bas emot data-set such as emodb and ravdess which are primarili use in the develop of human-comput interact system
+the experiment result confirm the superior of the propos featur select in term of classif accuraci precis f1-score and number of select featur
+compar to state-of-the-art featur select method for ser system our experiment result show us achiev 94.35% and 96.78% high-level emot recognit rate respect .

@@ -1,0 +1,11 @@
+a chaot adapt butterf optim algorithm
+butterf optim algorithm is a pop intellig optim algorithm which is easy to fal into loc optim and has low search acc
+in thi pap a chaot adapt butterf optim algorithm cabo is propos
+first the kent map is us to init the loc of individ butterf and increas the divers of init pop
+second adapt switch prob is introduc in search phas to bal loc search and glob search phas
+then the adapt weight coefficy is introduc to adjust the search direct and the mov step of the individ butterf to improv the converg spee and acc of the algorithm
+fin cauchy vary is carry out to guid the adv direct of the pop and avoid fal into loc optim
+in thi pap the algorithm is us to obtain the optim valu of 12 benchmark test funct and is apply to the design of weld beam
+expery result show that the perform of the improv algorithm has sign adv ov oth comparison algorithm in the funct optim expery the av optim valu is improv by 99% comp with the origin algorithm and about 90% comp with oth improv algorithm
+meanwhil the algorithm propos in thi pap obtain the optim valu of al funct and has high efficy
+comp with oth ex optim algorithm cabo has bet converg perform and certain competit and has certain adv in the apply field .

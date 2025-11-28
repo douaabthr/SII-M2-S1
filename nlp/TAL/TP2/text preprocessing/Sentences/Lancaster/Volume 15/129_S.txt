@@ -1,0 +1,7 @@
+minim landmark for robot loc in orthogon environ
+robot loc is on of the most funda problem in mot plan with many import apply in track vehic and rout system
+on way for loc the robot is tril which is us in the environ without gps antenn by us a numb of sign that can be meas their dist to robot at any tim
+it has already been shown that lfloor frac 8n 9 rfloor landmark ar sufficy for tril a simpl n-side
+lat as a bet result it has been prov that lfloor frac 2n 3 rfloor landmark ar sufficy for thi purpos
+in thi pap we discuss the problem for orthogon polygon and show that frac n 2 landmark suff for tril an orthogonaln-gon
+thi theoret achiev is import for most evolv algorithm and neuro-computing techn which nee mor speedup and high efficy .

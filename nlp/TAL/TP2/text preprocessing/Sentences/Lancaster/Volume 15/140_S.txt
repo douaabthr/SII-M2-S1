@@ -1,0 +1,9 @@
+lung diseas id method bas on caps neur network
+in the autom id of les aim at the misdiagnos of the lung nod siz shap blood vessel and oth lung tissu on ct im of pneumon thi pap propos a method for ident lung diseas bas on caps neur network
+consid that the text feat of lung ct im contain import med inform thi artic first combin gray av entrop fract dimend and fract interceiv to form feat vect as text feat and introduc context model to obtain context inform
+the lbg algorithm was us to achiev context quant and the ct im of lung wer preprocess
+then for the problem of less ct im dat of lung and few feat of lung diseas in thi pap the ex im ar enh and the dat set is expand
+fin in the recognit process of pneumon the charact pos inform wil affect the recognit
+in ord to solv thi problem thi pap us a caps neur network to ident and detect lung ct im
+the apply result show that the acc rat of ident lung diseas by caps neur network is 98.7%
+comp with tradit convolv network caps neur network can bet ident lung diseas .

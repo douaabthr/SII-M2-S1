@@ -1,0 +1,9 @@
+fusion model base on entropi by use optim dcnn and iter seed for multilan detect
+the recent progress in the dsas led to the progress of advanc lane detect system for prevent accid
+the inform about the lane is detect which is use for the vehicl control and provid warn to the driver
+this paper propos the multi-lan detect base on an entropy-bas fusion approach
+the main use of the propos model for combin the result obtain by the ew-csa base dcnn and iter seed base on region for provid effici multilan detect
+initi the lane are detect use a deep learn techniqu that is train use an optim algorithm ew-csa
+similar the approach name segment base on region is use for the detect of multi-lan
+depend on the result of the two approach an fusion model base on entropi is propos for make the best result base on a pre-defin threshold
+the propos method perform is evalu base on the metric such as specif accuraci and sensit which outperform with valu 0.887 0.991 and 0.992 respect .

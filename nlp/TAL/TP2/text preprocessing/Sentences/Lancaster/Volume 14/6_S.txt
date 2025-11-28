@@ -1,0 +1,8 @@
+paramet tun of a quadrot pid control by us nature-inspired algorithm
+thi pap aim to investig the control of a quadrot by pid control
+the mathem model is der from eul lagrang approach
+due to nonlinear coupl and under-actuation constraint the model impos difficul to gen it control by us class way
+first we hav design a control structure which weak the coupl and permit to develop a dec control
+second in ord to get the optim path track the control paramet wer tun by stochast nature-inspired algorithm genet algorithm evolv strategies diff evolv and cuckoo search
+a comparison study between thes algorithm accord to the path track is carry out by impl sim und matlab/simulink
+the result show the efficy of the propos strategy wher the optim algorithm achiev good perform with a slight diff between the ind techn .

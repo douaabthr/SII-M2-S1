@@ -1,0 +1,8 @@
+Tree optimization algorithm TOA a novel metaheuristic approach for solving mathematical test functions and engineering problems
+This study presents a new metaheuristic optimization algorithm named Tree Optimization Algorithm TOA for solving mathematical benchmark functions and engineering problems
+This algorithm which is inspired from the growth of trees starts from a random initial population and improves their performance according to the growth pattern of trees
+Indeed the purpose of this new optimization method is to find the highest leaf of a tree by utilizing the position of the best leaf and also replacing yellow dried leaves by new random fresh green ones
+These strategies prevent the algorithm from the premature convergence and getting stuck in local minima
+This modern optimization method is evaluated by solving several mathematical test functions and a real world constrained design problem
+The obtained results are compared with those of some prominent evolutionary algorithms introduced in the literature
+The numerical and simulation results verify the superiority of the TOA in terms of the solution accuracy and the convergence speed .

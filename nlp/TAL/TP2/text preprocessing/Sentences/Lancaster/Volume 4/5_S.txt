@@ -1,0 +1,13 @@
+study the apply of ant colony optim and riv form dynam to the stein tre problem
+riv form dynam rfd rab et al
+in us riv form dynam to design heur algorithm
+in unconv comput uc 07 lncs 4618
+springer pp 163 177,2007 rab et al
+in apply riv form dynam to solv np-complete problem
+in chiong r ed nature-inspired algorithm for optim volum 193 of study in comput intellig
+springer pp 333 368,2009 is a heur optim algorithm bas on cop how wat form riv by erod the ground and deposit sedy
+we apply thi method to solv thestein tre problem stp a well-known np-hard problem hav apply to area lik telecommun rout or vlsi design among many oth
+we show that the grady ory of rfd mak it espec suit for solv thi problem and we report the result of sev expery wher rfd as wel as an impl of colony optim aco dorigo in ant colony optim
+mit press new york 2004 ar apply to som benchmark graph from the steinlib testdat libr koch in steinlib testdat libr
+techn report konrad-zuse-zentrum für informationstechnik berlin 2009
+we also study the cap of rfd and aco to deal with a scenario wher the graph is modifiedafter solv is found and next a solv for the new graph has to be found eith by run the algorithm from scratch or by adapt the structures prevy form by the algorithm to construct their prevy solv .

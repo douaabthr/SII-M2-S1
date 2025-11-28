@@ -1,0 +1,41 @@
+2 contriantes ligne et digonale
+
+
+--ligne:
+all different --> predéfini
+
+--diagonal ascendante 
+l equation de cette droit y=x+cette
+
+we have 2 reines Ri and Rj
+if theyre in same diagonale :
+
+R(i,Xi) --> Xi=i+c
+R(j,Xj) --> Xj=j+c
+
+
+so Xi-Xj=i-j
+
+but we want Xi-Xj=/=i-j --> this la contriantes
+
+--diagonale descendante : same but -x+c
+
+
+
+
+label--> instancier ????????????? mettre la solution dans Vars
+
+
+
+
+execution
+
+
+ nReines([1,1,1,1],4).
+false.
+
+
+
+nReines(Vars,4)
+|    .
+Vars = [2, 4, 1, 3] .

@@ -1,0 +1,11 @@
+visual topic model for healthcar data cluster
+social media is a great sourc to search health-rel topic for envisag solut toward healthcar
+topic model origin from natur languag process that is receiv much attent in healthcar area becaus of interpret and it decis make which motiv us to develop visual topic model
+topic model are use for the extract of health topic for analyz discrimin and coher latent featur of tweet document in healthcar applic
+discov the number of topic in topic model is an import issu
+sometim user enabl an incorrect number of topic in tradit topic model which lead to poor result in health data cluster
+in such case proper visual are essenti to extract inform for identifi cluster trend
+to aid in the visual of topic cloud and health tendenc in the document collect we present hybrid topic model techniqu by integr tradit topic model with visual procedur
+we believ propos visual topic model viz . visual non-neg matrix factor vnmf visual latent dirichlet alloc vlda visual intjnon-neg matrix factor vintjnmf and visual probabilist latent schemat index vplsi are promis method for extract tendenc of health topic from variou sourc in healthcar data cluster
+standard and benchmark social health dataset are use in an experiment studi to demonstr the effici of propos model concern cluster accuraci ca normal mutual inform nmi precis p recal r f-score f measur and comput complex
+vnmf visual model perform significantli at an increas rate of 32.4% under cosin base metric in the display of visual cluster and an increas rate of 35 40% in perform measur compar to other visual method on differ number of health topic .

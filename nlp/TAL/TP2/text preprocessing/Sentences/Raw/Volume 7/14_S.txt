@@ -1,0 +1,7 @@
+An evolutionary cognitive architecture made of a bag of networks
+A cognitive architecture is presented for modelling some properties of sensorimotor learning in infants namely the ability to accumulate adaptations and skills over multiple tasks in a manner which allows recombination and re-use of task specific competences
+The control architecture invented consists of a population of compartments units of neuroevolution each containing networks capable of controlling a robot with many degrees of freedom
+The nodes of the network undergo internal mutations and the networks undergo stochastic structural modifications constrained by a mutational and recombinational grammar
+The nodes used consist of dynamical systems such as dynamic movement primitives continuous time recurrent neural networks and high-level supervised and unsupervised learning algorithms
+Edges in the network represent the passing of information from a sending node to a receiving node
+The networks in a compartment operate in parallel and encode a space of possible subsumption-like architectures that are used to successfully evolve a variety of behaviours for a NAO H25 humanoid robot .

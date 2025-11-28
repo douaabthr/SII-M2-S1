@@ -1,0 +1,11 @@
+Joint opposite selection enhanced Mountain Gazelle Optimizer for brain stroke classification
+A significant cause of death and long-term disability globally is brain stroke
+Stroke falls into one of two categories 1 ischemic which accounts for roughly 85% of cases when it is caused by abrupt cessation of blood supply to a particular area of the brain and 2 hemorrhagic which refers to bleeding or blood leakage
+To provide stroke patients with individualized therapeutic care meta-heuristic algorithms make accurate and timely predictions
+The use of meta-heuristic algorithms and machine learning in the healthcare sector is growing
+A new meta-heuristic algorithm called the Mountain Gazelle Optimizer MGO was developed in part as a result of wild mountain gazelles social structure but suffered from slow convergence speed
+Consequently a modified MGO mMGO approach uses the joint opposite selection operator which combines the selective leading opposition and the dynamic opposite learning approaches to improve MGO
+The purpose of this study is to evaluate the performance of mMGO based on the k-nearest neighbor kNN classifier in predicting brain stroke in data sets taken from Kaggle
+Performance was assessed on the challenging CEC 2020 benchmark test functions
+Compared to seven well-known optimization algorithms the statistical results demonstrated the superiority of mMGO
+Furthermore the experimental results of mMGO-kNN for categorizing brain stroke data sets revealed that it outperformed competitors in all data sets with an overall accuracy of 95.5% a sensitivity of 99.34% a specificity of 98.99% and a precision of 99.21% .

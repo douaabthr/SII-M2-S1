@@ -1,0 +1,11 @@
+hybrid encrypt framework for secur big data storag in multi-cloud environ
+in the present scenario big data is face mani challeng regard the data storag data theft and unauthor access
+mani research are concentr on develop the secur mechan for big data storag
+to overcom the abov issu this paper concentr on develop the encrypt algorithm for store big data in the multi cloud storag
+the multi cloud storag environ permit the user to store the data in to differ cloud storag servic
+this paper aim to develop the secur framework which restrict the insid attack
+the propos framework contain data upload slice index encrypt distribut decrypt retriev and merg process
+the hybrid encrypt algorithm was develop to provid the secur to the big data befor store it in to the multi cloud
+the simul analysi is carri with real time cloud storag environ
+the propos algorithm record around 2630 kb/s for the encrypt process
+the result prove the superior of the propos algorithm compar to the bench mark algorithm .

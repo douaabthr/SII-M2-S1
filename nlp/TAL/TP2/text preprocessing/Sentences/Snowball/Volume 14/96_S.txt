@@ -1,0 +1,8 @@
+the hub locat s method for solv optim control problem
+in this paper the p-hub median s algorithm is modifi to find an approxim solut of bound continuous-tim nonlinear optim control problem nocp
+for this purpos after present the similar between uncapacit singl alloc p-hub median problem usaphmp which is a special case of the well-studi hub locat problem and a discret form of nocp an improv on sequenti general variabl neighborhood search algorithm sgvns is propos
+this algorithm that denot as new-sequenti general variabl neighborhood search n-sgvns is base on three local search that use effici neighborhood interchang
+in addit compar the nocp with the usaphmp has led us to introduc a suitabl method to find an approxim solut for nocp
+our result of the implement of the n-sgvns on the real-world data set for the usaphmp show the high accuraci of the obtain solut
+becaus of the propos algorithm is abl to solv the usaphmp success we hope that this method would also be success for nocp
+solv of benchmark nocp and then compar the result of the n-sgvns with recent develop algorithm suggest that the present strategi may provid an outstand framework for design cost-effect control function .

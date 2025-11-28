@@ -1,0 +1,9 @@
+Mutation probability-based lion algorithm for design and optimization of microstrip patch antenna
+The advantages and performance of microstrip patch antennas MPA namely reduced weight reduced profile and reduced cost formulate them the ideal choice for communication networks
+However the difficulties in structure size and design remain a major concern
+Hence this paper aims to propose a new model that derives a nonlinear objective model for helping in the design of solution space of antenna parameters
+To attain this it is planned to incorporate the optimization concept thereby a new mutation probability based lion algorithm MP-LA which is proposed for the tuning MPA constraints
+The main objective model of the antenna design is to maximize the gain by optimizing the patch length width thickness of substrate and value of dielectric substrate
+After executing the simulation model this paper compares the performance of proposed MP-LA-based antenna design with numerous conventional approaches namely antenna design without optimization artificial bee colony-based AD genetic-based AD firefly-based AD part icle swarm optimization-based AD and grey wolf optimization-based AD proposed GWO-based AD and lion optimization algorithm-based AD
+Moreover the analysis is done with respect to radiation pattern E-plane and H-plane of proposed and conventional antenna designs
+Other performance analysis on characteristics impedance directivity efficiency and gain of proposed and conventional models is done .

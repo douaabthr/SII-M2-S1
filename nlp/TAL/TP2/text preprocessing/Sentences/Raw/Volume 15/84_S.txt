@@ -1,0 +1,15 @@
+Optimization based routing model for the dynamic path planning of emergency vehicles
+With the increasing number of traffic vehicles and urbanization the frequencies of traffic accidents are growing exponentially
+The research for routing emergency vehicles has gained significant attention in Vehicular Ad hoc Network VANET topology
+The path planning for an emergency vehicle can avoid congestion and minimize the travel time to prevent accidents
+Thus this work proposes a dynamic path planning scheme for routing emergency vehicles
+At first the VANET is simulated and the dynamic path planning is performed after the arrival of emergency vehicles
+The proposed dynamic path planning includes two steps namely travel-time forecasting and bi-model routing
+The travel time is predicted using the Support Vector Regression model and the bimodal is employed to route the emergency vehicles optimally
+The bimodal consists of two steps such as K-path discovery and optimal path selection process
+Initially the possible K shortest path is detected from which the optimal path is selected by the proposed Exponential Bird Swarm Optimization Algorithm Exp-BSA
+The proposed Exp-BSA algorithm is designed by integrating the Exponentially Weighted Moving Average concept in Bird Swarm Algorithm BSA
+Thus the proposed Exp-BSA determines the optimal paths based on the devised fitness function and the selected paths are suggested to emergency vehicles for faster routing
+The performance of the proposed dynamic path planning for an emergency vehicle based on Exp-BSA is evaluated using three simulation setups based on the metrics such as distance average traffic density average speed and travel time
+Also the performance of the proposed method is compared with the existing methods such as SFLA-KC K-Path and BSA
+From the results it is exposed that the proposed Exp-BSA method achieves the overall best performance than the existing methods with a minimal distance of 48.404 m an average traffic density of 0.015 min an average speed of 1.392 m/s travel time of 19.608 s.

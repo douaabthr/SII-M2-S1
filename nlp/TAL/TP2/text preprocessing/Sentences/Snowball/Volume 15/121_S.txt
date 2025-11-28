@@ -1,0 +1,8 @@
+mutat base test generat use search base social group optim approach
+mutat base test generat is a popular and effect process for creat the test suit that is apprais for it calib over a pool of artifici fault
+these artifici fault can be infus by impos mutagen rule that further assist meta-heurist techniqu for search the evolv test suit in search space
+meta-heurist techniqu switch between multipl solut in search space and result in an optim solut
+this paper implement and present a new test set generat algorithm sgo-mt by embrac a recent develop search base approach social group optim algorithm sgo for expos numer artifici fault in the softwar
+it work on the principl of human learn natur from societi and a teacher in the group
+the efficaci of the propos approach is measur on thirteen java program wide use in academia
+the result demonstr the good perform for find the simpl and stubborn fault .

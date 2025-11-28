@@ -1,0 +1,7 @@
+Hybrid approach based on cuckoo optimization algorithm and genetic algorithm for task scheduling
+One of the most important issues in designing efficient scheduling algorithms in heterogeneous distribution systems is the reduction of execution time
+In the proposed algorithm the modified operators of the cuckoo optimization algorithm and the genetic algorithm are used to achieve a relatively optimal solution with fewer repetitions of the genetic algorithm and less execution time than the cuckoo optimization algorithm
+The most important innovation in the proposed algorithm is the introduction of a new operator called spiral search which increases the variety among the samples produced in each generation
+The main idea of this operator is to replace linear search with the spiral search which allows local search between similar schedules and accelerates the achievement of a relatively optimal answer
+Also the multi objective function in the proposed algorithm is used to minimize makespan and maximize parallelization
+The results obtained from the proposed algorithm on a large number of standard graphs with a various range of attributes show that it is superior to the other task scheduling algorithms .

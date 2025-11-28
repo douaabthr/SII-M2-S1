@@ -1,0 +1,10 @@
+An efficient approach for sentiment analysis using machine learning algorithm
+Sentimental analysis determines the views of the user from the social media
+It is used to classify the content of the text into neutral negative and positive classes
+Various researchers have used different methods to train and classify twitter dataset with different results
+Particularly when time is taken as constraint in some applications like airline and sales the algorithm plays a major role
+In this paper an optimization based machine learning algorithm is proposed to classify the twitter data
+The process was done in three stages
+In the first stage data is collected and preprocessed in the second stage the data is optimized by extracting necessary features and in the third stage the updated training set is classified into different classes by applying different machine learning algorithms
+Each algorithm gives different results
+It is observed that the proposed method i.e. sequential minimal optimization with decision tree gives good accuracy of 89.47% compared to other machine learning algorithms .

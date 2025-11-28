@@ -1,0 +1,11 @@
+detect of parkinson s diseas from handwrit use deep learn a compar studi
+degen disord such as parkinson s diseas pd have an influenc on daili activ due to rigid of muscl tremor or cognit impair
+micrographia speech intens and defici generat of voluntari saccad eye movement pretegiani and optican in front neurol 8 592 2017 are manifest of pd that can be use to devis noninvas and low cost clinic test
+in this context we have collect a multimod dataset that we call parkinson s diseas multi-mod collect pdmultimc which includ onlin handwrit speech signal and eye movement record
+we present here the handwrit dataset that we call handpdmultimc that will be made public avail
+the handpdmultimc dataset includ handwrit sampl from 42 subject 21 pd and 21 control
+in this work we investig the applic of various deep learn architectur name the cnn and the cnn-blstm to pd detect through time seri classif
+various approach such as spectrogram have been appli to encod pen-bas signal into imag for the cnn model while the raw time seri are direct use in the cnn-blstm
+in order to train these model for pd detect on larg scale data various data augment approach for pen-bas signal are propos
+experiment result on our dataset show that the best perform for earli pd detect 97.62% accuraci is reach by a combin of cnn-blstm model train with jitter and synthet data augment approach
+we also illustr that deep architectur can surpass the model train on pre-engin featur even though the avail data is small .

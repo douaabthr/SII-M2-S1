@@ -1,0 +1,8 @@
+flower pollin algorithm with pollin attract
+the flower pollin algorithm fpa is a highli effici optim algorithm that is inspir by the evolut process of flower plant
+in the present studi a modifi version of fpa is propos account for an addit featur of flower pollin in natur that is the so-cal pollin attract
+pollin attract repres the natur tendenc of flower speci to evolv in order to attract pollin by use their colour shape and scent as well as nutriti reward
+to reflect thi evolut mechan the propos fpa variant with pollin attract fpapa provid fitter flower of the popul with higher probabl of achiev pollen transfer via biotic pollin than other flower
+fpapa is test against a set of 28 benchmark mathemat function defin in ieee-cec 13 for real-paramet single-object optim problem as well as structur optim problem
+numer experi show that the modifi fpa repres a statist signific improv upon the origin fpa and that it can outperform other state-of-the-art optim algorithm offer better and more robust optim solut
+addit research is suggest to combin fpapa with other modifi and hybrid version of fpa to further increas it perform in challeng optim problem .

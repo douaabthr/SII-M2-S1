@@ -1,0 +1,11 @@
+An efficient method for group key management in Internet of Things using machine learning approach
+Internet of Things IoT represent a network of pervasive devices with different characteristics and features
+It is important to provide security in IoT as Internet plays a prominent role in the communication process
+In this paper a novel group and hierarchical group key management scheme is proposed
+The devices are found into groups and placed into various levels of hierarchy
+The group leader shares a key to the members in the group and the key needs to be updated based on the entry and exit of the members into and out of the groups
+Also the machine learning techniques are used to make the system adapt to the provision of the keys to the devices which enter into the group
+Incremental Gaussian Mixture Model is used to determine whether the particular device belong to the group or not
+The proposed algorithm machine learning based group and hierarchical key management is simulated and compared with the group and hierarchical key management scheme for solving security problems in IoT in terms of throughput and delay with varying no
+of groups and overall cost with respect to no
+of nodes and mobility speed .

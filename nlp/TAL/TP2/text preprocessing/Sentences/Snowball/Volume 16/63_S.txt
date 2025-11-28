@@ -1,0 +1,9 @@
+communic effici optim in feder learn base on multi-object evolutionari algorithm
+feder learn is an emerg technolog that can effect safeguard person inform
+as oppos to tradit central learn feder learn can avoid data share while maintain global model train
+howev in the process of updat the global model it will consum huge client communic resourc which hinder the wide applic of this technolog
+to reduc the communic overhead without serious reduc the accuraci of the global model under the feder learn framework we use decomposit base multi-object optim algorithm moea/d to optim the structur of the global model
+for the structur of the global model a high scalabl code method is use for code which improv the effici of the evolutionari neural network
+as a comparison we use the non-domin sort genet algorithm ii nsga ii to optim the problem under the same condit and verifi the effect of both algorithm accord to the obtain pareto solut
+we verifi that moea/d has better converg when use multilay and convolut neural network as the global model
+overal moea/d can further strengthen the structur optim of the feder learn model and reduc communic cost .

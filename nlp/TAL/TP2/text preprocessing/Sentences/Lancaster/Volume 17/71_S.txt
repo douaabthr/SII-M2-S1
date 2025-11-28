@@ -1,0 +1,9 @@
+a robust feat select method bas on meta-heuristic optim for speech emot recognit
+most of the tradit feat select method do not show effect perform on speech emot recognit system
+on of the rec adv in the feat select is us meta-heuristic optim algorithm
+individ each algorithm play a key rol in many speech process bas apply
+howev hybrid meta-heuristic ar on most impress techn in the field of feat select and optim problem
+hent in thi pap propos a new robust hybrid-meta-heuristic feat select model nam as cseo fs model as to improv the acc of ser task and also reduc the burd of comput cap
+in thi study we investig the perform of the propos approach us speech-based emot data-sets such as emodb and ravdess which ar prim us in the develop of human-computer interact system
+the expery result confirm the supery of the propos feat select in term of class acc precid f1-score and numb of select feat
+comp to state-of-the-art feat select method for ser system our expery result show us achiev 94.35% and 96.78% high-level emot recognit rat respect .

@@ -1,0 +1,11 @@
+a cloud model bas symbiot org search algorithm for dg alloc in rad distribut network
+rec metah algorithm hav becom popul in solv dg plac problem due to it adv of simpl impl and abl to find the near optim solv for complex and large-scal optim problem
+symbiot org search sos is on of the latest metah algorithm introduc to solv dg plac problem
+unlik many oth metah algorithm sos is simpl to impl and doe not us any control paramet which lead to enh perform stabl
+howev lik oth optim algorithm sos suff with loc optim and stagn which affect it acc and converg espec in solv real world problem lik dg plac problem
+thi work attempt to enh perform of sos by combin with cloud-bas model
+the propos algorithm is nam cloud bas model symbiot org search cmsos
+in cmsos cloud-bas the hav been us to gen random numb op in mut phas of the origin sos
+to assess the perform of cmsos in solv optim problem 26 benchmark funct with diff dimend hav been us
+the perform of the propos algorithm has been test for real world dg plac problem
+the perform analys such as stat converg and complex meas show supery of the propos algorithm comp to the study algorithm .

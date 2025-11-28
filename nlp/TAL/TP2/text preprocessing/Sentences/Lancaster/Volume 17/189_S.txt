@@ -1,0 +1,11 @@
+extend wat wav optim ewwo techn a propos approach for task scheduling in iomt and healthc apply
+the internet of med thing iomt is a vert of the internet of thing
+it is get the at of research becaus it can be us in a wid rang of smart healthc system
+on of the main adv employ rec is the iomt-cloud which allow us to access cloud serv remot ov the internet
+thes cloud serv requir an efficy task scheduling approach that satisfy the qual of serv paramet with a low energy consum
+thi pap pres an overview of the integr of iomt and cloud comput technolog
+besid thi work propos an efficy extend wat wav optim ewwo task scheduling in the iomt cloud for healthc apply
+ewwo algorithm perform bas on it op prop refract and break
+the propos ewwo scheduling techn minim the energy consum makesp tim execut tim and increas the resourc util
+cloudsim sim is us to sim the iomt-cloud environ to ver the effect of ewwo techn
+the perform has been evalu bas on vary paramet such as energy consum makesp tim and execut tim .

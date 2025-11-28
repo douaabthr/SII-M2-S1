@@ -1,0 +1,6 @@
+research and applic of ahp-fuzzi comprehens evalu model
+ahp refer to the decis make method that decompos the element that are alway relat to decision-mak into level of object criteria scheme etc . and conduct qualit and quantit analysi on thi basi
+fuzzi comprehens evalu method is a comprehens evalu method base on fuzzi mathemat which convert qualit evalu into quantit evalu accord to the membership theori of fuzzi mathemat
+in thi paper yaahp softwar is use for weight calcul and consist test of ahp and sensit analysi is also carri out
+the fuzzi comprehens evalu method is use to determin the evalu index set and the fuzzi comment set and the evalu model is construct by fuzzi synthesi
+on thi basi the empir analysi is carri out .

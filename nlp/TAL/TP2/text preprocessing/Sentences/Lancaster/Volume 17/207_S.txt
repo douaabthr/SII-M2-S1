@@ -1,0 +1,14 @@
+the oyst collect algorithm
+thi artic focus on the develop of metah algorithm bas on the search process and collect of the oyst liv or non-living from the sea bed in the day tim
+in the coast belt dur tid oyst ar push by the wat wav and gath in spec plac on the sea bed
+for liv oyst they ar gen found in the cold-water reg but for non-living shel they can be found anywh in the sea bed depend on the blow of the wind and the path of the wat wav
+sint oyst hav many econom valu becaus indo dec orna and gift pack etc
+ar mad us thes sea shel peopl from coast zon us collect them and plan for on of the best job trad in their soc lif
+inspir from the nat of the collect proc of the shel we construct mathem funct of the search path along which it can be avail mor
+util thi proc into the field of optim we hav found som nobl result of a benchmark problem
+bas we fit an appropry test funct for a benchmark problem then som num expery result ar comput via oyst collect algorithm
+a comp study has also been mad to valid the propos approach
+moreov consid the norm of the dat we hav study confid interv and analys stat for the glob acceiv of the method
+it is also seen that the root mean squ er rmse for our propos algorithm is 0.004007 and that for the oth ex algorithm it becom 0.007015
+thi giv the excel success rat in the field of optim with respect to oth al the tim
+indee the graph illust show the eff of the propos algorithm and fin a conclud is mad about keep som scop for fut work .

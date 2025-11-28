@@ -1,0 +1,11 @@
+Hybrid encryption framework for securing big data storage in multi-cloud environment
+In the present scenario big data is facing many challenges regarding the data storage data theft and unauthorized access
+Many researchers are concentrated on developing the security mechanism for big data storage
+To overcome the above issue this paper concentrated on developing the encryption algorithm for storing big data in the multi cloud storage
+The multi cloud storage environment permits the user to store the data in to different cloud storage services
+This paper aims to develop the secure framework which restricts the insider attacks
+The proposed framework contains data uploading slicing indexing encryption distribution decryption retrieval and merging process
+The hybrid encryption algorithm was developed to provide the security to the big data before storing it in to the multi cloud
+The Simulation analysis is carried with real time cloud storage environments
+The proposed algorithm recorded around 2630 KB/S for the encryption process
+The results prove the superiority of the proposed algorithm compared to the bench mark algorithms .

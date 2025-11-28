@@ -1,0 +1,8 @@
+self-adaptive learn for hybrid genet algorithm
+loc search can be introduc into genet algorithm to cre a hybrid but any improv in perform is depend on the learn mech
+in the lamarck model a candid solv is replac by a fit neighbo if on is found by loc search
+in the baldwin model the origin solv is retain but with an upgrad fit if a fit solv is found in the loc search spac
+the effect of us eith model or a vary proport of the two within a hybrid genet algorithm is affect by the topolog of the fit funct and the detail of the hybrid algorithm
+thi pap investig an intellig adapt approach to decid on the learn mech to be us by an individ ov the cours of the search
+evolv is us to self-adapt both the frequ of a steepest-desc loc search and the rel proport of lamarck and baldwin inherit
+expery hav shown that thi form of adapt learn can improv the abl to find high-quality solv and can accel the hybrid search without the nee to find optim control paramet for the learn process .

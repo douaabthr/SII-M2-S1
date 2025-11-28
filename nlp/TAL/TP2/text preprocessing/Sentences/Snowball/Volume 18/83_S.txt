@@ -1,0 +1,8 @@
+bezier-bas explor and hexagon crossov exploit a novel metaheurist approach
+this paper present a novel metaheurist algorithm aim at address the ineffici of convent approach that use a singl oper and uniqu popul to handl both explor and exploit
+to achiev a more effect search process the algorithm introduc a structur popul that is divid into two distinct group explor xpl and exploit exp . xpl agent perform global explor by follow complex trajectori generat from random select bézier function promot divers and comprehens coverag of the search space
+in contrast the exp agent are respons for local refin updat their posit through a special hexagon crossov oper
+this oper generat new candid solut within a hexagon-shap region by incorpor inform from other high-qual individu in the popul
+by integr these two mechan each dedic to either explor or exploit the algorithm enhanc it abil to focus on promis region while maintain global divers
+the propos method was compar with sever state-of-the-art metaheurist use a suit of shift function specif design to challeng center-bias strategi
+the experiment result demonstr that the algorithm consist produc a superior solut qualiti and faster converg while effect avoid the typic flaw of center-bias method .

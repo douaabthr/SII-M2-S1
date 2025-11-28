@@ -1,0 +1,12 @@
+multi-sensor target track algorithm combin nod energy plan and distribut collab
+the tradit target track algorithm can on util the inform of a singl sens and cannot ful util the adv of multipl sens
+to address thi issu thi study design a multi-sensor target track algorithm bas on nod capac plan and distribut collab
+first aim at the problem of distribut track apply in multi-sensor network a wireless sens target track algorithm bas on nod energy constraint is construct
+by construct a nod track model the energy consum is reduc accord to the distribut connect network and nod plan is introduc
+then for sens network with limit energy a nod plan algorithm us convex relax method is develop to solv complex integ program problem
+fin in view of the vary complex problem ex in the sens network a distribut soc learn algorithm bas on it own dat and neighb decision-making is est
+thi algorithm ultim improv the perform of the multi-sensor target track algorithm by transmit decid about environ stat
+the result demonst that in the converg comparison between the trackingnet dataset and the mot 15 dataset the converg of research algorithm beg to stabl when the system was it 106 and 48 tim respect
+in addit when the system it to 200 and 157 tim the er of the algorithm slow beg to level off and was at a smal valu
+the abov result show that the research algorithm has achiev bet perform in multi-sensor target track task
+it can bet handl the rel between target and improv the effect of target track .

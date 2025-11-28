@@ -1,0 +1,7 @@
+A critical discussion into the core of swarm intelligence algorithms
+The literature is now filled with swarm intelligence algorithms developed by taking inspiration from a number of insects and other animals and phenomena such as ants termites bees fishes and cockroaches to name just a few
+Many if not most of these bioinspirations carry with them some common issues and features which happen at the individual level promoting very similar collective emergent phenomena
+Thus despite using different biological metaphors as inspiration most algorithms present a similar structure and it is possible to identify common macro-processes among them
+In this context this paper identifies a set of common features among some well-known swarm-based algorithms and how each of these approaches implement them
+By doing this we provide the community with the core features of swarm-intelligence algorithms
+This diagnostic is crucial and timely to the field because once we are able to list and explain these commonalities we are also able to better analyze and design swarm intelligence algorithms .

@@ -1,0 +1,10 @@
+adv ceemd hybrid model for vix forecast optim decid tre and arim integr
+thi study focus on the tim sery analys and forecast of the volatil index vix dat in the unit stat
+we employ the complet empir mod decomposit ceemd method to decompos the origin vix dat into sev intrins mod funct imf
+subsequ each imf determin it station us the aug dickey-fuller adf test
+for stat imf an autoregress integr mov av arim model was built whil non-stationary imf wer fit us machin learn regress algorithm
+the sum of the predict valu of al imf was consid as the forecast vix valu
+about the paramet select in machin learn algorithm we employ the optun libr to optim the model s paramet
+we select the paramet that result in the lowest mean squ er mse on a valid set to be the optim model paramet
+apply thi methodolog we found that our hybrid model has gre predict cap comp to simpl machin learn model when the market fluctu gre
+spec the adaboost model outperform a bas decid tre model and a random forest model in term of mse and mae mean absolv er acc .

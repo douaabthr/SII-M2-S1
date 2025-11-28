@@ -1,0 +1,8 @@
+a cognit mechan for mitig ddos attack use the artifici immun system in a cloud environ
+denial of servic dos and distribut denial of servic ddos attack can larg damag the avail of the cloud servic and can be effect initi by util differ tool prompt financi harm or influenc the reput
+consequ there is a requir for a more ground and general approach to block these attack
+this paper propos the use of artifici immun system to allevi ddos attack in cloud comput by identifi the most potenti featur of the attack
+this methodolog is capabl of detect threat and respond accord to the behavior of the biolog resist mechan in human be
+it is carri out by emul the various immun reaction and the construct of the intrus detect system
+for the assess experi with public domain dataset kdd cup 99 were implement
+base on broad theoret and perform analysi the propos system is capabl to identifi the anomal entri with high detect accuraci and low fals alarm rate .

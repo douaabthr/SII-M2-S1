@@ -1,0 +1,8 @@
+grey wolf optim algorithm bas on dynam adjust inert weight and levy flight strategy
+aim at the problem of slow converg spee low converg acc and easy to fal into loc optim of grey wolf optim algorithm gwo a dynam adjust inert weight and levy flight strategy bas grey wolf optim algorithm dfgwo is propos
+first the strategy of dynam adjust inert weight is introduc to improv the upd method of wolf swarm posit
+at each it the inert weight valu is dynam adjust to bal the glob expl and loc develop and improv the optim acc and converg spee of the algorithm
+second comp with the switch prob the algorithm can perform levy flight with high prob at the begin of the it to increas the pop divers and improv the glob search abl
+third the greedy strategy is introduc to select the solv with optim adapt
+fin to ver the perform of the dfgwo algorithm the sim expery ar carry out on 12 standard test funct and comp with sev oth algorithm
+the expery result show that the dfgwo algorithm has good adv in optim acc converg spee and algorithm stabl .

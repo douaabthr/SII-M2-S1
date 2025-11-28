@@ -1,0 +1,6 @@
+machin learn algorithm for diabet detect a compar evalu of perform of algorithm
+recent machin learn algorithm are wide use for the predict of differ attribut and these algorithm find widespread applic in a varieti of domain
+machin learn in health care has been one of the core area of research where machin learn model are use on the medic dataset to predict differ attribut
+this work provid a compar evalu of differ classic as well as ensembl machin learn model which are use to predict the risk of diabet from two differ dataset i.e. pima indian diabet dataset and early-stag diabet risk predict dataset
+from the compar analysi it is found that the superlearn model provid the best accuraci i. e
+86% for pima indian diabet dataset and it provid 97% accuraci for diabet risk predict dataset .

@@ -1,0 +1,15 @@
+compar analysi of machin learn algorithm for lip print base person identif
+human identif is center on the theori that everi individu is uniqu and has distinct characterist
+various metric like fingerprint dna and retina can be use for this purpos
+nonetheless there is still a need for reliabl altern in order to establish the ident of an individu on occas where the abov techniqu are unavail
+cheiloscopi is a techniqu of identifi an individu base on lip print
+it find applic in medic field predomin in the forens odontolog
+the pattern form on the human lip and it s shape is found to be uniqu for everi individu
+pattern found on the human lip are perpetu unless subject to major trauma or alter
+analog to the exist bio metric lip print can serv the purpos of confirm an individu s ident
+the main object of this work is to design a robust computer-aid system that would identifi an individu sole base on the lip-print and work across divers dataset
+local binari pattern are use to extract the textur base featur from the segment upper and lower lip
+shape relat featur are also extract as a part of the featur extract process
+final the extract featur are classifi use various classifi like support vector machin svm k-nearest neighbour knn ensembl classifi and neural network
+perform of each and everi classifi is analyz
+the classif result show that the featur extract from the upper and the lower lip region can be satisfactorili use to identifi a person uniqu .

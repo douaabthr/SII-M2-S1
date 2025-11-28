@@ -1,0 +1,9 @@
+a gener scheme for cyber secur in resourc constraint network use incomplet inform game
+we propos an onlin learn model that effici teach a defend s agent to learn the attack s behavior while interact in the cyber-world
+thi paper model the interact between these two agent as a stochast game with limit ration
+becaus of thi limit ration the propos model help the defend s agent learn the unknown commun s behavior from the feedback obtain while interact with it
+mani model are built to solv the interact between them by develop a state-ori stochast markov game
+howev such model fail due to the state explos problem and therefor thi paper discuss a model to solv thi game restrict it to a stateless stochast game
+the model is then compar to check the perform with differ algorithm that solv stochast game
+the comparison between them show that the propos algorithm converg to an optim strategi in a brief simul time span
+final our model check the perform with an exist techniqu that show that the propos algorithm choos the correct strategi for around 91% of the simul time compar to 73% of the simul time by the exist algorithm .

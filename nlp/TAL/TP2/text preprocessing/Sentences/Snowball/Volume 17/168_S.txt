@@ -1,0 +1,9 @@
+research on pcb defect detect use artifici intellig a systemat map studi
+smt surfac mount technolog has been the backbon of pcb print circuit board product for the last coupl of decad
+even though the speed and accuraci of smt have been drastic improv in the last decad error dure product are still a veri valid problem for the pcb industri
+with the exponenti rise of artifici intellig in the last decad the smt industri was one of the most eager industri to use this new technolog to detect possibl defect dure product
+late tradit imag process techniqu start to lag behind method such as machin learn and deep learn when the discuss came to the need of high accuraci
+in this paper we screen academ librari to understand which of the latest method and techniqu are use in the domain and to deduc a general process for detect defect in pcbs
+dure the research we have investig research question relat to state-of-the-art method high mention dataset and sought after pcb defect
+all find and answer are map to be abl to understand where this pursuit might point toward
+from a total of 270 paper 90 of them were address in detail and 78 paper were chosen for this systemat map .

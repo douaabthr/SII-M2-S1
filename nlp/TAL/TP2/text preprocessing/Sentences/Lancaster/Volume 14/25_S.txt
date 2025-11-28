@@ -1,0 +1,9 @@
+partic swarm optim with adapt inert weight bas on cum binom prob
+partic swarm optim pso is a pop ory heur num optim algorithm influ by the combin behavy of som bird
+sint it introduc in 1995 a larg numb of vary of pso algorithm hav been introduc that improv it perform
+the perform of the algorithm most rely upon inert weight and optim paramet set
+inert weight bring equ among exploit and expl whil search optim solv within the search reg
+thi pap pres a new improv vert of pso that us adapt inert weight techn which is bas on cum binom prob cbppso
+the propos approach along with four oth pso vary ar test ov a set of ten well-known optim test problem
+the result confirm that the perform of propos algorithm cbppso is bet than oth pso vary in most of the cas
+also the propos algorithm has been evalu on three real-world engin problem and the result obtain ar prom .

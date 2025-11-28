@@ -1,0 +1,9 @@
+Architecture for distributed query processing using the RDF data in cloud environment
+From past decade the advancement in the field of RDF data management poses many challenges to researchers
+Processing large volumes of RDF data is very difficult task in the cloud
+The RDF data actually contains complex graphs along with large number of schemas
+Distributing the RDF data with traditional approaches or partitioning them with conventional mechanism leads to faulty distribution as well as generated large number of join operations
+To address the above issues this paper developed architecture for distributed query processing using the adaptive hash partitioning approach along with hash join operation
+This paper also developed an algorithm for executing the query by minimizing the joins
+This paper presented an evaluation of the proposed model with other standard model
+The experimental results proved that the proposed method had faster response time compared to the other standard models .

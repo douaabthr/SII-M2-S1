@@ -1,0 +1,9 @@
+disparity-augmented traject for hum act recognit
+num method for hum act recognit har hav been propos in the past two decad
+many of thes method ar bas on spars repres which describ the whol video cont by a set of loc feat
+traject as mid-level spars feat ar cap of describ the mov of interest point in two-dimensional 2d spac
+howev 2d traject might be affect by viewpoint chang pot decreas their acc
+in thi pap we first propos and comp diff 2d trajectory-based algorithm for hum act recognit
+then we propos a new way of aug 2d traject with disp inform without the calc of the 3d reconstruct
+our obtain har result hav shown a 2.76% improv when us disparity-augmented traject comp to us class 2d traject inform on
+furtherm we hav also test our method on the challeng hollywood 3d dataset on which we hav obtain competit result at a much fast spee .

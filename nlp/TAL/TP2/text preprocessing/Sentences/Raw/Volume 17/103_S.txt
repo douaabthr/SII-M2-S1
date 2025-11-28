@@ -1,0 +1,9 @@
+Genetic algorithm based approach to solve the Clustered Steiner Tree Problem
+In a complex network application a set of nodes might be partitioned into multiple local clusters with different functions properties or communication protocols and the communication is restricted between nodes of the same cluster to maximize efficiency and other security concern
+Thus there has been a rise in network design problems with additional constraints regarding the clustering of vertices one of them being Clustered Steiner Tree Problem a variant of the Steiner Tree Problem
+Recently a heuristic-based algorithm was proposed to solve the problem
+However its obtained result is limited in terms of solution quality when applied to the problem in the Euclidean case
+This paper proposes a Genetic Algorithm called Shortest-Path Genetic Algorithm for solving the CluSteiner
+In the proposal a permutation-based individual representation that reduces the dimensionality of chromosomes to the number of clusters is devised
+The proposed algorithm can solve the problem in both Euclidean and non-Euclidean cases
+Experiment results compared to existing works in the literature are analyzed in detail to prove the effectiveness of the proposed algorithm .

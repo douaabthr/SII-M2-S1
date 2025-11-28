@@ -1,0 +1,6 @@
+research on effect jam style of projectile-carri commun for fh commun radio under common modul system
+thi work address the effect jam style of projectile-carri commun for frequenc hop radio with differ modul by appli simul verif via opnet platform to construct the projectile-carri commun jam system model
+a gener projectile-carri commun jam style base on the signal combin of sweep saw-tooth wave and nois frequenc modul is propos and analyz
+the network model of projectile-carri commun jam system is construct and then the model build process of frequenc hop radio from the two aspect of transmitt model and receiv model is deepli elabor
+we demonstr that the gener projectile-carri commun jam style ha good jam effect on the frequenc hop radio receiv with five modul mode of 2fsk 2psk 2dpsk msk and gmsk by compar the simul result includ receiv throughput end-to-end delay time delay of wireless channel access deliveri rate of synchron header messag signal-to-nois ratio bit error rate packet loss rate remain power of jammer
+among them the bit error rate of radio receiv with five modul mode is more than 20% .

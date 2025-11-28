@@ -1,0 +1,9 @@
+a gen trust est model architect for design robust trust est model
+the intellig ag that pop multi-agent system mass can exhibit vary behavio depend on their design and the environ in which they resid
+thu trust must be abl to adapt how they interact with trust to ens that the trust ar trust in the environ
+to accompl thi vary trust est model hav been propos to allow trust to adjust their behavio to becom mor trustworthy toward the trust in an environ
+by us a gen trust est model architect model can be design for vary domain and assum along with the includ of a new preprocess mod that allow for both transaction-level preprocess and trustor-level postprocess
+the propos architect is design to be compat with both ex and new model
+a simpl yet robust trust est model us thi architect cal the gen trust est model gtem is defin to exhibit the benefit from us a gen architect with preprocess
+through sim with and without the preprocess mod in gtem along with us two addit trust est model the architect is shown to provid mor fine-tuned result when us the preprocess mod
+gtem us the preprocess mod achiev a high good transact rat and high av direct trust fast than oth model within the environ .

@@ -1,0 +1,9 @@
+evolv approach for the weight anti-covering loc problem
+giv a set of pot facil loc sit along with a posit weight assocy with each sit as per it import the anti-covering loc problem aclp is about loc a set of facil at som of thes pot loc such that no two facil ar clos than a giv dist from each oth and sum of weight of chos loc is as larg as poss
+thi mathc np hard problem has sev import real-world apply such as telecommun equip sit loc milit unit loc franch outlet loc obnoxy facil forest man and dna sequ match
+ther ar weight and unweight vert of aclp
+the unweight vert of aclp is wid study in the lit
+howev the weight vert did not receiv much at despit sev real-world apply
+in thi pap we hav propos two evolv approach bas on genet algorithm ga and discret diff evolv dde to solv the weight vert of the aclp
+the propos approach ar us to solv the 80 aclp inst with upto 1577 pot sit
+comput result show the effect of our approach .

@@ -1,0 +1,8 @@
+opposit eleph herd optim with dynam cauchy mut for multilevel im thresholding
+thi pap pres an improv eleph herd optim ieho to solv the multilevel im thresholding problem for im seg by introduc oppositional-based learn obl and dynam cauchy mut dcm
+obl accel the converg rat and enh the perform of standard eho wherea dcm mitig the prem converg
+the suggest optim approach maxim two popul object funct kap s entrop and between-class vary to estim optim threshold valu for seg of the im
+the perform of the propos techn is ver on a set of test im tak from the benchmark berkeley seg dataset
+the result ar analys and comp with conv eho and oth four popul rec metah algorithm nam cuckoo search art bee colony bat algorithm partic swarm optim and on class method nam dynam program found from the lit
+expery result show that the propos ieho provid prom perform comp to oth method in view of optim fit valu peak signal-to-noise ratio structure simil index and feat simil index
+the suggest algorithm also has bet converg than the oth method tak into consid .

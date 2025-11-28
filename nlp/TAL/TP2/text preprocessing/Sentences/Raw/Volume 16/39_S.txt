@@ -1,0 +1,7 @@
+Dynamics of three-point boundary value problems with Gudermannian neural networks
+The present study articulates a novel heuristic computing design with artificial intelligence algorithm by manipulating the models with Feed forward FF Gudermannian neural networks GNN accomplished with global search capability of Genetic algorithms GA combined with rapid local convergence of Active-set method ASM i.e. FF-GNN-GAASM for solving the second kind of Three-point singular boundary value problems TPS-BVPs
+The proposed FF-GNN-GAASM intelligent computing solver integrated into the hidden layer structure of FF-GNN systems of differential operatives of the second kind of STP-BVPs which are linked to form the error based Merit function MF
+The MF is optimized with the hybrid-combined heuristics of GAASM
+The stimulation for presenting this research work comes from the objective to introduce a reliable framework that associates the operational features of NNs to challenge with such inspiring models
+Three different measures of the second kind of TPS-BVPs is applied to assess the robustness correctness and usefulness of the designed FF-GNN-GAASM
+Statistical evaluations through the performance of FF-GNN-GAASM is validated via consistent stability accuracy and convergence .

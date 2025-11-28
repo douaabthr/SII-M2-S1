@@ -1,0 +1,15 @@
+optim feat selection-based diabet retinopathy detect us improv rid optim algorithm en with deep learn
+thi propos tempt to develop autom dr detect by analys the retin abnorm lik hard exud haemorrh microaneurysm and soft exud
+the main process phas of the develop dr detect model is pre-processing opt disk remov blood vessel remov seg of abnorm feat extract optim feat select and class
+at first the pre-processing of the input retin im is don by contrast limit adapt histogram eq
+the next phas perform the opt disc remov which is carry out by open-close watersh transform
+furth the grey level thresholding is don for seg the blood vessel and it remov
+ont the opt disk and blood vessel ar remov seg of abnorm is don by top hat transform and gab filt
+furth the feat extract phas is start which tend to extract four set of feat lik loc bin pattern text energy meas shanon s and kap s entrop
+sint the leng of the feat vect seem to be long the feat select process is don which select the un feat with less correl
+moreov the deep believ network dbn bas class algorithm perform the categ of im into four class norm ear mod or sev stag
+the optim feat select is don by the improv meta-heuristic algorithm cal mod gear and steering-based rid optim algorithm mgs-roa and the sam algorithm upd the weight in dbn
+fin the effect perform and comp analys prov the stabl and rely perform of the propos model ov ex model
+the perform of the propos model is comp with the ex class such as nn knn svm dbn and the conv heuristic-based dbns such as pso-dbn gwo-dbn woa-dbn and roa-dbn for the evalu met acc sensit spec precid fpr fnr npv fdr f1 scor and mc
+from the result it is expos that the acc of the propos mgs-roa-dbn is 30.1% high than nn 32.2% high than knn and 17.1% high than svm and dbn
+simil the acc of the develop mgs-roa-dbn is 13.8% supery to pso 5.1% supery to gwo 10.8% supery to woa and 2.5% supery to roa .

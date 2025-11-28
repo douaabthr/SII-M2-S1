@@ -1,0 +1,8 @@
+construct control for phys multileg robot us the enso neuroevolv approach
+evolv control for multileg robot in sim is conveny and flex mak it poss to prototyp idea rapid
+howev transfer the result control to phys robot is challeng becaus it is difficult to sim real-world complex with sufficy acc
+thi pap bridg thi gap by util the evolv of network symmetry and modul enso approach to evolv modul neur network control that ar robust to discrep between sim and real
+thi approach was evalu by build a phys quadrup robot and by evolv control for it in sim
+an approxim model of the robot and it environ was built in a phys sim and uncertainty in the real world wer model as nois
+the result control produc well-synchronized trot gait when they wer transfer to the phys robot ev on diff walk surfac
+in contrast to a hand-design pid control the evolv control also gen wel to chang in expery condit such as loss of volt and wer mor robust against fault such as loss of a leg mak them strong candid for real-world apply .

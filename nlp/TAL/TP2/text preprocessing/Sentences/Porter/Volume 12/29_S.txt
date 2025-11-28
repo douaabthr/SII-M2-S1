@@ -1,0 +1,4 @@
+short-term electr load forecast method base on stack auto-encod and gru neural network
+with the rapid develop of smart grid to solv the power enterpris requir in short-term load forecast thi paper propos a short-term electr load forecast method base on stack auto-encod and gru gate recurr unit neural network
+firstli the method input histor data which contain power load weather inform and holiday inform and use auto-encod to compress the histor data and then the multi-lay gru is use to construct the model to predict the power load
+the experi result show compar with tradit model the propos method can effect predict the daili variat of power load and have lower predict error and higher precis .

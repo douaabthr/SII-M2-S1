@@ -1,0 +1,12 @@
+papr reduc and spectr sens in mimo system with optim model
+cognit radio is trend domain which provid strong solv for address spectr scarc issu
+many cognit radio standard suff from high peak to av pow ratio papr which may distort transmit sign
+thi pap propos a techn for spectr sens bas on optim en papr us hybrid gauss mixt model gmm
+the eig stat energy and papr reduc block is adapt by hybrid mixt model for predict the avail of spectr
+in ord to model network with papr the new design optim algorithm nam elephant-sunflower optim eso is adapt
+the propos eso techn is combin of eleph herd optim and sunflow optim
+the gmm is en us eig stat energy along with papr
+the gmm is adjust with an optim algorithm nam whal elephant-herd optim
+the papr is reduc by optim adjust the paramet us propos eso
+the channel avail is evalu by provid energy eig stat and papr as input
+the effect of propos eso is illust with maxim prob of detect of 1.00 minim papr of 7.534 and minim bit er rat of 0.000 respect .

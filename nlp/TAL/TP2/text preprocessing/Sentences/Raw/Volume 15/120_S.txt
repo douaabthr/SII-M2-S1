@@ -1,0 +1,9 @@
+A novel improved atom search optimization algorithm for designing power system stabilizer
+A novel hybrid algorithm developed by merging atom search optimization and simulated annealing algorithms is presented
+The constructed improved algorithm named as improved atom search optimization algorithm was proposed for optimizing a power system stabilizer adopted in a single-machine infinite-bus power system
+The evaluations were initially performed using several benchmark functions by comparing the results with genetic algorithm simulated annealing technique particle swarm optimization gravitational search algorithm and the original version of atom search optimization algorithm
+The obtained results showed the great promise of the developed hybrid algorithm in terms of the balance between exploration and exploitation phases
+The performance of the proposed hybrid algorithm was also assessed through designing an optimally performing power system stabilizer for further evaluation
+To do so a power system stabilizer damping controller was formulated as an optimization problem and the improved algorithm was used to search for optimal controller parameters in order to show the applicability and greater performance of the proposed algorithm for such a complex real-world engineering problem
+The obtained results for the latter case were compared with the best performing reported approaches of sine cosine algorithm and symbiotic organisms search algorithm
+The comparisons clearly demonstrated the superiority of the proposed algorithm over other recently reported best performing algorithms for power system stabilizer design .

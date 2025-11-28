@@ -1,0 +1,10 @@
+a novel edg boost approach for im super-resolution
+im super-resolution is high demand are in both research as wel as industry
+in thi pap a novel deep network to acquir the high-resolution im from the input low-resolution im has been propos
+the propos a novel residual-edge mod is us to build the network for singl im sup resolv
+the residual-edge mod compr of tradit resid learn follow by the propos edg boost mech
+the propos edg boost mech prop diff between the resid feat map across the network with dens connect
+the propos edg boost mech enh the edg cont in the feat map learn by the resid block
+thi study us condit gen advers network framework to optim the weight paramet
+expery hav been carry out on benchmark databas to valid the propos network for im super-resolution
+empir result show that the propos network perform bet oth ex method for im super-resolution .

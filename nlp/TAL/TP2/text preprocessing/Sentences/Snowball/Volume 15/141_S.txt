@@ -1,0 +1,8 @@
+neural multi-task collabor filter
+in recommend system the rate matrix is often veri spars
+collabor filter recommend algorithm cannot be appli to spars matric or use in cold start problem
+although the user trust relationship provid some use addit inform for recommend system the exist research has not incorpor the rate matrix and trust relationship well
+the trust relationship itself also has the problem of data sparsiti
+with a focus on the problem of sparsiti and low accuraci in collabor filter algorithm this paper propos a general framework call neural multi-task collabor filter nmcf which can simultan predict the rate and trust relationship
+that is the rate of the same user in e-commerc platform and the trust relationship in social network promot and complement each other and help to improv the predict accuraci of both
+the studi result for three dataset of real-world show that our algorithm perform better in recommend and the accuraci of the propos algorithm is signific improv compar with that of the comparison model .

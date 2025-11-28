@@ -1,0 +1,8 @@
+a group evalu bas bin pso algorithm for feat select in high dimend dat
+thi pap propos a group evolv bas feat select techn us bin pso which is an ess tool of pre-processing for solv class problem
+a new upd mech for calc pbest and gbest ar also propos and the relev and redund of the select feat subset ar consid as an object funct
+the propos algorithm is test and comp with four ex feat select algorithm
+in thi study a decid tre class is employ to evalu the class acc of the select feat subset on fiv benchmark dataset
+the result show that propos algorithm can be success us to improv class acc and to improv stabl ind as wel
+it is also observ that with increas weight on relev of the funct ther is a sign reduc on the cardin of feat and increas in class acc
+the ex four algorithm us select a smal feat subset whil the propos algorithm can achiev high class acc on most of the test dataset .

@@ -1,0 +1,11 @@
+distribut deduply with fingerprint index man model for big dat stor in the cloud
+as dat progress grow within dat cent the cloud stor model fac sev issu whil stor dat and off abl nee to shift dat in an adequ tim fram
+thi study aim to develop a distribut deduply model to achiev scal throughput and capac util many dat serv for duply dat in parallel with minim loss
+thi pap propos a new cloud stor model bas on a distribut deduply with the fingerprint index man ddfi model
+the ddfi model op on three main stag
+at the init stag the ddfi model mak us of an effect rout techn depend upon the simil level of the dat which lead to low network overhead by rapid id of stor loc
+in the second stag the duply dat id proc is carry out by the us of the md5 algorithm
+at the fin stag a fingerprint index man process is execut wher a fingerprint index compr fingerprint and it correspond posit detail of every writ chunk
+for optim the result of the deduply perform the ddfi model man the fingerprint index in stor spac and on sometim writ to disk at the sam tim as the cloud databas scheme is idl
+the sim outcom exhibit that the pres ddfi model off maxim result with a high deduply ratio dr with a minim overhead of network bandwid
+from the detail comp analys it is infer that the pres dffi model off maxim rel dr maxim duply perform minim read bandwid and writ bandwid .

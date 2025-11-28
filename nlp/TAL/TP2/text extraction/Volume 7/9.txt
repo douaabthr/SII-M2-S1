@@ -1,0 +1,3 @@
+An evolutionary robotics approach for the distributed control of satellite formations
+
+We propose and study a decentralized formation flying control   architecture based on the evolutionary robotic technique. We develop our control architecture for the MIT SPHERES robotic platform on board the International Space Station and we show how it is able to achieve micrometre and microradians precision at the path planning level. Our controllers are homogeneous across satellites and do not make use of labels (i.e. all satellites can be exchanged at any time). The evolutionary process is able to produce homogeneous controllers able to plan, with high precision, for the acquisition and maintenance of any triangular formation.

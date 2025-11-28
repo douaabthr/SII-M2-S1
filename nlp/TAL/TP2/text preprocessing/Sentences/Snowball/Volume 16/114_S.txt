@@ -1,0 +1,8 @@
+adapt industri control data analysi base on deep learn
+the fault detect and diagnosi of industri product process is of great signific to the reliabl and safeti of modern industri system
+the data-driven fault detect and diagnosi method can perform statist analysi and featur extract on massiv industri control data and divid the state of the system into normal oper state and fault state
+it has attract extens attent from academia and industri
+in order to achiev accur and fast identif of industri product fault this paper propos an adapt multi-task deep learn fault detect model
+the model use an adapt reweight modul and an improv adapt pool method to improv the process of label inform acquisit and featur extract and improv the perform of the model
+to evalu the method propos in this paper the tennesse eastman te system a standard test industri process in the chemic industri was select
+the comparison result with the exist work show that the method studi can effect process industri control data and can be appli to monitor the occurr of complex fault in industri product process .

@@ -1,0 +1,9 @@
+nod posit bas on ipso-ide in wsns
+due to the unreason connect of wireless sens network ther ar er in calc the dist between the location-unaware nod and the location-aware nod
+theref a novel method combin improv partic swarm optim and improv diff evolv ipso-ide is propos
+first the learn fact of the partic swarm optim method is mod and the disturb term is ad to prev prem thu strengthening it expl abl
+then the adapt mut and crossov mech ar apply to the diff evolv method so that each chromosome can mut and cross adapt with individ fit and av fit to improv it exploit abl
+fin the improv partic swarm optim ipso and diff evolv method id ar run in parallel in the nod posit model
+aft fix numb of it the optim individ inform of the two method is shar to obtain the ipso-ide method
+theref ipso-ide has the adv of both
+the result show that the ipso-ide algorithm not on has som adv in tim complex but also improv the posit acc by 27.2% 8.7% 4.5% and 5.7% respect comp with partic swarm optim with a vary neighb algorithm mod partic swarm optim algorithm hybrid partic swarm optim and diff evolv algorithm and art bee colony algorithm .

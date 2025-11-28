@@ -1,0 +1,8 @@
+flow pollin algorithm with pollin attract
+the flow pollin algorithm fpa is a high efficy optim algorithm that is inspir by the evolv process of flow plant
+in the pres study a mod vert of fpa is propos account for an addit feat of flow pollin in nat that is the so-called pollin attract
+pollin attract repres the nat tend of flow specy to evolv in ord to attract pollin by us their colo shap and scent as wel as nut reward
+to reflect thi evolv mech the propos fpa vary with pollin attract fpap provid fit flow of the pop with high prob of achiev pol transf via biot pollin than oth flow
+fpap is test against a set of 28 benchmark mathem funct defin in ieee-cec 13 for real-parameter single-objectiv optim problem as wel as structural optim problem
+num expery show that the mod fpa repres a stat sign improv upon the origin fpa and that it can outperform oth state-of-the-art optim algorithm off bet and mor robust optim solv
+addit research is suggest to combin fpap with oth mod and hybrid vert of fpa to furth increas it perform in challeng optim problem .

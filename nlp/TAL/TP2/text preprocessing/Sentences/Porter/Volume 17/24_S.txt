@@ -1,0 +1,7 @@
+research on uncertain bi-object uav mission alloc problem
+base on the uncertainti theori thi paper studi the uncertain bi-object uav mission alloc problem in uncertain environ
+firstli by regard uncertainti factor in the mission alloc plan as uncertain variabl and consid two mission of combat mission gain and flight fuel consumpt a uncertain bi-object uav mission alloc ubuma model is establish
+secondli in order to overcom the disconnect between the object function caus by the tradit method to deal with uncertain factor thi paper propos a so-cal uncertain method to solv ubmua problem by defin the relationship of order between uncertain variabl
+accord the real decision-mak process the ubuma is transform into a single-object program problem by use c_e principl relat
+final the ant algorithm is employ to solv the single-object program problem and then the c_e effici mission rout are obtain
+the simul result show that thi method can effect deal with ubuma problem and the mission alloc effici rout is reason .

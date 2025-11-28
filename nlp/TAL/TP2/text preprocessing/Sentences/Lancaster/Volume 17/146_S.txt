@@ -1,0 +1,8 @@
+gauss mixt model for train bayes convolv neur network
+bay by backprop is a vary inf method bas on the reparamet trick to ass backprop in bayes neur network
+gen the approxim distribut us in bay by backprop method ar mad unimod to facilit the us of the reparamet trick
+but frequ the model of som task requir mor soph distribut
+thi pap describ the bay by backprop algorithm with a multi-model distribut for train bayes convolv neur network
+spec we illust how to reparamet the cnn paramet for a gauss mixt model
+we then show that the result comp favo to ex vary algorithm on vary class dataset
+fin we illust how to us thi distribut to estim epistem and al uncertainty .

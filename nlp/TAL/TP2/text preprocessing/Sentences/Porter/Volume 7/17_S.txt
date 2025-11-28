@@ -1,0 +1,10 @@
+improv of the perform of the quantum-inspir evolutionari algorithm structur popul oper
+popul divers is veri import in give the algorithm the power to explor the search space and not get trap in local optima
+in thi respect use a probabilist represent for the quantum individu the quantum-inspir evolutionari algorithm qiea claim higher divers in the popul
+here consid thi import featur of qiea we propos differ structur to offer better interact between the q-individu and propos new oper to preserv the divers in the popul and thu improv the perform of the qiea
+the effect of the structur popul is investig on the perform of the algorithm
+addit two oper are propos in thi paper
+be call the divers preserv qiea the first oper find the converg similar q-individu around a local optimum and while keep the best q-individu by reiniti the inferior one push them out of the basin of attract of the local optimum so help the algorithm to search other region in the search space
+the other oper is a reiniti oper which by reiniti the whole popul help it escap from the local optima it is trap in
+by studi the effect of the paramet of the propos oper on their perform we show how the propos oper improv the perform of qiea
+experi are perform on knapsack trap and fourteen numer object function and the result show better perform for the propos algorithm than the origin version of qiea .

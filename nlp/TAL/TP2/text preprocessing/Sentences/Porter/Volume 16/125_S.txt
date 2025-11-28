@@ -1,0 +1,7 @@
+a two-stag rout optim model for yard trailer in contain termin under stochast demand
+the rout optim of yard trailer in contain termin is an import issu for vehicl dispatch
+whether the vehicl dispatch is reason will determin the circul effici of the contain termin
+in order to better optim the yard trailer rout under stochast demand a two-stag optim model is establish in thi paper consid the constraint of vehicl capac and travel distanc which aim at plan and determin the travel rout of the trailer and the oper sequenc
+to solv the two-stag optim model a particl swarm optim algorithm pso algorithm with exponenti decreas weight strategi is introduc to search for a satisfi solut to ensur the feasibl of distribut plan and vehicl rout
+and the optim result of the simul experiment reveal that satisfi solut can be obtain by employ the two-stag optim model construct in thi paper which further verifi the feasibl and valid of the optim model and algorithm
+the two-stag optim model provid a practic and effect method to solv the trailer rout dispatch in contain termin under stochast demand .

@@ -1,0 +1,15 @@
+a hybrid optim algorithm for energy-awar multi-object task schedul in heterogen multiprocessor system
+in order to success address the multiprocessor work schedul issu a novel hybrid approach is present in this paper
+execut a group of task on a small number of processor is the main goal of a task schedul method
+the job schedul issu is view as a multi-object optimis issu in this studi
+the goal of this optimis challeng are to determin the system s least energi consumpt and minimum makespan the sum of the schedul length for each task s execut
+in order to lower the processor energi usag the dynam voltag frequenc scale dvfs level has the task schedul issu enabl
+to determin the goal a hybrid algorithm call hybrid grey wolf crow search optimis hgwcso is suggest
+the grey wolf optimis gwo and crow search optimis cso algorithm are combin to creat the hgwcso algorithm
+the social structur and hunt strategi of wolv serv as the inspir for the gwo metaheurist algorithm
+the cso on the other hand is a metaheurist algorithm that was motiv by crow clever conduct
+the propos hybrid approach is put into practis use task that are produc at random and the result of this comparison are classic method
+the propos method s simul result are contrast with those from five exist wide use method
+the propos techniqu has also been contrast with some newli creat metaheurist algorithm use various real-world data set
+accord to the simul result hgwcso outperform other algorithm in term of lower makespan and energi usag
+the propos algorithm has success improv the makespan and energi consumpt with a maximum of 31.07% and 58.36% respect compar to other algorithm .

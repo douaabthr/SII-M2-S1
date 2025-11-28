@@ -1,0 +1,15 @@
+data augment for cancer classif in oncogenom an improv knn base approach
+there is current a great need for research in gene express data to help with cancer classif in the field of oncogenom
+this is especi true sinc the diseas occur sporad and often doe not show symptom
+typic gene express data is disproportion with a larg number of featur and a low number of sampl
+a small sampl size is like to advers affect accuraci of classif as the perform of a classifi depend larg on the data
+there is a press need to generat data which could be provid as better input to classifi
+primit augment techniqu like uniform random generat and addit of nois do not assur good probabl distribut
+second as we deal with critic applic the augment data need to have greater likelihood to the origin valu
+thus we propos an improv variant of k-nearest neighborhood knn rule
+we use count quotient filter euclidean distanc and mean best valu from the k-neighbor for each target sampl to get synthet sampl
+a comparison is drawn amongst the raw data from public domain origin data data generat use standard k-nearest neighbor rule and data generat use improv k-nearest neighbor rule
+the data generat through these approach is then further classifi use state-of-art classifi like svm j48 and dnn
+the sampl generat through our improvis techniqu yield better recal valu than the standard implement ensur sensit of data
+averag classif accuraci from all the three classifi conclud enhanc of 7.72% as compar to tradit knn approach and 16% when raw data is consid as input to the classifi
+thus the propos algorithm attain two object first ensur sensit of data for critic applic and second enhanc classif accuraci .

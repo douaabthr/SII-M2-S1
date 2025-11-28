@@ -1,0 +1,6 @@
+softw fault loc us bp neur network bas on funct and branch cov
+softw fail is inevit with the increas in scal and complex of the softw
+ex fault loc techn bas on neur network tak stat cov inform and test cas execut result into account to train the network
+in thi pap we propos an effect approach for fault loc bas on back-propagation neur network which util branch and funct cov inform along with test cas execut result to train the network
+we investig our approach us siem suit
+our expery result show that our propos approach perform on av 23.50 44.27% bet than ex fault loc techn .

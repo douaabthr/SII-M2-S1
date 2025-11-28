@@ -1,0 +1,10 @@
+a novel hybrid bat algorithm with a fast clustering-bas hybrid
+bat algorithm ba is a new and promis metaheurist search algorithm which could outperform exist algorithm
+howev ba can be easili trap in a local optimum regard to low explor abil
+the present studi propos a new local-search-bas hybrid heurist to escap such scenario
+the propos hybrid ba hba use a clustering-bas hybrid method which detect the earli converg of ba popul by analyz similar among individu
+the main motiv for such an analysi is that when ba is continu converg the similar among individu becom higher
+the propos hba is extens evalu on cec2017 benchmark suit
+the experi demonstr that the algorithm achiev better result than continu variant of ba in everi way
+moreov as a case studi a binari version of the propos hba hbba is appli to the well-known featur select problem
+the record result on 13 dataset demonstr that hbba would be consid as a new state-of-art in metaheuristic-bas wrapper featur select method .

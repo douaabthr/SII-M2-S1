@@ -1,0 +1,13 @@
+a deep contract autoencod for solv multiclass classif problem
+contract auto encod cae is on of the most robust variant of standard auto encod ae
+the major drawback associ with the convent cae is it higher reconstruct error dure encod and decod process of input featur to the network
+thi drawback in the oper procedur of cae lead to it incap of go into finer detail present in the input featur by miss the inform worth consider
+resultantli the featur extract by cae lack the true represent of all the input featur and the classifi fail in solv classif problem effici
+in thi work an improv variant of cae is propos base on layer architectur follow feed forward mechan name as deep cae
+in the propos architectur the normal cae are arrang in layer and insid each layer the process of encod and decod take place
+the featur obtain from the previou cae are given as input to the next cae
+each cae in all layer are respons for reduc the reconstruct error thu result in obtain the inform featur
+the featur set obtain from the last cae is given as input to the softmax classifi for classif
+the perform and effici of the propos model ha been test on five mnist variant-dataset
+the result have been compar with standard sae dae rbm scae scatnet and pcanet in term of train error test error and execut time
+the result reveal that the propos model outperform the aforement model .

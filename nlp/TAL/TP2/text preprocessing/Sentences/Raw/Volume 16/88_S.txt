@@ -1,0 +1,10 @@
+AI-based English teaching cross-cultural fusion mechanism
+Due to the differences between eastern and western cultures many students often face difficulties in language learning caused by cultural differences in learning English
+Adaptability in cross-cultural communication and fluency in language learning are the highest realm of learning English and the highest pursuit for every student s learning
+To push the dialogue contents for students this paper proposes a recognition model of multi-input feature extraction based on convolutional neural networks CNN for English emotion recognition
+The model adopts an end-to-end training method for learning which can simplify the workflow and improve the overall recognition accuracy
+At first a speech is transformed into a form more suitable for model learning spectrogram and Mel spectrogram
+Then it is input into the model for automatic feature extraction
+In the model design the information of spectrogram in time-domain and frequency-domain is considered at the same time
+Finally the high-level features of the image are fused which greatly improves the effect of speech emotion recognition
+Experimental results prove that the proposed speech emotion recognition fusion model has high recognition accuracy and quality of experience .

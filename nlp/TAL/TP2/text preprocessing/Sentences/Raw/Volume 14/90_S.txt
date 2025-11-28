@@ -1,0 +1,8 @@
+Self-adaptive learning for hybrid genetic algorithms
+Local search can be introduced into genetic algorithms to create a hybrid but any improvement in performance is dependent on the learning mechanism
+In the Lamarckian model a candidate solution is replaced by a fitter neighbour if one is found by local search
+In the Baldwinian model the original solution is retained but with an upgraded fitness if a fitter solution is found in the local search space
+The effectiveness of using either model or a variable proportion of the two within a hybrid genetic algorithm is affected by the topology of the fitness function and the details of the hybrid algorithm
+This paper investigates an intelligent adaptive approach to decide on the learning mechanism to be used by an individual over the course of the search
+Evolution is used to self-adapt both the frequency of a steepest-descent local search and the relative proportions of Lamarckian and Baldwinian inheritance
+Experiments have shown that this form of adaptive learning can improve the ability to find high-quality solutions and can accelerate the hybrid search without the need to find optimal control parameters for the learning process .

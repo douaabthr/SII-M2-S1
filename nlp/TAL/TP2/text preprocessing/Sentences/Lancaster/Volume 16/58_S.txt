@@ -1,0 +1,9 @@
+perform comparison of inert weight and accel coefficy of bpso in the context of high-utility itemset min
+on of the best perform method in high-utility itemset min is bas on bin partic swarm optim
+thi pap aim to improv the qual of that method by find way to increas both the numb of obtain itemset and the assocy tot util of thos itemset
+the method us is bas on bin partic swarm optim which is on of the best algorithm to obtain high-utility itemset bas on swarm intellig
+to get the maxim result we tun up the method to determin the optim config of four paramet init pop inert weight accel coefficy and veloc clamp
+our expery result on fiv dataset ind that the best config is combin constrict fact or adapt method for set inert weight and us self-adaptive for accel coefficy
+the us of frequ itemset or transact of the highest tot util for init pop doe not hav a sign addit comp to the inert weight and accel coefficy paramet
+the correct config of the bin partic swarm optim can increas the numb of high-utility itemset comp to the standard config
+the perc increas of the numb of itemset comp to the ex standard method is 157.93% for chess dataset 134.39% for connect dataset 42.69% for accid dataset 4.62% for foodmart dataset and 1.58% for mushroom dataset .

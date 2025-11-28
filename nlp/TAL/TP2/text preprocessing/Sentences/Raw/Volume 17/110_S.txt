@@ -1,0 +1,7 @@
+Solving a new application of asymmetric TSP by modified migrating birds optimization algorithm
+In this study we first introduce a new application of the asymmetric traveling salesman problem which is about a small restaurant with one cook and a single stove
+Once a meal has started cooking on the stove the cook prepares the next meal on the table where the preparation time is dependent on the previous meal prepared
+For the solution of this problem besides several simple construction algorithms and a new version of the simulated annealing SA algorithm we focus on enhanced versions of the recently introduced migrating birds optimization MBO algorithm
+The original MBO algorithm might suffer from early convergence
+Here we introduce several different ways of handling this problem
+The extensive numerical experimentation conducted shows the superiority of the enhanced MBO over the original MBO about 2.62 per cent and over the SA algorithm about 1.05 per cent .

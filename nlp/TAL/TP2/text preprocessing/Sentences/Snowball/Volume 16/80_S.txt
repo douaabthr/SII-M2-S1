@@ -1,0 +1,9 @@
+enhanc reptil search algorithm with lévi flight for vehicl cruis control system design
+a vehicl cruis control vcc system is one of the real-world engin optim problem gain a consider attent becaus of the concern relat to safeti and cost-effect
+a vcc system requir an effici control method for appropri function
+this paper therefor propos a proportional-integral-deriv pid control as a simpl yet effect structur for vcc system control
+to tune the pid control for effici oper a novel metaheurist algorithm is also develop in this paper which improv the perform of the reptil search algorithm via the integr of lévi flight concept
+this paper then propos a new object function by modifi the perform index call integr of time multipli squar error in order to increas the perform of the propos algorithm to effect adjust the pid paramet adopt in a vcc system
+the perform of the propos method is demonstr compar use sever assess
+last comparison with the other avail method in the literatur is perform in order to evalu the perform of the propos method from a wider perspect
+in this way the propos method is shown to be an effici approach to control a vcc system .

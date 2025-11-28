@@ -1,0 +1,6 @@
+a hybrid bio-inspir comput approach for buzz detect in social media
+social media forum such as twitter can be use as instrument for understand the way user behav and engag with other user onlin
+analysi of data relat to materi share by user assist in mine use inform for assess content for viral
+thi studi propos a methodolog to predict which tweet are like to becom viral and gener a lot of convers over the internet term as buzz discuss by consid such discuss as outlier use bio-inspir algorithm integr with k-nearest neighbor classif
+perform of three bio-inspir optim algorithm name grey wolf optim chicken swarm optim and artifici bee coloni have also been evalu base on the efficaci of the propos hybrid model for mine outlier on a supervis learn data-set contain 11 primari featur and 140,707 instanc
+among the three algorithm use for thi outlier detect problem chicken swarm optim show better perform overal in term of evalu paramet includ accuraci precis recal specif f1-measur and converg .

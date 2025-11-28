@@ -1,0 +1,11 @@
+automat handwritten charact recognit of devanagari languag a hybrid train algorithm for neural network
+in the field of imag process and artifici intellig the charact recognit and handwritten recognit have been emerg as one of the activ and challeng research area
+in recent year there ha been a notabl develop in the research associ with charact recognit in handwritten devanagari document
+to improv the recognit perform thi paper tactic to develop new handwritten charact recognit model use an improv machin learn approach
+the propos charact recognit model includ four stage like pre-process segment featur extract and classif
+initi the scan handwritten document for devanagari languag is subject to pre-process which includ stage like rgb to gray threshold complement of imag morpholog oper linear and nois remov use median filter
+then the charact of the pre-process imag are segment use k-mean cluster that is a popular method for cluster analysi
+further the featur like kirsch direct edg freeman chain code and neighborhood distanc weight use delaunay triangul are extract from the segment charact
+subsequ the classif of charact is done use neural network nn where the new train algorithm is use in which the weight are optim use a hybrid optim by combin lion optim algorithm and grey wolf optim gwo
+here the updat procedur of gwo is base on la algorithm and henc the propos algorithm is name as lion updat gwo lu-gwo
+to the next of the implement a valuabl compar analysi confirm the improv perform of the propos lu-gwo-nn model over convent method in classifi the conson numer and vowel from differ charact .

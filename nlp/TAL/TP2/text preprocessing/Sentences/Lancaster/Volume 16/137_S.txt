@@ -1,0 +1,13 @@
+heart fail recognit us hum voic analys and art intellig
+heart fail hf is a clin syndrom that dis the heart from pump blood to effect nour the body or doe it to elev intracardiac press
+cur the main diagnost method for thi patholog ar perform clin by the meas of biomark such as b-type natriuret peptid bnp and by cardiac im method
+as cardiovascul diseas ar the prim caus of prem dea new technolog to ident thes diseas at an ear stag ar of gre import
+thu thi research pres the develop of two art neur network an on for each gend that recogn the voc distort caus by hf in an individ
+theref the voic of 142 individ wer collect sep by sex and ag
+among thes 142 84 voic of peopl already diagnos with hf wer collect at the heart institut of sao paulo univers int usp and the metropolit hospit of paraib
+also the voic of 58 healthy individ wer collect in an extra-hospital environ
+then the follow techn wer apply to extract the sign feat stat analys fft discret wavelet transform and mel-cepstr analys
+the select feat wer us to develop an that aim to ident hf
+both an achiev an efficy of 96.7%
+also valu of 91.86% 88.1% and 92.1% wer obtain for acc sensit and spec respect
+theref comp the result reach by thi research to oth study in the field it is poss to conclud that the us of voic analys repres a gre improv in hf recognit and ear tre .

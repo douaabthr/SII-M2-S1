@@ -1,0 +1,8 @@
+bezier-based expl and hexagon crossov exploit a novel metah approach
+thi pap pres a novel metah algorithm aim at address the inefficy of conv approach that us a singl op and un pop to handl both expl and exploit
+to achiev a mor effect search process the algorithm introduc a structured pop that is divid into two distinct group expl xpl and exploit exp . xpl ag perform glob expl by follow complex traject gen from random select bézier funct promot divers and comprehend cov of the search spac
+in contrast the exp ag ar respons for loc refin upd their posit through a spec hexagon crossov op
+thi op gen new candid solv within a hexagon-shaped reg by incorp inform from oth high-quality individ in the pop
+by integr thes two mech each ded to eith expl or exploit the algorithm enh it abl to foc on prom reg whil maintain glob divers
+the propos method was comp with sev state-of-the-art metah us a suit of shift funct spec design to challeng center-biased strategies
+the expery result demonst that the algorithm consist produc a supery solv qual and fast converg whil effect avoid the typ flaw of center-biased method .

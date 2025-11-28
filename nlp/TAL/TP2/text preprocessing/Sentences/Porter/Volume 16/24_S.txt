@@ -1,0 +1,10 @@
+a novel multilevel threshold algorithm base on quantum comput for abdomin ct liver imag
+imag segment is consid one of the import task for extract use inform from an imag
+multilevel threshold imag segment is one of the effect techniqu for imag segment
+the comput time grow exponenti of tradit multilevel threshold method such as kapur with the number of threshold
+meta-heurist algorithm base on swarm intellig have prove their effici in solv the multilevel threshold optim problem
+in thi paper a new hybrid algorithm base on quantum comput qc and optim forag algorithm ofa for multilevel imag segment is present
+the main characterist of the propos quantum optim forag algorithm qofa is the integr of quantum oper such as interfer with the optim process of ofa to get a proper balanc between explor and exploit phase
+the feasibl of the propos multilevel imag segment algorithm ha been evalu and test on real abdomin ct liver imag
+all the result are analyz qualit and quantit to evalu the effect and the robust of the propos algorithm
+the experiment result reveal that the propos algorithm is a veri promis algorithm and it can provid better segment result compar with the standard ofa .

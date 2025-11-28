@@ -1,0 +1,7 @@
+use a sequenti gradient-enhanced-krig optim experiment design method to build high-precis approxim model for complex simul problem
+the surrog model base on krige ha been wide use to approxim simul problem of expens comput
+although the accuraci of the gradient enhanc krige gek is often higher than that of ordinari krige design cannot avoid more time consum dure gradient calcul of gek
+to thi end a sequenti gradient-enhanced-krig optim experiment design method with the gaussian correl function gcf is investig to approxim complex black-box simul problem by introduc gradient inform of krige paramet
+due to the differenti gcf the gradient inform can be simpli evalu
+thi characterist make the propos method effect improv the model accuraci and effici of gek
+as expect the test result from benchmark function and the cycloid gear pump simul show the feasibl stabil and applic of the propos method .

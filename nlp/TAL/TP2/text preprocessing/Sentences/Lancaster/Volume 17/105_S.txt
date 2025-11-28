@@ -1,0 +1,10 @@
+simult sens and relay nod deploy for smart car park surveil
+thi study aim to optim the deploy of wireless sens network for smart car park surveil apply
+our propos approach involv simult deploy sens nod sns and relay nod which we argu is mor efficy than ex sequ plac method
+our approach ident optim posit for both typ of nod to minim their numb and the network diamet whil ens the cov of each target point by at leastksn and network connect constraint
+to accompl thi we hav develop a multi-objective linear program model molp to solv smal inst of the deploy problem
+stil for larg inst we hav introduc a novel algorithm cal the greedy chao whal optim meta-heuristic gcwoa which is main bas on a greedy algorithm to gen init random nod posit whil satisfy the problem s constraint and a chao loc search cls techn us chao map to decid wheth to includ a giv nod in the fin solv
+the solv pop was divid into two sub-populations with the first undergo cls and the second undergo the whal optim algorithm woa to optim the solv furth
+we hav comp the perform of our propos gcwoa with that of molp and well-known ex meta-heuristics includ woa genet algorithm ga and partic swarm optim pso
+our result rev that the av fit of the gcwoa is clos to optim and low by 23.45% 28.75% and 26.32% than bas woa ga and pso respect
+the gcwoa exhibit fast converg and a low run tim than the bas woa ga and pso .

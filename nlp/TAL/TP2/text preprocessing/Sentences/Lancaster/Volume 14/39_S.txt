@@ -1,0 +1,7 @@
+an improv analys approach for custom churn predict us grey wolf optim approach bas on stochast custom profil ov a retail shop analys cupgo
+challeng of an ear predict of custom churn is a maj demand among research commun
+to understand an int of a custom on reason to mak a churn as wel tim tak by a custom to churn is alway an unknown mystery
+though good numb of research work hav suggest work on custom churn an exact meas of acc churn and approach to suggest on ret is the maj discuss of thi pap
+tradit approach such as aco pso ar support on apprecy churn predict but consid mor tim to converg wherea gwo algorithm support with minim tim to converg as wel improv acc of 89.26% along with act churn match comp to pso and aco approach
+cupgo also focus on custom ret of 34.81% to retain valu custom
+cupgo work on a larg dataset collect ov two consist year .

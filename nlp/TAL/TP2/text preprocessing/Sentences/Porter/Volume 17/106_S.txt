@@ -1,0 +1,7 @@
+optim alloc of water resourc in guyuan citi base on improv nsga-iii algorithm
+in order to allevi the problem of water resourc shortag and unequ distribut in time and space in guyuan citi thi paper firstli analyz the basic situat of water resourc in guyuan citi and construct a multi-object optim alloc model of water resourc with econom benefit social benefit and ecolog benefit as the object
+then nsga-iii algorithm is propos to solv the optim alloc scheme of water resourc
+base on the origin nsga-iii algorithm multi-point crossov oper and multi-point mutat oper name non-domin sort genet algorithm-iii with random multipoint crossov mutat rnsga-iii are use
+in the select of the next gener saw and mcdm scheme were use to evalu the chromosom and set the weight to achiev better and more ideal result
+final the propos scheme is compar with the exist configur scheme base on nsga-iii and nsga-ii algorithm
+simul experi show that the propos scheme is better than the alloc scheme base on nsga-iii algorithm and nsga-ii algorithm in the comprehens cost of econom benefit water shortag and ecolog benefit which can provid a basi for the ration alloc of water resourc in guyuan citi achiev unifi manag and sustain util of water resourc and support the sustain develop of economi and societi .

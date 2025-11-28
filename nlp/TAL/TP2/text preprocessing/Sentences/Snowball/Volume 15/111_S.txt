@@ -1,0 +1,10 @@
+optim schedul algorithm for soft real-tim system use particl swarm optim techniqu
+schedul of task in real-tim system is base on static or dynam prioriti like earliest deadlin first edf and rate monoton respect
+the static schedul doe not give assur of schedul all task dure the underload scenario wherea dynam schedul perform poor dure an overload scenario
+this paper has propos a swarm intelligence-bas schedul algorithm that can overcom both the situat
+this paper has use particl swarm optim pso base swarm techniqu to design the new schedul approach
+it consid each task as a particl and appli modifi pso techniqu to identifi the most critic task to execut
+the effici of the newli propos method has been compar with exist edf and aco base schedul algorithm consid two signific paramet the success ratio and the effect cpu util
+all three algorithm have been test on the simul with a soft real-tim period task set on 500 timelin
+it has been observ that dure the underload scenario the propos algorithm perform equal to edf and aco base algorithm
+dure overload and high overload situat the propos algorithm perform batter compar to edf and aco base algorithm .

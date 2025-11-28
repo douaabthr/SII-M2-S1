@@ -1,0 +1,12 @@
+evolutionari intellig driven style recognit of english novel base on text analysi
+novel style recognit is of great refer signific for analyz the qualiti and readabl of work
+write stylist is the analysi of an author s write style through statist method
+in thi paper our main purpos is to identifi the style of english novel base on text analysi method
+we use the method of inform entropi calcul which is an evolutionari intellig method to identifi the style of english novel so as to provid refer for better grasp the content of literari work
+we focu on how to process text data and mine text intrins featur to better identifi english novel style
+to better solv the problem we design follow strategi in our propos method
+first we need to collect and process english novel sampl
+then token the text and consid the object content that need to be analyz
+the next step is to count the number of word and calcul the inform entropi
+final the data is process and analyz to get a conclus
+the experiment result prove that the method propos in thi paper ha good evalu perform .

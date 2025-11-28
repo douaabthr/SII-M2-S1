@@ -1,0 +1,7 @@
+frequ offset estim bas on a combin of fft and czt for dp-qdb coh receiv
+a new frequency-offset-estimation foe method for dual-polarized quadr duobin mod dp-qdb which is bas on a combin of fast foury transform fft and chirp z transform czt is propos
+thi method is investig at 128 gb/s in five-channel wavelength-division-multiplexing dp-qdb system by sim
+the sim result show that the propos method can gre promot foe acc
+when the propos method with fft and czt point of 1024 is comp with the tradit unimprov method with fft point of 2048 the form is 70% low than the lat in foe er in the cas of bas the sam comput complex
+besid two foe impl schemes for dp-qdb ar comp
+it is found that the impl scheme in which the foe mod is put aft the post filt has bet estim perform .

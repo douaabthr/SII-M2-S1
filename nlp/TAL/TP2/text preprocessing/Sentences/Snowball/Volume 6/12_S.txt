@@ -1,0 +1,12 @@
+a compar studi the effect of the perturb vector type in the differenti evolut algorithm on the accuraci of robot pose and head estim
+evolutionari algorithm ea belong to a group of classic optim these day and can be use in mani applic area
+autonom mobil robot is not an except
+ea are util profus for the purpos of local and map build of unknown environ slam
+this paper concentr on one particular class of ea the so call differenti evolut de
+it address the problem of select a suitabl set of paramet valu for the de algorithm appli to the task of continu robot local in a known environ under the presenc of addit nois in sensori data
+the primari goal of this studi is to find at least one type of perturb vector from a set of known perturb vector type suitabl to navig a robot use 2d laser scanner 2dls sensori system
+the basic navig algorithm use in this studi use a vector represent for both the data and the environ map which is use as a refer data sourc for the navig
+sinc the algorithm doe not use a probabl occup grid the precis of the result is not limit by the grid resolut
+the compar studi present in this paper includ a relat larg amount of experi in various type of environ
+the result of the studi suggest that the de algorithm is a suitabl tool for continu robot local task in an indoor environ with or without move object and under the presenc of various level of addit nois in sensori data
+two perturb vector type were found as the most suitabl for this task on averag name rand/1/exp and randtobest/1/bin .

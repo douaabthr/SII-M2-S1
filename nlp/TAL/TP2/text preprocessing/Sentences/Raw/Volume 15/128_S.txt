@@ -1,0 +1,12 @@
+A new approach for social navigation and interaction using a dynamic proxemia modeling
+This paper treats the problem of social navigation and human robot interaction
+In most previous works addressing this issue the proxemia concept has been considered static with regards to the activity s nature
+Furthermore the F-Formation type is not considered
+The different activities of people can not be considered similarly
+For example the way to navigate socially without disturbing a group drinking coffee or discussing a poster is different just like the interaction location when serving coffee or explaining a poster
+The main contribution of this paper is to propose a dynamic proxemia modeling approach DPMA for social navigation and interaction
+It is based on proxemia and spatial modeling which allow the robot to navigate socially by considering the comfort of people and to interact in appropriate interaction conditions
+It considers the F-Formation type and the nature of the activity additionally to the different social spaces and the navigation and interaction constraints
+Then it uses a social map to encode them
+The performance and the efficiency DPMA are evaluated both in three simulation environments using the ROS Stage simulator and on a real robot used as a service robot in a mediation event example
+Promising results are given in this paper .

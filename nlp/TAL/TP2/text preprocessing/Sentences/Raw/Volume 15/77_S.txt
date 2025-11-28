@@ -1,0 +1,9 @@
+An approach for optimal-secure multi-path routing and intrusion detection in MANET
+Mobile ad-hoc network MANET is dynamic in nature that is susceptible to energy and security constraints
+Among most of the existing techniques energy optimization was a hectic challenge which is addressed effectively using the routing protocols
+Accordingly this paper proposes an effective multipath routing protocol in MANET based on an optimization algorithm
+The energy and the security crisis in the MANET are addressed effectively using the cluster head CH selection and intrusion detection strategies namely fuzzy clustering and fuzzy Naive Bayes fuzzy NB
+Then the multipath routing progresses using the secure nodes based on the routing protocol Bird swarm-whale optimization algorithm BSWOA which is the integration of bird swarm optimization BSA in whale optimization algorithm WOA
+The selection of the optimal routes is based on fitness factors such as connectivity energy trust and throughput
+The analysis of the methods is done using the attacks such as flooding blackhole and selective packet drop based on the performance metrics
+The proposed BSWOA acquired the maximal energy throughput detection rate and a minimal delay of 9.48 Joule 0.676 bps 69.9% and 0.00372 ms in the presence of the attack .

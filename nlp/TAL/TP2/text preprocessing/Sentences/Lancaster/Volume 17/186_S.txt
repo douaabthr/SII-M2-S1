@@ -1,0 +1,7 @@
+map-and-acquisition network
+in rec year at mech hav gre contribut to the repres abl of deep convolv neur network espec the at mod in convolv neur network
+thi pap propos an op unit cal map-and-acquisition ma to comput the at of diff feat vect in convolv neur network bas on simpl mathem principl
+inspir by the convolv op ma extend the convolv op to integr spat or channel feat in the loc receiv field to the glob spat or channel and on op on on dimend of the im feat avoid a sery of problem caus by the coupl of spat and channel dimend
+the feat respons of the channel or spat domain is adapt adjust through the weight and sum op to bet extract the high-level feat of the im
+our method is ver through im class object detect and inst seg on the imagenet-1 k and coco 2017 dataset and is also evalu on the small-sample im class task on the dataset mini-imagenet
+expery result show that our method can sign improv the perform of vis task .

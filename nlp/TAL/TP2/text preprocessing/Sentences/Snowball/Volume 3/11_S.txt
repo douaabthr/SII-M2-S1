@@ -1,0 +1,9 @@
+composit of web servic through genet program
+web servic are interfac that describ a collect of oper that are network-access through standard web protocol
+when a requir oper is not found sever servic can be compound to get a composit servic that perform the desir task
+to find this composit servic a search process in a general huge search space must be perform
+the algorithm that compos the servic must select the adequ atom process and also must choos the correct way to combin them use the differ avail control structur
+in this paper a genet program algorithm for web servic composit is present
+the algorithm has a context-fre grammar to generat the valid structur of the composit servic and also it includ a method to updat the attribut of each node
+moreov the propos tri to minim the number of servic and look for composit with the minimum execut path
+a full experiment valid with four differ repositori with up to 1,090 web servic has been done show a great perform in all the test as the algorithm find a valid solut with a short execut path .

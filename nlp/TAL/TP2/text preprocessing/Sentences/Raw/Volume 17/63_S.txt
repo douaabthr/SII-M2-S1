@@ -1,0 +1,14 @@
+Diverse activation functions based-hybrid RBF-ELM neural network for medical classification
+The current abundance of the collected biomedical data provides an important tool for the development of medical data classification systems
+However processing big data requires powerful algorithms
+In this perspective we propose a hybrid classifier that combines radial basis function RBF and extreme learning machine ELM neural networks
+This combination is motivated by the high performances and the complementary of these two types of neural networks
+The basic idea relies on complementing a compact RBF network by an ELM network that contains a diversity of hidden neurons
+The optimization of the number forms and types of the ELM hidden neurons is performed using a genetic algorithm GA
+The objectives of the proposed classifier can be summarized as follows
+First it benefits from the complementary properties of RBF and ELM like local response of RBFs and global response of ELM
+Second it makes use of the advantages of ELM like fast training and the possibility of using a variety of activation functions
+Third it alleviates the ill conditioning problem of ELM by joining the systematic initialization of RBF to the random initialization of ELM
+Fourth the optimization process performed using GA is simplified because it concerns only the added neurons which their role is complementing the RBF network
+To assess the performance of the proposed classifier we carry out tests on six medical datasets from the UCI machine learning repository and compare the obtained results with those of other state-of-the-art works
+The obtained average performance measurement i.e. accuracy sensitivity and specificity for Wisconsin breast cancer are 97.38% 98.38% 96.85% for Pima Indians diabetes are 77.61% 57.35% 88.22% for heart Statlog are 83.71% 77.92% 88.34% for hepatitis are 87.10% 95.89% 40.10% for Parkinson are 92.62% 96.50% 80.76% and for liver-disorders are 72.48% 82.68% 58.39% respectively

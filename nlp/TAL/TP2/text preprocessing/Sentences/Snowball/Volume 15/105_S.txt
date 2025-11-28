@@ -1,0 +1,7 @@
+hyperspectr imag classif use support vector machin a spectral spatial featur base approach
+recent spectral spatial inform base algorithm are gain more attent becaus of it robust accuraci and effici
+in this paper an svm base classif method has been propos which extract featur consid both spectral and spatial inform
+the propos method exploit svm to encod spectral spatial inform of pixel and also use for classif task
+a clean comparison of relat gain achiev with inclus of spatial featur with it spectral counterpart is also investig
+the experi has been perform use three benchmark dataset indian pine pavia univers and salina
+experi show that the propos method outperform the classif algorithm k nearest neighbor linear discrimin analysi naiv bay and decis tree .

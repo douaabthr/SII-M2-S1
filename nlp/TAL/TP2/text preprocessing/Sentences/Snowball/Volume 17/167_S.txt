@@ -1,0 +1,9 @@
+quantum-inspir meta-heurist approach for a constrain portfolio optim problem
+portfolio optim has long been a challeng proposit and a wide studi topic in financ and manag
+it involv select and alloc the right asset accord to the desir object
+it has been found that this nonlinear constraint problem cannot be effect solv use a tradit approach
+this paper cover and compar quantum-inspir version of four popular evolutionari techniqu with three benchmark dataset
+genet algorithm differenti evolut particl swarm optim ant coloni optim and their quantum-inspir incarn are implement and the result are compar
+experi have been carri out with more than 10 year of stock price data from nasdaq bse and dow jone
+this work propos sever enhanc to alloc fund effici such as improv crossov techniqu and dynam and adapt select of paramet
+furthermor it is observ that the quantum-inspir techniqu outperform the classic counterpart .

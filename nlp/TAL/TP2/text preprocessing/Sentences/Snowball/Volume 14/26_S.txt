@@ -1,0 +1,10 @@
+threshold estim from softwar metric by use evolutionari techniqu and it propos algorithm model
+the softwar metric play the import role in the softwar industri
+as the softwar industri grow in size and complex enhanc support is mandatori for comput and manag the softwar qualiti
+qualiti measur is one of the key featur of the manag in the softwar industri where threshold play the crucial role
+softwar measur is necessari by mean for evalu differ qualiti attribut and characterist such as size complex maintain and usabl
+instead of that effect and effici softwar system is straightforward depend on the mean of suitabl threshold
+the object of this paper is to estim the threshold valu from softwar metric by use novel evolutionari intellig techniqu
+the threshold and age softwar design optim algorithm and model to prevent softwar age by use machin learn evolutionari algorithm
+apart from the above-ment techniqu this paper also propos a novel threshold estim age and surviv awar sensit reusabl optim model of an object-ori softwar system
+to expand firm age and surviv awar sensit optim threshold scheme age predict and softwar rejuven model and algorithm propos .

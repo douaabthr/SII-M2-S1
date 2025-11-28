@@ -1,0 +1,12 @@
+batch metaheurist a migration-fre framework for metaheurist algorithm
+metaheurist have emerg as one of the promin problem-solv methodolog to handl optim problem as they can provid good qualiti solut within accept time limit
+numer studi have been conduct in the field of metaheurist propos novel algorithm modif in the exist one etc to improv the perform of the metaheurist framework
+the multi-popul or island approach is one such modif where solut are divid into smaller subpopul and migrat from one subpopul to anoth to share inform
+though use this approach is often ignor due to addit paramet the burden of tune them increas time complex addit task of decid migrat polici migrat ratio etc
+in the present work we have propos a novel framework to enhanc the perform of exist population-bas metaheurist algorithm and name it batch metaheurist
+the present framework is easi to implement and understand has no migrat of solut among batch and is general in natur i. e can easili be incorpor with ani population-bas algorithm such as a genet algorithm particl swarm optim gravit search algorithm and other
+it divid the set of solut in each iter into sever batch that are individu expos to the algorithm chosen with differ paramet valu
+we includ the batch approach in two well-establish population-bas metaheurist genet algorithm and particl swarm optim
+the approach is test over fifteen benchmark function five shift benchmark function and three classic engin problem
+the result obtain confirm the better perform of the batch approach over it non-batch counterpart
+this approach incur numer associ benefit when put to use .

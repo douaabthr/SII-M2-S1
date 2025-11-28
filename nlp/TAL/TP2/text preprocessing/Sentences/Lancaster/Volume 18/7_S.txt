@@ -1,0 +1,11 @@
+enh sand cat swarm optim bas on multi-strategy mix for solv engin optim problem
+the sand cat swarm optim scso algorithm is charact by slow converg spee and a tend to becom trap in loc optim
+to address thes issu a hybrid multi-strategy vary known as hscso is propos
+the algorithm first employ an elit opposition-based learn strategy which gen compl candid solv provid a mor divers set of init solv and improv the distribut of individ posit
+subsequ a greedy strategy is util to combin the posit upd strategy of the gold sin algorithm which has a fix search pattern with the posit upd strategy of the scso which feat random search charact
+thi combin retain the adv of fast converg whil also provid a divers set of random candid solv
+fin a random inert weight is introduc to assist the scso algorithm in adapt adjust the search step siz and optim direct bas on the diff phas of the search process thereby help the algorithm effect avoid loc optim
+the improv algorithm was comp with two class origin algorithm and six diff algorithm vary on 25 benchmark funct
+the expery result ind that hscso exhibit fast converg and high solv acc on most benchmark funct
+furtherm the perform of hscso was evalu on the cec2019 and cec2021 test suit as wel as sev engin optim problem
+the expery result valid the competit and supery of the propos hscso algorithm demonst it pot for apply in the field of glob optim .

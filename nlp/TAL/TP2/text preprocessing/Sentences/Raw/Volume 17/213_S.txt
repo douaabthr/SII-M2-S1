@@ -1,0 +1,7 @@
+Optimizing performance of feedforward and convolutional neural networks through dynamic activation functions
+Training algorithms in the domain of deep learning have led to significant breakthroughs across diverse and subsequent domains including speech text images and video processing
+While the research around deeper network architectures notably exemplified by ResNet s expansive 152 layer structures has yielded remarkable outcomes the exploration of computationally simpler shallow Convolutional Neural Networks CNN remains an area for further exploration
+Activation functions crucial in introducing non-linearity within neural networks have driven substantial advancements
+In this paper we delve into hidden layer activations particularly examining their complex piece-wise linear attributes
+Our comprehensive experiments showcase the superior efficacy of these piece-wise linear activations over traditional Rectified Linear Units across various architectures
+We propose a novel Adaptive Activation algorithm AdAct exhibiting promising performance improvements in diverse CNN and multilayer perceptron configurations thereby presenting compelling results to support its usage .

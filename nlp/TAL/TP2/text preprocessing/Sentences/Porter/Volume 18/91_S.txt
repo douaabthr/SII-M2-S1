@@ -1,0 +1,11 @@
+group decis make approach base on linguist q-rung orthopair fuzzi yager power weight geometr aggreg oper for select of nanoparticl in drug deliveri system
+lung cancer remain one of the most preval and deadli form of cancer worldwid with a high mortal rate and limit treatment option avail
+tradit chemotherapi and radiat therapi have been the mainstay of lung cancer treatment but their efficaci is often limit by system toxic and drug resist
+recent mani nanoparticl have been identifi and creat for drug deliveri with the abil to specif target tumor cell while spare healthi cell or organ
+the nanoparticle-bas drug deliveri system offer distinct benefit over convent medic deliveri includ increas permeabl and retent effect precis target and improv stabil and biocompat
+therefor thi paper propos the group decis make approach under linguist q-rung orthopair fuzzi environ to select the best nanoparticl in drug deliveri system for lung cancer treatment
+firstli thi paper propos linguist q-rung orthopair fuzzi yager power weight geometr aggreg oper for aggreg the linguist q-rung orthopair fuzzi number base on the yager s norm
+thi paper also demonstr sever featur of the propos oper
+moreov by use the propos oper thi paper present the group decis make approach
+furthermor a case studi is present for the select of optim nanoparticl in drug deliveri for the treatment of lung cancer to demonstr the propos decis make approach s applic
+final thi paper present comparison studi sensit analysi and superior of propos decis make approach with the other exist decis make method to valid the propos decis make approach .

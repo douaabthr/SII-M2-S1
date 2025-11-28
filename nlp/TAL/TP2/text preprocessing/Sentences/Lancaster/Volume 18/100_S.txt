@@ -1,0 +1,11 @@
+fault detect in photovolta mod us i v curv and machin learn
+consid grow glob demand for elect it is ess to invest in cle and renew energy produc
+invest in renew energy produc is cruc to cre a sustain matrix that can efficy meet consum nee
+reduc cost for sol energy op and maint o m is crit to ens the econom viabl of photovolta pv project
+efficy man of thes cost can mak the diff between a success project and an unprofit instal
+thi work propos the structuring of a dataset us real meas of cur volt i v curv from a sol plant
+bas on thi two class wer perform to detect shad and soil in pv mod
+two diff method wer us for feat process
+on dataset was cre us complet i v curv whil the oth rely sol on key paramet from a charact curv
+the dataset us incorp dat on cur volt irrady and mod temp at the tim of meas
+diff machin learn model wer comp achiev 100% acc in soil class and 93.2% in shad class .

@@ -1,0 +1,7 @@
+Multi-scale multi-stream deep network for car logo recognition
+Vehicle logo retrieval or recognition is being a popular study of field in intelligent/smart traffic system
+Therefore this paper proposes a multi-scale multi-stream deep network for vehicle logo recognition
+The proposed network processes the input vehicle logo image through each of the multi-scale stream to extract the robust features followed by the logo recognition module
+The proposed network follows the knowledge sharing strategy by sharing learned features at each stream across the network
+We have utilized the existing large-scale benchmark vehicle logo image dataset to validate the proposed network for vehicle logo recognition task
+The performance of the proposed network is compared with the existing state-of-the-art deep network which exhibits that the proposed network is superior for the vehicle recognition task .

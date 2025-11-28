@@ -1,0 +1,12 @@
+multi-objective evolv algorithm for vehic rout problem with tim window und uncertainty
+vehic rout problem vrp ar to arrang the optim rout und the vary requir and it is becom sign in the log industry as elect commerc is ris
+howev uncertainty is inevit in vrp
+in thi manuscrib we consid the vrp with tim window vrptw und uncertainty
+we form the robust multi-objective vrptw rmovrptw model and propos a robust optim algorithm bas on moea/d r-moead-vrp for simult optim the tot dist and the numb of vehic requir for transport
+first we us the pri of the custom being serv to encod and us the defin transform approach to form the feas rout
+next we employ ord crossov and exchang mut op to increas pop divers
+for the new rout by reproduc we us monte-carlo test to check the feas of the rout aft ad uncertainty
+for the feas rout we calc the solv robust valu bas on the defin method
+fin we consid both optim and robust to form a set of high robust and rel optim solv
+for ver the avail of the pres algorithm the sim expery conduc on solomon s benchmark problem comp with sev rel algorithm
+expery result show that our propos algorithm can bring mor robust and non-dominated solv und uncertainty and can achiev good perform .

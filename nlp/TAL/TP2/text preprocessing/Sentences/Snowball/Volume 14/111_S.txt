@@ -1,0 +1,7 @@
+hybrid approach base on cuckoo optim algorithm and genet algorithm for task schedul
+one of the most import issu in design effici schedul algorithm in heterogen distribut system is the reduct of execut time
+in the propos algorithm the modifi oper of the cuckoo optim algorithm and the genet algorithm are use to achiev a relat optim solut with fewer repetit of the genet algorithm and less execut time than the cuckoo optim algorithm
+the most import innov in the propos algorithm is the introduct of a new oper call spiral search which increas the varieti among the sampl produc in each generat
+the main idea of this oper is to replac linear search with the spiral search which allow local search between similar schedul and acceler the achiev of a relat optim answer
+also the multi object function in the propos algorithm is use to minim makespan and maxim parallel
+the result obtain from the propos algorithm on a larg number of standard graph with a various rang of attribut show that it is superior to the other task schedul algorithm .

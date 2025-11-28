@@ -1,0 +1,7 @@
+Intelligent road surface autonomous inspection
+With the advancement of artificial intelligence autonomous machines are featured with the ability to diagnose and assess the structural health of different systems
+This paper presents a scalable mobile platform employed to autonomously and intelligently detect online small cracks on roads using a live camera feed and Artificial Intelligence AI methods
+The robotic artifact is equipped with a vision-based localization system to enable autonomous navigation areas where GPS Global Positioning System may be poor or intermittent
+The proposed approach runs at the edge a model of Convolutional Neuronal Networks CNN based on the Resnet 18 architecture to classify the image feed between cracks and those without cracks after training them with a combination of two public data sets and a data set generated in-house
+The mobile robotic platform is scalable depending on the particular context and requirements of the application
+As opposed to off-line assessment tools experimental results show the real-time capabilities of the system to autonomously navigate and detect cracks on a pavement structure with an accuracy of 95% .

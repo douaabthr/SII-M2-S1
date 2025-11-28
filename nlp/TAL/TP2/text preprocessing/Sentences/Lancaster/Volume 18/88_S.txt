@@ -1,0 +1,14 @@
+bird of prey-based optim bpbo a metah algorithm for optim
+optim is a crit challeng across sev engin and sci disciplin
+thi pap introduc a un bird of prey-based optim bpbo algorithm which was influ by the astut hunt techn of pred bird
+the approach util both individ and group hunt techn whil select target weak bird to effect bal expl and exploit strategies
+by incorp a dynam reloc strategy to access mor suit prey thi method enh pop divers and mitig the risk of prem converg
+the integr of thes strategies in light of the ongo dynam shift en the bpbo algorithm to effect address a wid rang of problem
+thi includ success apply to both small-scale problem with spec constraint and large-scal problem with dimend extend up to 1000
+to thorough assess bpbo s effect we conduc an in-depth analys us 23 optim benchmark of which 13 ar design as scal
+the cec-2014 benchmark funct ar consid a mor complex test set
+furtherm bpbo algorithm is util in pract engin design challeng such as optim weld beam three-bar truss gear train cantilev beam and spee reduc
+comp analys wer conduc util nin and eight algorithm across two set of standard test funct
+the comparison of the result across al cas util robust algorithm substanty the propos algorithm s effect perform in expl the feas spac of the problem
+thorough analys hav been conduc to enh the understand of the behavy exhibit by the algorithm paramet
+the sourc cod of the bpbo algorithm ar publ avail athttp nimakhodadad . com/algorithms 2b cod .

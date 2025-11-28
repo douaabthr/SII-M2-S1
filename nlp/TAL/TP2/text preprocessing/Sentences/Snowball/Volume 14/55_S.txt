@@ -1,0 +1,11 @@
+distribut dedupl with fingerprint index manag model for big data storag in the cloud
+as data progress grow within data center the cloud storag model face sever issu while store data and offer abil need to shift data in an adequ time frame
+this studi aim to develop a distribut dedupl model to achiev scalabl throughput and capac util mani data server for duplic data in parallel with minim loss
+this paper propos a new cloud storag model base on a distribut dedupl with the fingerprint index manag ddfi model
+the ddfi model oper on three main stage
+at the initi stage the ddfi model make use of an effect rout techniqu depend upon the similar level of the data which lead to low network overhead by rapid identif of storag locat
+in the second stage the duplic data identif procedur is carri out by the use of the md5 algorithm
+at the final stage a fingerprint index manag process is execut where a fingerprint index compris fingerprint and it correspond posit detail of everi written chunk
+for optim the result of the dedupl perform the ddfi model manag the fingerprint index in storag space and onli sometim write to disk at the same time as the cloud databas scheme is idl
+the simul outcom exhibit that the present ddfi model offer maximum result with a higher dedupl ratio dr with a minimum overhead of network bandwidth
+from the detail compar analysi it is infer that the present dffi model offer maximum relat dr maximum duplic perform minimum read bandwidth and write bandwidth .

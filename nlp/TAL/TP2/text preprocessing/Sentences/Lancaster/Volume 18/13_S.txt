@@ -1,0 +1,11 @@
+metah optim and strategic behavy of markov vac queu with ret policy apply to virt cal cent
+thi research investig is concern with soc optim and custom strategic behavy for a doubl orbit ret queu model with vac aim to enh the perform of virt cal cent
+in many cal cent scenario if the serv is busy the ar custom mov to premium/ordinary orbit i.e. becom a rep custom otherw if the serv is access the ar custom join the system to receiv the requir serv
+ont the serv is complet the serv wil look into the prem orbit to check wheth ther is any custom who nee serv
+if no new custom from premium/ordinary orbit or outsid ar and the system is empty then the serv tak a vac
+the custom s decid to wait or balk from the system depend on the serv s stat and the reward for receiv the serv
+by us a prob gen funct and it approach the long-run prob distribut of the queu siz and oth met viz
+equilibr thresholds ent prob etc . hav been obtain
+moreov the soc welf funct is analys bas on two giv inform level
+the optim solv is pres by solv the soc welf maxim problem us partic swarm optim and harmony search techn
+the impact of diff paramet on the perform met in virt cal cent vcc is examin .

@@ -1,0 +1,6 @@
+improv the reliabl of real-tim embed system use innat immun techniqu
+previous work has shown that immune-inspir techniqu have good potenti for solv problem associ with the develop of real-tim embed system rtes where for various reason tradit real-tim develop techniqu are not suitabl
+this paper examin in more detail the general applic of the dendrit cell algorithm dca to the problem of task schedul in rtes
+to make this possibl an understand of the problem characterist is formalis such that the result produc by the dca can be examin in relat to the overal problem difficulti
+the paper then contain a detail understand of how well the dca which demonstr that it general perform well howev it clear identifi properti of anomali that are difficult to detect
+these properti are as anticip base on real-tim schedul theori .

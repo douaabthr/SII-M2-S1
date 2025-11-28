@@ -1,0 +1,14 @@
+fut search algorithm for optim
+thi pap propos a new optim algorithm nam fut search algorithm fsa
+thi algorithm mim the person s lif
+peopl in the world search for the best lif
+if any person found that his lif is not good he tri to chang it and he imit the success person
+accord to thi behavy thi algorithm is built by mathem equ
+the fsa can upd the random init
+furtherm it us the loc search between peopl and the glob search between the hist optim person to achiev the best solv
+the propos algorithm doe not hav tun paramet
+in addit it has low comput complex fast converg and high loc optim avoid
+the perform of the propos algorithm is evalu by apply it to solv som benchmark test funct
+thes test funct hav vary charact necess to evalu the fsa
+in addit the perform of the propos algorithm is comp with fiv oth well-known method
+the result confirm a bet perform of the propos algorithm to get the optim solv with few it numb than oth method .

@@ -1,0 +1,11 @@
+Dynamic kidney paired exchange using modified multiverse optimization
+Kidney exchange is among the effective methods that may permanently supply an important platform for incompatible donor-candidate pairs to exchange organs to achieve mutual benefit and guarantee treatment to people with kidney failure
+However building a dynamic model for Kidney Paired Exchange has become an increasingly urgent issue for augmenting the number of available kidneys in the field of organ transplantation
+There has not been made a lot of research on the kidney exchange problem in a dynamic situation
+Mathematically maximizing the possible kidney exchanges for a given pool can be considered as an optimization problem and has attracted the attention of the community of researchers in the past few years
+Thus optimization approaches like natural-inspired algorithms can help Kidney paired exchange in defining which transplants should be made among all incompatible pairs according to some objectives
+In this paper a new natural stochastic-based algorithm called a Multiverse Optimizer is introduced to develop advanced dynamic approaches for kidney paired exchange
+The objective of the proposed approach is to maximize the number of feasible cycles and chains among the pool pairs over time
+The effectiveness of the proposed method is confirmed by providing the best performance compared to the results of genetic and antlion algorithms which are the only stochastic-based optimization algorithms applied to the kidney exchange
+Furthermore we applied more stochastic-based optimization algorithms for Kidney paired exchange to confirm the overall performance superiority of our proposed method
+The performance of the proposed method in a dynamic situation demonstrates the competitiveness of the proposed method .

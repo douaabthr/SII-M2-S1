@@ -1,0 +1,14 @@
+Bitcoin closing price movement prediction with optimal functional link neural networks
+Bitcoin prediction is a recent area of research interest and growing fast
+Since its inception in a short period of time Bitcoin got wide popularity and considered as an investment asset
+At present it is the most successful cryptocurrency compared to other altcoins dispersed in the world economy
+The Bitcoin prices fluctuate like other stock markets due to inherent volatility
+The investors confidence on Bitcoin rising fast and have been reflected on its prices
+Though few computational intelligence methods are available sophisticated methodologies for accurate prediction of Bitcoin are still lacking and need to be explored
+Functional link neural network FLN is a flat network offers lower computational complexity and achieves enhanced input output nonlinearity mapping through functional expansion of input signals
+Basis functions such as Legendre Trigonometric Laguerre and Chebyshev are commonly used polynomials in FLN for expansion of input signal dimension
+In this article along with the weight and bias vector of FLNs optimal number of polynomial functions for each category of basis function is selected by genetic algorithm during training process rather fixing them earlier
+Therefore an optimal FLN structure is crafted on fly from exploitation of training data
+The optimal FLN models are used to predict the daily weekly and monthly closing prices of Bitcoin
+A comparative study among optimal FLNs is carried out using evaluation metrics such as MAPE NMSE ARV and U of Theil s statistics
+Finally outcomes from experimental and comparative studies suggested the superiority of optimal FLN models for Bitcoin closing price prediction .

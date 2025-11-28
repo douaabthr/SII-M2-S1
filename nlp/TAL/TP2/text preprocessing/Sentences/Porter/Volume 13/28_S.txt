@@ -1,0 +1,8 @@
+predict of corn dri perform for a combin irc dryer with a genetically-optim svr algorithm
+grain dri process is a complex nonlinear system which is character by long delay process multi disturb and strong coupl
+in order to explor the model of an uncertain system such as those use in grain dri and to studi the applic of the support vector regress algorithm a corn dri process conduct in a side-heat infrar radiat and convect dryer wa model by use a support vector regress algorithm combin with a genet algorithm which is abbrevi as ga-svr
+the algorithm wa train by use the input and output data collect from the practic experi of corn dri
+the predict perform comparison between the ga-svr model method and the other two model method the neural network of bp model and the svr model base on the grid search algorithm were also made
+moreov we success use the method to design a model of concurrent-count flow dri
+the design ga-svr model ha achiev higher model predict accuraci accord to the predict result which have verifi the feasibl of the propos model algorithm for model the grain dri
+the model method can also realiz the perform predict of differ dri techniqu and can be appli in the model predict control of the grain dri .

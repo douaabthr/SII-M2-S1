@@ -1,0 +1,8 @@
+Towards the design of vision-based intelligent vehicle system methodologies and challenges
+Rapid growth in technology has changed the way humans live
+Ongoing development in the automobile industry is creating intelligent vehicles and this mode of transportation will assist human society
+The need for this survey arises to identify the scope of an intelligent vehicle through a computer vision approach equipped with recent technological trends
+In this article the major technological phases of intelligent vehicles are analyzed and discussed
+The operational mechanism in these phases is mostly based on vision sensors that facilitate these vehicles to perceive the heterogeneous and dynamic environments and help them to make appropriate decisions
+This study identifies various state-of-art techniques and phase-wise datasets used in the literature
+It highlights the advancement in different phases challenges and scopes for the design and development of intelligent vehicles system .

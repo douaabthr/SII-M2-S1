@@ -1,0 +1,10 @@
+predict of rock mass rat us neur network with an improv rid optim algorithm
+evalu of tbm perform is crit for the cho of tbm spec and tunnel design
+in the past decad the hypothet schemes depend on the rock frag process and the expery model up to field surveil as wel as machin perform ar the two main method
+tradit and conv approach for rock mass rat rmr predict us consid excess paramet and the acc ar far from act valu
+a new rmr predict model bas on the optim neur network nn is design
+to improv the predict acc thi pap propos a new self-adaptive rid optim algorithm sa-ro which apply optim log to train the nn by upd the weight as wav veloc vp transvers wav veloc vs vp/vs stat stat ory magnitud pol wav typ and met
+fin the rmr predict analys of the adopt nn-sa-roa model is comp to the conv and tradit class with vary learn perc 50% 60% 70% and 80% for three dat set respect
+subsequ the perform of the propos work is ver us oth approach bas on er analys
+the predict mean absolv er mae and the mean absolv perc er map of sa-ro ar smal than conv and tradit schemes
+the result show that the propos method can success predict the act rmr .

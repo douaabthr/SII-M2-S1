@@ -1,0 +1,12 @@
+energy aw cluster-based rout in wsn us hybrid pelican-blue monkey optim algorithm
+as the nod in wireless sens network wsns ar pow by battery energy efficy is a maj concern
+sint commun consum the most energy efficy rout becom an effect solv
+a typ rout strategy is to us hierarch clust algorithm
+in hierarch rout schemes a clust arrang of sens nod sns is us to facilit dat merg and aggreg
+the clust head ar in charg of obtain dat from the clust s sns and gath and del the dat they receiv at bs
+thes dat ar combin and pool at the clust head ch level result in consid energy sav
+howev ther ar certain rely issu in clust head select chs and optim rout
+to model a chs and optim rout in wsn thi work carry out the chs us improv kernel fuzzy c mean clust for select the ch by consid energy and dist
+then optim rout is don by deploy a novel optim scheme nam custom pel with blu monkey optim cp-bmo which off the optim rout by consid trust and risk constraint
+also the cp-bmo model hold bet energy consum which is 35.65% 29.42% 38.79% 25.31% 39.85% 39.16% 9.55% 29.39% 39.32% and 39.32% supery to abo rhso pel bmo f-fly aef ml-aefa et ga and qobo respect
+at last the sim outcom confirm the develop approach s effect on pdr network lifetim etc .

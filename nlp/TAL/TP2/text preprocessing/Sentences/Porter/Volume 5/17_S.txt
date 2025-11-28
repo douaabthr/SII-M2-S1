@@ -1,0 +1,14 @@
+effici recurr local search strategi for semi and unsupervis regular least-squar classif
+binari classif task are among the most import one in the field of machin learn
+one promin approach to address such task are support vector machin which aim at find a hyperplan separ two class well such that the induc distanc between the hyperplan and the pattern is maxim
+in gener suffici label data is need for such classif set to obtain reason model
+howev label data is often rare in real-world learn scenario while unlabel data can be obtain easili
+for thi reason the concept of support vector machin ha also been extend to semi and unsupervis set in the unsupervis case one aim at find a partit of the data into two class such that a subsequ applic of a support vector machin lead to the best overal result
+similarli given both a label and an unlabel part semi-supervis support vector machin favor decis hyperplan that lie in a low densiti area induc by the unlabel train pattern while still consid the label part of the data
+the associ optim problem for both the semi and unsupervis case howev are of combinatori natur and henc difficult to solv
+in thi work we present effici implement of simpl local search strategi for variant of the both case that are base on matrix updat scheme for the intermedi candid solut
+we evalu the perform of the result approach on a varieti of artifici and real-world data set
+the result indic that our approach can success incorpor unlabel data
+the unsupervis case wa origin propos by giesek f pahikkala et al
+2009
+the deriv present in thi work are new and comprehend the old one for the unsupervis set as a special case .

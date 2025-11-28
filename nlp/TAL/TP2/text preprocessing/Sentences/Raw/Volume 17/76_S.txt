@@ -1,0 +1,7 @@
+A hybrid manufacturing scheduling optimization strategy in collaborative edge computing
+In the era of Industry 4.0 hybrid scheduling based on collaboration edge computing has the advantages of high computational power and low latency which can meet the needs of smart manufacturing scheduling
+However existing scheduling schemes cannot strike a balance between algorithm complexity and performance
+To address the above challenges we propose a hybrid scheduling model based on collaborative edge computing
+Our proposed scheduling model integrates cloud-edge scheduling coarse-grained phase and edge-edge scheduling fine-grained phase to meet dynamic and real-time requirements
+Our work is as follows i first we use the Johnson Bellman algorithm JBA to deter mine the task decomposition order in the coarse-grained phase ii second we propose an improved Q-network scheduling method DQN for the job assignment problem in the fine-grained phase iii finally we simulate the cooperation of the two phases to significantly reduce the maximum completion time through simulation experiments
+The experimental results show that the method can significantly reduce the dynamic scheduling time and achieve the effect of real-time scheduling .

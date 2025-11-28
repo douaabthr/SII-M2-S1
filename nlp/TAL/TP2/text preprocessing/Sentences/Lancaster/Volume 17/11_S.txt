@@ -1,0 +1,4 @@
+a perform sim and ver method of packet scheduling algorithm for dat stream bas on qos
+in the process of network-based dat flow transmit for vary apply of inform serv ther ar som problem such as limit bandwid and unclear pri level of busy dat which affect the end-to-end rely transmit efficy becaus the system cannot perceiv the link stat
+tradit parallel link redund schemes hav not funda solv the problem of invuln and rely
+on the bas of sort out the demand of serv dat flow transmit thi pap propos a perform ver method of dat flow packet scheduling algorithm bas on qos to solv the problem of network delay and congest and expl a rely end-to-end serv dat flow transmit mod .

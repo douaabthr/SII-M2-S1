@@ -1,0 +1,6 @@
+learn class system to evolv class rul for system of mem constrain compon
+in thi pap we study how to solv class problem in comput system that consist of distribut mem constrain compon
+interact pittsburgh-style learn class system ar us to gen set of class rul that can be deploy on the compon
+we show that thi approach distribut the knowledg and en the compon to solv complex class problem in coop
+we study the structure and property of the evolv rul set and analys the way the compon shar their knowledg
+moreov we investig the influ of diff commun topolog and the introduc of commun cost on the emerg pattern of coop and on the class perform of the whol system .

@@ -1,0 +1,13 @@
+vary select for gen part linear model with longitudin dat
+vary select and paramet estim ar of gre sign in al regress analys
+a vary of approach hav been propos to tackl thi problem
+among thos the penalty-based shrinkage approach has been most popul for the abl to carry out the vary select and paramet estim simult
+howev not much work is avail on the vary select for the gen part model gplms with longitudin dat
+in thi pap we propos a vary select proc for gplms with longitudin dat
+the inf is bas on the scad-penaliz quadr inf funct which is obtain aft the b-spline approxim to non-parametric funct in the model
+the propos approach efficy util the within-cluster correl inform which can improv estim efficy
+the propos approach also has the virtu of low comput cost
+with the tun paramet chos by bic the correct model is ident with prob tend to 1
+the result estim of the paramet compon is asymptot to a norm distribut and that of the non-parametric funct achiev the optim converg rat
+the perform of the propos method is evalu through extend sim study
+a real dat analys show that the propos approach success in exclud the insign vary .

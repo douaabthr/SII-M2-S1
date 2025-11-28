@@ -1,0 +1,11 @@
+collect class of text docu by guid self-organization in t-cell cross-regulation dynam
+we pres and study an agent-based model of t-cell cross-regulation in the adapt immun system which we apply to bin class
+our method expand an ex analys model of t-cell cross-regulation carneiro et al
+in immunol rev 216 1 48 68,2007 that was us to study the self-organizing dynam of a singl pop of t-cells in interact with an id antig pres cel cap of pres a singl antig
+with agent-based model we ar abl to study the self-organizing dynam of multipl pop of distinct t-cells which interact via antig pres cel that pres hundr of distinct antig
+moreov we show that such self-organizing dynam can be guid to produc an effect bin class of antig which is competit with ex machin learn method when apply to biom text class
+mor spec her we test our model on a dataset of publ avail full-text biom artic provid by the biocr challeng kral in the biocr ii
+5 challeng overview p 19,2009
+we study the robust of our model s paramet config and show that it lead to enco result comp to state-of-the-art class
+our result help us understand both t-cell cross-regulation as a gen principl of guid self-organization as wel as it appl to docu class
+theref we show that our bio-inspired algorithm is a prom novel method for biom artic class and for bin docu class in gen .

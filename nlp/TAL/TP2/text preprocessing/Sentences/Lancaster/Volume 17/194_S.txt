@@ -1,0 +1,11 @@
+ardod adapt radi density-based out detect
+out detect has garn consid at in rec year due to it wide-ranging apply across vary research domain
+thi surg in interest has led to the develop of num detect techn predomin bas on dist or dens met
+a not limit of thes ex method is their rely on paramet adjust sign affect the outcom
+addit thes method exhibit intrins flaw distance-based approach struggle with clust with vary loc dens whil density-based method fail to ident pattern within low-density area
+moreov most pri techn ar adept at ident on on kind of out loc glob or group of out
+address thes challeng we introduc the adapt radi density-based out detect ardod method which depart from the tradit parameter-dependent approach
+ardod is a novel parameter-free algorithm that dynam determin the necess paramet bas on the dat distribut within the feat spac
+thi innov method demonst robust perform in detect al three categ of out
+the eff and supery perform of ardod ar valid through an extend expery analys involv vary synthet and real-world dataset
+thi analys showcas ardod s adv ov sev est method loc out fact lof angle-based out detect abod robust distance-based out scor rdo direct dens ratio chang rate-based out detect dcrod empirical-cumulative-distribution-based out detect ecod mean-shift out detect mod and loc glob out detect lgod undersc it pot as a versatil tool in out detect research .

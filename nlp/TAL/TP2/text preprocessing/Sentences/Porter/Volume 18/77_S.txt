@@ -1,0 +1,18 @@
+water distribut system select with modifi fuzzi vikor approach base on novel knowledg and accuraci measur
+problem of water distribut is increas day by day in almost everi citi due to increas popul industri etc
+it is a great task for govern non-govern author to fulfil the requir of water
+variou altern are there depend upon differ paramet that can be opt for thi purpos
+select of best altern accord to variou paramet like cost reliabl environment impact etc
+can be carri out by use variou decis make method
+thi paper present a decis make method in fuzzi environ to solv the problem of water distribut system select
+fuzzi set is an effect tool for manag ambigu and uncertainti in real life problem
+the level of ambigu uncertainti and fuzzi associ with a fuzzi set is it fuzzi inform measur fim
+moreov fuzzi knowledg measur fkm repres the quantiti of knowledg connect to a fuzzi set
+fkm is taken as dual of fim
+in view of thi a new fkm ha been propos in thi paper by erad limit of exist inform measur and knowledg measur
+after that result of propos knowledg measur are compar with the exist inform measur and knowledg measur to check the reliabl of introduc fuzzi knowledg measur
+perform of propos fkm is test with the help of variou numer exampl
+besid thi a new accuraci measur fam is propos base on the propos fuzzi knowledg measur
+the practic use of the suggest fkm and fam is given in optim the water distribut system of a citi
+the aim of the present paper is to propos an effici solut methodolog by associ the propos fam with the tradit vikor vlsekriterijumska optimizacija i kompromisno resenj method so as to improv the stabil of the vikor approach
+a compar studi ha been carri out with the sever exist approach to demonstr the effici of propos method .

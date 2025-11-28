@@ -1,0 +1,10 @@
+bin art elect field algorithm
+art elect field algorithm aef is on of the rec population-based optim techn it is inspir by the electrost forc the
+thi artic aim to design a novel bin vert of the aef scheme to improv the perform of the origin aef scheme in discret spac
+the popul s-shaped and v-shaped funct ar us to design the bin vert of the aef
+the efficy and the optim abl of the propos bin vert of the aef ar study theoret as wel as expery
+an extend expery study is perform to understand the perform of the propos schemes
+a set of 24 benchmark problem ar solv us bin vert of aef the expery result ar comp with nin state-of-the-art algorithm
+the run tim complex and wilcoxon s signed-rank stat test ar also conduc to judg the propos algorithm
+in addit to the expery study theoret analys is also carry out which suggest the converg scenario of the propos schemes
+thes study suggest that the design bin vert of the aef ar very efficy and compet in address difficult optim problem .

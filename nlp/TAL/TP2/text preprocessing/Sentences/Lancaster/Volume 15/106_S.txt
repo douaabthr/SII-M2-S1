@@ -1,0 +1,14 @@
+bitcoin clos pric mov predict with optim funct link neur network
+bitcoin predict is a rec are of research interest and grow fast
+sint it inceiv in a short period of tim bitcoin got wid popul and consid as an invest asset
+at pres it is the most success cryptocur comp to oth altcoin dispers in the world econom
+the bitcoin pric fluctu lik oth stock market due to inh volatil
+the invest confid on bitcoin ris fast and hav been reflect on it pric
+though few comput intellig method ar avail soph methodolog for acc predict of bitcoin ar stil lack and nee to be expl
+funct link neur network fln is a flat network off low comput complex and achiev enh input output nonlinear map through funct expand of input sign
+bas funct such as legendr trigonomet laguer and chebyshev ar common us polynom in fln for expand of input sign dimend
+in thi artic along with the weight and bia vect of flns optim numb of polynom funct for each categ of bas funct is select by genet algorithm dur train process rath fix them ear
+theref an optim fln structure is craft on fly from exploit of train dat
+the optim fln model ar us to predict the dai week and month clos pric of bitcoin
+a comp study among optim flns is carry out us evalu met such as map nmse arv and u of theil s stat
+fin outcom from expery and comp study suggest the supery of optim fln model for bitcoin clos pric predict .

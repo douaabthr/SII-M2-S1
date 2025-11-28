@@ -1,0 +1,19 @@
+Discovery of redundant free maximum disjoint Set-k-Covers for WSN life enhancement with evolutionary ensemble architecture
+In the wireless sensor network lifetime enhancement of network is a critical design issue for a wide number of applications
+Along with ultra-low power technology the computational approach in the development of several disjoint covers of sensors such that each cover must provide the coverage of all targets can be a more effective means for increasing the life span of the network
+This enforces to maximize the number of possible disjoint covers among available sensors in the network
+Effectively this problem can be treated as a Set-K-Cover problem which has been proven to be NP-complete
+To make the solution more power-efficient in this paper the complexity of the problem has increased at a further level by expecting not only the upper bound of covers but also making the covers redundant free and formed with the minimal number of sensors
+This problem can be considered as a search of multiple components where each component itself carried a multi-dimensional characteristic
+In a natural system where evolution is the fundamental principle in the development of any entity such kind of multi-component complex problem doesn t handle at one stage
+First an integral approximated solution evolves and later each component evolves separately
+This is the reason that for the Set-K-Cover problem single stages of the various successful evolutionary algorithms have shown their limitation in achieving the upper bound of covers and in delivering redundant free solutions
+In the past some kind of sequential local scanning process has been integrated with evolutionary computation in the iteration for each cover to improve the performance
+But discovered covers fail to meet objectives of upper bound and/or redundant free covers with the minimal number of sensors
+Hence this research has explored the possibility of finding the solution through more closer to natural way i. e
+only through evolution only without local scanning process
+To meet the desired objectives in this paper an ensemble evolutionary concept has proposed which has delivered redundant free the upper bound of covers with the minimum number of sensors
+Evolutionary Ensemble architecture works at a different level in a cascaded manner to maximize the total possible number of disjoint covers and their refinement along with that there is a feedback mechanism to explore the new covers further if there is any
+Based on the natural extinction process an extinct operator has also introduced in the Genetic algorithm to increase the convergence rate and better exploration
+Instead of fitness-oriented equal opportunity for every parent in offspring creation was introduced to increase the diversity level
+The performance results on different simulated networks confirm that without fail the proposed solution has achieved all objectives whereas various variants of Differential evolution and Genetic algorithms and Particle Swarm Optimization fail to deliver desired performances .

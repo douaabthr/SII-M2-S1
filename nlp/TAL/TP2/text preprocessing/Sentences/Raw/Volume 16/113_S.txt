@@ -1,0 +1,13 @@
+Smart advertising design a visual aesthetic effect improvement based on image data analysis
+Smart advertising is an important part of the modern information industry
+The main problems of smart advertising in Chinese cities at this stage include cluttered settings single form lack of coordination and integration between advertising and cities and urban buildings and inconspicuous visual effects
+In order to deal with these problems it is necessary to optimize the design of smart advertisements to enhance the visual aesthetic effect
+Image aesthetics quality assessment has good application prospects in industries such as image recommendation and image editing aesthetics and can be used to help smart advertisements improve visual aesthetics
+This paper proposes an objective quantitative scoring method for image aesthetics based on a multi-scale feature extraction network which is a computational intelligence approach
+The model is mainly composed of multiple multi-scale feature extraction units cascaded and each unit contains a feature extraction layer composed of 3 different convolution kernels fusion layer and mapping layer
+The feature extraction layer forms the input end of the network by combining the global view and local view of the image
+At the output end the EMD function is used as the loss function and the output distribution is a probability density mass function of 1 10 points
+In order to verify the effectiveness of the method in this paper the AVA dataset which is commonly used in the field of image aesthetic evaluation is selected for testing experiments
+In this paper two parameters Spearman Rank Correlation Coefficient and accuracy rate are selected as indicators to evaluate the method in this paper
+The experimental results show that the method proposed in this paper is feasible and effective
+Outperforms several mainstream models on the AVA dataset .

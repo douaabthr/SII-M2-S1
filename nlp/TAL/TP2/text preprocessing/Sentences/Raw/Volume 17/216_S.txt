@@ -1,0 +1,8 @@
+A two-level evolutionary algorithm for dynamic scheduling in flexible job shop environment
+In many industrial real-world environments scheduling necessitates continual reactive adjustments due to unpredictable perturbations leading to the dynamic transformation of predefined static schedules
+In this paper we introduce a new framework named a two-level evolutionary algorithm 2LEA as a comprehensive approach for addressing the dynamic flexible job shop scheduling problem
+The 2LEA is based on a bi-level optimization design where the upper level is dedicated to solving the general flexible job shop scheduling problem and the lower level is used as a new evolutionary operator guided by a probability rate in the upper level focusing on the optimization of operation sequences
+This framework is capable of handling four dynamic events job insertion job cancellation machine breakdown and job replacement using a predictive-reactive rescheduling strategy
+By addressing the previously unexplored dynamic event of job replacement this paper fills a significant gap in the literature and opens avenues for further research
+Extensive computational experiments conducted on well-known benchmark instances from the Brandimarte and Hurink datasets demonstrate the effectiveness and efficiency of our proposed scheduling algorithm
+Our results showcase the superior performance of 2LEA over state-of-the-art approaches in terms of solution quality affirming its potential as a leading solution for both static and dynamic scheduling challenges .

@@ -1,0 +1,11 @@
+integr shannon entropi and copra optim model-bas recommend framework
+multi-criteria decision-mak mcdm techniqu are increas in product recommend decis which typic entail sever factor
+thi studi aim to demonstr the applic of a novel strategi base on mcdm techniqu as the core element of a consum decis support system by suggest the most appropri item from a given set of altern
+rank product base on onlin product rate and consum prefer is an import area of studi but there are current few studi on thi topic
+thi paper propos a method for rank product use multi-attribut onlin rate
+we propos a novel mobil recommendation-rank system-bas mcdm method to recommend the best altern
+our propos model differ from previou work in the follow way a rate inform of each featur is use to identifi user prefer and complementari criteria b criteria weight are determin by shannon entropi c the complex proport assess method is employ to rank the altern and solv the best mobil recommend problem
+d the sensit studi result show that the rank produc by the variou mcdm approach were highli consist with the rank of the evalu compromis candid
+demonstr of the propos approach through a mobil phone select case studi
+in our experi we have found that our approach provid a reliabl rank while reduc time and space complex indic that our optim model is accur and effici
+with it superior product comparison skill and abil to offer a recommend to the user as a final rank of altern a decision-mak system like thi may prove to be the optim long-term answer for e-commerc site and websit .

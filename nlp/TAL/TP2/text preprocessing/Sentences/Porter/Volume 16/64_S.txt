@@ -1,0 +1,9 @@
+ensembl deep learn system for earli breast cancer detect
+thi paper propos an ensembl deep learn system for the earli detect of breast cancer
+unlik tradit ensembl learn that process the whole imag the propos system process onli the suspect nodul region snr extract use an optim dynam threshold method where the threshold vari correspond to the detail of each input imag
+the snr afford better perform and offer the abil to detect small size nodul
+the ensembl is compos of four transfer learn convolut neural network cnn i.e. alexnet resnet-50 resnet-101 and densenet-201
+a binari support vector machin svm follow each cnn model to provid either a malign or a benign score
+to obtain the final system decis the first-ord momentum is deriv over the four binari output of the ensembl cnn and the final decis is guid by the four cnn train accuraci
+the propos ensembl fusion scheme test on region of interest roi imag use the public digit medic imag curat breast imag subset of digit databas for screen mammographi cbis-ddsm achiev an accuraci of 94% to distinguish between malign m and benign b class and of 95% to distinguish between malign mass mm and benign mass bm nodul
+comparison with relat method on the same data confirm the accuraci and advantag of the propos ensembl system .

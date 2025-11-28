@@ -1,0 +1,10 @@
+learn complex overlap and nich imbal boolean problem use xcs-base classifi system
+xcs is an accuracy-bas learn classifi system which has been success appli to learn various classif and function approxim problem
+recent it has been report that xcs cannot learn overlap and nich imbal problem use the typic experiment setup
+this paper describ two approach to learn these complex problem first tune the paramet and adjust the method of standard xcs specif for such problem
+second appli an advanc variat of xcs
+specif we develop previous an xcs with code-frag action name xcscfa which has a more flexibl genet program like encod and explicit state-act map through comput action
+this approach is examin and compar with standard xcs on six complex boolean dataset which includ overlap and nich imbal problem
+the result indic that to learn overlap and nich imbal problem use xcs it is benefici to either deactiv action set subsumpt or use a relat high subsumpt threshold and a small error threshold
+the xcscfa approach success solv the test complex overlap and nich imbal problem without paramet tune becaus of the rich alphabet inconsist action and especi the redund provid by the code-frag action
+the major contribut of the work present here is overcom the identifi problem in the wide-spread xcs techniqu .

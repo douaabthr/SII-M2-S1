@@ -1,0 +1,8 @@
+a hybrid approach to talent demand forecast in the it industri model and empir analysi
+this studi propos a hybrid grey model to forecast the talent demand of the chines it industri
+such new approach combin advantag of fit with the holt s linear trend system and gm 1 1
+a comparison of the result generat the exponenti smooth system gm 1 1 and the hybrid grey model are shown to valid the correct of the fit
+as a consequ the hybrid grey model has the minimum valu of rmse among the three and demonstr a distinct forecast characterist when compar to the effect of a singl approach of the exponenti smooth and gm 1 1
+furthermor the hybrid grey model forecast that the chines it industri s talent would expand at a pace greater than 6.68% annual between 2021 and 2025 with an averag annual growth of 381,400
+addit the statist indic the demand for talent will approach 6,700 000 by 2025
+the forecast approach deriv from the hybrid grey system in particular is project to provid a suitabl platform for strateg plan specialist design and personnel train of it talent .

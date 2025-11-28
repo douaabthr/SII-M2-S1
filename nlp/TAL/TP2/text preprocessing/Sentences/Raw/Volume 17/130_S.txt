@@ -1,0 +1,16 @@
+Cluster based active learning for classification of evolving streams
+Classification of imbalanced unlabelled data streams with concept drift in evolving streams has posed many challenges recently
+Learner performance from the minority class is poor at high imbalance degrees
+This causes drift detection to fail
+Therefore the existing model cannot be updated resulting in poor classifier performance
+Detecting drifts is typically done through supervised learning
+They are impractical despite their effectiveness in detecting drifts
+In real-world applications only a portion of the data stream can be labelled as oracle assistance is pricey and laborious
+To alleviate these problems a novel technique which is a cluster based active learning for class imbalance and concept drift CBAL is presented in the paper
+Adaptive sampling strategies are used for solving high imbalance degrees
+A two-layer drift detection strategy is used for detecting drifts where the first layer is unsupervised and the second layer is supervised
+To reduce the labelling cost this framework uses a clustering technique for querying the labels
+Extensive experiments over synthetic and real-world data streams exhibit better classification performance
+CBAL detects the drifts with fewer false alarms and with lesser oracle intervention
+For high imbalanced case i.e. 10% the performance of CBAL is 53% and higher whereas the performance of the other algorithms is zero or nil
+The number of drifts detected by CBAL is much more accurate and it also reduces the labelling cost by 90% .

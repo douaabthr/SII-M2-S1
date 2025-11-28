@@ -1,0 +1,7 @@
+art immun optim system solv constrain omni-optimization
+thi work investig an art immun optim system suit for singl and multi-objective constrain optim
+in thi optim an evalu index which can decid the import of individ in the cur pop is develop to accel pop divid the niching-like prol scheme is introduc to strengthen the divers of pop
+thereaft thos divers antibody with the help of immun evolv op evolv their structures along diff direct
+theoret result show that such optim system is converg with low comput complex
+expery on such optim is sufficy examin by a suit of singl and multi-objective test problem
+comp expery illust that the optim with som striking charact is a pot altern optim tool for constrain omni-optimization .

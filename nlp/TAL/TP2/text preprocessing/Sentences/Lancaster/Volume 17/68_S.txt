@@ -1,0 +1,12 @@
+sight partic improv swarm optim by mak partic aw of their surround
+population-based meta-heuristics us partic repres by d dimend point to encod candid solv to an optim problem
+the goal of thi work is to introduc a new typ of partic repres by a d dimend hypercub
+our new repres off a field of view to swarm partic mak them aw of their surround
+thi giv each partic it own cov of the search spac
+we evalu the effect of our approach in the perform of sev swarm-based algorithm includ art bee colony cuckoo search optim and partic swarm optim
+we us 30 well-known benchmark funct and six diff numb of dimend
+we comp the perform of the algorithm withblindandsightedpartic us mann-whitney test
+the result of our extend expery show thatsightedpartic perform at least as wel asblindon in 93% of al scenario across diff algorithm benchmark funct and numb of dimend show sign bet result 51% of the tim
+we also propos a new scal which meas an algorithm s expl and exploit cap and we us it to explain our result
+fin we follow asightedswarm throughout the converg process show it abl to cov larg port of the search spac
+our take-hom mess is that any swarm algorithm can adopt our partic repres in ord to improv it perform becaus any method can benefit from improv it exploit and expl cap .

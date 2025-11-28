@@ -1,0 +1,10 @@
+min max kurtos mean dist bas k-means init centroid init method for big genom dat clust
+genom clust is a big dat apply that us the k-means km clust approach to discov hid pattern and trend in gen for diseas diagnos biolog analys and tissu detect
+the km algorithm is high depend on the init centroid becaus it determin the effect efficy comput resourc and loc optim of the km clust
+the ex init centroid init approach trap loc optim due to random and achiev high comput cost due to the enorm interrel dimend
+theref the km algorithm produc the lowest qual clust and maxim the comput tim and resourc consum
+to address thi issu thi study has pres the min max kurtos mean dist mkmd algorithm for big dat clust in a singl machin environ
+the mkmd algorithm enh the effect and efficy of the km algorithm by meas the dist between dat point of the minim maxim kurtos dimend and their mean
+the perform of the pres algorithm has been comp against km km adv mkm mean-km nfd k-mam nrkm2 fmnn and mukm algorithm us intern and extern effect evalu criter with efficy assess on sixteen genom dataset
+the expery result rev that the mkmdkm algorithm minim it dist comput dat comparison loc optim resourc consum and improv clust perform effect and efficy with stabl converg and result as comp to oth algorithm
+accord to the stat analys the propos mkmdkm algorithm has achiev stat sign by employ the friedm test and the post hoc test .

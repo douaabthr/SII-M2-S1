@@ -1,0 +1,9 @@
+a recur anf tun by mod diff evolv for efficy predict of softw rely
+softw fail predict is a cruc task in softw qual ass
+although tim sery forecast techn and conv softw rely model ar us for the predict of softw rely very oft thes model fail to provid acc predict
+theref an acc model for softw rely predict is imp
+the object of thi pap is to introduc a hybrid model that merg a recur adapt neuro-fuzzy inf system ranf and mod diff evolv mde for softw rely predict
+the model employ in spat feedback loop and delay output feedback to improv the conv neuro-fuzzy system s predict abl whil deal with tim sery softw fail dat
+the hybrid model is train by mde wher a new scheme of crossov and mut has been propos
+we conduc an extend sim on a few publ avail benchmark dataset for comput the predict abl of our hybrid model
+sim result along with stat analys illust that our hybrid model predict mor prec the tim between success fail in softw and outperform oth tradit model .

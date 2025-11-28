@@ -1,0 +1,9 @@
+local transform direct pattern and optim driven dbn for age estim
+age estim is an interest and challeng research area gain signific import in the recent era and is employ in variou applic such as intellig surveil face recognit biometr and so on
+variou techniqu are employ in the literatur for age estim from the face imag
+thi paper introduc the age estim scheme from the face imag and estim is done by defin a novel featur extract strategi name local transform direct pattern ltdp
+the databas contain the input imag ha mani unwant region and thu the viola jone algorithm detect the requir face region
+after detect the face region activ appear model extract the activ appear featur and the propos ltdp extract the textur featur
+the propos ltdp featur extract model modifi the exist local direct pattern ldp with sever other textur featur extract model
+after the featur extract the cuckoo search base deep belief network cdbn classifi estim the age of the person from the face imag base on the extract featur
+the simul result reveal that the propos ltdp with the cdbn classifi achiev high perform with the valu of 2.3416 0.9803 and 0.9724 for mae aeo and aem respect .

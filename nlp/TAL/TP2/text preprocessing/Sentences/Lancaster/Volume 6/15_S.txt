@@ -1,0 +1,8 @@
+cre autonom ag for play sup mario bro gam by mean of evolv finit stat machin
+thi pap show the design and improv of an autonom ag bas in us evolv method to improv behavio model finit stat machin which ar part of the individ to evolv
+thi lead to the obt of a so-calledbotthat follow thegameplaytrack rul of the intern mario ai champ and is abl to autonom complet diff scenario on a sim of sup mario bro
+gam
+mono and multi-seed approach evalu in on play or multipl play respect hav been analys in ord to comp respect the perform of an approach focus in solv a spec scenario and anoth mor gen devot to obtain an ag which can play success in diff scenario
+the analys consid the machin resourc consum which turn in a bottleneck in som expery
+howev the method yield ag which can fin sev stag of diff difficul level and play much bet than an expert hum play sint they can deal with very difficult situ sev enemy surround mario for inst in real tim
+accord to the result and consid the competit s restrict tim limit and object complet scenario up to difficul level 3 thes ag hav enough perform to particip in thi competit track .

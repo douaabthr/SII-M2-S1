@@ -1,0 +1,9 @@
+optim of act pow dispatch consid un pow flow control apply of evolv algorithm in a fuzzy framework
+thi pap pres an optim act pow dispatch oapd problem that unlik common econom dispatch problem preclud unw mismatch on real pow system
+the oapd is form by consid the un pow flow control upfc a versatil dev from the flex ac transmit system
+howev the result turn into a high nonlinear and complex optim problem which requir a pow evolv algorithm to determin the optim solv
+toward thi end thi pap expl the us of comprehend learn partic swarm optim and diff evolv as ahybrid configurationin a fuzzy framework cal hybrid fuzzy-based improv comprehend learn partic swarm optimization-differential evolv to address the propos problem
+to demonst the perform of the propos algorithm a set of benchmark problem includ real-world constrain optim problem as wel as a profound analys of schwefel problem 2.26 ar provid
+moreov to auth it effect in solv pow and energy-related problem with quit a few decid vary four diff pow system 3 unit 6 unit ie 30 bus 10 unit and 40 unit system ar impl
+the ie 30 bus system is opt for profound analys the perform of the propos algorithm in handl the optim pow dispatch problem consid sec constraint and upfc dev wher an enh at least 74,000 sav in a 365 day horizon in tot gen cost is obtain
+sim result also valid that evolv algorithm nee to beimproved/hybridizedto achiev betterequilibriumbetweenexpl and exploitationprocess in a tim man whil solv pow and energy-related problem .

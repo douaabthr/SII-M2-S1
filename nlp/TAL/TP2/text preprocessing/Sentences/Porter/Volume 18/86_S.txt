@@ -1,0 +1,11 @@
+a novel fuzzy-entropi base onlin fuzzi c-mean cluster algorithm for massiv data
+due to the inadequaci of standard cluster approach for handl extens data consider research ha recent focus on cluster larg and extrem larg dataset
+specif certain variat of the famou fuzzi c-mean algorithm have been put forth test techniqu for segment dataset and aggreg the intermedi cluster result
+among them the fuzzi c-mean onlin techniqu is one of the most use for cluster larg amount of data
+it split the dataset into equal-s subset or chunk and assign a weight to each chunk depend on the membership degre per cluster
+thi studi introduc a novel variat of the onlin fuzzi c-mean ofcm algorithm design to boost it perform
+our propos method integr a cluster compact measur into the weight attribut process quantifi by the fuzzi entropi of each cluster
+compar experi conduct across divers classif dataset of vari scale demonstr that the propos algorithm significantli improv the accuraci of cluster result when compar to the standard ofcm
+crucial thi enhanc is achiev without increas the comput complex of the algorithm
+furthermor our approach yield perform compar to that of heurist fuzzi c-mean algorithm while offer the distinct advantag of shorter execut time
+futur research will focu on explor featur select and reduct techniqu to adapt the propos algorithm for effect applic to massiv dataset character by an except high number of featur .

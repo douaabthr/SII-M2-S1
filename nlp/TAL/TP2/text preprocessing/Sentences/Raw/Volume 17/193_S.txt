@@ -1,0 +1,14 @@
+A realistic and sustainable logistics transportation planning a new cost model meta-heuristic solving approach and results
+Accurate logistics cost enables efficient and cost-effective planning of transportation systems
+It facilitates the fast on-time and seamless transportation of goods between the cities
+Existing cost models are based on the unit transportation cost of goods which could be more realistic and accurate
+In this work we introduce a new cost function based on the unit transportation cost of a truck to overcome the undercharging or overcharging issues in the existing cost functions
+The proposed cost function best suits the government and industry when developing the facilities
+This work also presents the logistic transportation problem formulation of a cost function using integer programming and methodology to solve the transportation problem using meta-heuristic algorithms
+In addition we construct a new transportation problem for one district-one product ODOP using real-world scenarios and data
+ODOP is an initiative of the Uttar Pradesh Government for the balanced economic development of the state in India
+We solve this 18 cities problem using eight meta-heuristic algorithms
+Our experimental simulation finds an optimal logistics cost of Rs
+2159140.00 for four logistics hubs and 14 distribution/collection centres
+Our observation also identifies the dependency of network configuration over various factors like establishment/rental and operational cost the unit cost of transportation and the capacity of vehicles instead of only on product supply and demand of goods/products
+Our evaluation also reports an 80% consistent result by the anti-predatory nature-inspired algorithm compared to the other state-of-the-art algorithms .

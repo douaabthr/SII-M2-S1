@@ -1,0 +1,6 @@
+real-world transf of evolv art immun system behavio between smal and larg scal robot platform
+in mobl robot a solid test for adapt is the abl of a control system to funct not on in a divers numb of phys environ but also on a numb of diff robot platform
+thi pap demonst that a set of behavio evolv in sim on a miny robot epuck can be transfer to a much larger-scale platform pion both in sim and in the real world
+the chos architect us art evolv of epuck behavio to obtain a genet sequ which is then employ to see an idiotyp art immun system ai on the pion
+despit num hardw and softw diff between the platform navig and target-finding expery show that the evolv behavio transf very wel to the larg robot when the idiotyp ai techn is us
+in contrast transf is poor when reinforc learn alon is us which valid the adapt of the chos architect .

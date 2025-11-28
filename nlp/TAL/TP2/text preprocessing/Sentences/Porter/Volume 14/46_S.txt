@@ -1,0 +1,3 @@
+correct to visual topic model for healthcar data cluster
+the algorithm in section 5 were miss in the onlin publish articl
+now section 5 text is given below .

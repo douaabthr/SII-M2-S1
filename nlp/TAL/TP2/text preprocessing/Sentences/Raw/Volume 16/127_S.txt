@@ -1,0 +1,10 @@
+Scenario-based passengers evacuation optimization with multiple travel modes in transit terminal
+The transit terminal is densely populated places with limited road and parking capacity
+The contradiction between supply and demand will reduce the evacuation efficiency of passengers arriving the transit terminal
+This paper considers the evacuation capacity of multiple travel modes on the arriving passengers at the transit terminal at the same time regards multiple travel modes as a whole and coordinates the transport capacity of various modes
+A bi-objective model is proposed
+The first objective is minimizing the evacuation cost while the second objective is minimizing the number of passengers transferred
+The proposed bi-objective model is transformed into a single-objective one by linear weighted method
+The transformed model is essentially a mixed-integer linear programming which is solved by LINGO
+To validate the validity of the proposed model a case study of Beijing West Railway Station is presented
+The results indicate this proposed methodology is rational and effective and can help passenger evacuation in practical application .

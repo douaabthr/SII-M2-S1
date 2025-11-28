@@ -1,0 +1,3 @@
+Swarm intelligence based algorithms: a critical analysis
+
+Many optimization algorithms have been developed by drawing inspiration from swarm intelligence (SI). These SI-based algorithms can have some advantages over traditional algorithms. In this paper, we carry out a critical analysis of these SI-based algorithms by analyzing their ways to mimic evolutionary operators. We also analyze the ways of achieving exploration and exploitation in algorithms by using mutation, crossover and selection. In addition, we also look at algorithms using dynamic systems, self-organization and Markov chain framework. Finally, we provide some discussions and topics for further research.

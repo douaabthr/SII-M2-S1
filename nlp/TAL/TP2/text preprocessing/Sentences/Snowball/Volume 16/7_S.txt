@@ -1,0 +1,9 @@
+a flower pollin algorithm base chebyshev polynomi neural network for net asset valu predict
+deriv relev featur from histor financi data and forecast it accur and imparti is an emerg and predomin field of research in the vast domain of financ
+mutual fund is a structur invest instrument in econom market and the measur instrument requir to price it is call as net asset valu nav
+for nav predict artifici neural network has been immens util in the past due to it adapt learn robust and great abil to identifi and handl hidden nonlinear pattern
+in this studi a chebyshev polynomi neural network cpnn has been propos for one day ahead predict of three differ nav data set belong to three lead indian financi hous
+the control paramet of the network are estim by a comput intellig meta-heurist algorithm known as flower pollin algorithm fpa
+it is a natur inspir algorithm motiv by the pollin process of flower plant with veri few control paramet and rapid converg rate
+the efficaci of the propos forecast model is also examin by a compar analysi of train of cpnn with other optim algorithm like differenti evolut and particl swarm optim pso on the same set of data collect over the same period of time
+the converg plot obtain dure the train of the model and the differ error metric valu calcul dure their test phase of the studi showcas that the propos cpnn-fpa model clear outperform the other two experi predict model .

@@ -1,0 +1,7 @@
+The improved grasshopper optimization algorithm with Cauchy mutation strategy and random weight operator for solving optimization problems
+An improved grasshopper optimization algorithm GOA is proposed in this paper termed CMRWGOA which combines both Random Weight shorted RWGOA and Cauchy mutation termed CMGOA mechanism into the GOA
+The GOA received inspiration from the foraging and swarming habits of grasshoppers
+The performance of the CMRWGOA was validated by 23 benchmark functions in comparison with four well-known meta-heuristic algorithms AHA DA GOA and MVO CMGOA RWGOA and the GOA
+The non-parametric Wilcoxon Friedman and Nemenyi statistical tests are conducted on the CMRWGOA
+Furthermore the CMRWGOA has been evaluated in three real-life challenging optimization problems as a complementary study
+Various strictly extensive experimental results reveal that the CMRWGOA exhibit better performance .

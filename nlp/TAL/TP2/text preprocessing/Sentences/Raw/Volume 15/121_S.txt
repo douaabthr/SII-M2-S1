@@ -1,0 +1,8 @@
+Mutation based test generation using search based social group optimization approach
+Mutation based test generation is a popular and effective process for creating the test suite that is appraised for its caliber over a pool of artificial faults
+These artificial faults can be infused by imposing mutagenic rules that further assist meta-heuristic techniques for searching the evolved test suite in search space
+Meta-heuristic techniques switch between multiple solutions in search space and result in an optimized solution
+This paper implements and presents a new test set generation algorithm SGO-MT by embracing a recently developed search based approach Social Group Optimization algorithm SGO for exposing numerous artificial faults in the software
+It works on the principle of human learning nature from society and a teacher in the group
+The efficacy of the proposed approach is measured on thirteen Java programs widely used in academia
+The results demonstrate the good performance for finding the simple and stubborn faults .

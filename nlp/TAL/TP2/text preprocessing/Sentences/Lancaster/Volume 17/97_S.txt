@@ -1,0 +1,8 @@
+a neur network approach for the solv of van der pol-mathieu-duffing oscil model
+the conceiv of oscil problem find it indispens pres in num dynam system
+machin learn techn for handl dynam system is a challeng and rapid expand field of research
+in thi regard a machin learn approach nam symplect art neur network model has been us for handl the non-linear system ar in dusty plasm model
+the prim object of thi artic is to investig the dynam of van der pol-mathieu-duffing oscil problem for diff excit funct us the meshfr symplect art neur network algorithm
+the num sim and graph repres ar carry out to est the acc of the pres algorithm
+also the obtain sim result ar comp with the ex num solv
+in addit the stat assess study at vary test point confirm an excel agr between the pres sim result and the ex result .

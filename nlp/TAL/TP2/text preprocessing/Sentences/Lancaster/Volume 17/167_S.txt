@@ -1,0 +1,9 @@
+quantum-inspired meta-heuristic approach for a constrain portfolio optim problem
+portfolio optim has long been a challeng proposit and a wid study top in fin and man
+it involv select and alloc the right asset accord to the desir object
+it has been found that thi nonlinear constraint problem cannot be effect solv us a tradit approach
+thi pap cov and comp quantum-inspired vert of four popul evolv techn with three benchmark dataset
+genet algorithm diff evolv partic swarm optim ant colony optim and their quantum-inspired incarn ar impl and the result ar comp
+expery hav been carry out with mor than 10 year of stock pric dat from nasdaq bse and dow jon
+thi work propos sev enh to alloc fund efficy such as improv crossov techn and dynam and adapt select of paramet
+furtherm it is observ that the quantum-inspired techn outperform the class counterpart .

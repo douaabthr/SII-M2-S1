@@ -1,0 +1,10 @@
+automat segment of sub-acut ischem stroke lesion by use dtcwt and dbn with paramet fine tune
+in imag process the ischem stroke lesion segment is a major procedur use to extric suspici region from the given mri brain imag
+for classif and segment of mri in this paper we propos a three-step framework
+to remov nois the initi step util a de-nois techniqu base on dual tree complex wavelet transform dtcwt test without affect the essenti imag featur and content
+in the second step an un-supervis deep belief network dbn is intend for learn the unlabel featur
+here the nois in mri can caus a signific corrupt of data that imped the execut of dbns
+the dtcwt in the initi step enhanc execut of dbns
+addit we manag the issu of dbns paramet fine-tun by mean of a quick meta-heurist approach name salp swarm algorithm
+base on the simul behaviour of salp this new meta-heurist algorithm is plan to solv optimis issu
+it is valid against differ benchmark test function and afterward contrast with well known state-of-the-art optimis algorithm like genet algorithm particl swarm optimis bat algorithm artifici bee coloni algorithm and cuckoo search algorithm for perform effici .

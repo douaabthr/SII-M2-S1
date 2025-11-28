@@ -1,0 +1,11 @@
+i/f-rac tune firefli algorithm and particl swarm optim for k-medoids-bas cluster
+cluster is still one of the most common unsupervis learn techniqu in data mine sinc it allow the discoveri of meaning and interest pattern knowledg rule and associ from large-scal dataset
+k-medoid a variant of k-mean is a popular cluster method that attempt to find the optim combin of k medoid from among a set of potenti combin
+it ha been success appli to solv variou real-lif problem owe to it simplic and effect
+nevertheless due to the exponenti number of possibl combin of k medoid it is extrem challeng to produc the optim one within a reason amount of time
+therefor in thi work we propos to formul the problem of k-medoid cluster as an optim problem and then combin two effect and power swarm intellig si algorithm name firefli algorithm fa and particl swarm optim pso to select the appropri combin of k medoid
+we extens evalu the propos fa-pso for k-medoids-bas cluster abbrevi as fa-pso-km use 10 uci dataset
+we first use the iter f-race i/f-rac algorithm to determin the optim paramet set for fa and pso
+then we compar the result of the propos fa-pso-km with those obtain use the well-known state-of-the-art k-medoids-bas cluster algorithm pam clara and claran
+we also compar the result with 11 popular swarm intellig algorithm pso abc cs fa ba apso eho hho sma ao and rsa
+experiment result and statist analysi show that the propos fa-pso-km is veri promis and demonstr a signific improv over the other cluster algorithm .

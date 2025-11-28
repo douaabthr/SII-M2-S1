@@ -1,0 +1,10 @@
+a new big data approach for topic classif and sentiment analysi of twitter data
+twitter is a major micro-blog servic with million of activ user
+these user use twitter to post statu messag call tweet and share their opinion use hash tag on variou event
+henc twitter is consid a major real time stream sourc and one of an effect and accur indic of opinion
+the amount of data gener by twitter is huge and it is difficult to scan entir data manual
+thi paper propos a hybrid lexicon-na bayesian classifi hl-nbc method for sentiment analysi
+in addit to that sentiment analysi engin is preced by topic classif which classifi tweet into differ categori and filter irrelev tweet
+the propos method is compar with lexicon naïv bayesian classifi for uni-gram and bi-gram featur
+out of the differ approach the propos hl-nbc method doe sentiment classif in an improv way and give accuraci of 82% which is compar better than other method
+also the sentiment analysi is perform in a shorter time compar to tradit method and achiev 93% improv in process time for larger dataset .

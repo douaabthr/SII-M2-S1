@@ -1,0 +1,12 @@
+implement of self adapt mutat factor and cross-ov probabl base differenti evolut algorithm for node local in wireless sensor network
+node local or posit is essenti for mani posit awar protocol in a wireless sensor network
+the classic global poison system use for node local is limit becaus of it high cost and it unavail in the indoor environ
+so sever local algorithm have been propos in the recent past to improv local accuraci and to reduc implement cost
+one of the popular approach of local is to defin local as a least squar local lsl problem
+dure optim of lsl problem the perform of the classic gauss newton method is limit becaus it can be trap by local minima
+by contrast differenti evolut de algorithm has high local accuraci becaus it has an abil to determin global optim solut to the lsl problem
+howev the converg speed of the convent de algorithm is low as it use fix valu of mutat factor and cross-ov probabl
+thus in this paper a self-adapt mutat factor cross-ov probabl base differenti evolut sa-mcd algorithm is propos for lsl problem to improv converg speed
+the sa-mcd algorithm adapt adjust the mutat factor and cross-ov probabl in each generat to better explor and exploit the global optim solut
+thus improv local accuraci with high converg speed is expect from the sa-mcd algorithm
+the rigor simul result conduct for sever local algorithm declar that the propos sa-mcd base local has about 40 90 more local accuraci over the classic techniqu .

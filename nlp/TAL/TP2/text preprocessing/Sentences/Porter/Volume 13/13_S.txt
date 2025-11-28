@@ -1,0 +1,11 @@
+implement of adapt scheme in evolutionari techniqu for anomaly-bas intrus detect
+intrus detect ha becom import to network secur becaus of the increas connect between comput and internet
+variou intrus detect system have been investig to protect web or network use sever evolutionari method and classif techniqu
+in thi studi we propos a new techniqu by combin ensembl of featur select ef and adapt grasshopp optim algorithm agoa method call efsagoa which can help to identifi the type of attack
+in the propos approach initi ef method is appli to rank the attribut for select the high rank subset of attribut
+then agoa is employ to determin import attribut from the reduc dataset that can contribut to predict the network traffic behavior
+furthermor adapt behavior of goa use to decid whether a record repres an anomali or not differ from some approach acquaint in the literatur
+agoa use the support vector machin svm as a fit function to choos the extrem effici featur and to maxim the classif perform
+in addit it is also appli to optim the penalti factor c kernel paramet sigma and tube size epsilon of svm classifi
+the perform of efsagoa ha been evalu on modern intrus data as iscx 2012
+the experiment result demonstr that the propos method perform better and obtain high detect rate accuraci and low fals alarm rate compar to other state-of-art techniqu in iscx 2012 data .

@@ -1,0 +1,8 @@
+on the cryptanalys of s-des us nat inspir optim algorithm
+cryptanalys has emerg to be an import top in the er of modern emerg technolog
+the cryptanalys of simpl dat encrypt standard s-des is a np-hard combin problem
+thi pap has two goal
+first we study the cryptanalys of s-des via nature-inspired meta-heuristic algorithm nam cuckoo search firef and black-hole optim algorithm
+each of thes algorithm is bas on fascin nat phenomen and exploit the inh un of such phenomen to solv optim problem
+second we pres a comp study on the efficy of thes three fair new algorithm with that of prevy est memet algorithm and genet algorithm in regard to s-des cryptanalys
+through expery and extend test it has been shown that the propos algorithm bas on cuckoo search prov to be most efficy with respect to acc and execut tim .

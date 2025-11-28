@@ -1,0 +1,8 @@
+genet algorithm bas bi-objective optim of sigmoid util and throughput in ad-hoc wireless network
+with the rapid grow of ad-hoc wireless technolog amidst the hug demand of high data-rates the simult optim of overal network throughput and utility-proportional resourc alloc is of utmost sign
+the design of infrastructure-less ad-hoc wireless network with high dynam op condit can be intellig model by us the art intellig algorithm and machin learn techn
+in thi work we employ the meta-heuristic comput method of genet algorithm for multi-criterion optim of sigmoid util maxim and throughput efficy
+the it impl of the evolv genet algorithm is effect enforc by consid the comprehend apply of eight disp combin of individ cre select mut and crossov op
+through the sim expery the impact of execut of thes feas composit model on the der two-dimensional pareto-optimal fronty the criter satisfact ratio and the av spread of individ solv is extend investig
+furtherm thes divers genet op for retriev the optim solv to the propos problem form ar comp in term of the estim precid and tim complex met
+fin the eff of our optim model is sign comp with the prevy work in term of achiev throughput .

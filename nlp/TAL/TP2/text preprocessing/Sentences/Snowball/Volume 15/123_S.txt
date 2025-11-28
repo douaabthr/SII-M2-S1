@@ -1,0 +1,10 @@
+a novel edg boost approach for imag super-resolut
+imag super-resolut is high demand area in both research as well as industri
+in this paper a novel deep network to acquir the high-resolut imag from the input low-resolut imag has been propos
+the propos a novel residual-edg modul is use to build the network for singl imag super resolut
+the residual-edg modul compris of tradit residu learn follow by the propos edg boost mechan
+the propos edg boost mechan propag differ between the residu featur map across the network with dens connect
+the propos edg boost mechan enhanc the edg content in the featur map learn by the residu block
+this studi use condit generat adversari network framework to optim the weight paramet
+experi have been carri out on benchmark databas to valid the propos network for imag super-resolut
+empir result show that the propos network perform better other exist method for imag super-resolut .

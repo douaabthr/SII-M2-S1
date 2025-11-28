@@ -1,0 +1,7 @@
+xcsf with local delet prevent detriment forget
+the xcsf classifi system iter solv regress problem with a popul of overlap local approxim
+we show that problem solut stabil and accuraci may be lost in particular set mainli due to xcsf s global delet
+we introduc local delet which prevent these detriment effect to larg extent
+we show experiment that local delet can prevent forget in variou problem particularli where the problem space is non-uniformli or non-independ sampl
+while we use xcsf with hyper-ellipsoid recept field and linear approxim herein local delet can be appli to ani xc version where local can be similarli defin
+for futur work we propos to appli xcsf with local delet to unbalanc non-uniformli distribut local sampl problem with complex manifold structur within which vari target error valu may be reach select .

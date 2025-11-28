@@ -1,0 +1,14 @@
+design optim of cam follow mechan use rao algorithm and their variant
+thi paper present the design optim of cam follow mechan cfm with eccentr roller type follow use recent develop advanc optim algorithm name rao samp-rao and qo-rao algorithm
+four type of follow motion law i.e. cycloid modifi harmon 3 4 5 degre polynomi and 4 5 6 7 degre polynomi motion are consid
+the cfm is optim to minim three object such as the input torqu need to rotat the cam the radiu of the pitch circl of the cam and the maximum contact stress
+the problem ha five continu design variabl name the roller radiu rg the radiu of cam base circl rb the distanc between the follow bear and the center of the cam q the eccentr of the follow e and the length of follow bear b
+eight design constraint relat to the geometri of the cam mechan the pressur angl the effici of the mechan the curvatur radiu of the pitch curv and the maximum contact stress are consid
+the comput result obtain use rao algorithm and their variant are compar with other advanc optim algorithm such as the salp swarm algorithm ssa ant lion optim alo moth flame optim mfo multi vers optim mvo evapor rate water cycl algorithm er-wca grey wolf optim gwo and mine blast algorithm mba
+the comparison of optim result reveal that the optimum valu of a fit function obtain use rao algorithm and their variant is superior to gwo alo mfo ssa er-wca mba and mvo for all four case consid
+the optimum fit function valu of the cfm with case iii is reduc by 3.14% 4.13% and 7.61% compar to the cfm s fit function valu with the case i case ii and case iv respect
+henc the 3 4 5 degre polynomi motion of the follow is effect for better perform of the cfm
+also the averag time requir for rao algorithm and their variant is compar significantli less than the other algorithm consid
+the effect of rao algorithm and their variant will help the commun to improv the optimum solut to their problem in their respect research field
+also rao algorithm will decreas the research effort requir to tune the algorithm-specif control paramet as these algorithm do not have algorithm-specif control paramet
+furthermor the friedman rank test prove the signific of the statist result acquir use rao algorithm and their variant .

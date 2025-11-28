@@ -1,0 +1,9 @@
+lvp extract and triplet-bas segment for diabet retinopathi recognit
+till now the detect of diabet retinopathi seem to be one of the sensit research topic sinc it is relat to health care of ani individu
+a number of contribut in term of detect alreadi exist in the dice still there present some problem regard the detect accuraci
+this issu motiv to develop a new detect model of diabet retinopathi and moreov this model tell the sever of retinopathi from the given fundus imag
+the propos model includ preprocess segment featur extract and classif stage
+here triplet half band filterbank thfb segment is perform local vector pattern lvp is use for extract the featur principl compon analysi pca procedur is use to reduc the dimens of the featur vector and neural network nn is use for classif purpos
+the propos model compar it perform over other convent classifi like support vector machin svm k nearest neighbor k-nn and navi bay nb in term of posit and negat measur
+the posit measur are accuraci specif sensit precis negat predict valu npv f1-score and matthew correl coeffici mcc
+similar the negat measur are the fals posit rate fpr fals negat rate fnr and fals discoveri rate fdr and the effici of the propos model is proven .

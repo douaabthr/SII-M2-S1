@@ -1,0 +1,6 @@
+research on effect jam styl of projectile-carried commun for fh commun radio und common mod system
+thi work address the effect jam styl of projectile-carried commun for frequ hop radio with diff mod by apply sim ver via opnet platform to construct the projectile-carried commun jam system model
+a gen projectile-carried commun jam styl bas on the sign combin of sweep saw-tooth wav and nois frequ mod is propos and analys
+the network model of projectile-carried commun jam system is construct and then the model build process of frequ hop radio from the two aspect of transmit model and receiv model is deeply elab
+we demonst that the gen projectile-carried commun jam styl has good jam effect on the frequ hop radio receiv with fiv mod mod of 2fsk 2psk 2dpsk msk and gmsk by comp the sim result includ receiv throughput end-to-end delay tim delay of wireless channel access delivery rat of synchron head mess signal-to-noise ratio bit er rat packet loss rat remain pow of jam
+among them the bit er rat of radio receiv with fiv mod mod is mor than 20% .

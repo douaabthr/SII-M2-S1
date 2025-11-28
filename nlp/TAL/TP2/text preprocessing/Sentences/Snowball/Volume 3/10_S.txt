@@ -1,0 +1,8 @@
+gpu implement of a road sign detector base on particl swarm optim
+road sign detect is a major goal of the advanc drive assist system
+most publish work on this problem share the same approach by which sign are first detect and then classifi in video sequenc even if differ techniqu are use
+while detect is usual perform use classic comput vision techniqu base on color and/or shape match most often classif is perform by neural network
+in this work we present a novel modular and scalabl approach to road sign detect base on particl swarm optim which take into account both shape and color to detect sign
+in our approach in particular the optim of a singl fit function allow both to detect a sign belong to a certain categori and at the same time to estim it posit with respect to the camera refer frame
+to speed up process the algorithm implement exploit the parallel comput capabl offer by modern graphic card and in particular by the comput unifi devic architectur by nvidia
+the effect of the approach has been assess on both synthet and real video sequenc which have been success process at or close to full frame rate .

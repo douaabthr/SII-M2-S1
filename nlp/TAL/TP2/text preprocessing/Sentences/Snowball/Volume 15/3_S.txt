@@ -1,0 +1,13 @@
+a modifi teach learn metaheurist algorithm with opposite-bas learn for permut flow-shop schedul problem
+teaching-learning-bas optim is one of the well-known metaheurist algorithm in the research industri
+recent various population-bas algorithm have been develop for solv optim problem
+in this paper a random scale factor approach is propos to modifi the simpl tlbo algorithm
+modifi teaching-learning-bas optim with opposite-based-learn algorithm is appli to solv the permut flow-shop-schedul problem with the purpos of minim the makespan
+the obl approach is use to enhanc the qualiti of the initi popul and converg speed
+pfssp is use extens for solv schedul problem which belong to the categori of np-hard optim problem
+first mtlbo is develop to effect determin the pfssp use the largest order valu rule-bas random key so that individu job schedul are convert into discret schedul
+second new initi popul are generat in mtlbo use the nawaz enscor ham heurist mechan
+final the local exploit abil is enhanc in the mtlbo use effect swap insert and invers structur
+the perform of propos algorithm is valid use ten benchmark function and the wilcoxon rank test
+the comput result and comparison indic that the propos algorithm outperform over five well-known dataset such as carlier reev heller taillard and vrf benchmark test function compar to other metaheurist algorithm
+thep-valu indic the signific and superior of the propos algorithm over other metaheurist algorithm .

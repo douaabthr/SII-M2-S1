@@ -1,0 +1,9 @@
+intellig mobil plan for a cost-effect object follow mobil robot system with obstacl avoid use robot vision and deep learn
+few industri use manual control robot or automobil to carri materi to the desir posit and in some case man power are use due to a lack of money
+this cannot be use all the time in all place and all condit
+so it is veri tranquil to have robot which can follow a specif human by follow the uniqu colour object held by that person
+so we propos a robot system that use robot vision and deep learn to get the requir linear and angular veloc which are ν and ω respect make the robot avoid static and dynam obstacl when follow the uniqu colour object
+we propos a novel lstm cell call tf-lstm which make the propos methodolog veri accur in track the object in 3d space
+tf-lstms or target follow lstms are inspir by the tradit lstms and give a meagr error in linear and angular veloc predict
+the pi control which was use to control the linear and angular veloc which in turn control the posit of the robot gave us impress result and this methodolog outperform all other methodolog for precis target track in perform comparis
+the propos tf-lstm gave us an accuraci of 96.1% averag linear jerk of 0.4 m/s3 averag angular jerk of 30 degrees/s3 averag clearanc of 0.514 m maintain no collos with the obstacl .

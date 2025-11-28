@@ -1,0 +1,9 @@
+loc transform direct pattern and optim driv dbn for ag estim
+ag estim is an interest and challeng research are gain sign import in the rec er and is employ in vary apply such as intellig surveil fac recognit biomet and so on
+vary techn ar employ in the lit for ag estim from the fac im
+thi pap introduc the ag estim scheme from the fac im and estim is don by defin a novel feat extract strategy nam loc transform direct pattern ltdp
+the databas contain the input im has many unw reg and thu the viol jon algorithm detect the requir fac reg
+aft detect the fac reg act appear model extract the act appear feat and the propos ltdp extract the text feat
+the propos ltdp feat extract model mod the ex loc direct pattern ldp with sev oth text feat extract model
+aft the feat extract the cuckoo search bas deep believ network cdbn class estim the ag of the person from the fac im bas on the extract feat
+the sim result rev that the propos ltdp with the cdbn class achiev high perform with the valu of 2.3416 0.9803 and 0.9724 for mae aeo and aem respect .

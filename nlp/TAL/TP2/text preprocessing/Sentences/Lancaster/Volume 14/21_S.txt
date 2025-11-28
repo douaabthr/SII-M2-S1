@@ -1,0 +1,9 @@
+assess of electromyogram us genet algorithm and art neur network
+the record elect act assocy with musc and nerv ar cal electromyogram emg and ar us for examin of disord in the musc and nerv system
+the efficy discrimin of norm and abnorm emg sign play vit rol in the autom diagnost assist tool
+hent the prop extract of feat subset select of best feat subset and develop of class model wer ess to differenty the abnorm and norm sign
+in thi pap a tot of 80 tim frequ feat of norm myopathy and amyotroph lat sclerosis al emg sign wer ext us four diff transform approach nam stockwel synchro-extracting wign vil and short-time foury transform
+the select of 15 sign feat was perform us genet algorithm ga
+also the stat sign of the select feat wer analys us three diff class model of norm myopathy al cas
+furth the art neur network an class wer develop individ for extract transform tim frequ feat and ga select feat
+result demonst that the select feat by genet algorithm ar efficy for the design of emg class .

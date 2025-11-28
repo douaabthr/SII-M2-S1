@@ -1,0 +1,12 @@
+Gender recognition using four statistical feature techniques a comparative study of performance
+Nowadays many applications use biometric systems as a security purpose
+These systems use fingerprints iris retina hand geometry etc
+that have unique patterns from person to another
+The human face is one of the most important organs that has many physiological characteristics such as the subject gender race age and mood
+Determining the gender of the face can reduce the processing time of large-scale face-based systems and may improve the performance
+Many studies were proposed for gender recognition but several were evaluated using the accuracy as a performance metric which is improper for unbalanced data
+Further they used a grayscale color and extracted features either from the whole image or equally divided blocks as a grid
+In this paper novel methods are proposed based on statistical features that have the ability to represent the face landmarks
+These features are GIST pyramid histogram of oriented gradients GIST based on discrete cosine transform and principal component analysis that are extracted using face local regions
+The performances are evaluated using area-under-the-curve that is computed from the receiver operating characteristic or ROC curve
+At the end the acquired performance has been compared by two state-of-the-art techniques that shows that the proposed approaches enhance the performance between 1 and 3% but the number of features is increased .

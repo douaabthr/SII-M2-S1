@@ -1,0 +1,8 @@
+swarm optim approach for the minmax regret fermat weber problem with budgeted-constrain uncertain point weight
+given a set of exist point with their associ posit weight on the plane the classic fermat weber problem aim to find a new point that minim the overal weight distanc to the exist point
+we investig in this paper the fermat weber problem with budgeted-uncertain interv point weight
+the minmax regret criterion is appli to identifi the meaning solut
+we first studi some structur properti of the problem
+then we develop an effici algorithm to solv the correspond problem where the swarm-ori algorithm are appli as subroutin
+comput result show the benchmark result for these propos method
+an examin is present on identifi the minmax regret fermat weber point concern establish a new airport in vietnam alongsid it applic in product transfer scenario .

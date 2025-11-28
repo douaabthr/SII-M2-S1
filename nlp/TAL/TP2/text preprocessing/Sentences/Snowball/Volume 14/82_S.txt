@@ -1,0 +1,15 @@
+optim featur selection-bas diabet retinopathi detect use improv rider optim algorithm enabl with deep learn
+this propos tempt to develop autom dr detect by analyz the retin abnorm like hard exud haemorrhag microaneurysm and soft exud
+the main process phase of the develop dr detect model is pre-process optic disk remov blood vessel remov segment of abnorm featur extract optim featur select and classif
+at first the pre-process of the input retin imag is done by contrast limit adapt histogram equal
+the next phase perform the optic disc remov which is carri out by open-clos watersh transform
+further the grey level threshold is done for segment the blood vessel and it remov
+onc the optic disk and blood vessel are remov segment of abnorm is done by top hat transform and gabor filter
+further the featur extract phase is start which tend to extract four set of featur like local binari pattern textur energi measur shanon s and kapur s entropi
+sinc the length of the featur vector seem to be long the featur select process is done which select the uniqu featur with less correl
+moreov the deep belief network dbn base classif algorithm perform the categor of imag into four class normal earlier moder or sever stage
+the optim featur select is done by the improv meta-heurist algorithm call modifi gear and steering-bas rider optim algorithm mgs-roa and the same algorithm updat the weight in dbn
+final the effectu perform and compar analysi prove the stabl and reliabl perform of the propos model over exist model
+the perform of the propos model is compar with the exist classifi such as nn knn svm dbn and the convent heuristic-bas dbns such as pso-dbn gwo-dbn woa-dbn and roa-dbn for the evalu metric accuraci sensit specif precis fpr fnr npv fdr f1 score and mc
+from the result it is expos that the accuraci of the propos mgs-roa-dbn is 30.1% higher than nn 32.2% higher than knn and 17.1% higher than svm and dbn
+similar the accuraci of the develop mgs-roa-dbn is 13.8% superior to pso 5.1% superior to gwo 10.8% superior to woa and 2.5% superior to roa .

@@ -1,0 +1,11 @@
+marin predat social group optim a hybrid approach
+numer heurist and metaheurist algorithm inspir by natur have been develop so far
+these algorithm have demonstr their excel in resolv challeng problem across a varieti of field
+howev mani optim algorithm fail while solv a complex real-world problem effici in an independ way becaus these problem have a distinct search behavior as they contain numer equal and inequ constraint of the linear nonlinear and non-convex type
+in thi studi two optim algorithm the marin predat algorithm mpa and the social group optim sgo algorithm are hybrid in order to increas their effici and problem-solv capabl to solv thi type of problem
+thi propos hybrid optim algorithm is name as marin predat social group optim mpsgo algorithm
+thi hybrid algorithm combin the strength of both techniqu to enhanc the effici and effect of the optim process
+it is valid through thirti benchmark function of cec2014 and after that 26 real-world optim problem test suit of cec 2020 from the chemic and mechan engin domain have been solv
+the valid result are compar with ten state-of-art optim algorithm and real-world optim problem result is compar with bipop matrix adapt evolut strategi bp-ϵmag- enhanc multi-oper differenti evolut enmod lshade for constrain optim colshad cohort intellig self-adapt penalti function ci-sapf and cohort intellig self-adapt penalti function collid bodi optim ci-sapf-cbo
+as mpsgo is a hybrid algorithm again we have compar it perform with the seven best modifi and improv optim algorithm
+in term of converg qualiti and improv solut qualiti the simul result of mpsgo have been shown to be competit with those of state-of-the-art hybrid improv and advanc optim algorithm prove the valid as well as the feasibl of the mpsgo algorithm .

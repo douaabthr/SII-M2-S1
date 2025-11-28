@@ -1,0 +1,13 @@
+a fuzzy-bas emot detect method to classifi the attract of urban green space
+in european studi the most use definit of urban green space ug is base on the european urban atla which includ public green area primarili use for recreat and green area adjac to urban area that are manag or util for recreat purpos
+ug play a vital role in creat sustain and resili citi as they provid essenti social benefit for the well-b and health of urban resid
+both planner and scientist acknowledg the import of involv activ or passiv citizen in defin criteria for design and manag inclus and function ug
+accord to a post-norm scienc approach the integr of hard data from scientif sourc with soft data gather from citizen engag hold the potenti to shape an innov support system for public polici address signific urgent and uncertain challeng pertain to ug
+nowaday the abund of data gener through onlin review opinion and comment allow for collect valuabl inform about peopl s opinion and sentiment toward ug
+thi studi propos a methodolog framework that util emot detect techniqu to identifi and analyz citizen emot concern ug through social review
+to balanc comput cost and classif accuraci the framework introduc a fuzzi emotion-bas classif method call fredoc fuzzi relev emot document classif
+thi method incorpor a lightweight natur languag pro-cess nlp approach to detect and annot term associ with specif emot categori within the text
+the framework adopt the psycho-evolutionari classif approach base on r
+plutchik s observ of gener emot respons
+thi model is implement within a geograph inform system gi for the purpos of categor ug specif green park accord both to who report key indic and to the detect relev emot
+the outcom is a novel classif model of ug that can assist decision-mak in identifi the attract of ug as catalyst for urban transform process .

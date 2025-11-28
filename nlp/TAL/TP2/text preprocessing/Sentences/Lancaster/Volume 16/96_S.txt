@@ -1,0 +1,9 @@
+multi-region engl transl synchron mech driv by big dat
+the requir for transl abl ar improv to meet the nee of the er of big dat
+sint transl work involv many field and each field examin the diff transl abl of transl they can adapt to the develop of thi er on by const improv their work abl
+us the engl machin transl system is not on low-cost and the work qual and efficy ar gre improv
+in thi pap we propos an engl transl model bas on the lsmt model and the at mech to provid fast and acc transl
+first we us a set of multipl vect instead of fix dimend to repres sourc langu sequ
+second in the process of gen the target sequ by dynam select the background vect the transl model pay mor at to the part with high correl with the sourc langu dur the transl process thereby improv the transl perform of the model
+third we design a multi-feature fus method for autom id of engl transl er to improv transl qual
+fin we expery demonst that the transl model propos in thi pap has good perform .

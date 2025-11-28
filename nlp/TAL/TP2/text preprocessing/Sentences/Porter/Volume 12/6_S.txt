@@ -1,0 +1,8 @@
+optim regular linear discrimin analysi for featur extract in face recognit
+in a reduc dimension space linear discrimin analysi look for a project transform that can maxim separ among class
+sinc linear discrimin analysi demand the within-class scatter matrix appear to non-singular which cannot directli use in condit of small sampl size sss issu in which the dimens of imag is much higher while the number of sampl isn t unlimit
+both the between-class and within-class scatter matric are alway exceedingli ill-pos in sss problem
+and mani algorithm are suffer from small sampl size issu still
+to solv sss problem mani method includ regular linear discrimin analysi were propos
+in thi articl a way wa present by optim regular linear discrimin analysi for featur extract in fr which can not onli fix the singular problem exist in scatter matrix but also the problem of paramet estim
+the experi is conduct on sever databas and promis result are obtain compar to some state-of-the-art method to demonstr the effect of the propos approach .

@@ -1,0 +1,12 @@
+a compar approach to multiobject optim of aisc thin-wal member
+optim of structur member such as beam and column has receiv increas interest with advanc in comput manufactur and artifici intellig
+design pursu multiobject optim are typic interest in minim the cost of the member while maxim some perform metric relat to load bear capabl or stress
+in this studi thin-wal member list in aisc tabl were optim in a similar manner use genet algorithm
+the influenc of sever object was consid and emphasi was place on provid the custom with a divers choic of solut
+to demonstr the approach wide-flang i-beam and circular pipe cross-sect were examin
+multi-dimension pareto-front were obtain
+optim cross-sect were compar to aisc beam tabl
+multi-criteria decision-mak techniqu were use to select a prefer solut from a pareto-front
+for i-beam improv of 3 7% over tabl were obtain and for pipe it was 47 76%
+final the perform of two common use genet algorithm nsga-ii and spea-ii was compar use pareto-front metric
+while spea-ii produc sever nondomin solut nsga-ii was shown to produc the overal superior front consid metric present from the literatur .

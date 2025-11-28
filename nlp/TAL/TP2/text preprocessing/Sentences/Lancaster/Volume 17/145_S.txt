@@ -1,0 +1,9 @@
+improv har hawk optim algorithm to solv the multi-depot op vehic rout problem
+the multi-depot op vehic rout problem mdovrp is on on exampl of sev optim problem that ar class as np-hard
+theref heur and metah approach ar help in obtain a near-optimal solv
+a hybrid hho algorithm cal hho-pso is propos in thi work to address the mdovrp
+the goal is to minim cost for the rout of a fleet of vehic that start mov from depot and fulfil custom demand
+to improv the expl of the har hawk optim hho algorithm the expl method of partic swarm optim pso which is mor robust is us in thi pap
+expery result prov that the propos hybrid algorithm work bet than the origin pso and hho in discret spac in term of bal exploit and expl to solv the mdovrp
+moreov the suggest algorithm is comp to fiv cutting-edge approach on 24 mdovrp inst with a broad numb of custom
+the comput find rev that the suggest approach outperform the oth comp metah techn in solv the mdovrp .

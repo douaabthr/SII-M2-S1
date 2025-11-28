@@ -1,0 +1,3 @@
+Correction to: Neural network with adaptive evolutionary learning and cascaded support vector machine for fault localization and diagnosis in power distribution system
+
+Unfortunately, the corresponding author has been missed to update the current affiliation and the details.

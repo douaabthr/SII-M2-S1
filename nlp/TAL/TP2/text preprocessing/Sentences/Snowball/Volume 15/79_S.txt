@@ -1,0 +1,13 @@
+a novel incomplet spars least squar optim regress model for abdomin mass detect in ultrasound imag
+one of the recent way of check the intern organ such as kidney gallbladd liver and spleen is use an abdomin us imag
+us imag is more familiar for it uniqu characterist like radiation-fre safe cheaper and faster
+howev the thing to be consid is that us imag cannot grant a precis view of affect region
+more particular the unprocess us imag compris a lot of embed nois
+thus the digit process is a promis result for improv the qualiti of us imag
+this paper intend to propos a novel model for abdomin mass detect with us imag
+this detect model compris two phase featur extract as well as classif
+in the featur extract process textur featur are extract from the us imag by agloh
+then in the classif stage the optim islsr model is use to detect whether the mass is present in the abdomen or not where the coeffici matrix is optim tune use a new hybrid lion and whale optim algorithm
+the perform analysi of the propos method is compar with exist techniqu such as glcm-svm glcm-nn glcm-ldca agloh-svm agloh-nn agloh-ldca agloh-islsr-la and agloh-islsr-woa
+the perform of the develop method is analyz in term of both posit as well as negat measur the posit measur includ accuraci sensit specif and precis npv f1score and mcc
+the negat measur includ fpr fnr and fdr and the effici of the propos model is prove .

@@ -1,0 +1,8 @@
+design a multi-ag system architectur for manag distribut oper within cloud manufactur
+cloud manufactur cm is a challeng scenario in the fourth stage of industri product i. e
+industri 4.0
+in thi context the fusion of physic and virtual world in cyber-phys product system transform manufactur resourc into homogen servic that can be share and distribut in collabor environ
+cm system are character by intellig capabl manag and manufactur cloud service-manag
+an interest research topic in these area is the product plan with a decentr pool of homogen resourc
+the distribut task schedul problem in cm ha been partial tackl in the current literatur but some issu such as the dynam task arriv the downtim of machin the anomal task identif have not been address
+arm with such a vision we discuss the design of a multi-ag system for manag and monitor homogen manufactur servic in a cm system base on addit manufactur technolog .

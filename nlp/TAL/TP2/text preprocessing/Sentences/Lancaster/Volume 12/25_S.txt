@@ -1,0 +1,6 @@
+imb dat class algorithm with support vect machin kernel extend
+learn from the imb dat sampl so as to achiev acc class is an import research cont in dat min field
+it is very difficult for class algorithm to achiev a high acc becaus the unev distribut of dat sampl mak som categ hav few sampl
+a imb dat class algorithm of support vect machin ke-svm is propos in thi artic thi algorithm achiev the init class of dat sampl by train the maxim margin class svm model and then obtain a new kernel extend funct
+bas on chi squ test and weight coefficy calc through train the sampl again by the new vect machin with kernel funct to improv the class acc
+through the sim expery of real dat set of art dat set it show that the propos method has high class acc and fast converg for the unev distribut dat .

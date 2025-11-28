@@ -1,0 +1,9 @@
+bilevel optim bas on for by diff ant specy for real-time transport plan
+in a transport process dur heavy traff condit or advers weath condit has a retract impact on the cost ev if the transit path chos is optim
+thi pap propos an algorithm framework for a dynam transport process us a bilevel multi-objective optim approach
+dynam detect of road traff meas com at an up level and optim path estim com at the low level of the bilevel model
+aggreg of multipl object traff dist and qual of the path is don to form the object funct at a low level
+the intellig for behavio of diff ant specy inspir a bilevel optim model for the spec problem
+the upper-level task of detect the dynam traff meas is bas on a for strategy of harvest ant which us anten contact to exchang inform with inm regard food avail
+the lower-level object of determin the optim rout is bas on the pheromon trail-based commun strategy us by oth specy of ant
+sim result obtain manifest the pot nat of the propos method in the real-time transport process .

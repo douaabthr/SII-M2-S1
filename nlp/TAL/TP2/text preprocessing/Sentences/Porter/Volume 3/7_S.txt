@@ -1,0 +1,9 @@
+use of symmetri and stabil for data cluster
+an import consider in cluster is the determin of an algorithm appropri for partit a given data set
+thereaft identif of the correct model order and determin the correspond partit need to be perform
+in thi paper at first the effect of the recent develop symmetri base cluster valid index namedsym-index which provid a measur of symmetr of the differ partit of a data set is shown to address all the abov mention issu viz . identifi the appropri cluster algorithm determin the proper model order and evolv the proper partit as long as the cluster possess the properti of symmetri
+result demonstr the superior of the propos cluster valid measur in appropri determin the proper cluster techniqu as well as appropri model order as compar to five other recent propos measur name ps-index i-index cs-index well-known xb-index and stabil base index are provid for sever cluster method viz . two recent develop genet algorithm base cluster techniqu the averag linkag cluster algorithm self organ map and the expect maxim cluster algorithm
+five artifici data set and three real life data set are consid for thi purpos
+in the second part of the paper a new measur of stabil of cluster solut over differ bootstrap sampl of a data set is propos
+thereaft a multiobject optim base cluster techniqu is develop which optim bothsym-index and the measur of stabil simultan to automat determin the appropri number of cluster and the appropri partit of the data set have symmetr shape cluster
+result on five artifici and five real-lif data set show that the propos techniqu is well-suit to detect the number of cluster from data set have point symmetr cluster .

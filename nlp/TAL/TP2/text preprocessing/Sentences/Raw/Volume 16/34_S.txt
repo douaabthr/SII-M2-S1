@@ -1,0 +1,9 @@
+A novel collaborative filtering based recommendation system using exponential grasshopper algorithm
+Collaborative filtering recommends items on the principle of similarity
+The effectiveness of the similarity is highly dependent on the performance of the clustering algorithm
+This paper presents a new clustering-based collaborative filtering method for efficient item recommendation
+The new approach introduces a new variant of the grasshopper optimization algorithm to determine optimal similarity patterns
+Nine nature-inspired algorithms have been considered and tested against seventeen standard benchmark functions in terms of mean fitness value and the Friedman test to validate the proposed variant experimentally
+Further the efficacy of the new clustering-based collaborative filtering method is tested on the publicly available MovieLens dataset and evaluated in terms of mean absolute error precision and recall over the different cluster settings
+The obtained results are compared against nine clustering-based collaborative filtering methods
+Experiments affirm that the proposed method is a permissive technique for the recommendation on large-scale datasets .

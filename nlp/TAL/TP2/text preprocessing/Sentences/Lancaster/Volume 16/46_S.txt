@@ -1,0 +1,13 @@
+diagnos of covid-19 us chest x-ray im bas on mod darkcovidnet model
+coronavir diseas also known as covid-19 is an infecty diseas caus by sars-cov-2
+it has a direct impact on the up and low respir tract and threatened the heal of many peopl around the world
+the latest stat show that the numb of peopl diagnos with covid-19 is grow expon
+diagnos posit cas of covid-19 is import for prev furth spread of the diseas
+cur coronavir is a sery threat to sci med expert and research around the world from it detect to it tre
+it is cur detect us revers transcrib polymeras chain react rt-pcr analys at the most test cent around the world
+yet know the rely of a deep learn bas med diagnos is import for doct to build confid in the technolog and improv tre
+the goal of thi study is to develop a model that autom ident covid-19 by us chest x-ray im
+to achiev thi we mod the darkcovidnet model which is bas on a convolv neur network cnn and plot the expery result for two scenario bin class covid-19 vers no-findings and multi-class class covid-19 vers pneumon vers no-findings
+the model is train on mor than 10 thousand x-ray im and achiev an av acc of 99.53% and 94.18% for bin and multi-class class respect
+theref the propos method demonst the effect of covid-19 detect us x-ray im
+our model can be us to test the paty via cloud and also be us in situ wher rt-pcr test and oth opt ar t avail .

@@ -1,0 +1,7 @@
+a stag approach to evolv real-world uav control
+a testb has rec been introduc that evolv control for arbit hover-capable uav with evalu occur direct on the robot
+to prep the testb for real-world deploy we investig the effect of state-spac limit brought about by phys teth which prev dam to the uav dur stochast tun on the gen of the evolv control
+we ident gen issu in som control and propos an improv method that compr two stag in the first stag control ar evolv as norm us standard teth but expery ar termin when the pop display bas flight compet
+optim then continu on a much less restrict teth effect free-flying and is allow to expl a larg state-spac envelop
+we comp the two method on a hov task us a real uav and show that mor gen solv ar gen in few gen us the two-stage approach
+a second expery undertak a sensit analys of the evolv control .

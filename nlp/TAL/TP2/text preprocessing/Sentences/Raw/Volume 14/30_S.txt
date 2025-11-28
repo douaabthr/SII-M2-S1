@@ -1,0 +1,11 @@
+Categorization of Intercloud users and auto-scaling of resources
+Optimal allocation of resources in Intercloud computing is NP-complete program
+Constraints are many and configuration of each cloud varies from each other
+The mapping of the tasks to available virtual machines is challenging
+In real life scenarios customer requirements may change
+The complexity of the problem increases as requirement changes in terms of capacity speed and time
+To tide overfrequent changes in customer requirement and optimum utilization of available resources a heuristic algorithm is proposed which will fit to the specification
+The proposed algorithm is primarily divided into three phases namely categorization of users genetic algorithm-based resource allocation and earliest deadline first scheduling
+The objective is to map the tasks to be executed to available VMs of the multi-cloud federation in order to have minimum makespan time and maximum customer satisfaction
+After pr simulation on synthetic data compared the simulation results with the existing scheduling algorithm
+Results of the simulation confirm that the proposed categorization of the user in cloud domain can be beneficial in many folds and can address the existing challenges as per concerned metrics .

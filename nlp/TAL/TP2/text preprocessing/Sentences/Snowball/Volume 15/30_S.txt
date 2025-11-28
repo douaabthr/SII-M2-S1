@@ -1,0 +1,10 @@
+a hybrid approach to energi effici cluster and rout in wireless sensor network
+wireless sensor network are develop as a vital tool for monitor divers real time applic such as environment monitor factor health care wide area surveil and mani more
+though the advantag of wsns are plenti the present challeng is to gain effect control over the deplet batteri power and the network lifetim
+recent research have prove that the energi consumpt can be minim if effect cluster mechan are incorpor
+this paper propos hock and heck novel energi effici cluster algorithm to increas the network lifetim for homogen and heterogen environ respect
+both these algorithm are built use krill herd and cuckoo search
+while the optim cluster centroid posit are comput use the krill herd algorithm and the cuckoo search is appli to select the optim cluster head
+the perform of the hock algorithm is evalu by vari base station locat and node densiti
+to evalu the heck algorithm two and three level heterogen are consid
+the simul result show that the propos protocol is more effect in improv the network lifetim of wsns compar to other exist method such as gaech hybrid hsapso and eso-leach .

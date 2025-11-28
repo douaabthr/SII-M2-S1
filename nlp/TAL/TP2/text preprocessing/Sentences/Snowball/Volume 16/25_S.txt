@@ -1,0 +1,7 @@
+multi-scal multi-stream deep network for car logo recognit
+vehicl logo retriev or recognit is be a popular studi of field in intelligent/smart traffic system
+therefor this paper propos a multi-scal multi-stream deep network for vehicl logo recognit
+the propos network process the input vehicl logo imag through each of the multi-scal stream to extract the robust featur follow by the logo recognit modul
+the propos network follow the knowledg share strategi by share learn featur at each stream across the network
+we have util the exist large-scal benchmark vehicl logo imag dataset to valid the propos network for vehicl logo recognit task
+the perform of the propos network is compar with the exist state-of-the-art deep network which exhibit that the propos network is superior for the vehicl recognit task .

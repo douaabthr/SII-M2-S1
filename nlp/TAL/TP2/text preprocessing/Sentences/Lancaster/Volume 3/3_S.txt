@@ -1,0 +1,7 @@
+a learn class system with mutual-information-based fit
+thi pap introduc a new vary of learn class system lcs cal milc which util mut inform as fit feedback
+unlik most lcss milc is spec design for superv learn
+we pres expery result and contrast them to result from xcs uc gassist biohel c4 . 5 and naïv bay
+we discuss the expl pow of the result rul set
+milc is also shown to promot the discovery ofdefault hierarchy an import adv of lcss
+fin com includ fut direct for thi research includ investig in neur network and oth system .

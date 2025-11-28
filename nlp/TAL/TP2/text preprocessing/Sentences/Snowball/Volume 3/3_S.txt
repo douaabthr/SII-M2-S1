@@ -1,0 +1,7 @@
+a learn classifi system with mutual-information-bas fit
+this paper introduc a new varieti of learn classifi system lcs call milc which util mutual inform as fit feedback
+unlik most lcss milc is specif design for supervis learn
+we present experiment result and contrast them to result from xcs uc gassist biohel c4 . 5 and naïv bay
+we discuss the explanatori power of the result rule set
+milc is also shown to promot the discoveri ofdefault hierarchi an import advantag of lcss
+final comment includ futur direct for this research includ investig in neural network and other system .

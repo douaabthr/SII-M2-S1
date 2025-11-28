@@ -1,0 +1,14 @@
+hybrid chaot system-oriented art fish swarm neur network for im encrypt
+accord to the research work of the ref on chaot cryptanalys many rec chaot im encrypt algorithm cannot resist chosen-plaintext attack
+although som chaot im encrypt algorithm introduc plain-image inform they stil viol som design requir of modern cryptosystem
+the tradit im encrypt algorithm has the disadv of low sec and time-consuming
+theref aft analys many lit rel to chaot im encrypt and aim to improv the sec of ciphertext and effect resist plaintext attack we propos a hybrid chaot system-oriented art fish swarm neur network method for im encrypt
+first bas on the nonlinear combin the the log tent and sin map ar us to design the hybrid complex chaot system
+accord to the pixel valu of plaintext it gen the init valu to output the chaot sequ
+tak a chaot sequ as the input lay the art neur network is introduc to train and learn the chaot sequ
+it elimin the chaot period and output the neur network sequ
+the art fish swarm algorithm is us to optim the init weight and threshold of the elm neur network
+the set obfusc method is defin to scramble the plaintext
+a quant method is construct to quant the neur network sequ and obtain the key flow
+the mix im ar class the key flow is combin the pixel valu is chang and the ciphertext is output by design the piecew diffus technolog
+expery result show that comp with the cur state-of-the-art im encrypt method the propos algorithm has high sec and resist plaintext attack abl .

@@ -1,0 +1,7 @@
+adapt block search and fraction rate-distort trade-off base motion estim for hevc encod
+in h. 265 high effici video code encod the cost function is a signific featur that decid the mode and structur of the encod and the effect of the method reli on the code effici minim rate-distort optim and encod time
+the issu associ with the aforement factor are tackl effect by propos a new block search an adapt block search algorithm adb along with the fraction rate-distort trade-off fraction rd trade-off
+the motion estim use the propos adapt block search algorithm use the heptagon block search pattern with eight checkpoint in such a way to assur the fast process contribut toward the minim encod process
+the code effici is enhanc twice with the assur reconstruct qualiti and bandwidth
+the analysi is perform with singl and multipl video obtain from the cipr sif sequenc databas and the analysi in term of structur similar index ssim peak signal-to-nois ratio psnr and averag time reveal the effect of the propos adb and fraction rd-trade-off base motion estim
+the psnr ssim and averag time of the propos method are found to be 85.6548% 45 db and 565 nano-sec for singl video and 88.9841% 45 db and 2584 nano-sec for the multipl video .

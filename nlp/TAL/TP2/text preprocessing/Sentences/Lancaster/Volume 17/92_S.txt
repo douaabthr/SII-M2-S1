@@ -1,0 +1,11 @@
+hybrid of chao the and dragonf algorithm to maxim spat are cov of swarm robot
+swarm robot show collect behavy in ord to work in mult ag scenario wher spat are cov is an emerg are of research
+thi work introduc a hybrid techn for optim spat are cov
+a combin of dragonf algorithm da and chaot map is propos and the entir study is carry out in two phas
+in the first phas da s paramet ar meas on the bas of perc of are cov entrop and numb of pop-up threats detect
+in the second phas chaot distribut is apply in swarm algorithm i. e
+da along with bat algorithm and accel partic swarm optim to impl hybrid model
+chaot dragonf algorithm along with chaot bat algorithm and chaot accel partic swarm optim is impl
+to evalu the perform of hybrid model a comprehend comparison is drawn among the levy and chaot vert of al three swarm algorithm
+it is conclud that the propos da outperform the rest
+da not on show bet result for the ment met but also display uniform behavy ov multipl run .

@@ -1,0 +1,14 @@
+fogfir fog assist iot enabl forest fire manag
+forest fire disturb the balanc of the earth s ecolog system increas global warm flood drought and decreas the oxygen level
+earli identif of forest fire is the onli way to mitig the risk of damag
+thi motiv author to design a fog assist wildfir detect framework use internet of thing
+the propos model is divid into three layer such as data sens edg layer fog layer and cloud layer
+the forest area is categor into differ zone
+in the data sens edg layer the edg node of each zone sens the forest fire caus data and transmit it to the correspond fog devic of the fog layer
+furthermor an integr rule base classif techniqu is develop in thi paper to detect the statu of the zone vhr/hr/mr/lr by the fog devic of that zone
+thi way edg node of lr zone will not transmit data further to the correspond fog devic
+as a result the energi of the edg devic is preserv
+moreov the cloud layer of the propos model involv into forest fire monitor and burnt area predict use the kera api model
+all the commun are done here appli propos modifi greedi forward algorithm
+the fire detect accuraci of propos fogfir model is 94% which is greater than other exist fire detect techniqu
+on the other hand the qualnet simul prove that averag remain energi over all throughput and goodput of the propos model is also high compar to other iot commun protocol such as rpl aodv .

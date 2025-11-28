@@ -1,0 +1,12 @@
+a model for optim energi manag in a microgrid use bioga
+a more sustain energi matrix can be achiev through an integr approach to energi generat and end-consum self-product
+this altern can reduc consum energi cost and enabl the matur and boost of distribut generat technolog
+use reliabl cost model with smart-grid technolog enabl more econom effici energi system
+previous disregard energi solut can becom viabl solut such as electr energi generat use bioga
+in this context the contribut of this studi is threefold
+first we develop a cost model of electr and mechan energi generat for local consum in microgrid-produc bioga
+second we integr into the model a dual-fuel motor to generat electr energi use a variabl mixtur of bioga and other fuel and the biomethan upgrad system to suppli the mechan demand
+third base on this model an optim energi manag tool is propos
+the perform of this tool is analyz through scenario simul of an exist microgrid compos of a motor engin fuel by bioga produc intern a photovolta pv system a batteri bank and connect to the util
+the result indic the econom advantag of adopt the tool and the use of the propos model
+besid the reduc electr cost it also allow analysi of how each piec of equip contribut to the electr cost which can be help in futur decis about equip size .

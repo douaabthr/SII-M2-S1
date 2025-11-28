@@ -1,0 +1,9 @@
+perform assess of the main metaheurist for sustain suppli chain
+the sustain suppli chain optim is a high-dimension multi-object optim problem
+the involv cost can be categor as econom environment and social
+metaheurist can be use for tackl this kind of problem effici
+this short note deal with a compar analysi of the main metaheurist accord to recent survey for a sustain suppli chain model
+the consid techniqu are genet algorithm particl swarm optim simul anneal and non-domin sort genet algorithm
+moreov two hybrid model are also includ i. e
+genet algorithm combin with simul anneal and genet algorithm combin with particl swarm optim
+the latter provid the best result with a constraint satisfact rate equal to 0.9968 .

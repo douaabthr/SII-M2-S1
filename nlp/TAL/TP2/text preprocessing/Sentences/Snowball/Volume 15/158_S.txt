@@ -1,0 +1,10 @@
+predict of rock mass rate use neural network with an improv rider optim algorithm
+evalu of tbm perform is critic for the choic of tbm specif and tunnel design
+in the past decad the hypothet scheme depend on the rock fragment process and the experiment model up to field surveil as well as machin perform are the two main method
+tradit and convent approach for rock mass rate rmr predict usual consid excess paramet and the accuraci are far from actual valu
+a new rmr predict model base on the optim neural network nn is design
+to improv the predict accuraci this paper propos a new self-adapt rider optim algorithm sa-roa which appli optim logic to train the nn by updat the weight as wave veloc vp transvers wave veloc vs vp/vs statist stat orient magnitud polar wave type and metr
+final the rmr predict analysi of the adopt nn-sa-roa model is compar to the convent and tradit classifi with vari learn percentag 50% 60% 70% and 80% for three data set respect
+subsequ the perform of the propos work is verifi use other approach base on error analysi
+the predict mean absolut error mae and the mean absolut percentag error mape of sa-roa are smaller than convent and tradit scheme
+the result show that the propos method can success predict the actual rmr .

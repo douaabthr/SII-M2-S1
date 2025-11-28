@@ -1,0 +1,10 @@
+evolv a-typ artifici neural network
+we investig ture s notion of an a-typ artifici neural network
+we studi a refin of ture s origin idea motiv by work of teuscher bull preen and copeland
+our a-typ can process binari data by accept and output sequenc of binari vector henc we can associ a function to an a-typ and we say the a-typerepresentsth function
+there are two mode of data process clamp and sequenti
+we describ an evolutionari algorithm involv graph-theoret manipul of a-typ which search for a-typ repres a given function
+the algorithm use both mutat and crossov oper
+we implement the algorithm and appli it to three benchmark task
+we found that the algorithm perform much better than a random search
+for two out of the three task the algorithm with crossov perform better than a mutation-onli version .

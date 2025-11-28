@@ -1,0 +1,8 @@
+apply of ipo a heur neuro-fuzzy class
+heur method ar us to design an adaptive-network-based fuzzy inf system anf neuro-fuzzy class
+the reason is that thes class includ divers structures each of which has a consid effect on their perform
+so the design of an anf class confront a high-dimensional solv spac and heur method ar of high cap in solv such problem find the best optim valu of thes paramet
+us an efficy method of acc design to achiev the best perform is consid as the main challeng in term of thes class
+in thi pap an intellig method bas on on of the newest heur method cal inclin plan system optim algorithm ipo has been propos and impl for the first tim so that autom design of a neuro-fuzzy class is perform
+ipo method is inspir by the dynam of spherical object slid mot along a set of frictionless inclin plan bas on which object in coop with each oth mov toward the best respons to the problem accord to newton s second law and equ of mot
+the result obtain from repetit test perform on sev well-known databas with vary numb of ref class as wel as diff feat vect length with acceiv and certain complex ind cap of the propos method comp to oth heur method for autom design of a neuro-fuzzy class .

@@ -1,0 +1,9 @@
+Mesh smoothing of complex geometry using variations of cohort intelligence algorithm
+Several approaches including optimization based methods were developed for mesh quality improvement using only node movement keeping intact the element connectivity
+In this research a socio-inspired optimization approach referred to as cohort intelligence CI was investigated for mesh smoothing
+Minimization of summation of condition numbers of all elements was the final aim
+The geometrical boundaries of the object defined the surface and edge constraints for movement of external nodes
+Movement of internal nodes was completely governed by variations of CI algorithm viz
+roulette wheel follow best follow better alienation and random selection follow worst and follow itself
+The approach was demonstrated with pentagonal prism hexagonal prism and hexagonal prism with hole
+The performance of follow best and roulette wheel variations of CI algorithm was observed to be satisfactory as compared to other variations of the algorithm .

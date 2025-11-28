@@ -1,0 +1,13 @@
+twit senty analys us hybrid spid monkey optim method
+the us of soc med ov the past few year has esc enorm
+soc med has form a platform for the avail of abund dat
+thousand of peopl express their perceiv through soc med
+senty analys sa of such view and perceiv is very subst to meas publ not on a peculiar/specific subject mat of concern
+sa is a remark field of dat min concern with id and transl of senty access on soc med
+twit is a microblog sit in which us can post upd tweet to friend follow
+thi pap propos a mech for extract the senty from the tweet post on twit
+tweet can be class as posit neut or neg
+the metaheuristic-based clust techn ar supery to conv techn due to the subject behavio of tweet
+a hybrid strategy nam as hybrid spid monkey optim with k-means clust is introduc to obtain the optim cluster-heads of the dataset
+the acc of the propos method is determin on two dataset nam sender2 and twit
+to analys the auth of the propos method a comp analys is perform with a few sign nature-inspired algorithm such as spider-monkey optim particle-swarm algorithm genetic-algorithm and diff evolv .

@@ -1,0 +1,9 @@
+Multi-region English translation synchronization mechanism driven by big data
+The requirements for translation ability are improved to meet the needs of the era of big data
+Since translation work involves many fields and each field examines the different translation abilities of translators they can adapt to the development of this era only by constantly improving their work abilities
+Using the English machine translation system is not only low-cost and the work quality and efficiency are greatly improved
+In this paper we propose an English translation model based on the LSMT model and the attention mechanism to provide fast and accurate translation
+First we use a set of multiple vectors instead of fixed dimensions to represent source language sequences
+Second in the process of generating the target sequence by dynamically selecting the background vector the translation model pays more attention to the parts with high correlation with the source language during the translation process thereby improving the translation performance of the model
+Third we design a multi-feature fusion method for automatic identification of English translation errors to improve translation quality
+Finally we experimentally demonstrate that the translation model proposed in this paper has good performance .

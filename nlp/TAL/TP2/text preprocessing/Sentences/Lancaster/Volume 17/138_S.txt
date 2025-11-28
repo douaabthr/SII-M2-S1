@@ -1,0 +1,11 @@
+chaot veget evolv lev multipl see strategies and a mut mod for glob optim problem
+thi pap focus on improv the overal perform of the veget evolv veg algorithm and propos a chaot veg with multipl see strategies and a mut mod cveg
+whil the origin veg exhibit robust exploit cap it fal short in term of expl and overcom loc optim
+thu we introduc the chaot loc search op multipl see dispers strategies and a un mut mod to address thes ment limit
+furtherm we incorp a simpl sigmoid transf funct into cveg and propos a bin vary known as bin chaot veget evolv bcvege
+in num expery we evalu cveg on 10 d 30 d 50 d and 100 d cec2020 benchmark funct as wel as four engin optim problem
+addit bcvege is subject to test on two combin optim problem wrapper-based feat select task and class 0 1 knapsack problem
+her we employ two class algorithm i. e
+diff evolv and partic swarm optim and sev state-of-the-art competit algorithm includ the origin veg as the competit algorithm
+the sufficy num expery and stat analys pract show that our propos cveg and bcvege ar competit with comp algorithm
+furtherm the demonst perform and scal of cveg and bcvege suggest their pot util across a wid rang of optim task .

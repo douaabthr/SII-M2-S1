@@ -1,0 +1,10 @@
+opposit base competit grey wolf optim for emg featur select
+thi paper propos a competit grey wolf optim cgwo to solv the featur select problem in electromyographi emg pattern recognit
+we model the recent establish featur select method competit binari grey wolf optim cbgwo into a continu version cgwo which enabl it to perform the search on continu search space
+moreov anoth new variant of cgwo name opposit base competit grey wolf optim obcgwo is propos to enhanc the perform of cgwo in featur select
+the propos method show superior result in sever benchmark function test
+as for emg featur select the propos algorithm are evalu use the emg data acquir from the publicli access emg databas
+initi sever use featur are extract from the emg signal to construct the featur set
+the propos cgwo and obcgwo are then appli to select the relev featur from the origin featur set
+four state-of-the-art algorithm includ particl swarm optim flower pollin algorithm butterfli optim algorithm and cbgwo are use to examin the effect of propos method in featur select
+the experiment result show that obcgwo can provid optim classif perform which is suitabl for rehabilit and clinic applic .

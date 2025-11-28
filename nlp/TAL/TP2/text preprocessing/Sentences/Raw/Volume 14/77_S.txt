@@ -1,0 +1,7 @@
+Lunar cycle inspired PSO for single machine total weighted tardiness scheduling problem
+In the large scale Single machine total weighted tardiness scheduling problem SMTWTSP is a group of not-interrelated tasks having different parameters to be executed on one machine
+The problem s objective is to identify the minimum total weighted tardiness using a newly developed variant of the particle swarm optimization PSO algorithm
+In the past the PSO algorithm has proved itself as an efficient swarm intelligence based strategy to solve complex combinatorial problems
+Here in this article the lunar cycle inspired local search technique is assimilated into PSO and the designed PSO variant is termed as lunar cycle inspired PSO LCPSO
+The performance of the designed LCPSO is tested over 25 large SMTWTSP instances of job size 1000
+The reported results show that the designed LCPSO is a competitive PSO variant that can be applied to provide an effective solution for the SMTWTSP type combinatorial optimization problem .

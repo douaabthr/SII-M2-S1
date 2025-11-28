@@ -1,0 +1,9 @@
+a recurr anfi tune by modifi differenti evolut for effici predict of softwar reliabl
+softwar failur predict is a crucial task in softwar qualiti assur
+although time seri forecast techniqu and convent softwar reliabl model are use for the predict of softwar reliabl veri often these model fail to provid accur predict
+therefor an accur model for softwar reliabl predict is imper
+the object of thi paper is to introduc a hybrid model that merg a recurr adapt neuro-fuzzi infer system ranfi and modifi differenti evolut mde for softwar reliabl predict
+the model employ inner spatial feedback loop and delay output feedback to improv the convent neuro-fuzzi system s predict abil while deal with time seri softwar failur data
+the hybrid model is train by mde where a new scheme of crossov and mutat ha been propos
+we conduct an extens simul on a few publicli avail benchmark dataset for comput the predict abil of our hybrid model
+simul result along with statist analysi illustr that our hybrid model predict more precis the time between success failur in softwar and outperform other tradit model .

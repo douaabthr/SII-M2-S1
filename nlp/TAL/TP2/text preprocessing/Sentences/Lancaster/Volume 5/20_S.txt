@@ -1,0 +1,7 @@
+expl analys of an on-line evolv algorithm in sim robot
+in tradit evolv robot robot control ar evolv in a sep design phas prec act deploy we cal thi off-line evolv
+altern robot control can evolv whil the robot perform their prop task dur the act op phas we cal thi on-line evolv
+in thi pap we describ three princip categ of on-line evolv for develop robot control encaps distribut and hybrid pres an evolv algorithm belong to the first categ the μ 1 on-linealgorithm and perform an extend study of it behavio
+in particul we us the bones paramet tun method to expl it paramet spac
+thi del near-optimal set for our algorithm in a numb of task and ev mor import it off profound insight into the impact of our algorithm s paramet and feat
+our expery analys of μ 1 on-lineshows that it seem pref to try many altern solv and spend littl effort on refin poss faul assess that ther is no singl combin of paramet that perform wel on al problem inst and that the most influ paramet of thi algorithm and theref the prim candid for a control scheme is the evalu leng τ .

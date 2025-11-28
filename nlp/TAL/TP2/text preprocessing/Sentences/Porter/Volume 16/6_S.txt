@@ -1,0 +1,7 @@
+reference-lin steer guid assign and updat for pareto-bas many-object particl swarm optim
+the reference-lines-framework ha been success use for develop effici many-object evolutionari algorithm
+in thi paper the concept and methodolog of such evolutionari algorithm are adapt in the parlanc of multi-object particl swarm optim mopso for address the challeng of assign and updat the global and local guid
+the propos algorithm which is refer to as rmaopso is develop via five modul use the framework so that a divers set of guid can be select to steer the search of mopso toward the pareto-optim front
+the modul includ global guid assign local and global guid updat line assign to the guid and swarm and evolutionari search for global guid
+the propos algorithm is test on dtlz and wfg test instanc of 3 5 8 10 and 15 object
+result obtain from rmaopso show it efficaci over six multi-object evolutionari and mopso algorithm from the literatur .

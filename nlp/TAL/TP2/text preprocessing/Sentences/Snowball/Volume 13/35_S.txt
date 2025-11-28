@@ -1,0 +1,6 @@
+comparison of metaheurist algorithm for unrel parallel machin weight earliness/tardi schedul problem
+this paper investig unrel parallel machin schedul problem where the object are to minim total weight sum of earliness/tardi cost
+three differ metaheurist algorithm are compar with other to determin what kind swarm intellig base evolutionari or singl solut of metaheurist is effect to solv these problem
+in this studi artifici bee coloni abc genet algorithm and simul anneal algorithm are chosen as swarm intellig base algorithm evolutionari algorithm and singl solut algorithm
+all propos algorithm are creat without modif in order to determin effect of these metaheurist
+experiment result show that abc outperform it oppon in view of solut qualiti as swarm intellig base metaheurist algorithm .

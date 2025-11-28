@@ -1,0 +1,13 @@
+heart failur recognit use human voic analysi and artifici intellig
+heart failur hf is a clinic syndrom that disabl the heart from pump blood to effect nourish the bodi or doe it to elev intracardiac pressur
+current the main diagnost method for thi patholog are perform clinic by the measur of biomark such as b-type natriuret peptid bnp and by cardiac imag method
+as cardiovascular diseas are the primari caus of prematur death new technolog to identifi these diseas at an earli stage are of great import
+thu thi research present the develop of two artifici neural network ann one for each gender that recogn the vocal distort caus by hf in an individu
+therefor the voic of 142 individu were collect separ by sex and age
+among these 142 84 voic of peopl alreadi diagnos with hf were collect at the heart institut of sao paulo univers incor usp and the metropolitan hospit of paraiba
+also the voic of 58 healthi individu were collect in an extra-hospit environ
+then the follow techniqu were appli to extract the signal featur statist analysi fft discret wavelet transform and mel-cepstr analysi
+the select featur were use to develop ann that aim to identifi hf
+both ann achiev an effici of 96.7%
+also valu of 91.86% 88.1% and 92.1% were obtain for accuraci sensit and specif respect
+therefor compar the result reach by thi research to other studi in the field it is possibl to conclud that the use of voic analysi repres a great improv in hf recognit and earli treatment .

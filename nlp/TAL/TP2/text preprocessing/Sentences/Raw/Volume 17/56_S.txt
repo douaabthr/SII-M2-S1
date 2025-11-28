@@ -1,0 +1,9 @@
+Topological localization approach for efficient energy management of WSN
+The energy management problem is an inevitable issue with the wireless sensor network WSN
+There is always a need for an energy-conscious model for WSN that will prolong the network lifetime during system execution
+Commonly the WSN is distributed in nature as it is used for several applications like localization surveillance and object tracking
+In such a scenario energy management is even more critical
+In this regard we propose an energy-efficient topological localization technique called CLOCK Localization Approach CLA that ensures a long lifetime of WSN by eliminating recurrent reclustering and iterative cluster head CH selection
+CLA follows a CLOCK pattern-based sensor deployment strategy where the selected CHs play a dual role of CH and Vice-CH
+It helps to reduce energy consumption and overhead issue
+The simulation result shows that the outperformance of the CLA algorithm in comparison to low-energy adaptive clustering hierarchy-centralized LEACH-C and base station controlled dynamic clustering protocol BCDCP .

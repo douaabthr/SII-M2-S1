@@ -1,0 +1,6 @@
+neuroevolut from architectur to learn
+artifici neural network ann are appli to mani real-world problem rang from pattern classif to robot control
+in order to design a neural network for a particular task the choic of an architectur includ the choic of a neuron model and the choic of a learn algorithm have to be address
+evolutionari search method can provid an automat solut to these problem
+new insight in both neurosci and evolutionari biolog have led to the develop of increasingli power neuroevolut techniqu over the last decad
+thi paper give an overview of the most promin method for evolv ann with a special focu on recent advanc in the synthesi of learn architectur .

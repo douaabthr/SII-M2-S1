@@ -1,0 +1,10 @@
+Holoentropy based Correlative Naive Bayes classifier and MapReduce model for classifying the big data
+Big data is the recent imminent technology which can provide large benefits to the business administration
+Owing to such huge volume it becomes very complicated to ensure effective analysis by the existing techniques
+The complications can be related to analyze capture sharing storage and visualization of the data
+To tackle these challenges a novel classification technique using Holoentropy based Correlative Naive Bayes classifier and MapReduce Model HCNB-MRM is proposed
+The proposed HCNB which is designed by combining the Holoentropy function with the correlative based Naive Bayes classifier deals with both high-dimensional data sets as well as extensive datasets to improve the benchmark and classify the data based on dependent assumption
+Therefore the proposed HCNB-MRM is used to make the process simpler and to choose the best features from big dataset
+The proposed HCNB with the MapReduce Model maximizes the performance of big data classification using probability index table and posterior probability of the testing data samples
+The performance of the proposed HCNB-MRM is evaluated using three metrics such as accuracy sensitivity and specificity
+From the experimental results it is analyzed that the proposed HCNB-MRM obtains a high classification accuracy of 93.5965% and 94.3369% for the localization dataset and skin dataset when compared with the existing techniques .

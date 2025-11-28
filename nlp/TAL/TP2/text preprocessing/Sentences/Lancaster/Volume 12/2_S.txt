@@ -1,0 +1,12 @@
+the anglerf algorithm a der of random incr construct techn for solv the travel salesm problem
+combin optim focus on ar at a glob optim solv giv constraint incomplet inform and limit comput resourc
+the combin of poss solv ar rath vast and oft overwhelm the limit comput pow
+smart algorithm hav been develop to address thi issu
+each off a mor efficy way of travers the search landscap
+crit hav cal for a realign in the bio-inspired metah field
+we propos an algorithm that simpl the search op to on random pop init follow the random incr construct techn which ess compart optim into smal sub-units
+thi reliev the nee of complex op norm impos on the cur metah pool
+the algorithm is mor gen and adapt to any optim problem
+benchmark is conduc us the travel salesm problem
+the result ar comp with the result of adv metah algorithm
+hent suggest that arbit expl is pract as an op to solv optim problem .

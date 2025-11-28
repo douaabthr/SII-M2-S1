@@ -1,0 +1,5 @@
+a chanc constrain program model and an improv larg neighborhood search algorithm for the electr vehicl rout problem with stochast travel time
+the electr vehicl rout problem evrp is an extens to the well-known vehicl rout problem vrp where the fleet consist of electr vehicl which may need to visit recharg station while servic the custom due to their batteri capac
+thi paper solv the electr vehicl rout problem with stochast travel time evrpstt by propos a chanc constrain program ccp model as well as a new scheme base on an improv larg neighborhood search il algorithm and a mont carlo sampl mc procedur
+the propos approach is firstli test in the determinist environ use the evrp benchmark data set where the numer result show that thi approach is abl to provid evrp optim solut within a veri short comput time for 39 out of 48 use benchmark instanc with 20 50 75 and 100 custom
+thereaft to show the effici of the propos approach for solv the ccp model of the evrpstt other test are perform on the same set of instanc while take into consider a larg number of scenario .

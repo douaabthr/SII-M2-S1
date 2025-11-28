@@ -1,0 +1,7 @@
+mod socc gam optim and it apply on pow flow and distribut gen plac problem of distribut system
+distribut pow flow dpf and distribut gen dg plac ar import problem in modern distribut system dss
+the dpf problem is model as an optim problem of minim the nod pow mismatch whil consid the correct of nod volt as solv vary
+the nod loc and dg rat of dg plac dgp problem ar consid as optim paramet with an object of minim the network loss nl
+the socc gam optim sgo model the mov of socc gam play by move-off and move-forward phas and has the drawback of perform simpl arithmet av for repres random stochast mov of play dur it move-forward phas
+thi pap endeavo to first remodel the move-forward phas by adapt levy flight mech to sim the random jump act of play to a long dist in get the bal and scor a goal and then develop new mod sgo msgo bas method for solv the form dpf and dgp problem
+the sim study exhibit that the propos dpf method is 751 and 666 tim fast than the nr pf techn and the dgp method is abl to sav the nl by 65% and 69% for 33 and 69 nod system respect .

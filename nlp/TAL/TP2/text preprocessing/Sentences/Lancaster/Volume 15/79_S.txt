@@ -1,0 +1,13 @@
+a novel incomplet spars least squ optim regress model for abdomin mass detect in ultrasound im
+on of the rec way of check the intern org such as kidney gallblad liv and spleen is us an abdomin us im
+us im is mor famili for it un charact lik radiation-free saf cheap and fast
+howev the thing to be consid is that us im cannot grant a prec view of affect reg
+mor particul the unprocess us im compr a lot of embed nois
+thu the digit process is a prom result for improv the qual of us im
+thi pap intend to propos a novel model for abdomin mass detect with us im
+thi detect model compr two phas feat extract as wel as class
+in the feat extract process text feat ar extract from the us im by agloh
+then in the class stag the optim islsr model is us to detect wheth the mass is pres in the abdom or not wher the coefficy matrix is optim tun us a new hybrid lion and whal optim algorithm
+the perform analys of the propos method is comp with ex techn such as glcm-svm glcm-nn glcm-ldca agloh-svm agloh-nn agloh-ldca agloh-islsr-la and agloh-islsr-woa
+the perform of the develop method is analys in term of both posit as wel as neg meas the posit meas includ acc sensit spec and precid npv f1score and mcc
+the neg meas includ fpr fnr and fdr and the efficy of the propos model is prov .

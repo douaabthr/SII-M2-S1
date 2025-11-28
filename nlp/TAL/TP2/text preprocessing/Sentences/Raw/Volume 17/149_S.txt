@@ -1,0 +1,14 @@
+Sustainable multiple travelling salesman problem solved by reference point aspiration level based multi objective quasi oppositional Jaya algorithm under uncertain environment
+Carbon emission varies from vehicle to vehicle along with the route selected for travelling curb weight vehicle speed etc . are uncertain
+Considering appropriate routes and vehicles to reduce carbon emissions is important for eco-friendly transportation
+In the present study the green multiple travelling salesman problem mTSP is solved by the proposed reference point aspiration level-based multi-objective quasi oppositional Jaya RPAL-based MOQO Jaya algorithm
+In green mTSP with risk and carbon constraints multiple salesman are used to travel and all have to return to the depot starting city
+Two models are solved i.e. expected value EV and optimistic value OV models since the nature of the travel cost time risk and carbon emission are uncertain the problem is solved under an uncertain environment
+Green mTSP is considered by taking risk and carbon emission as constraints in this model
+A real-life example of Surat city is considered for 10 and 50 city nodes so the effects of selecting a single salesman versus multiple salesmen is observed
+The data collected for Surat city from Google Maps and Google Earth is evaluated considering road traffic conditions and speed of vehicle
+The problem is solved by RPAL-based MOQO Jaya algorithm
+The supremacy of the proposed method is established through its comparison with other methods for TSPLIB as well as for the real example solved by the proposed method and compared with AL-based MOQO Jaya fuzzy programming technique FPT Hybrid GA Rao algorithms
+Further sensitivity analysis is performed with respect to confidence levels
+The performance of RPAL-based MOQO Jaya is checked by calculating GD IGD HV and coverage
+The proposed algorithm can be easily adapted to solve supply chain problems ship routing problems VRP etc .

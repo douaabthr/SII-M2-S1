@@ -1,0 +1,8 @@
+Mobile intelligent terminal speaker identification for real-time monitoring system of sports training
+Mobile intelligent terminal speaker identification for real-time monitoring system of sports training is presented in this manuscript
+The purpose of speaker recognition is to use speaker s voice characteristics to identify the speaker s identity
+No two people in the world have exactly the same voice characteristics because from the perspective of the human physiological structure different people s vocal shapes throat sizes and other factors related to pronunciation are different which makes it possible to recognize speech by speech
+From the technology level the proposed framework contains the four core aspects namely speaker identification motion gesture detection heart rate detection and breath detection
+In the information collection part we adopt the ZigBee WIFI wireless transmission GPRS data transmission and Bluetooth communication joint framework to capture the accurate data to rrealize the dual-network dual-pass function the TD-SCDMA receiver must also work at the same time when the GSM radio module of the terminal is working
+In the speaker identification part we propose the novel deep neural network framework and revise the architecture
+The experiment compared with the other state-of-the-art models have proven the robustness of the proposed framework .

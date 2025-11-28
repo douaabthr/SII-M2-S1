@@ -1,0 +1,10 @@
+special issu on toward robust explain and interpret artifici intellig
+the complex of modern artifici intellig ai model has rais the question about their interpret
+the term interpret and explain have been use interchang by research
+these two term sound veri close relat although they have to be meant differ
+interpret is most relat to the outcom of the cause-and-effect relationship given the input of a system
+explain deal with the intern logic of a machin learn system
+it aim to character model accuraci and transpar in ai-pow decis make
+it is clear that there is a need for a proper mathemat formal that is still miss
+henc there is a trade-off between the perform of a machin learn model and it abil to produc explain and interpret predict
+the studi of robust system which are also explain and interpret is still under way .

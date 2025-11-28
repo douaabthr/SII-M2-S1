@@ -1,0 +1,9 @@
+evolutionari approach for the weight anti-cov locat problem
+given a set of potenti facil locat site along with a posit weight associ with each site as per it import the anti-cov locat problem aclp is about locat a set of facil at some of these potenti locat such that no two facil are closer than a given distanc from each other and sum of weight of chosen locat is as larg as possibl
+thi mathcal np hard problem ha sever import real-world applic such as telecommun equip site locat militari unit locat franchis outlet locat obnoxi facil forest manag and dna sequenc match
+there are weight and unweight version of aclp
+the unweight version of aclp is wide studi in the literatur
+howev the weight version did not receiv much attent despit sever real-world applic
+in thi paper we have propos two evolutionari approach base on genet algorithm ga and discret differenti evolut dde to solv the weight version of the aclp
+the propos approach are use to solv the 80 aclp instanc with upto 1577 potenti site
+comput result show the effect of our approach .

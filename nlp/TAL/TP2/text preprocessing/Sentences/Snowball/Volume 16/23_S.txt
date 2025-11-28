@@ -1,0 +1,10 @@
+cat hunt optim algorithm a novel optim algorithm
+this articl introduc a new version of cat behavior in hunt
+cat hunt optim cho algorithm unlik cat optim algorithm search strategi is not limit to track and attack
+the cho algorithm has various behavior such as chang the natur of the search from global to local creat the number of posit base on the merit of a point for the cat to roam search between the optim space and the current solut search strategi at the graviti point of the solut and so on
+the advantag of the propos algorithm over the standard cat algorithm is that the answer do not attack the prey quick and this provid a chanc to find more effici solut in the global search
+in the propos method for intellig search the problem space of the search radius around the optim solut chang in a new way base on trigonometr relat such as cosin
+the cho algorithm consid a kind of individu learn between cat and experienc cat inspir young cat to identifi optim solut
+experi on a set of standard benchmark function show that in most of the function the optim calcul error of the cho is less than sho goa gwo fa de pso coa algorithm
+implement on the experi show that in the most exam the cho has the first rank in term of the accuraci of the global optim calcul in the frieden test
+the cho algorithm offer less cost in solv engin optim problem than woa ldf and hho algorithm .

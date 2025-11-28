@@ -1,0 +1,11 @@
+uncertain inf network in evid reason
+as a domin method in evid reason bayes network has been prov pow in discret field
+although bayes network perform rely in continu vary and interv estim it rely on discret continu vary or build an approxim model to conduc which caus inform loss and acc reduc
+in ord to bridg thi gap thi pap introduc two inf rul combin with four inf rul propos by oth scholars
+then we propos a conceiv of uncertain inf network that consist of six bas structures match inf rul to repres rel and log connect among the evid
+evid is repres by uncertain set that can apply to continu vary us memb funct to repres vagu conceiv
+furtherm a num expery for a forens investig of fir incid is giv to comp the result of uncertain inf network and bayes network
+we found three merit in the cas study
+first an uncertain inf network has simpl dat access for each nod becaus bayes network depend on condit prob tabl whil uncertain inf network on rely on memb funct
+second an uncertain inf network has a mor wid apply becaus it can perform continu vary with certain mathem formula without discret or approxim
+third an uncertain inf network has a mor acc result becaus bayes network giv a point estim with a 0 1 valu whil uncertain inf network conduc an interv estim with a rang valu .

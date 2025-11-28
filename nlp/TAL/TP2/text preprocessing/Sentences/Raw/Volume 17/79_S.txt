@@ -1,0 +1,11 @@
+Adaptive fuzzy approach for load frequency control using hybrid moth flame pattern search optimization with real time validation
+The intensifying progression in the transformation of the power grid towards a new generation power system introduces frequency regulation challenges in operations which can be overcome with substantial benefits from the latest robust control approaches along with suitable smart optimizing tools
+Additionally with the adoption of smart and intelligent control schemes the latest communication technologies with the extensive placement of smart devices there will be significant growth in real-time system measurements
+Under this trend an adaptive fuzzy PID A-FLC-PID system will play a vital role in reducing transient time
+In this article a novel adaptive fuzzy control architecture intended for load frequency control with a supplementary hybrid moth flame optimization pattern search h-MFO-PS algorithm is presented
+The proposed approach is designed to optimize the controller gains for the eventual fitness of the objective function
+The hybrid algorithm smartly updates the scaling factors of the adaptive fuzzy controller by considering various proportional and integral thresholds
+Simulations are performed on two areas hydrothermal system with the gas unit
+To validate the research outcomes and measure the effectiveness of the proposed architecture the outcomes are compared with recent research approaches and practicability is tested using an OPAL-RT setup
+The sturdiness of the concerned approach is studied with a wide range of parameterization and loading conditions
+It is observed that the h-MFO-PS scaled A-FLC-PID controller establishes superior improvement in frequency regulation .

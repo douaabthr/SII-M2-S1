@@ -1,0 +1,10 @@
+transmiss expans plan use composit teach learn base optimis algorithm
+with the ever increas demand and stress oper condit resourc expans is the onli way to have sustain electr grid
+transmiss system expans is one of the import aspect in this regard
+in the recent year expans problem has been address by sever research
+meta-heurist techniqu have been appli to solv expans problem
+in this paper a new variant of teach learn base optim tlbo algorithm is propos by ad a sine function base divers in the teach phase
+the propos variant is name as composit tlbo c-tlbo
+the efficaci of the propos variant has been evalu on standard benchmark function and then it is evalu on two standard electr network with case of inclus of uncertainti and demand burst
+the result obtain from optim process have been evalu with the help of sever analyt and statist test
+result affirm that the propos modif enhanc the perform of the algorithm in a substanti manner .

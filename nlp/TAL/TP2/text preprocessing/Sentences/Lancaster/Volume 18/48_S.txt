@@ -1,0 +1,11 @@
+quant bee-inspired algorithm us quant circuit and grady desc optim on produc recommend
+bee-inspired algorithm design to mim bee for act ar renown for their effect in address complex optim problem
+class bee-inspired algorithm fac challeng when apply to large-scal dataset due to comput limit
+integr quant circuit into thes algorithm has the pot to address thi issu by improv comput efficy and acc
+thi work intend to meas the perform of a quant bee-inspired algorithm us quant circuit and a grady desc optim qbiagdo
+the model s perform is comp with three oth class bee-inspired algorithm such as biahco biasao and biagao across the dataset bigbasket supermarket sal and nyka produc review
+the model wer assess bas on comput efficy and predict acc us meas such as it tim mean absolv er mae and root mean squ er rmse
+qbiagdo regul outperform the oth model fin it subst fast and gen low mae and rmse valu
+for the bigbasket dataset qbiagdo complet 50 it in 37.55 s with an mae of 0.86 and rmse of 0.91 exhibit gre perform
+the qbiagdo show itself to be the most efficy and acc model among thos examin provid sign improv in comput spee and predict acc
+thi study illust the pot of qbiagdo for large-scal predict analys propos it broad apply across many sect .

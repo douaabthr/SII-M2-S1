@@ -1,0 +1,5 @@
+apply of grey wolf optim algorithm for load frequ control in multi-source singl are pow system
+in thi pap apply of evolv intelligence-based grey wolf optim gwo algorithm has been pres to estim the optim paramet of proportional-integral-derivative pid control for load frequ control lfc in multi-source singl are pow network
+the multi-source singl are pow network which is consid her is compr of reh turbin therm pow plant gas pow plant and hydro pow plant with the mech hydra govern
+in thi pap the paramet of pid control for lfc of und study system ar optim us gwo algorithm by consid four import perform ind instead of consid on or two nam integr of time-weighted squ er its integr of time-weighted absolv er ita integr of squ er is and integr of absolv er ia
+the impl techn has been comp with genet algorithm ga techn for 1% 2% and 5% load disturb to show the effect and appl for lfc in multi-source singl are pow network .

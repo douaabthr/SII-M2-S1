@@ -1,0 +1,10 @@
+robot path plan method in rough terrain bas on multi-objective crossover-mutation partic swarm optim
+autom path plan in complex three-dimensional environ is a key problem for robot when perform task effect
+howev ex path plan method espec the tradit partic swarm optim pso fac key challeng when deal with such problem such as easy fal into loc optim solv lack of divers and insufficy precid
+thes problem limit the perform and rely of path-planning algorithm in complex environ
+to overcom thes limit thi pap propos a new hybrid path plan algorithm by introduc a stat factor-based inert weight upd scheme and merg the crossover-mutation op into the multi-objective partic swarm optim mopso which is cal mosfcmpso
+first by set adapt tun paramet in mopso the prob of partic fal into the loc optim solv is reduc
+second crossov and mut op ar ad to increas the divers of the pop to avoid the ear precocy phenomenon
+fin to evalu the perform of the propos mosfcmpso comparison ar conduc with sev oth algorithm standard mopso linear decreas inert weight mopso lmopso mopso bas on stat factor-based inert weight upd scheme mosfpso multi-objective grey wolf optim mogwo non-dominated sort genet algorithm ii nsga-ii and k-means clust bas mopso k-mopso across three terrain of vary complex
+the sim result demonst that mosfcmpso outperform al oth algorithm regard search acc pop divers and optim result
+spec when comp to the most competit state-of-the-art algorithm the propos method achiev a reduc in path leng of 3.64 2.26 and 5.76 and a decreas in terrain rough of 7.98 4.19 and 4.44 in simpl mod complex and high complex terrain respect .

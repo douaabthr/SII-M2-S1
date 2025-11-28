@@ -1,0 +1,12 @@
+tune and evolut of support vector kernel
+kernel-bas method like support vector machin svm have been establish as power techniqu in machin learn
+the idea of svm is to perform a map from the input space to a higher-dimension featur space use a kernel function so that a linear learn algorithm can be employ
+howev the burden of choos the appropri kernel function is usual left to the user
+it can easili be shown that the accuraci of the learn model high depend on the chosen kernel function and it paramet especi for complex task
+in order to obtain a good classif or regress model an appropri kernel function in combin with optim pre and post-process data must be use
+to circumv these obstacl we present two solut for optim kernel function a autom hyperparamet tune of kernel function combin with an optim of pre and post-process option by sequenti paramet optim spo and b evolv new kernel function by genet program gp
+we review modern techniqu for both approach compar their differ strength and weak
+we appli tune to svm kernel for both regress and classif
+automat hyperparamet tune of standard kernel and pre and post-process option alway yield to system with excel predict accuraci on the consid problem
+especi spo-tun kernel lead to much better result than all other test tune approach
+regard gp-base kernel evolut our method rediscov multipl standard kernel but no signific improv over standard kernel were obtain .

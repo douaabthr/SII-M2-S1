@@ -1,0 +1,10 @@
+advanc central and distribut svm model over differ iot level for edg layer intellig and control
+in this era internet-of-th iot deal with billion of edg devic potenti connect to each other
+maximum applic built on these edg devic generat a massiv amount of onlin data and also requir real-tim comput and decis make with low latenc e.g. robot drone self-driv car smart iot electron wearabl devic
+to suffic the requir the futur generat intellig edg devic need to be capabl of comput complex machin learn algorithm on live data in real-tim
+consid differ layer of iot and distribut comput concept this paper suggest three differ oper model where the ml algorithm will be execut in a distribut manner between the edg and cloud layer of iot so that the edg node can take a decis in real-tim
+the three model are model 1 train and predict both will be done local by the edg model 2 train at the server and decis make at the edg node and model 3 distribut train and distribut decis make at the edg level with global share knowledg and secur
+all three model have been test use support vector machin use thirteen divers dataset to profil their perform in term of both train and infer time
+a compar studi between the comput perform of the edg and cloud node is also present here
+through the simul experi use the differ dataset it is observ that the edg node infer time is approxim ten time faster than cloud time for all test dataset for each propos model
+at the same time the model 2 train time is approxim nine time faster than model 1 and eleven time faster than model 3 .

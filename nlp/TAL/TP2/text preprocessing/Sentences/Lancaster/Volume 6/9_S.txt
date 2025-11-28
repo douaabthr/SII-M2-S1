@@ -1,0 +1,9 @@
+a multi-core parallel strategy for stat sign test in learn class system
+permutation-based stat for evalu the sign of class predict predict attribut and pattern of assocy hav on appear within the learn class system lcs lit sint 2012
+whil stil not wid util by the lcs research commun form evalu of stat confid ar imp to larg and complex real world apply such as genet epidemiolog wher it is standard pract to quant the lik that a seem mean stat could hav been obtain pur by chant
+learn class system algorithm ar rel comput expend on their own
+the compound requir for gen permutation-based stat may be a limit fact for som research interest in apply lcs algorithm to real world problem
+technolog has mad lcs parallel strategies mor access and thu mor popul in rec year
+in the pres study we examin the benefit of extern parallel a sery of independ lcs run such that permut test with cross valid becom mor feas to complet on a singl multi-core workst
+we test our python impl of thi strategy in the context of a sim complex genet epidemiolog dat min problem
+our evalu ind that as long as the numb of concur process doe not excess the numb of cpu cor the speedup achiev is approxim linear .

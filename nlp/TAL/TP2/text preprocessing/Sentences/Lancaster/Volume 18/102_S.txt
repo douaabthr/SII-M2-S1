@@ -1,0 +1,8 @@
+a new ant stridulation-based loc search for combin optim problem
+stridulating insect lik ant us acoust commun as a cruc part of their soc behavy allow them to coordin their act and respond to chang environ condit
+thi pap introduc a novel loc search-based approach inspir by the acoust commun in real ant colony
+despit the larg numb of ex bio-inspired metah no singl algorithm is univers optim and a new approach inspir by ant sound commun could off adv in spec problem
+sound-bas mech could provid bet way to bal expl and exploit pot improv search efficy
+in the propos approach art ant employ a 2 opt loc search guid by acoust sign to enh the qual of a pop of init solv
+to assess the eff of the propos approach expery ar conduc on vary benchmark inst of the travel salesm problem
+expery result demonst prom perform outperform or match state-of-the-art algorithm on sev benchmark inst .

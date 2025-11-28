@@ -1,0 +1,8 @@
+apply of fuzzy-3 dof-pid control for control foptd typ commun delay bas renew three-area dereg hybrid pow system
+renew energy prom to be a good substitut for tradit sourc for a const supply of pow
+large-scal elect grid may expery maj synchron imb between vary compon as a result of system or commun delay
+engin expery sev challeng whil attempt to replac conv energy with sustain pow sint the charact of renew pow plant gen ar contin chang with clim condit
+to man a time-delayed autom gen control agc system on can us intellig control such as the fuzzy-assisted three degr of freedom pid control
+thi study pres a new control strategy cal the fuzzy-3 dof-pid control for a first-order plu time-delay foptd bas three-area interconnect hybrid pow system
+the control paramet ar train by diff algorithm such as firebug swarm optim fso levenberg marquardt algorithm lma partic swarm optim pso and big bang big crunch bb-bc algorithm to prov their eff
+the design control is robust to load vary rlp and the comparison of the vary perform ind demonst the supery of the propos control ov oth control avail in the lit .

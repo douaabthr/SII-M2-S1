@@ -1,0 +1,13 @@
+Studying the application of ant colony optimization and river formation dynamics to the steiner tree problem
+River formation dynamics RFD Rabanal et al
+in Using river formation dynamics to design heuristic algorithms
+In Unconventional computation UC 07 LNCS 4618
+Springer pp 163 177,2007 Rabanal et al
+in Applying river formation dynamics to solve NP-complete problems
+In Chiong R ed Nature-inspired algorithms for optimisation volume 193 of Studies in Computational Intelligence
+Springer pp 333 368,2009 is a heuristic optimization algorithm based on copying how water forms rivers by eroding the ground and depositing sediments
+We apply this method to solve theSteiner tree problem STP a well-known NP-hard problem having applications to areas like telecommunications routing or VLSI design among many others
+We show that the gradient orientation of RFD makes it especially suitable for solving this problem and we report the results of several experiments where RFD as well as an implementation ofAnt Colony Optimization ACO Dorigo in ant colony optimization
+MIT Press New York 2004 are applied to some benchmark graphs from the SteinLib Testdata Library Koch in Steinlib testdata library
+Technical report Konrad-Zuse-Zentrum für Informationstechnik Berlin 2009
+We also study the capability of RFD and ACO to deal with a scenario where the graph is modifiedaftera solution is found and next a solution for the new graph has to be found either by running the algorithm from scratch or by adapting the structures previously formed by the algorithms to construct their previous solution .

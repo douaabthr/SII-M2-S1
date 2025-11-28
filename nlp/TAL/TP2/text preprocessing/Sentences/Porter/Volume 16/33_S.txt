@@ -1,0 +1,7 @@
+an improv monarch butterfli optim base multivari fuzzi time seri approach for forecast gdp of india
+gross domest product gdp is a crucial indic to evalu nation econom develop of a nation and the statu of the macro-economi of a countri
+in the present work we have propos a novel approach for predict india s nomin gdp
+six new variabl have been consid to predict the gdp of india for which a hybridis model compris of the multivari fuzzi time seri mvft model and the monarch butterfli optim mbo algorithm is use
+mbo is use to determin the optim length of interv in the univers of discours uod while keep the number of interv constant
+the accuraci of the result algorithm is determin by take the measur mean absolut percentag error mape and root mean squar error rmse
+the outcom obtain show that the propos mvfts-mbo algorithm outperform the exist method for the predict of india s gdp .

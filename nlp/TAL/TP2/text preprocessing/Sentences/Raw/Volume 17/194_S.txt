@@ -1,0 +1,11 @@
+ARDOD adaptive radius density-based outlier detection
+Outlier detection has garnered considerable attention in recent years due to its wide-ranging applications across various research domains
+This surge in interest has led to the development of numerous detection techniques predominantly based on distance or density metrics
+A notable limitation of these existing methods is their reliance on parameter adjustments significantly affecting the outcome
+Additionally these methods exhibit intrinsic flaws distance-based approaches struggle with clusters with varying local densities while density-based methods fail to identify patterns within low-density areas
+Moreover most prior techniques are adept at identifying only one kind of outlier local global or group of outliers
+Addressing these challenges we introduce the Adaptive Radius Density-Based Outlier Detection ARDOD method which departs from the traditional parameter-dependent approach
+ARDOD is a novel parameter-free algorithm that dynamically determines the necessary parameters based on the data distribution within the feature space
+This innovative method demonstrates robust performance in detecting all three categories of outliers
+The efficacy and superior performance of ARDOD are validated through an extensive experimental analysis involving various synthetic and real-world datasets
+This analysis showcases ARDOD s advantages over seven established methods Local Outlier Factor LOF Angle-Based Outlier Detection ABOD Robust Distance-Based Outlier Score RDOS Directed density ratio Changing Rate-based outlier detection DCROD Empirical-Cumulative-distribution-based Outlier Detection ECOD mean-shift outlier detector MOD and Local Global Outlier Detection LGOD underscoring its potential as a versatile tool in outlier detection research .

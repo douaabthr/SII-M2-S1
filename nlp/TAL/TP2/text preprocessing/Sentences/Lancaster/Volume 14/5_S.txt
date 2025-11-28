@@ -1,0 +1,9 @@
+uid a un intrud detect system for iot environ
+intrud detect system id us machin learn approach is get popul as it has an adv of get upd by itself to defend against any new typ of attack
+anoth emerg technolog cal internet of thing iot is tak the respons to mak autom system by commun the dev without hum interv
+in iot bas system the wireless commun between sev dev through the internet caus vuln for diff sec threats
+thi pap propos a novel un intrud detect system for iot environ uid to defend the network from four typ of attack such as exploit dos prob and gen
+the system is also abl to detect norm categ of network traff
+most of the rel work on id ar bas on kdd99 or nsl-kdd 99 dat set which ar un to detect new typ of attack
+in thi pap unsw-nb15 dat set is consid as the benchmark dataset to design uid for detect malicy act in the network
+the perform analys prov that the attack detect rat of the propos model is high comp to two ex approach enad and dendron which also work on unsw-nb15 dat set .

@@ -1,0 +1,12 @@
+histogram-based comparison of met spac us hmms
+comparison is a pow tool for decid support
+many meas hav been propos for comp two met spac but they do not consid the dat dispers in each met spac
+furtherm no ded meas has yet been propos for comp two met spac contain el belong to vary subtyp of a glob datatyp
+in ord to attenu the af limit thi pap propos a new techn for comp two met spac
+mor form giv a met spacex histogram ar us for perform a grad analys of the dat dispers insid the neighb of each el ofx
+thi is a refin of the neighb analys real in an ex work
+then anoth ex techn is us for assocy on hid markov model lambd _x withxsuch that lambd _x learn the bin valu and the vis shap of the histogram der from the inst inx
+meta-dat der from lambd _x ar then sav as the compon of a describ vect overrightarrow x assocy withx
+fin the comparison between two met spac is perform through the comparison of their respect assocy describ vect us ex dist or simil meas between two vect
+the propos approach inherit the acc and the efficy of the ex techn on which it rely
+theref the expery real in thi pap ar on intend to show how it can be us for comp particul met spac contain geoloc or star in the celest sphere .

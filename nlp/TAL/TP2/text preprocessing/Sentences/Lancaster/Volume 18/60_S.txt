@@ -1,0 +1,12 @@
+solv the capacit facil loc problem with serv dist and outsourc us a custom art bee colony algorithm
+thi artic consid a vary of the capacit facil loc problem wher each custom has a non-negative demand and each facil has a non-negative capac limit and a serv dist beyond which it cannot serv custom
+a fix numb of facil ar op from pot loc
+the op facil can on provid serv to the custom incur serv cost
+due to the capac limit and serv dist of facil al the custom may not be serv by the op facil and thes custom can be outsourc incur outsourc cost
+each custom has it own non-negative outsourc cost
+the goal is to minim the sum of serv and outsourc cost
+thi problem is term the capacit facil loc problem with serv dist and outsourc cflpsdo
+a 0-1 integ linear program form for cflpsdo is pres in thi artic
+for expery 45 inst ar gen from real-world maxim cov loc problem inst
+thes ar solv us the exact solv cplex to cre benchmark solv
+then a custom art bee colony abc algorithm-based metah with two op for enh search spac expl and exploit is employ and found to produc optim solv efficy .

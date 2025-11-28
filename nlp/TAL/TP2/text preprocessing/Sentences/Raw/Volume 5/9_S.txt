@@ -1,0 +1,9 @@
+Analysing BioHEL using challenging boolean functions
+In this work we present an extensive empirical analysis of the BioHEL genetics-based machine learning system using the k-Disjunctive Normal Form k-DNF family of boolean functions
+These functions present a broad set of possible challenges for most machine learning techniques such as different degrees of specificity class imbalance and niche overlap
+Moreover as the ideal solutions are known it is possible to assess if a learning system is able to find them and how fast
+Specifically we study two aspects of BioHEL its sensitivity to the coverage breakpoint parameter that determines the degree of generality pressure applied by the fitness function and the impact of the default rule policy
+The results show that BioHEL is highly sensitive to the choice of coverage breakpoint and that using a default class suitable for the problem allows the system to learn faster than using other default class policies e. g
+the majority class policy
+Moreover the experiments indicate that BioHEL s scalability depends directly on bothk the specificity of the k-DNF terms and the number of terms in the problem
+In the last part of the paper we discuss alternative policies to adjust the coverage breakpoint parameter .

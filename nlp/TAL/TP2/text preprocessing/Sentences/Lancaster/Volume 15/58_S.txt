@@ -1,0 +1,9 @@
+t-tohip trust-based topology-hiding multipa rout in mobl ad hoc network
+in rec year sec in mobl ad hoc network manet is the act research top in both industry and academ becaus of the ris avail of tiny adapt mobl dev and the multipa rout protocol hav been receiv much at in manet
+accord thi pap introduc the trust-based topology-hiding multipa rout algorithm for the manet
+the propos model find the sec fact of each nod in the manet and the neighb nod ar select bas on the defin sec fact
+the propos rout method has four model for defin the sec fact nam the trust model energy model delay model and the mobl model
+the propos multipa rout determin the sec rout between the send and receiv bas on the select neighb nod
+fin dat commun is perform through the select multipa
+the perform of the propos multipa rout is analys with the ex method such as topology-hiding multipa rout protocol fract lion optim to topology-hiding multi-path rout and adapt fract lion optim to topology-hiding multi-path rout for the perform met such as throughput delay energy and packet drop rat pdr
+sim result show that the propos multipa rout has the bet valu of 0.330566 0.376754 0.319369 and 0.380559 aft 50 s of sim for throughput delay energy and pdr than the ex model when ther is an attack on the nod .

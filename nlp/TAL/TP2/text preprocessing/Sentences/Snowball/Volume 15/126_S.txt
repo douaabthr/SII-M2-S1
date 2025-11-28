@@ -1,0 +1,15 @@
+naiv bayes-correl base featur weight techniqu for sport match result predict
+there has been a rapid growth in the domain of artifici intellig data mine and machin learn dure the last few year
+machin learn techniqu have been extens use for outcom predic and classif in differ sphere of research now a day
+machin learn show excel perform for outcom predict and classif in the domain of medicin cyber secur bank fraud drug discoveri etc
+howev in the field of sport particular for the game of badminton outcom result predict with the aid of artifici intellig and machin learn is still unexplor
+the machin learn techniqu for outcom predict have been use for limit game onli
+this paper present machin learn base techniqu for badminton match outcom predict with less input attribut
+here supervis learn approach with featur reduct techniqu has been propos for badminton match outcom predict
+the raw data relat to australian open malaysian open german open and singapor open badminton tournament from 2016 to 2019 are collect from internet sourc offici websit and other websit
+csv file is formul from the scarp data with total thirti featur for singl tournament and thirty-four featur for doubl tournament
+correl featur select method info gain attribut select method relieff attribut select method probabilist signific attribut evalu method and symmetr uncertainti attribut evalu featur reduct techniqu are employ to evalu featur signific
+fourteen signific featur as input predictor for three machin learn classifi are select for badminton match result predict
+the classifi perform for match outcom predict is evalu in term of accuraci root mean squar error receiv oper characterist and other confus matric paramet
+result for each tournament with reduc featur are analys and compar with full featur dataset
+it has been observ that naïv bay with correl base featur weight show remark perform in contrast to other propos classifi in match outcom predict for reduc featur dataset .

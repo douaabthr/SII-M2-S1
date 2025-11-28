@@ -1,0 +1,12 @@
+edit
+thank you for giv me thi opportun to act as the guest edit of thi spec issu which is on nature-inspired algorithm for high-performance comput in comput vis
+to tackl complex real-world problem sci hav been look into nat process and cre both as model and metaph for year
+optim is at the heart of many nat process includ darwin evolv soc group behavy and for strategies
+ov the last few decad ther has been remark grow in the field of nature-inspired search and optim algorithm
+nature-inspired algorithm provid a system introduc to al maj nature-inspired optim algorithm for optim
+cur thes techn ar apply to a vary of problem rang from sci research to industry and commerc
+the two main famy of algorithm that prim constitut thi field today ar the evolv comput method and the swarm intellig algorithm
+although both famy of algorithm ar gen ded to solv search and optim problem they ar certain not equ and each has it own distinct feat
+reinforc each oth s perform mak pow hybrid algorithm cap of solv many intract search and optim problem
+many problem in sci and engin can be form as optim problem subject to complex nonlinear constraint
+the solv to high nonlinear problem us requir soph optim algorithm and tradit algorithm may struggle to deal with such problem .

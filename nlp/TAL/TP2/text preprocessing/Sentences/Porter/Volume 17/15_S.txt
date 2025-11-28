@@ -1,0 +1,8 @@
+log-period power law hybrid model base on bp neural network
+stock market crash bring about huge econom loss so predict the stock market crash is extrem import for both the investor and practition
+back propag bp neural network perform greatli in data adapt and fit it ha been wide use for forecast studi in variou field
+howev given the low frequenc and lack of period of stock market crash the bp neural network can hardli predict the intens fluctuat stock price accur dure the crash
+to resolv thi issu we introduc bp neural network into log-period power law model propos the log-period power law hybrid model base on the bp neural network
+thi combin approach could further captur the fluctuat trend and predict the volatil dure the stock market crash better
+the experiment result show that thi hybrid model could predict the stock price in differ stock market with a slightli increas accuraci
+moreov it perform wa more stabl compar with bp neural network .

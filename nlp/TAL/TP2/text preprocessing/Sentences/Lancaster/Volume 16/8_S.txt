@@ -1,0 +1,10 @@
+loc neighbo spid monkey optim algorithm for dat clust
+dat clust play a cruc rol in the analys of inform collect from a vary of domain
+research develop many class and mathem algorithm to solv real-life problem but due to the inh property of thes algorithm they prem converg and fal to loc optim
+a furth pattern of dat in term of shap siz and distribut has a sign effect on the exploit and expl charact of algorithm which draw at to many research
+thi work attempt to solv thi problem by propos an lnsmo loc neighbo spid monkey optim algorithm for dat clust
+in the propos algorithm loc lead phas of the spid monkey optim algorithm is improv with it neighbo solv
+furth to enh the glob search glob lead phas of spid monkey optim is improv with a chaot op
+the perform of lnsmo is comp with elev real-life dataset with fiv well-known meta-heuristic algorithm in term of a sum of within-cluster dist and converg spee
+it is furth comp with rec develop hybrid meta-heuristic algorithm
+expery result demonst that the propos algorithm provid a bet result in term of acc f-measure and swcd .

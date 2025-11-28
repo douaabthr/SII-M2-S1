@@ -1,0 +1,8 @@
+evolutionari algorithm framework for optim truck schedul in multi-dock truck cross-dock center
+cross-dock optim logist by reduc storag and handl time in warehous where cargo are unload from inbound truck and load direct onto outbound vehicl
+this paper address the critic challeng of minim makespan in a multi-dock parallel machin set within cross-dock center
+we propos a novel framework that integr an evolutionari algorithm ea with a machin learn ml base hyperparamet tune mechan to optim truck sequenc
+this studi fill the research gap by offer a quantifi improv over tradit heurist method deliv up to a 37% improv in the gap metric compar to state-of-the-art techniqu
+it also achiev a 30% enhanc over the pch construct heurist use for generat initi solut
+addit our ml-base tune strategi provid up to a 21% perform increas over static tune method
+notabl these improv are attain while maintain a competit comput time as report in the literatur .

@@ -1,0 +1,11 @@
+a new meta-heuristic algorithm bas on chem react for partit clust problem
+in the field of engin heur algorithm ar wid adopt to solv vary of optim problem
+thes algorithm hav prov it eff ov class algorithm
+it is seen that chem react consist of an efficy comput proc to design a new produc
+the form of new produc contain numb of object stat ev and wel defin proc step
+a meta-heuristic algorithm inspir through chem react is develop cal art chem react optim acro algorithm
+in thi work an acro algorithm is adopt to solv partit clust problem
+but thi algorithm suff with slow converg rat and sometim stuck in loc optim
+to handl thes af problem two op ar inculc in acro algorithm
+the perform of propos algorithm is test ov well-known clust dataset
+the sim result confirm that propos acro algorithm is an effect and competit algorithm to solv partit clust problem .

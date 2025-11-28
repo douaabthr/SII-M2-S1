@@ -1,0 +1,8 @@
+mobl intellig termin speak id for real-time monit system of sport train
+mobl intellig termin speak id for real-time monit system of sport train is pres in thi manuscrib
+the purpos of speak recognit is to us speak s voic charact to ident the speak s id
+no two peopl in the world hav exact the sam voic charact becaus from the perspect of the hum physiolog structure diff peopl s voc shap throat siz and oth fact rel to pronunt ar diff which mak it poss to recogn speech by speech
+from the technolog level the propos framework contain the four cor aspect nam speak id mot gest detect heart rat detect and brea detect
+in the inform collect part we adopt the zigb wif wireless transmit gprs dat transmit and bluetoo commun joint framework to capt the acc dat to rre the dual-network dual-pass funct the td-scdma receiv must also work at the sam tim when the gsm radio mod of the termin is work
+in the speak id part we propos the novel deep neur network framework and rev the architect
+the expery comp with the oth state-of-the-art model hav prov the robust of the propos framework .

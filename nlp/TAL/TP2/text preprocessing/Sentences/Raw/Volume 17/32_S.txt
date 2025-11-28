@@ -1,0 +1,9 @@
+Artificial intelligence techniques to predict the performance of teachers for kindergarten Iraq as a case study
+The teacher of a kindergarten is a paramount factor that affects the child s future and the educational process as all
+The major objective of the work is to build a model for predicting the performance of the Iraqi kindergarten teachers by using AI techniques and providing feedback for kindergartens teachers by determining the important teachers attributes using feature selection methods
+The proposed work contained three major stages the data preparation the feature selection stage and finally the classification stage
+The dataset has been collected by the questionnaire the number of samples was 1450 samples of teachers from different cities in Iraq which were selected randomly while the number of features was twenty-six
+Two types of feature selection techniques utilized were Chi-square and classification and regression Tree CART methods
+Three techniques had been used in the classification stage Support Vector Machine SVM Naïve Bayes NB and Deep Neural Network DNN
+The results showed the features had values differently in importance
+The features selection technique had a positive effect on the performance where the accuracy was 91.7% 99.31% and 99.68% when used NB SVM and DNN consecutively when using the CART selection method and 75.3% 75.4% and 98.7% consecutively for all features .

@@ -1,0 +1,17 @@
+an intellectu model of pest detect and classif use enhanc optimization-assist singl shot detector and graph attent network
+identifi pest in the plant is consid to be an effici accur and sustain way to improv the food qualiti and econom valu in the agricultur industri
+it equip farmer with cutting-edg instrument to safeguard their harvest lessen their effect on the environ and satisfi the grow need for susten on a worldwid scale
+deep learn can complet transform the identif of pest as it develop protect agricultur s product and resist against ever-chang insect threat
+it can be difficult to combin multipl method for pest identif includ artifici intellig satellit imag and detector
+it is difficult to make sure that such innov are avail to farm and function well togeth
+it s common for farmer as well as other agricultur personnel to requir certif to properli util pest detect equip and understand the find
+for these innov to be wide adopt the gap in understand must be close
+address these challeng requir an effect novel deep learning-bas pest detect method
+in thi paper a deep learning-bas pest detect and classif model is develop to identifi diseas caus by pest at an earli stage
+initi the imag are collect from onlin dataset
+collect imag underw detect use the adapt singl shot detector assd
+to enhanc the accuraci and effici of assd the model paramet are fine-tun by util the enhanc run citi game optim
+thi optim process aim to improv the precis of pest detect
+the classif of pest is done use the propos multi-scal and dilat graph attent network
+thi innov network architectur is design to categor the pest effect
+the outcom of the propos model is justifi by compar it with other classifi and algorithm .

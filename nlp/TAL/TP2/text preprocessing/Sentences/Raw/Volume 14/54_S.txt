@@ -1,0 +1,9 @@
+Feedback-based fuzzy resource management in IoT using fog computing
+The goal of Internet of Things IoT is to make things wearable devices smart cameras sensors and smart home appliances connect to internet
+Large storage is required to store huge volume of data that is generated data processing need to be carried out between IoT devices and the massive number of applications
+This process can be made effectively with the help of cloud computing technology
+Resources can be effectively utilized with the help of cloud and IoT plays a significant role in managing the tasks that are to be offloaded to the cloud
+The performance of the application is to be enhanced by providing Quality of Service QoS and the performance is evaluated in terms of QoS parameters like Power utilization Makespan and Execution Time
+The tasks are allocated based on priority
+Fog computing paradigm is used in the proposed model to decrease the makespan of time
+The projected mechanism is tested and compared with different present systems and is shown that proposed methodology produced effective results .

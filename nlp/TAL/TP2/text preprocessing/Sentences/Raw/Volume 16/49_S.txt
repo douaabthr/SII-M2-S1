@@ -1,0 +1,7 @@
+A survey of image encryption for healthcare applications
+Recently medical image encryption has attracted many researchers because of security issues in the communication process
+The recent COVID-19 has highlighted the fact that medical images are consistently created and disseminated online leading to a need for protection from unauthorised utilisation
+This paper intends to review the various medical image encryption approaches along with their merits and limitations
+It includes a survey a brief introduction and the most utilised interesting applications of image encryption
+Then the contributions of reviewed approaches are summarised and compared regarding different technical perspectives
+Lastly we highlight the recent challenges along with several directions of potential research that could fill the gaps in these domains for researchers and developers .

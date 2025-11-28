@@ -1,0 +1,8 @@
+bim model gen and protect an autom solv und deep learn and diff priv
+in respons to the problem of low acc low efficy and insufficy dat sec in build inform model model an autom scheme bas on deep learn and diff priv is introduc to improv the efficy and sec of construct project
+first thi artic util resid network and long short-term mem model to extract feat from the spat structure and temp inform of the build inform model model
+second it us the adam optim for grady desc to optim network weight then for the evalu of geomet acc and dat integr thi artic adjust the numb of network lay and convolv kernel siz
+at the sam tim thi artic integr a diff priv framework into the model dynam adjust the priv budget and fin evalu the build inform model model for autom gen and protect
+the research result ind that the build inform model model had an acc of 0.94 in align the edg of the structural framework and the intern partit wal angl devy was on 0.10
+it er in the are cov by intern partit and flo was on 0.04 with a success rat of 0.82 for dat leak risk a detect rat of 0.91 and a respons tim of 0.09 s
+the model can ens the sec of crit inform whil achiev high acc and efficy .

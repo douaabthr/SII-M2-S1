@@ -1,0 +1,6 @@
+a new improv newton metaheurist algorithm for solv mathemat and structur optim problem
+as the object function in complex structur optim problem is implicit in the present improv newton method use the higher-ord approxim a new and simpl formul is propos to calcul the first and second-ord deriv of the object function
+furthermor by combin the present improv newton method with an innov metaheurist algorithm an effici approach call improv newton metaheurist algorithm inma is present to balanc between explor and exploit dure optim process
+the perform of the propos inma algorithm is investig on the cec2019 and cec2020 benchmark function three benchmark truss problem with stress constraint as well as four truss problem with multipl frequenc constraint
+the result demonstr that the effici of the propos inma algorithm for both mathemat and structur optim problem is better than other algorithm
+anyway it can be seen from the result that inma algorithm is an effici method to solv problem in differ optim domain .

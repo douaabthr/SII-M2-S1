@@ -1,0 +1,8 @@
+optim regul linear discrimin analys for feat extract in fac recognit
+in a reduc dimend spac linear discrimin analys look for a project transform that can maxim sep among class
+sint linear discrimin analys demand the within-class scat matrix appear to non-singular which cannot direct us in condit of smal sampl siz sss issu in which the dimend of im is much high whil the numb of sampl isn t unlimit
+both the between-class and within-class scat mat ar alway excess ill-posed in sss problem
+and many algorithm ar suff from smal sampl siz issu stil
+to solv sss problem many method includ regul linear discrimin analys wer propos
+in thi artic a way was pres by optim regul linear discrimin analys for feat extract in fr which can not on fix the singul problem ex in scat matrix but also the problem of paramet estim
+the expery is conduc on sev databas and prom result ar obtain comp to som state-of-the-art method to demonst the effect of the propos approach .

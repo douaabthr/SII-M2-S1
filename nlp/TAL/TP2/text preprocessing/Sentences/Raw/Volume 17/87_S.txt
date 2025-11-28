@@ -1,0 +1,9 @@
+Genetic algorithms theory genetic operators solutions and applications
+A genetic algorithm GA is an evolutionary algorithm inspired by the natural selection and biological processes of reproduction of the fittest individual
+GA is one of the most popular optimization algorithms that is currently employed in a wide range of real applications
+Initially the GA fills the population with random candidate solutions and develops the optimal solution from one generation to the next
+The GA applies a set of genetic operators during the search process selection crossover and mutation
+This article aims to review and summarize the recent contributions to the GA research field
+In addition the definitions of the GA essential concepts are reviewed
+Furthermore the article surveys the real-life applications and roles of GA
+Finally future directions are provided to develop the field .

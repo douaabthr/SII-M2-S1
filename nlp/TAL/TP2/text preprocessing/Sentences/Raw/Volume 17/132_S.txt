@@ -1,0 +1,8 @@
+Surrogate-assisted evolutionary optimisation a novel blueprint and a state of the art survey
+Surrogate-Assisted Evolutionary Optimisation algorithms are a specialized brand of optimisers developed to undertake problems with computationally expensive fitness functions
+These algorithms work by building a cheap approximation or model of the exact function and using it in the evaluation of solutions within the optimisation process
+This use of modelling techniques within optimisation while offers a practical reduction in function calls brings along with it some additional questions
+This paper starts with a description of the key elements of surrogate-assisted evolutionary optimisation algorithms as they are outlined throughout the literature and then proceeds to rearrange these elements using a novel blueprint of the field
+The proposed blueprint can be used to represent any surrogate-assisted evolutionary algorithm in a way that illustrates its principles and components in a non-vague manner
+In addition a survey of the most prominent works in the field is conducted using this novel blueprint
+Finally a number of challenges and perspectives are listed before the paper is concluded .

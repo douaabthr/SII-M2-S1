@@ -1,0 +1,11 @@
+novel evolv algorithm for superv class problem an expery study
+evolv algorithm ea ar population-based stochast search algorithm that mim nat evolv
+ov the year ea hav been success apply to many class problem
+in thi pap we pres three novel evolv approach and analys their perform for synthes class with ea in superv dat min scenario
+the first approach is bas on encod rul set with bit string genom whil the second on util genet program gp to cre decid tre with arbit express attach to the nod
+the novel of thes two approach lie in the us of solv on the pareto front as an ensembl
+the third approach eddie-101 is also bas on gp but us a new adv fit meas and som novel genet op
+we comp thes approach to a numb of well-known dat min method includ c4 . 5 and random-forest and show that the perform of our evolv class can be very competit as far as the solv qual is concern
+in addit the propos approach work wel across a wid rang of config and eddie-101 particul has been high efficy
+to furth evalu the flex of eddie-101 across diff problem domain we also test it on som real fin dataset for find invest opportun and comp the result with thos obtain us oth class
+num expery confirm that eddie-101 can be success extend to fin forecast .

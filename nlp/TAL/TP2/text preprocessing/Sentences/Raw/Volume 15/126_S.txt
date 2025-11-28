@@ -1,0 +1,15 @@
+Naive bayes-correlation based feature weighting technique for sports match result prediction
+There has been a rapid growth in the domains of artificial intelligence data mining and machine learning during the last few years
+Machine learning techniques have been extensively used for outcome predication and classification in different spheres of research now a days
+Machine learning shows excellent performance for outcome prediction and classification in the domains of medicine cyber security banking fraud drug discovery etc
+However in the field of sports particularly for the game of badminton outcome result prediction with the aid of artificial intelligence and machine learning is still unexplored
+The machine learning techniques for outcome prediction have been used for limited games only
+This paper presents machine learning based technique for badminton match outcome prediction with less input attributes
+Here supervised learning approach with feature reduction techniques has been proposed for badminton match outcome prediction
+The raw data related to Australian Open Malaysian Open German Open and Singapore Open Badminton tournaments from 2016 to 2019 are collected from internet sources official websites and other websites
+CSV file is formulated from the scarp data with total thirty features for singles tournament and thirty-four features for doubles tournaments
+Correlation Feature Selection Method Info Gain Attribute Selection Method ReliefF Attribute Selection Method Probabilistic Significance Attribute Evaluation Method and Symmetrical Uncertainty Attribute Evaluation feature reduction techniques are employed to evaluate feature significance
+Fourteen significant features as input predictors for three machine learning classifiers are selected for badminton match result prediction
+The classifiers performance for match outcome prediction is evaluated in terms of accuracy root mean square error receiver operating characteristics and other confusion matrices parameters
+Results for each tournament with reduced features are analysed and compared with full feature dataset
+It has been observed that Naïve Bayes with correlation based feature weighting shows remarkable performance in contrast to other proposed classifiers in match outcome prediction for reduced feature dataset .

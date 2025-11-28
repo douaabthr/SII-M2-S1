@@ -1,0 +1,9 @@
+Automated mammogram breast cancer detection using the optimized combination of convolutional and recurrent neural network
+The objective of this study is to frame mammogram breast detection model using the optimized hybrid classifier
+Image pre-processing tumor segmentation feature extraction and detection are the functional phases of the proposed breast cancer detection
+A median filter eliminates the noise of the input mammogram
+Further the optimized region growing segmentation is carried out for segmenting the tumor from the image and the optimized region growing depends on a hybrid meta-heuristic algorithm termed as firefly updated chicken based CSO FC-CSO
+To the next of tumor segmentation feature extraction is done which intends to extract the features like grey level co-occurrence matrix GLCM and gray level run-length matrix GRLM
+The two deep learning architectures termed as convolutional neural network CNN and recurrent neural network RNN
+Moreover both GLCM and GLRM are considered as input to RNN and the tumor segmented binary image is considered as input to CNN
+The result of this study shows that the AND operation of two classifier output will tend to yield the overall diagnostic accuracy which outperforms the conventional models .

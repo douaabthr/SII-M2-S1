@@ -1,0 +1,6 @@
+a polychromat set theori base algorithm for the input/output schedul problem in as/rss
+this paper propos a hybrid polychromat set theori base genet algorithm ga for the input/output schedul problem of autom storag and retriev system as/rss
+in order to overcom the drawback of precoci phenomena and lack of stabil of the ga a novel hybrid model through integr of genet algorithm ga and polychromat set theori ps is propos
+dure the solut process polychromat set contour matric is use to assign input/output good locat reason to improv the qualiti of initi popul
+dure the iter process simul anneal algorithm sa is invok to jump out of the local optimum to obtain a satisfactori solut
+the experi result show that the hybrid ps-sa-ga genet algorithm has obvious advantag in solv the input/output schedul problem the introduct of contour matrix constraint modul can effect improv the qualiti of initi popul the simul anneal algorithm is invok to reduc the possibl of prematur converg and the global optim solut can be obtain effici .

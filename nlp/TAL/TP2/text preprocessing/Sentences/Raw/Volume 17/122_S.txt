@@ -1,0 +1,8 @@
+A diversity preserving genetic algorithm with tailor-made variation operators for the quadratic bottleneck knapsack problem
+This paper deals with a variation of the knapsack problem called the quadratic bottleneck knapsack problem QBKP
+In QBKP there is a quadratic cost associated with each pair of objects and the objective is to minimize the maximum quadratic cost such that sumtotal of weights of objects should be at least equal to the capacity of knapsack
+Despite the practical application of this mathcal N mathcal P hard problem in selecting investments for a portfolio it remains an under-studied problem as only a few exact and heuristic approaches exist in the literature
+This has motivated us to develop a metaheuristic approach based on steady-state genetic algorithm SSGA for the QBKP
+Our SSGA approach uses worst among most similar replacement strategy to preserve useful population diversity which has a significant impact on the performance of our algorithm
+Further our crossover and mutation operators are designed as per the characteristics of the QBKP
+We have experimentally compared the performance of our proposed approach with those available in the literature and clearly demonstrated our approach to be better .

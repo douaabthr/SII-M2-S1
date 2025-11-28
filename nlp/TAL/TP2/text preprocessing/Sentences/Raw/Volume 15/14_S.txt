@@ -1,0 +1,10 @@
+The hybridization of ACO GA and RVNS algorithm for solving the time-dependent traveling salesman problem
+The time-dependent traveling salesman problem is a class of combinatorial optimization problems
+Naturally metaheuristic is a suitable approach to solve the problem with large sizes in short computation time
+Previously several metaheuristics have been proposed for solving the problem
+These algorithms might have a strong search intensification and their diversification mechanisms may not be sufficient
+Due to the random nature population-based algorithms improve on the chance of finding a globally
+In this paper we propose a population-based algorithm that combines an ant colony algorithm ACO genetic algorithm GA and neighborhood descent with random neighborhood ordering RVND
+In the algorithm the ACO and GA are used to explore the promising solution areas that are yet to refined while the RVND exploits them with the hope of improving a solution
+Therefore our metaheuristic algorithm balances between exploration and exploitation
+Extensive numerical experiments and comparisons with the state-of-the-art metaheuristic algorithms in the literature show that the proposed algorithm reaches better solutions in many cases .

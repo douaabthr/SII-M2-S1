@@ -1,0 +1,12 @@
+sqfm a novel adapt optim scheme for deep learn model
+for deep model train an optim techn is requir that minim loss and maxim acc
+the develop of an effect optim method is on of the most import study area
+the diffgrad optim method us grady chang dur optim phas but doe not upd 2nd ord mom bas on 1st ord mom and the angulargrad optim method us the angul valu of the grady which necessit addit calc
+due to thes fact both of thos approach result in zigz traject that tak a long tim and requir addit calc to attain a glob minim
+to overcom thos limit a novel adapt deep learn optim method bas on squ of first moment sqfm has been propos
+by adjust 2nd ord mom depend on 1st ord mom and chang step siz accord to the pres grady on the non-negative funct the suggest sqfm del a smooth traject and bet im class acc
+the empir research comp the perform of the propos sqfm with adam diffgrad and angulargrad apply non-convex funct demonst that the suggest method del the best converg and paramet valu
+in comparison to sgd adam diffgrad radam and angulargrad tan us the rosenbrock funct the propos sqfm method can attain the glob minim grad with less overshoot
+addit it is demonst that the propos sqfm giv consist good class acc when train cnn network resnet16 resnet50 vgg34 resnet18 and densenet121 on the cifar10 cifar100 and mnist dataset in contrast to sgdm diffgrad adam angulargrad cos and angulargrad tan
+the propos method also giv the best class acc than sgd adam adabeliev yog radam and angulargrad us the imagenet dataset on the resnet18 network
+sourc cod link https github . com/utpalnandi/sqfm-a-novel-adaptive-optimization-scheme-for-deep-learning-model .

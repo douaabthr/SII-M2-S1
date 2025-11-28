@@ -1,0 +1,9 @@
+eeg signal analysi base on machin learn in psycholog balanc detect of athlet
+the increas comprehens penetr of sport scienc and technolog and the constant chang in social cultur make competit sport fierc and the athlet who particip in high-level sport are more and more equal
+under the current situat it is difficult for athlet to win in competit onli by train their physic technic and tactic abil under heavi load
+therefor it is imper to strengthen the psycholog train of athlet in train and befor a match
+artifici intellig especi machin learn has recent been wide use in sport which give us the power to studi athlet psycholog balanc befor train and competit
+this paper use the long-short term memori lstm convolut neural network cnn model which combin time-domain and space-domain characterist to classifi the collect electroencephalogram signal of athlet into emot categori
+lstm network is use to process the inform of emot chang with time while cnn can mine the correl between channel and final fuse the two network output to obtain the result of emot recognit of athlet henc coach can put forward target intervent strategi to help athlet adjust their psycholog state in time
+the experiment result show that this method has high classif accuraci and short classif time on valenc and arous dimens and is superior to similar emot recognit method base on machin learn and deep learn
+it provid dynam support for the research of psycholog balanc detect of athlet .

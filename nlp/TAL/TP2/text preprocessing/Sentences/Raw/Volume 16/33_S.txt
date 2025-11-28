@@ -1,0 +1,7 @@
+An improved monarch butterfly optimization based multivariate fuzzy time series approach for forecasting GDP of India
+Gross Domestic Product GDP is a crucial indicator to evaluate national economic development of a nation and the status of the macro-economy of a country
+In the present work we have proposed a novel approach for predicting India s nominal GDP
+Six new variables have been considered to predict the GDP of India for which a hybridised model comprising of the Multivariate Fuzzy Time Series MVFTS model and the Monarch Butterfly Optimization MBO algorithm is used
+MBO is used to determine the optimal length of intervals in the Universe of Discourse UoD while keeping the number of intervals constant
+The accuracy of the resulting algorithm is determined by taking the measures Mean Absolute Percentage Error MAPE and Root Mean Square Error RMSE
+The outcome obtained shows that the proposed MVFTS-MBO algorithm outperforms the existing methods for the prediction of India s GDP .

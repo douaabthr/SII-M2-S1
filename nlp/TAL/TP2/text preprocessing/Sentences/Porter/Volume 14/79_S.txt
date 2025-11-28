@@ -1,0 +1,9 @@
+just notic differ color space consist spectral cluster base on firefli algorithm for imag segment
+when appli into imag segment the tradit spectral cluster algorithm may suffer from paramet influenc inconveni storag and high comput complex
+in order to solv these problem a just notic differ color space consist spectral cluster method base on firefli algorithm is propos to segment color imag
+firstli some repres color pixel are obtain by use just notic differ threshold measur
+then a similar measur with the properti of color space connect and discret measur is propos to construct the similar between ani two repres pixel
+final use the propos similar measur repres color pixel are group accord to the graph partit criterion
+in order to overcom the influenc of threshold paramet in just notic differ measur the supervis inform and firefli algorithm are introduc in the propos method
+accord to the result of repres pixel all pixel in the imag are partit into differ group and the final segment result is obtain
+experiment result on berkeley segment imag show that thi method ha better segment perform and is superior to the exist cluster method .

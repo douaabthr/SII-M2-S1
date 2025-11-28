@@ -1,0 +1,9 @@
+gaussian mixtur model and bayesian convolut neural network for abnorm musculoskelet radiograph classif
+musculoskelet radiograph classif ha been gain great attent due to it import applic in autom diagnosi of musculoskelet disord
+gener musculoskelet radiograph captur imag of variou bone in the whole bodi which can be consid as a combin of multipl singl dataset
+exist work have tri to build either a tradit neural network nn convolut neural network cnn or bayesian convolut neural network bcnn to achiev effici classif
+howev none of them explor the mixed-dataset properti
+in thi context we propos a novel gaussian mixtur model-bas bcnn mixbcnn for the abnorm musculoskelet radiograph classif problem
+in the propos method the distribut of nn weight is repres as a gaussian mixtur distribut expect a new neural network model with better represent
+in addit we propos an ensembl learn approach to effici combin potenti nn backbon
+perform evalu is examin for the popular mura dataset and show the superior of the propos model with respect to state-of-the-art bcnn method notabl by 0.86 in f1 score and 0.72 in cohen s kappa metric while ask for neglig complex overhead .

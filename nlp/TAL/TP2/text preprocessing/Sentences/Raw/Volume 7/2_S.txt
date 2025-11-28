@@ -1,0 +1,7 @@
+Overview of Harmony Search algorithm and its applications in Civil Engineering
+Harmony Search HS a meta-heuristic algorithm conceptualizes a musical process of searching for a perfect state of harmony optimal solution
+It allows a random search without initial values and removes the necessity for information of derivatives
+Since the HS algorithm was first developed and published in 2001 it has been applied to various research areas and the world wide attention on it has rapidly increased
+In this paper applications of HS algorithm in Civil Engineering CE are to be overviewed
+Articles in CE areas including water resources structural geotechnical environmental and traffic engineering are to be reviewed thoroughly
+As a results variety of application results show that HS can be effectively used as a tool for optimization problems in CE .

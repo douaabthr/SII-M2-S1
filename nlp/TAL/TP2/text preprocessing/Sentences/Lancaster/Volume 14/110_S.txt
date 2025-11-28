@@ -1,0 +1,6 @@
+hybrid partic swarm optim with partic elimin for the high school timet problem
+in thi pap a pso-based algorithm that hybrid partic swarm optim pso and hil climb hc is apply to high school timet problem
+thi hybrid has two feat a novel solv transform and partic elimin
+the propos methodolog ar test on the xhstt-2014 dataset which is rel new for the school timet problem plu oth addit inst
+the expery result show that the propos algorithm is effect in solv smal and med inst comp to standalon hc and bet than the conv pso for most inst
+in a comparison to the stat of the art method it achiev the lowest mean of soft constraint viol for 7 inst and the lowest mean of hard constraint viol for 1 inst .

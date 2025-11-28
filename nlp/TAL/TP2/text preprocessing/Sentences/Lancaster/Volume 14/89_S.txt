@@ -1,0 +1,5 @@
+genet algorithm-based fuzzy clust apply to mult tim sery
+despit the fact that the fuzzy clust of tim sery bas on genet algorithm ga is most us in apply involv un tim sery thi pap pres an approach bas on ga and fuzzy c-means fcm for clust mult tim sery
+each chromosome is an individ or solv which encod the clust centroid pattern and a bi-criterion constrain clust is propos to maxim both the simil of object in the sam clust bas on the spca met and the dist between the cent of the clust
+the propos method is apply in two cas study involv a real indust cas which compr pattern recognit for detect op fail in a gas turbin and a well-known benchmark indust system ten eastm process us to evalu techn for detect and diagnos fail
+the propos approach was abl to obtain bet class result comp to fcm bas on class optim method .

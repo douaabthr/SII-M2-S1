@@ -1,0 +1,13 @@
+optim centroid model approach for many-featur data structur predict
+data cluster is a popular machin learn techniqu wide appli for data structur analysi
+among the major techniqu fuzzi co-clust fcoc is known for the capabl of complex data process such as mani featur larg size and uncertainti
+in some case fcoc has demonstr superior perform over some tradit cluster method
+howev fcoc has some limit such as be sensit to the initi cluster center and be stuck at local optim valu
+particl swarm optim pso is a multidisciplinari optim algorithm
+pso was use to find a suitabl initi cluster center solut for the cluster algorithm
+howev pso is limit and unclear especi for algorithm with complex structur and mani paramet
+in this paper we propos a new fuzzi co-clust algorithm by use the optim solut of the pso algorithm to find the initi centroid for the fcoc algorithm
+we call the new algorithm fcocm
+in our experi we use symbol and mathemat languag to describ the process of find initi centroid call the optim centroid model ocm
+thus our work propos two new contribut includ the ocm model and the fcocm algorithm
+experi were conduct on benchmark data set from the uci machin learn repositori and the school of the comput univers of eastern finland to demonstr the superior perform of the propos method .

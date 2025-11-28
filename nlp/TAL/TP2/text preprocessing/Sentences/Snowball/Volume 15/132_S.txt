@@ -1,0 +1,11 @@
+softwar fault classif use extrem learn machin a cognit approach
+the softwar fault classif is veri crucial in the develop of reliabl and high-qual softwar product
+the fault classif allow determin and concentr on fault softwar modul for earli predict of fault in time
+as a result it save the time and money of the industri
+general various metric are generat to repres the fault
+but select the domin metric from the avail set is a challeng
+therefor in this paper a sequenti forward search sfs with extrem learn machin elm approach has use for fault classif
+the number of featur avail in the metric are select to repres the fault use sfs and oper on elm to verifi the perform of softwar fault classif
+also various activ function of elm have test for the propos work to identifi the best model
+the experiment result demonstr that elm with radial basi function achiev the good result compar to other activ function
+also the propos method has shown good result in comparison to support vector machin .

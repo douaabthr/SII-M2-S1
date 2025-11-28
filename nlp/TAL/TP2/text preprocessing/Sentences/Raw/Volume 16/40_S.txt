@@ -1,0 +1,11 @@
+Automatic selection algorithm for region of interest of acne face image compression
+Every day millions of skin and acne face images are generated all around the world and compression is the inevitability of all such types of images
+Acne images suffer from the problem of poor compression ratios for obtaining high Peak Signal to Noise Ratio
+Both Peak Signal to Noise Ratio and Compression Ratio follow an inverse relationship
+In this paper a new algorithm for acne image compression is proposed
+The Proposed algorithm works in such a way that even a highly compressed image would retain all the mandatory information since the region of interest that is necessary for diagnosis retains a significant quality and is compressed to an optimal level
+Based on the image s Red and Green matrices an automatic selection algorithm for the region of interest patch is introduced
+The results of the proposed algorithm are compared with the conventional compression methods
+A better peak signal to noise ratio of the instructive patch and overall compression ratios are achieved
+Further the results are compared using different wavelet functions such as haar db2 and bior1 . 3 wavelet
+We also investigate proposed algorithms on other mother wavelets such as coiflet1 and symlet1 and results are found to be superior .

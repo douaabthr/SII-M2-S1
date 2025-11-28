@@ -1,0 +1,10 @@
+a multi-task meta-learner-based ensembl for robust fac express recognit in-the-wild
+fac express recognit is a top of sign interest in affect comput
+howev pri dataset and study hav prim focus on recogn fac express in control environ limit their gen to real context
+thu despit rec adv recogn fac express acc in wild scenario remain a challeng task
+in thi work we propos an ensembl model bas on multi-task meta-learner that util a pool of cnn class whil dynam select and fus the optim ensembl in ord to recogn fac express mor effect in the wild
+the suggest scheme lev the output prob of bas learn as meta-features and integr multi-label class into dynam ensembl select
+as best as we know thi is the first investig of multi-task learn at the meta-learning level in the context of fac express recognit
+in particul we introduc an effect meta-learner that combin the strengths of stack and dynam ensembl select
+the propos approach has been evalu exhaust on sev challeng dataset includ raf-db fer2013 and ferpl and the obtain result demonst that the ensembl cnn outperform individ cnn model consist whil achiev high perform across al dataset
+we furth demonst the gen of the propos approach by perform cross-dataset evalu .

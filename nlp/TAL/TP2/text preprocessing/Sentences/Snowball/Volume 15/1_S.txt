@@ -1,0 +1,14 @@
+convolut neural network in medic imag understand a survey
+imag techniqu are use to captur anomali of the human bodi
+the captur imag must be understood for diagnosi prognosi and treatment plan of the anomali
+medic imag understand is general perform by skill medic profession
+howev the scarc avail of human expert and the fatigu and rough estim procedur involv with them limit the effect of imag understand perform by skill medic profession
+convolut neural network cnns are effect tool for imag understand
+they have outperform human expert in mani imag understand task
+this articl aim to provid a comprehens survey of applic of cnns in medic imag understand
+the under object is to motiv medic imag understand research to extens appli cnns in their research and diagnosi
+a brief introduct to cnns has been present
+a discuss on cnn and it various award-win framework have been present
+the major medic imag understand task name imag classif segment local and detect have been introduc
+applic of cnn in medic imag understand of the ailment of brain breast lung and other organ have been survey critic and comprehens
+a critic discuss on some of the challeng is also present .

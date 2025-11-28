@@ -1,0 +1,15 @@
+an art fish swarm algorithm for a multi-objective grain transport problem
+the problem of grain transport optim is a typ np-complete problem
+to solv the problem it is necess to construct a mathem model for the optim of grain transport
+as the single-objectiv grain transport rout optim model is difficult to bet sim the complex and vary condit in real lif the multi-objective grain transport rout optim model is clos to real and has mor guid sign for pract problem
+theref thi pap construct a multi-objective grain transport optim problem model
+and improv the art fish swarm algorithm to mak it can be bet solv
+first a simil frag dist is introduc to replac the tradit dist calc method
+second we play the guid rol of bulletin board to insert the optim solv frag in the bulletin board into the cur solv
+fin accord to the charact of food transport problem three behavy of art fish wer improv and mix neighb search was conduc
+in sim expery the precid of the tradit art fish algorithm and improv algorithm is mor and mor low with the increas of amount of dat
+the diff between that and the optim solv in the databas is becom mor and mor big but the er in not on path leng but also the numb of vehic of the improv algorithm is stil within the scop of the permit
+the er of the tradit art fish algorithm is far beyond permiss rang
+expery result show that the improv art fish swarm algorithm achiev high solv acc in path leng and the numb of vehic
+howev becaus ther is no tim window constraint the conflict between the numb of vehic and the path leng is very smal
+fin the set of pareto solv converg to 1 or 2 point .

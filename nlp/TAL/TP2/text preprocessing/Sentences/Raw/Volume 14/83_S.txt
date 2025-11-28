@@ -1,0 +1,10 @@
+RetrieveNet a novel deep network for medical image retrieval
+Content-Based Image Retrieval is an accurate characterization of visual information used for medical and natural image classification retrieval face recognition etc
+In recent years deep networks achieved state-of-the-art accuracy in various vision tasks
+In this paper we propose an end-to-end approach for medical image retrieval
+The proposed approach comprises a novel deep network for classification of input query image followed by the retrieval module to retrieve the images belongs to the query image class
+The proposed network comprises of multi-scale filter bank for robust feature extraction
+We make use of skip connections to share the initially learned features across the network
+The performance of the proposed network for medical image retrieval is validated in terms of precision and recall on three publicly available medical image databases
+We validated the proposed approach for two different image modalities namely CT scans and MRI scans
+Performance evaluation depicts that proposed RetrieveNet outperforms other existing methods for medical image retrieval .

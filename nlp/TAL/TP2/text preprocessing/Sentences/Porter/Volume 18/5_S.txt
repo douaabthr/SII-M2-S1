@@ -1,0 +1,6 @@
+deep metric learn with in-batch featur vector constraint and unsupervis label integr
+deep metric learn ha increasingli captur the interest of the research commun in recent year mainli due to it effect in integr distanc metric learn with deep neural network
+despit the exist of variou approach such as pair-bas angular loss function or spheric embed constraint these method often necessit extra trainabl paramet and overlook class similar
+thi paper present two approach in-batch featur vector constraint and unsupervis label integr . these method are notabl for consid the similar between differ class
+becaus of their high compat these techniqu can be seamlessli integr with variou loss function
+comprehens experiment evalu encompass four imag classif dataset and seven network architectur have demonstr the effect of these propos method in enhanc network perform .

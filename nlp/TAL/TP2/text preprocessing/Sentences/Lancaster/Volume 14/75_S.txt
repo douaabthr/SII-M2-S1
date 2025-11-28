@@ -1,0 +1,7 @@
+improv convolv neur network bas histopatholog im class
+histopatholog im class is on of the import apply area of med im
+howev an acc and efficy class is stil an open-ended research due to the complex in histopatholog im
+for the sam thi pap pres an efficy architect of convolv neur network for the class of histopatholog im
+the propos method consist of fiv subsequ block of lay each hav convolv drop-out and max-pooling lay
+the perform of the introduc class system is valid on colorect cant histolog im dataset which consist of rgb-colored im belong to eight diff class
+the expery result confirm the high perform of the propos convolv neur network against ex diff machin learn model with the lowest er rat of 22.7% .

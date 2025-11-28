@@ -1,0 +1,11 @@
+uncertain infer network in evidenti reason
+as a domin method in evidenti reason bayesian network ha been prove power in discret field
+although bayesian network perform reliabl in continu variabl and interv estim it reli on discret continu variabl or build an approxim model to conduct which caus inform loss and accuraci reduct
+in order to bridg thi gap thi paper introduc two infer rule combin with four infer rule propos by other scholar
+then we propos a concept of uncertain infer network that consist of six basic structur match infer rule to repres relationship and logic connect among the evid
+evid is repres by uncertain set that can appli to continu variabl use membership function to repres vagu concept
+furthermor a numer experi for a forens investig of fire incid is given to compar the result of uncertain infer network and bayesian network
+we found three merit in the case studi
+first an uncertain infer network ha simpler data access for each node becaus bayesian network depend on condit probabl tabl while uncertain infer network onli reli on membership function
+second an uncertain infer network ha a more wide applic becaus it can perform continu variabl with certain mathemat formula without discret or approxim
+third an uncertain infer network ha a more accur result becaus bayesian network give a point estim with a 0 1 valu while uncertain infer network conduct an interv estim with a rang valu .

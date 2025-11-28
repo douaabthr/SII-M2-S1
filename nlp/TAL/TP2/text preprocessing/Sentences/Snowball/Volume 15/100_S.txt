@@ -1,0 +1,14 @@
+automat select of hidden neuron and weight in neural network for data classif use hybrid particl swarm optim multi-vers optim base on lévi flight
+within neural network it is consid a difficult task to find optim valu for the number of hidden neuron and connect weight simultan
+this is becaus alter the hidden neuron signific affect a neural network s structur and increas the difficulti of the train process which need special consider
+particl swarm optim pso is one of the most import metaheurist algorithm due to it converg speed and it simplic of implement
+multi-vers optim mvo base on lévi flight is a recent and fast algorithm and can avoid prematur converg and can achiev a better balanc between explor and exploit
+this paper present a new train method base on hybrid particl swarm optim with multi-vers optim base on lévi flight plmvo to optim the number of hidden neuron and connect weight simultan in feedforward neural network ffnn
+the hybrid algorithm is util to search better in solut space which prove it effici in reduc the problem of trap in local minima
+to evalu the propos algorithm we use three experiment seri
+in the first one the propos plmvo algorithm is compar with the mvo and pso algorithm to solv a set of 15 benchmark function to find the global solut
+meanwhil in the second experi the perform of the propos approach was compar with five evolutionari techniqu and the standard momentum backpropag and adapt learn rate
+the comparison was benchmark and evalu use nine bio-med dataset
+the result of the compar studi show that plmvo outperform other train method in most dataset and can be an altern to other train method
+in the third experi the propos plmvo-mlp is use to predict malici execut linux file
+the implement model achiev veri promis result with veri high accuraci of 1.0 and an averag f-measur of 1.0 .

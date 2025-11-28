@@ -1,0 +1,7 @@
+optim research on the sit select of fir saf for meg project sit bas on multi-objective partic swarm
+ther ar larg fir saf hid dang in the construct sit of mega-projects
+in ord to improv the abl of fir saf emerg respons on sit in thi pap the numb of demand point on the construct sit ar first determin and through us risk assess of op condit method the risk is evalu and the risk level is determin
+second accord to the construct sit layout criter and fir saf techn criter and tak the econom dist tim and cov of fir saf sit select as the bas fact a multi-objective sit select optim model for fir saf point is est
+multi-objective partic swarm optim is us to solv the multi-objective sit select model and a sery of fir saf point sit select schemes ar obtain
+fin the analys hierarchy process is us to select the best scheme from a sery of schemes
+the research idea and conclud of thi pap provid a sci and reason analys framework and idea for sit select of fir saf point for meg project which has certain appl and pract .

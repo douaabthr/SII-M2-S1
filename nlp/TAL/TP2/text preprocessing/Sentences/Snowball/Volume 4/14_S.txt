@@ -1,0 +1,7 @@
+artifici immun optim system solv constrain omni-optim
+this work investig an artifici immun optim system suitabl for singl and multi-object constrain optim
+in this optim an evalu index which can decid the import of individu in the current popul is develop to acceler popul divis the niching-lik prolifer scheme is introduc to strengthen the divers of popul
+thereaft those divers antibodi with the help of immun evolut oper evolv their structur along differ direct
+theoret result show that such optim system is converg with low comput complex
+experiment one such optim is suffici examin by a suit of singl and multi-object test problem
+compar experi illustr that the optim with some strike characterist is a potenti altern optim tool for constrain omni-optim .

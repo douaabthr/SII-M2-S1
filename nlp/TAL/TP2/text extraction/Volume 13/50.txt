@@ -1,0 +1,3 @@
+Stepping away from maximizers of concave quadratics in random line search
+
+Random Lines (RL) search relies on finding a minimizer of a given cost function along randomly selected lines in the function domain. Once three points along each line are identified, a quadratic function passing through these points is determined and the minimum of the function is used whenever the function is convex. This paper proposes a two-step approach for handling concave cases: (1) starting from a point with the smallest function value and then (2) stepping in the direction away from the maximizer of the quadratic function. Promising numerical results comparing the improved RL method with other similar evolutionary methods are presented.

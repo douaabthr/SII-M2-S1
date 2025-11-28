@@ -1,0 +1,14 @@
+robot vis bas obstac avoid for navig of unman aer vehic us fuzzy rul bas optim deep learn model
+rec the top assocy with robot ar becom an interest research are
+meanwhil intellig mobl robot or unman aer vehic uav has gre acceiv howev the navig and control of the dev ar mor complex
+the short of deal with stat obstac and evad them due to sec and saf rout is a funda nee of the system
+theref an effect robot obstac avoid mech us deep learn dl model optim with a swarm intellig proc is propos
+the main aim of thi method is to avoid collid with stat obstac and attain the target in an optim path
+at first the propos method init the obstac and target plac for mobl robot navig and their posit ar collect
+an innov path plan approach is pres us adapt beetl swarm levy flight optim bslfo for optim path calc
+her dist and path smooth paramet ar consid for optim plan by the propos bslfo approach
+the mobl robot ar mov to the best posit obtain by the bslfo approach
+addit optim robot mov with collid avoid has been perform by employ a fuzzy rul bas optim deep neur network frdnn
+the propos method is impl in the matlab platform and evalu the perform in term of perform met includ acc recal precid and plan tim
+the maxim acc reach by the propos method for stat and dynam obstac is 98.62 which off bet obstac avoid and effect path plan
+consequ the overal expery outcom prov that the propos model outperform the ex model .

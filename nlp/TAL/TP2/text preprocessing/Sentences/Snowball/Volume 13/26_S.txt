@@ -1,0 +1,8 @@
+an initi method for the latent vector in probabilist matrix factor for spars dataset
+recommendation-bas e-commerc applic have been util by mani compani to increas their sale perform
+probabilist matrix factor pmf is a widely-us method for collabor filter in recommend system
+although the method s perform has been demonstr success in mani challeng dataset includ netflix they are not abl to perform well in larg spars dataset where there is consider low number of rate inform
+as a remedi numer advanc of pmf were propos which incorpor side inform into latent vector as prior in order to ensur richer prior inform in them
+howev in case where such side inform is inaccess pmf-base algorithm do not perform well
+in this studi we propos two new initi method for pmf which take into consider the distribut statist of user product rate to enrich latent vector
+the experi show that the propos solut give better result to those in the literatur in veri spars dataset .

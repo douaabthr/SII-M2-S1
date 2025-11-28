@@ -1,0 +1,11 @@
+autom handwrit charact recognit of devanagar langu a hybrid train algorithm for neur network
+in the field of im process and art intellig the charact recognit and handwrit recognit hav been emerg as on of the act and challeng research area
+in rec year ther has been a not develop in the research assocy with charact recognit in handwrit devanagar docu
+to improv the recognit perform thi pap tact to develop new handwrit charact recognit model us an improv machin learn approach
+the propos charact recognit model includ four stag lik pre-processing seg feat extract and class
+init the scan handwrit docu for devanagar langu is subject to pre-processing which includ stag lik rgb to gray thresholding compl of im morpholog op linear and nois remov us med filt
+then the charact of the pre-processed im ar seg us k-means clust that is a popul method for clust analys
+furth the feat lik kirsch direct edg freem chain cod and neighb dist weight us delaunay triang ar extract from the seg charact
+subsequ the class of charact is don us neur network nn wher the new train algorithm is us in which the weight ar optim us a hybrid optim by combin lion optim algorithm and grey wolf optim gwo
+her the upd proc of gwo is bas on la algorithm and hent the propos algorithm is nam as lion upd gwo lu-gwo
+to the next of the impl a valu comp analys confirm the improv perform of the propos lu-gwo-nn model ov conv method in class the conson num and vowel from diff charact .

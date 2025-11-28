@@ -1,0 +1,16 @@
+bio-inspired mot architect for autonom robot us glucos and insulin the
+abstractmot and emot hav been are of interest for philosoph psycholog and neuroscy
+research and sci want to hav hum lik intellig robot which ar self-aware and self-motivated
+mot robot ar autonom and intellig which can set goal and then tak act to achiev their goal independ
+moreov intellig in robot is not poss without autonom and autonom is incorp in robot through mot
+nowaday at is being paid to build robot which hav comput and energy autonom
+in lit vary mot architect hav been pres but non seem to foc on the develop of hum inspir mot in robot comprehend
+thes architect try to achiev mer funct mot in limit way som consid on tim for the reg of driv oth fail to incorp physiolog and psycholog aspect of hum mot
+to the best of our knowledg no architect is tru bas on the physiolog and psycholog of hum has been consid in the lit
+to solv thi problem thi pap propos a mot architect for autonom robot to mak them independ in decid the goal and tak act
+the propos architect is prim bas on physiolog and psycholog of hum mot through bas hum driv hung thirst and sleep emot and glucose-insulin the
+the whol process of driv reg is bas on stim and saty
+the intens of the driv and the emot stat help in set the goal and accord a suit act is tak to meet the particul goal
+empir result show that glucos and insulin hav direct rel with bas driv and emot in the process of intrins mot gen
+the propos architect has apply in industry educ and autonom robot
+the propos mot architect has sign adv ov sev state-of-the-art architect in term of autonom through intrins mot .

@@ -1,0 +1,13 @@
+a new evolv neur network bas on intrud detect system us locust swarm optim
+the nee to avoid comput system breach is increas
+many research hav adopt diff approach such as intrud detect system idss to handl vary threats
+intrud detect has becom an imp system to detect vary sec breach
+until today research fac the problem of build rely and effect idss that can handl num attack with chang pattern
+thi pap deal with feed-forward neur network fnn train problem us the apply of a rec inv meta-heuristic optim algorithm locust swarm optim lso for the first tim
+fnn is combin with lso fnn-lso to build an adv detect system and improv the perform of id
+our method is apply to a sery of expery to study the cap and perform of the propos approach
+expery study beg by us intrud detect evalu dat nam nsl-kdd and unsw-nb15 to benchmark the perform of the propos approach
+the most common evolv train nam partic swarm optim pso-based train and genet algorithm ga-based train wer impl to ver the result
+comp with ex method in the lit our propos approach provid to be mor acc to be an altern solv for id
+the expery result show that our train algorithm not on attain a very good perform in term of spee converg but also achiev rely due to the reduc lik of being trap in loc minim
+furtherm our propos model improv the detect rat .

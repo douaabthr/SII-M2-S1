@@ -1,0 +1,7 @@
+optim perform of feedforward and convolut neural network through dynam activ function
+train algorithm in the domain of deep learn have led to signific breakthrough across divers and subsequ domain includ speech text imag and video process
+while the research around deeper network architectur notabl exemplifi by resnet s expans 152 layer structur ha yield remark outcom the explor of comput simpler shallow convolut neural network cnn remain an area for further explor
+activ function crucial in introduc non-linear within neural network have driven substanti advanc
+in thi paper we delv into hidden layer activ particularli examin their complex piece-wis linear attribut
+our comprehens experi showcas the superior efficaci of these piece-wis linear activ over tradit rectifi linear unit across variou architectur
+we propos a novel adapt activ algorithm adact exhibit promis perform improv in divers cnn and multilay perceptron configur therebi present compel result to support it usag .

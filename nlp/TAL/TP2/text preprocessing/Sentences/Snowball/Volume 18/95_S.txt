@@ -1,0 +1,7 @@
+cooper multi-popul social group optim for many-object optim
+this studi provid an effect cooper multi-popul swarm intellig approach call cmpmo-sgo which is base on the social group optim sgo algorithm to address multi many-object optim problem
+in particular this studi first put forth a uniqu cooper multi-popul framework name cmpmo/d with dual elit select
+cmpmo/d achiev signific high perform on solut converg and divers with four excel strategi the abil to independ optim one object within each subpopul collabor among subpopul via a global archiv dual elit select mechan and the inclus of logist chaotic single-dimension perturb
+afterward due to it veri high perform sgo is employ as the singl object optim in each subpopul
+sixteen state-of-the-art multi/many-object optim algorithm two cmpmo/d base many-object genet algorithm name cmpmo-ga and many-object harri hawk optim name cmpmo-hho were extens compar with the perform of cmpmo-sgo on 34 multi-object and 19 many-object benchmark problem
+the result demonstr that cmpmo-sgo provid promis perform in address multi/many-object optim problem by util the cmpmo/d framework .

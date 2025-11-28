@@ -1,0 +1,15 @@
+difficult first strategi gp an inexpens sampl techniqu to improv the perform of genet program
+genet program gp is a top perform in solv classif and cluster problem in gener and symbol regress problem in particular
+gp ha produc impress result and ha outperform human gener result for 76 differ problem taken from 22 differ field
+there remain a number of signific open issu despit it impress result
+among them are high comput cost prematur converg and high error rate
+these issu must be address for gp to realis it full potenti
+in thi paper a simpl and cost effect techniqu call difficult first strategy-gp dfs-gp is propos to address the aforement problem
+the propos techniqu involv pre-process and sampl step
+in the pre-process step difficultto evolv data point by gp from the given data set are mark and in the sampl step they are introduc in the evolutionari run by use two newli defin sampl techniqu call difficult point first and difficulti proportion select
+these techniqu are bias toward select difficult data point dure the initi stage of a run and of easi point in the latter stage of a run
+thi ensur that gp doe not ignor difficult-to-evolv data point dure a run
+experi have shown that gp coupl with df avoid prematur converg and attain higher fit than standard gp use same fit evalu
+perform of the propos techniqu wa evalu on three commonli known metric which are converg speed fit and varianc in the best result
+our result have shown that the propos setup had achiev 10 15% better fit valu than standard gp
+furthermor the propos setup had consist gener better qualiti solut on all the problem and util 30 50% less comput to match the best perform of standard gp .

@@ -1,0 +1,9 @@
+genet algorithm bas approach to solv the clust stein tre problem
+in a complex network apply a set of nod might be partit into multipl loc clust with diff funct property or commun protocol and the commun is restrict between nod of the sam clust to maxim efficy and oth sec concern
+thu ther has been a ris in network design problem with addit constraint regard the clust of vert on of them being clust stein tre problem a vary of the stein tre problem
+rec a heuristic-based algorithm was propos to solv the problem
+howev it obtain result is limit in term of solv qual when apply to the problem in the euclid cas
+thi pap propos a genet algorithm cal shortest-path genet algorithm for solv the clustein
+in the propos a permutation-based individ repres that reduc the dimend of chromosomes to the numb of clust is dev
+the propos algorithm can solv the problem in both euclid and non-euclide cas
+expery result comp to ex work in the lit ar analys in detail to prov the effect of the propos algorithm .

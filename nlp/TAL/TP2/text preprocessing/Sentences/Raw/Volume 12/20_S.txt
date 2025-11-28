@@ -1,0 +1,11 @@
+An augmented animal migration optimization algorithm using worst solution elimination approach in the backdrop of differential evolution
+A new algorithm has been formulated based on the basic animal migration optimization AMO algorithm
+During the course of this proposed work it was revealed for the first time that AMO algorithm is a true replica of DEGL algorithm and when mathematical analysis was carried out the similarities were brought to notice which was till date not reported
+Further during the investigation it was also witnessed that AMO algorithm in its virgin form is capable of delivering a competitive performance when applied to optimization of non-linear functions referring to CEC 2014 test suite
+Such successful achievements using basic AMO algorithm inspired the present authors to take it as a challenge for exploring the possibility of improving the conventional AMO algorithm with an objective of providing it with a new shape and build an efficient framework for tackling the handicaps encountered in original AMO algorithm
+In fact the incessant quest of modifying the basic algorithm gave birth to a new algorithm known as augmented animal migration optimization algorithm in the backdrop of differential evolution AAMO-DE
+The proposed algorithm even though incorporated the philosophy of Jaya algorithm it created a memory hierarchy of worst solutions generated in each iteration
+And unlike Jaya algorithm where the position update equation employ the current worst solution the proposed one picks up a random worst solution from the archive to achieve better diversity and also drops the global best term which often yields biased solutions
+The proposed AAMO-DE algorithm could accomplish highly encouraging results when CEC 2014 test suite problems were subjected to validation check
+The performance of the proposed algorithm was truly impressive in comparison with its counterparts comprising of state-of-the-art algorithms
+In case of application to real world engineering problems the outcomes were very promising and really proves that the proposed AAMO-DE algorithm is not only a strong contender in the optimization community exhibiting excellent results but is also a potentially robust algorithm and has the ability to converge towards global optima without being trapped in local minima as evident from test examples .

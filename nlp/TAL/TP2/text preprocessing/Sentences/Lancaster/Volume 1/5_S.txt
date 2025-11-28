@@ -1,0 +1,6 @@
+neuroevolv from architect to learn
+art neur network an ar apply to many real-world problem rang from pattern class to robot control
+in ord to design a neur network for a particul task the cho of an architect includ the cho of a neuron model and the cho of a learn algorithm hav to be address
+evolv search method can provid an autom solv to thes problem
+new insight in both neuroscy and evolv biolog hav led to the develop of increas pow neuroevolv techn ov the last decad
+thi pap giv an overview of the most promin method for evolv an with a spec foc on rec adv in the synthes of learn architect .

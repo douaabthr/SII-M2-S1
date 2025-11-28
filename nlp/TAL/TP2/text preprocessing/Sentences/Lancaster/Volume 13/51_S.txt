@@ -1,0 +1,11 @@
+mot plan for redund robot manip us a novel multi-group partic swarm optim
+metah optim algorithm ar wid us in mot plan of redund robot manip
+ex method may converg to a loc minim
+in thi pap a new multi-group partic swarm optim algorithm psoel is propos to solv the mot plan of manip
+psoel consist of on elit group and sev child group
+the pop is init with a pre-selection mech in which the memb of the elit group ar init with the best-performing partic of the child group
+in the process of it the elit group and the child group evolv sep
+when the elit group fal into a loc optim or is infery to child group for a certain tim an interact mech is trig
+in the interact mech som of the best partic select from the child group wil replac the bad partic of the elit group
+with thes mech of pre-selection and interact psoel can jump out of the loc optim and reach the glob optim or glob suboptim
+sim result show that the propos algorithm psoel is supery to the comp algorithm and converg toward the optim .

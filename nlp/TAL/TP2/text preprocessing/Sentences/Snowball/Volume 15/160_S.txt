@@ -1,0 +1,7 @@
+robot path optim in warehous manag system
+the integr of warehous manag system with robot and evolutionari intellig evin technolog is current in the focus as a way to optim warehous oper and reduc assembl cost
+this studi propos an evin-bas solut toward warehous manag system design
+a neural network-bas analyt unit use in the system allow predict the optim number of robot in the warehous
+the propos approach was evalu by compar the perform of system with and without an analyt unit and ant coloni optim
+in all case the use of the neural network give the same amount of applic to be complet by fewer auxiliari robot in less time and it result in reduct of the number of collis dure the movement of robot
+the emerg of this structur improv navig effici and allow reduc product mainten cost .

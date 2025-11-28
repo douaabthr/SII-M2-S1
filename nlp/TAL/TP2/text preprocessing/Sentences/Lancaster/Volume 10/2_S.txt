@@ -1,0 +1,9 @@
+a particip search algorithm
+search is on of the most us proc employ in num situ such as optim machin learn inform process and retriev
+thi pap introduc particip search a population-based heur search algorithm bas on the particip learn paradigm
+particip search is an algorithm in which search progress form pool of compat individ keep the on that is the most compat with the cur best individ in the pop and introduc random individ in each algorithm step
+recombin is a convex combin mod by the compat between individ whil mut is an inst of diff vary mod by compat between select and recombin individ
+the nat of the recombin and mut op ar study and the converg analys of the algorithm is pursu within the framework of random search the
+the algorithm is evalu us ten benchmark real-valued optim problem and it perform is comp against population-based optim algorithm repres of the cur stat of the art
+the particip search algorithm is also evalu us a suit of twenty eight benchmark funct of a rec evolv real-valued optim competit to comp it perform against the competit win
+comput result suggest that particip search algorithm perform best amongst the algorithm address in thi pap .

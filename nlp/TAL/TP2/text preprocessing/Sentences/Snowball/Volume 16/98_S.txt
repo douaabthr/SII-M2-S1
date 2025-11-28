@@ -1,0 +1,11 @@
+use machin learn and rna to enhanc the efficaci of anti-tumor immunotherapi
+rna ribonucl aci play a crucial role in a varieti of physiolog and patholog process
+over the past few decad research have design mani type of rnas and their deriv and appli them to differ field of biolog
+studi have confirm that rna molecul play an import role in tumor growth metastasi metabol and immun escap
+base on the research of tumor-associ rna and the applic of relat technolog rna has been design and appli in tumor immunotherapi
+machin learn ml algorithm can be use to solv tumor type classif predict with the large-scal data some with high predict accuraci and other with limit accuraci
+for the earli detect of tumor this paper propos to use machin learn and rna technolog to establish a tumor type predict model to enhanc the effect of anti-tumor immunotherapi
+the model first preprocess the data
+then this paper use an improv princip compon analysi algorithm to perform featur dimension reduct and data fusion on the rna express and dna methyl data of patient with 32 tumor type
+final the data is fed into a tumor type classifi base on the cnn-lstm model for train and predict
+the experiment result show that the method propos in this paper has excel perform in tumor classif and has import guid signific for the earli diagnosi and treatment of tumor patient which further indic that the intellig ml method can be use for data analysi in the field of tumor type predict .

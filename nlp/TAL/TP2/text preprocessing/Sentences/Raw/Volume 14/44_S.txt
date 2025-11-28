@@ -1,0 +1,7 @@
+Development and performance evaluation of hybrid KELM models for forecasting of agro-commodity price
+Incurring the benefits of kernel type-based extreme learning machine KELM this paper proposes a Grey wolf optimization based multiquadratic kernel KELM GWO-KELM models for effective forecasting of agro-commodity prices such as Chana and Barley
+The objective is to obtain best possible weight between hidden and output layer of an artificial neural network using GWO optimization techniques
+These weights are used in KELM model to achieve improved performance
+To assess the superiority performance of the proposed models similar results are obtained using simulation study by simulating GA-KELM genetic algorithm based KELM PSO-KELM particle swarm optimization based KELM and GWO-KELM multiquadratic kernel types GWO-KELM models
+From exhaustive simulation result it is demonstrated that GWO-KELM forecasting model offers the best performance using three models in terms of matrices
+The study pertains to short and long range prediction for prices of Chana and Barley using publicly available database .

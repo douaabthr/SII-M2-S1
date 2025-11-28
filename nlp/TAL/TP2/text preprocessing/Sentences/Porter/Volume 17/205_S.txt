@@ -1,0 +1,10 @@
+hybrid meta-heurist solv no-wait flow shop schedul minim maximum tardi
+the non-wait constraint is a crucial factor in industri with continu product flow
+recogn the signific of thi constraint in the manufactur process we propos sever approach to minim the maximum tardi in the no-wait manufactur flow shop schedul problem
+thi research present two main approach an exact method that util mix integ linear program and an approxim method base on construct heurist and hybrid meta-heurist
+to tackl the problem we introduc multipl heurist and hybrid improv meta-heurist base nawaz enscor ham greedi random adapt search procedur and genet algorithm
+furthermor we propos three hybrid meta-heurist base on the simul anneal approach
+to valid the effect and robust of our method we conduct experi on multipl instanc of the flow shop problem propos by taillard
+the result demonstr that the hybrid algorithm which combin a greedi random adapt search procedur with the insert procedur and simul anneal exhibit strong perform
+in fact thi algorithm achiev a success rate of 72 across 200 test instanc
+it outperform the other two meta-heurist with a minimum averag rel percentag deviat of onli 0.0039 .

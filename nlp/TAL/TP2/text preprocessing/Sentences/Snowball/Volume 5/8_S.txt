@@ -1,0 +1,11 @@
+risk neutral in learn classifi system
+both econom and biolog have come to agre that success behavior in a stochast environ respond to the varianc of potenti outcom
+unfortun when biolog and econom paradigm are mate togeth in a learn classifi system lcs decision-mak agent call classifi typic simpli ignor risk
+sinc a fundament problem of learn is risk manag lcs have not alway perform as well as theoret predict
+this paper develop a novel model of risk-neutr reinforc learn in a tradit bucket brigad credit-alloc market under the pressur of a genet algorithm
+i demonstr the applic of the basic model to the classic lcs design and reexamin two basic issu where tradit lcs perform fail to meet expect default hierarchi and long chain of coupl classifi
+risk-neutr and noisi probabilist auction creat dynam instabl in both area while ident prefer result in market failur in default hierarchi and exponenti attenu of price signal down classifi chain
+despit the limit of simpl risk-neutr classifi i show they re capabl of cheap short-run emul of more ration behavior
+still risk-neutr inform market are a dead end
+the model suggest a path toward a new type of lcs built on stabl heterogen and risk-avers prefer under effici auction and access to more complet market exploit by compet risk manag strategi
+this will requir a radic rethink of the evolutionari and econom algorithm but ultim herald a return to a market-bas approach to lcs .

@@ -1,0 +1,16 @@
+impl of a novel enh hybrid multi-objective osprey optim algorithm for off-grid hybrid system siz
+a novel enh hybrid multi-objective osprey optim algorithm ehmooo is propos in thi research work
+it is us her for the optim siz of an off-grid composit renew energy sources-based framework compr a photovolta pv system wind turbin gen wts and battery energy stor system bess
+the system is model to supply the admin block of kalyan govern engin colleg kalyan ind
+the novel includ the integr of the quasi-oppositional-based learn mech composit solution-oriented diff evolv algorithm csode and brown mot conceiv into the osprey optim algorithm oo
+the contribut lie in the develop of two novel mut mech three new scal coefficy and adv extract strategies for the cor vect and the prim predecess solv of the diff vect
+the fin stag of the exploit process pres a novel scheme for the loc upgrad of the solv employ brown mot
+a mathem config has been built to minim three prim fit funct loss of pow supply prob lpsp level cost of elect energy lco and net pres cost npc
+for valid purpos the perform of the propos hybrid meta-heuristic algorithm ar comp with fiv oth pow optim algorithm
+eight standard cec benchmark funct and three cec2020 act scenario-constrained optim problem funct ar employ her for the evalu of the propos algorithm
+the suggest composit methodolog yield the lowest and optim valu of lco 0.3029 kwh npc 0.9184 e 05 and lpsp 0.000541
+the optim contribut mad by pv wt and bess ar 80.9% 10% and 9.1% respect
+valid of the suggest techn has been furth carry out by conduc stat perform analys through standard devy
+the propos techn yield the lowest standard devy valu 7.4330 e 04 lco 376.8249 npc and 1.9901 e 06 lpsp respect
+furth to valid the outcom the shapiro-wilk test is conduc follow by the welch-like anov and games-howell post-hoc test
+moreov a sensit test is perform to evalu the robust of ehmooo .

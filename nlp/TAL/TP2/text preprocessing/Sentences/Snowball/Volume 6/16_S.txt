@@ -1,0 +1,5 @@
+new solver and optim anticip strategi design base on evolutionari comput for the game of mastermind
+this paper present and compar sever evolutionari solut for the well-known mastermind game a classic board game invent in the 1970s
+first we propos a novel evolutionari approach which we callnest hierarch evolutionari search to solv the mastermind game compar the obtain result with that of exist algorithm
+second we show how to design novel game anticip strategi for the mastermind game by appli genet program
+in this case we compar the perform of the new obtain strategi with that of the classic one obtain advantag in all the case test .

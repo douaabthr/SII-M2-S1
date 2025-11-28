@@ -1,0 +1,9 @@
+high adapt regress tree
+the develop of machin learn method that are both accur and interpret is of paramount import in healthcar and mani other field
+the high adapt lasso hal has been shown to have predict perform on par with state-of-th art algorithm
+hal involv perform regular regress of the outcom on a tensor product of indic basi function
+in this paper we show that this basi can be repres as a non-recurs partit of the featur space and propos a method for map this partit impli by hal to a recurs partit
+such a map then allow for the represent of hal as a decis tree therebi provid interpret of predict made by the algorithm
+we refer to this post-hoc method for interpret as high adapt regress tree hart
+we provid a set of algorithm to construct this map and conveni visual the result tree
+use real data we show that hal s predict perform is on par with state-of-the-art method and we demonstr the construct and interpret of hart .

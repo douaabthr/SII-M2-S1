@@ -1,0 +1,3 @@
+Advances in artificial immune systems
+The field of Artificial Immune Systems AIS derives inspiration from processes and mechanisms apparent in the biological immune system
+After early applications of this paradigm to problems in anomaly detection and classification the field rapidly expanded leading to a number of successful optimization algorithms and more recently applications in fields as diverse as swarm robotics and wireless sensor networks .

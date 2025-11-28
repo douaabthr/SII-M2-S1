@@ -1,0 +1,9 @@
+a flow pollin algorithm bas chebyshev polynom neur network for net asset valu predict
+der relev feat from hist fin dat and forecast it acc and impart is an emerg and predomin field of research in the vast domain of fin
+mut fund is a structured invest instru in econom market and the meas instru requir to pric it is cal as net asset valu nav
+for nav predict art neur network has been immens util in the past due to it adapt learn robust and gre abl to ident and handl hid nonlinear pattern
+in thi study a chebyshev polynom neur network cpnn has been propos for on day ahead predict of three diff nav dat set belong to three lead ind fin hous
+the control paramet of the network ar estim by a comput intellig meta-heuristic algorithm known as flow pollin algorithm fpa
+it is a nat inspir algorithm mot by the pollin process of flow plant with very few control paramet and rapid converg rat
+the eff of the propos forecast model is also examin by a comp analys of train of cpnn with oth optim algorithm lik diff evolv and partic swarm optim pso on the sam set of dat collect ov the sam period of tim
+the converg plot obtain dur the train of the model and the diff er met valu calc dur their test phas of the study showcas that the propos cpnn-fpa model clear outperform the oth two expery predict model .

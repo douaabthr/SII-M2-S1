@@ -1,0 +1,10 @@
+num optim and feed-forward neur network train us an improv optim algorithm multipl lead salp swarm algorithm
+metah ar on of the most prom techn for solv optim problem
+salp swarm algorithm ssa is a new swarm intellig bas metah
+to improv the perform of ssa thi pap introduc multipl lead salp swarm algorithm mlssa which has mor expl pow than ssa
+the algorithm is test on sev mathem optim benchmark funct
+result ar comp with som wel known metah
+the result repres the cap of mlssa to converg toward the optim
+in rec study many metah techn ar apply to train feed-forward neur network
+in thi pap mlssa is also apply for neur network train and is analys for thirteen diff dataset
+perform is comp with ssa partic swarm optim diff evolv genet algorithm ant colony optim and evolv strategy .

@@ -1,0 +1,9 @@
+neighb centroid opposite-based learn har hawk optim for train neur network
+the har hawk optim algorithm is a new metah optim that sim the process of har hawk hunt prey rabbit in nat
+the glob and loc search process of the algorithm ar perform by sim sev stag of coop behavy dur hunt
+to enh the perform of thi algorithm in thi pap we propos a neighb centroid opposite-based learn har hawk optim algorithm ncohho
+the mech of apply the neighb centroid und the prem of us opposite-based learn technolog to improv the perform of the algorithm the neighb centroid is us as a ref point for the gen of the opposit partic whil maintain the divers of the pop and mak ful us of the swarm search expery to expand the search rang of the revers solv
+enh the prob of find the optim solv and the improv algorithm is supery to the origin har hawk optim algorithm in al aspect
+we apply ncohho to the train of feed-forward neur network fnn
+to confirm that us ncohho to train fnn is mor effect fiv class dataset ar apply to benchmark the perform of the propos method
+comprehend comparison and analys from the three aspect of mean vary and class success rat the expery result show that the propos ncohho algorithm for optim fnn has the best comprehend perform and has mor outstand perform than oth metah algorithm in term of the perform meas .

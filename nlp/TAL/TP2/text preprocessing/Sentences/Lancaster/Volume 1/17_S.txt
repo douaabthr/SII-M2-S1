@@ -1,0 +1,11 @@
+genetic-based approach for cue phrase select in dialog act recognit
+autom cue phrase select is a cruc step for design a dialog act recognit model us machin learn techn
+the approach cur us ar bas on spec typ of feat select approach cal rank approach
+despit their comput efficy for high dimend domain they ar not optim with respect to relev and redund
+in thi pap we propos a genetic-based approach for cue phrase select which is ess a vary leng genet algorithm develop to cop with the high dimend of the domain
+we evalu the perform of the propos approach against sev rank approach
+addit we assess it perform for the select of cue phrases enrich by phrase s typ and phrase s posit
+the result provid expery evid on the abl of the genetic-based approach to handl the drawback of the rank approach and to exploit cue s typ and cue s posit inform to improv the select
+furtherm we valid the us of the genetic-based approach for machin learn apply
+we us select set of cue phrases for build a dynam bayes network model for dialog act recognit
+the result show it us for machin learn apply .

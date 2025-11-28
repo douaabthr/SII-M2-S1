@@ -1,0 +1,15 @@
+dm-limga dual migr loc island model genet algorithm a bet divers preserv island model
+island model genet algorithm img is a multi-population bas ga
+img aim to avoid loc optim by maintain pop island divers us migr
+ther ar sev mech of migr and individ select such as the best or worst individ select new nat inspir evolv model and dynam migr policy
+migr can delay island loc converg and intrins preserv divers
+iron migr is also pot to bring overal island glob converg fast
+in a certain gen the migr individ among island wil hav simil valu genet drift
+so thi work aim to preserv glob divers bet by impl loc img limg and dual dynam migr policy ddmp
+limg cre un evolv trend by us a diff kind of gas for each island
+ddmp is a new migr policy which rul the individ migr
+ddmp determin the stat of an island accord to it divers and attract level
+by determin it stat ddmp ens the individ migr to the correct island dynam
+we cal the combin of limg and ddmp as dual migr limg dm-limga
+our expery show that dm-limga can preserv the divers bet
+as it imply dm-limga can cre a mor extend search spac and domin the result among oth solv .

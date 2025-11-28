@@ -1,0 +1,10 @@
+a studi on divers for cluster geometri optim
+divers is a key issu to consid when design evolutionari approach for difficult optim problem
+in this paper we address the develop of an effect hybrid algorithm for cluster geometri optim
+the propos approach combin a steady-st evolutionari algorithm and a straightforward local method that use deriv inform to guid search into the nearest local optimum
+the optim method incorpor a mechan to ensur that the divers of the popul doe not drop below a pre-specifi threshold
+three altern distanc measur to estim the dissimilar between solut are evalu
+result show that divers is crucial to increas the effect of the hybrid evolutionari algorithm as it enabl it to discov all putat global optima for mors cluster up to 80 atom
+a comprehens analysi is present to gain insight about the most import strength and weak of the propos approach
+the studi show whi distanc measur that consid structur inform for estim the dissimilar between solut are more suit to this problem than those that take into account fit valu
+a detail explan for this differenti is provid .

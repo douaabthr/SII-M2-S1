@@ -1,0 +1,10 @@
+integr vikor-topsi strategi base on pictur fuzzi knowledg and accuraci measur with applic in waste-wat treatment
+in contrast to a fuzzi and intuitionist fuzzi ainf set a pictur fuzzi pif set may be taken as an effect tool to tackl decision-mak problem
+fuzzi and intuitionist fuzzi set theori can be extend to pif-set theori
+in light of the insuffici of exist inform and knowledg measur thi work propos a knowledg measur for pif-set
+the suggest knowledg measur efficaci and consist are proven use numer exampl by compar it to exist inform andprop knowledg measur in the pif-context
+asid from that the propos knowledg measur is use to develop an accuraci measur for pif-set
+in pattern identif problem the use of propos accuraci measur is present
+their effect is demonstr by use numer exampl
+a modifi version of the vlse kriterijumska optimizacija kompromisno resenj vikor approach base on the propos accuraci measur is present with the goal to address a multi-criteria decision-mak mcdm difficulti in a pictur fuzzi context
+final a case studi on how to choos the most suitabl method to treat wastewat is provid .

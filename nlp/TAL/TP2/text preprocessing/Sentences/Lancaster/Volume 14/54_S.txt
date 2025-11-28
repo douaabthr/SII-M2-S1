@@ -1,0 +1,9 @@
+feedback-based fuzzy resourc man in iot us fog comput
+the goal of internet of thing iot is to mak thing wear dev smart camera sens and smart hom apply connect to internet
+larg stor is requir to stor hug volum of dat that is gen dat process nee to be carry out between iot dev and the mass numb of apply
+thi process can be mad effect with the help of cloud comput technolog
+resourc can be effect util with the help of cloud and iot play a sign rol in man the task that ar to be offload to the cloud
+the perform of the apply is to be enh by provid qual of serv qos and the perform is evalu in term of qos paramet lik pow util makesp and execut tim
+the task ar alloc bas on pri
+fog comput paradigm is us in the propos model to decreas the makesp of tim
+the project mech is test and comp with diff pres system and is shown that propos methodolog produc effect result .

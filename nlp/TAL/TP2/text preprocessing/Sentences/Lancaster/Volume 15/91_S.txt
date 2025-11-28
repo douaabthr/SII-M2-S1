@@ -1,0 +1,8 @@
+sub-classification of invas and non-invasive cant from magn independ histopatholog im us hybrid neur network
+histopatholog play a cruc rol in help clin to man paty s heal effect
+to improv diagnost acc from histopatholog thi study evalu the pot of the pre-trained deep-learning-based model on a larg dataset for discrimin among sub-classes of breast cant
+a hybrid model is propos by combin the pre-trained model xceiv and vgg16 along with conv machin learn class to achiev highest acc in the class of breast cant without consid the magn fact of the histopatholog im
+real-time dat aug is also apply to the dataset in ord to reduc the problem of overfit
+the perform of develop hybrid model is comp for achiev the highest class acc with an optim run tim
+it has been found that vgg16 acquir an acc precid recal f-score are und the receiv op charact auc av precid scor of 78.67% 0.76 0.75 0.75 0.86 0.60 with a run tim of 39.72 min when us in conjunct with log regress which is furth enh by the xceiv model to 82.45% 0.83 0.82 0.82 0.90 0.70 with a run tim of 36.57 min
+the most optim perform of the xceiv model suggest that it can be util as an autom system for the ear diagnos of breast cant .

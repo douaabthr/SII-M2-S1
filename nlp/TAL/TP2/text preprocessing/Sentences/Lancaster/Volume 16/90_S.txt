@@ -1,0 +1,8 @@
+a hybrid approach to tal demand forecast in the it industry model and empir analys
+thi study propos a hybrid grey model to forecast the tal demand of the chines it industry
+such new approach combin adv of fit with the holt s linear trend system and gm 1 1
+a comparison of the result gen the expon smooth system gm 1 1 and the hybrid grey model ar shown to valid the correct of the fit
+as a consequ the hybrid grey model has the minim valu of rmse among the three and demonst a distinct forecast charact when comp to the effect of a singl approach of the expon smooth and gm 1 1
+furtherm the hybrid grey model forecast that the chines it industry s tal would expand at a pac gre than 6.68% an between 2021 and 2025 with an av an grow of 381,400
+addit the stat ind the demand for tal wil approach 6,700 000 by 2025
+the forecast approach der from the hybrid grey system in particul is project to provid a suit platform for strategic plan spec design and personnel train of it tal .

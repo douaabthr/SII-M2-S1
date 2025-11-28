@@ -1,0 +1,9 @@
+Evolutionary approaches for the weighted anti-covering location problem
+Given a set of potential facility location sites along with a positive weight associated with each site as per its importance the anti-covering location problem ACLP is about locating a set of facilities at some of these potential locations such that no two facilities are closer than a given distance from each other and sum of weights of chosen locations is as large as possible
+This mathcal NP hard problem has several important real-world applications such as telecommunications equipment siting locating military units locating franchise outlets locating obnoxious facilities forest management and DNA sequence matching
+There are weighted and unweighted versions of ACLP
+The unweighted version of ACLP is widely studied in the literature
+However the weighted version did not receive much attention despite several real-world applications
+In this paper we have proposed two evolutionary approaches based on genetic algorithm GA and discrete differential evolution DDE to solve the weighted version of the ACLP
+The proposed approaches are used to solve the 80 ACLP instances with upto 1577 potential sites
+Computational results show the effectiveness of our approaches .

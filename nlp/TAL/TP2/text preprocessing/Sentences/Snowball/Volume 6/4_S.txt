@@ -1,0 +1,8 @@
+special issu on advanc in learn classifi system
+learn classifi system lcs belong to the rule-bas class of machin learn algorithm which typic combin evolutionari comput with a problem relev learn strategi
+lcs research sinc it incept more than three decad ago continu to inspir and lead research in the emerg disciplin of evolutionari machin learn
+recent lcs research has focus on the improv of system perform includ model accuraci compact and learn speed among other for larg and complex problem
+pattern mine and data classif remain amongst the key problem area of interest for lcs applic
+new lcs algorithm are be develop to deal with a varieti of differ problem domain
+howev stewart wilson s michigan-styl accuracy-bas xcs and the close relat uc algorithm specif adapt for supervis learn task domin the focus of the field
+this special issu present revis version of select paper present at the 16th intern workshop on learn classifi system iwlc 2013 and at the genet base machin learn gbml track of the 2013 genet and evolutionari comput confer gecco .

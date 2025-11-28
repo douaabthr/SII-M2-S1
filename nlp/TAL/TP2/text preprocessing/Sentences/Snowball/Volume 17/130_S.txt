@@ -1,0 +1,16 @@
+cluster base activ learn for classif of evolv stream
+classif of imbalanc unlabel data stream with concept drift in evolv stream has pose mani challeng recent
+learner perform from the minor class is poor at high imbal degre
+this caus drift detect to fail
+therefor the exist model cannot be updat result in poor classifi perform
+detect drift is typic done through supervis learn
+they are impract despit their effect in detect drift
+in real-world applic onli a portion of the data stream can be label as oracl assist is pricey and labori
+to allevi these problem a novel techniqu which is a cluster base activ learn for class imbal and concept drift cbal is present in the paper
+adapt sampl strategi are use for solv high imbal degre
+a two-lay drift detect strategi is use for detect drift where the first layer is unsupervis and the second layer is supervis
+to reduc the label cost this framework use a cluster techniqu for queri the label
+extens experi over synthet and real-world data stream exhibit better classif perform
+cbal detect the drift with fewer fals alarm and with lesser oracl intervent
+for high imbalanc case i.e. 10% the perform of cbal is 53% and higher wherea the perform of the other algorithm is zero or nil
+the number of drift detect by cbal is much more accur and it also reduc the label cost by 90% .

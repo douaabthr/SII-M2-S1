@@ -1,0 +1,9 @@
+cuddl dea algorithm us abc for detect unhealthy nod in wireless sens network
+wireless sens network consist of som sens nod that hav a minim op cap with less mem capac for stor dat and limit energy sourc
+the deploy of thes nod or sens tak plac random in a dynam or stat environ
+thi typ of plac of nod in a hostil environ can be charg by the malicy nod in a wireless sens network wsn
+thi vuln in nod mak the wireless sens network unst and lead to many typ of demerit lik limit battery lifetim less comput and limit mem spac
+to avoid thes attack and to reduc the impact cre by the malicy nod we suggest a simpl and effect way of detect and remov unhealthy nod in the environ
+we propos a simpl scheme by us the art bee colony algorithm which is known as the cuddl dea design
+the them of a scheme is to find the unhealthy or malicy clust head nod in the network and remov that particul nod without cre any harm to the oth nod in the environ
+it also help to improv the energy efficy packet delivery ratio with maxim throughput in wsn .

@@ -1,0 +1,11 @@
+carbon price time seri forecast util an optim anfi model
+in the continu campaign to reduc carbon emiss and mitig the sever effect of climat chang the strateg use of carbon price forecast to anticip futur carbon price dynam is a vital strategi
+accur forecast of futur carbon price enabl industri to modifi their oper encourag the adopt of eco-friend technolog and procedur
+this coordin of activ includ carbon price plan emiss reduct target and environment friend behavior not onli address climat chang issu but also align well with sustain develop goal relat to clean energi climat action and sustain economi
+to tackl this issu a hybrid approach is introduc by integr the improv electr fish optim iefo with the adapt neuro-fuzzi infer system anfi creat a robust framework for forecast the carbon price
+the propos iefo algorithm repres an enhanc version of the electr fish optim efo integr the search strategi of the whale optim algorithm woa to boost explor capabl enabl more effect explor of new area and effici escap from local optima
+by strateg combin efo s activ search with woa s local explor strategi the iefo-anfi model excel in captur intric carbon price dynam and enhanc forecast accuraci
+the efficaci of the iefo-anfi model is rigor demonstr through comprehens experi show it superior perform across five dataset name beijinget cehd guangzhouet hubeiet and tianjinet
+the result demonstr the effect of the propos iefo-anfi model in accur forecast carbon price
+addit the result show remark perform of the propos model compar with state-of-the-art model
+moreov the result show that the propos iefo-anfi model can assist policymak in develop effici carbon price plan support a more seamless shift to a low-carbon economi without disrupt market .

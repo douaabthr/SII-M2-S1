@@ -1,0 +1,17 @@
+synergist optim of predict model for water qualiti analysi in treatment plant use machin learn and evolutionari algorithm
+enhanc the assess of water qualiti is essenti for sustain water manag given it critic impact on environment health and human well-b
+accur assess present sever difficulti due to the complex and variabl of water ecosystem
+among the various machin learn techniqu employ support vector regress and adapt boost have emerg as two of the most wide use and effect method
+in recent year mani evolutionari algorithm have been develop to find approxim solut to optim problem
+in this studi we investig how effici new algorithm consist of hybrid of machin learn method and evolutionari algorithm can be for some problem
+we extens investig support vector regress with various kernel includ linear radial basi function polynomi and sigmoid
+in addit we introduc modifi support vector regress and modifi adaboost where standalon ml model are combin with the swarm-bas algorithm such as particl swarm optim limited-memori broyden fletcher goldfarb shanno and distribut evolutionari algorithm in python
+we appli the propos hybrid algorithm to the problem of measur water qualiti
+accur model and assess of river water qualiti are essenti endeavor with multifacet challeng
+we focus on the tigri river model in baghdad governor particular at three water treatment plant eastern tigri al-karkh and al-wathba
+the dataset compris multipl water qualiti paramet with a total dissolv solid target
+incorpor swarm-bas algorithm into the adopt model has synergist enhanc their predict capabl result in a signific augment of the overal predict prowess of the ml model
+the propos hybrid algorithm success enhanc svr model perform with the l-bfgs-b algorithm yield mean squar error reduct of 46.23% and 28.09% on the east tigri and karkh plant respect
+in comparison the msvr-pso approach reduc the wathba plant by up to 85.96%
+these find have a signific impact on advanc water treatment plant
+a thorough understand of these variat is requir when decid on the optim machin learn model for individu applic and general for tigri river water qualiti scale evalu and beyond .

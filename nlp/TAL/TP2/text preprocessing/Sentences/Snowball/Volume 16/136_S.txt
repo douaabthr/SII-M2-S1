@@ -1,0 +1,11 @@
+mobil robot monocular vision-bas obstacl avoid algorithm use a deep neural network
+in recent decad obstacl avoid has been one of the main challeng in autonom vehicl navig which has been use in a wide rang of differ autonom devic and it is also a fundament requir for mobil robot
+in this paper a novel method is propos and evalu for mobil robot navig in an unknown environ while avoid collis with unexpect obstacl
+this mobil robot has been equip with a mono-vis sensor which communic with the environ
+therefor the decision-mak unit is entir vision-bas and no other sensor is use to communic with the environ
+the deep neural network method has been use to inform the robot about the suitabl direct of movement but central decision-mak unit will do some preprocess on the output command befor send it to the oper unit
+in this research various techniqu are investig to train the convolut neural network in a better way to generat more accur command for the mobil robot s movement toward the safe area without collid into ani obstacl
+besid lot of various method have been use to increas the perform of the neural network
+the most import one is use an adjust learn rate
+the result show the vital role of learn rate in network perform
+the design network attain a 96.88% accuraci and a 0.14 loss which indic that this approach could success improv the neural network perform and reason solv the obstacl avoid problem .

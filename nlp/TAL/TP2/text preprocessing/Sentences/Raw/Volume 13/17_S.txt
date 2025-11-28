@@ -1,0 +1,7 @@
+Adapted a novel similarity and its application in fuzzy risk analysis
+Generalized trapezoidal fuzzy numbers GTFNs and their similarity measures have been widely applied in fuzzy risk analysis
+However some existing similarity measures of GTFNs cannot identify the similarity of some special GTFNs properly
+In this study we introduce the exponential distance of center of gravity COG and an amending value to adapted a novel similarity measure between GTFNs
+Then seven properties of this new method are investigated and proved
+In addition in order to verify the superiority of the new method fifteen special testing sets are given to compare the performance of seven existing similarity measures with the new method
+Moreover the presented new similarity measure is used to solve a case study about the failure risk analysis of six major subsystems of the reciprocating pump system RPS in which different parameters are expressed by generalized trapezoidal fuzzy linguistic term .

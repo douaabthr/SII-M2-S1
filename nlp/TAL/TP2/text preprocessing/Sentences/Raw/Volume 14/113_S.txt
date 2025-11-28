@@ -1,0 +1,14 @@
+SOS 2.0 an evolutionary approach for SOS algorithm
+With the shortcomings on the solution given for most-recent optimization problems decision-makers from different fields yearn the existence of tenacious breakthrough
+In fact they all shared the same obligation to optimize work efficiency whether to minimize cost consumption or to maximize the profit acquirement
+Metaheuristic search is the more-advanced method proven to be useful for difficult optimization tasks
+Moreover development records also signalized rapid development of these algorithms contributing several notable and powerful optimization algorithms
+Among them Symbiotic Organisms Search SOS received noticeable attention due to its simplicity and also its parameter-less nature
+Nonetheless several considerable issues are still challenging for further development
+For instance local optima and premature convergence issues found from any improper and inefficiency computational procedure on higher dimensional problems
+Also exploitation and exploration trade-off is another essential issue involving stability for optimal performance
+In that case this work proposed a new evolutionary approach named SOS 2.0
+There are two distinct features associated with the evolution Self-Parameter-Updating SPU technique and chaotic maps sequencing
+Both features are integrated for a better balance of exploration and exploitation in which SPU focuses on exploration and chaotic map focuses on exploitation instead
+This work also applied benchmarks function tests and engineering design optimization problem in advance for validation purpose of the performance
+The experimental results showed that SOS 2.0 delivers not only better performance from its predecessor and also several recent SOS modifications which can be concluded as one successive approach for better SOS algorithm but also enhances the computation efficiency and capability of searching optimal solution .

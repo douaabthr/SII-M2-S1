@@ -1,0 +1,6 @@
+research on autom cle algorithm of multi-dimensional network redund dat bas on big dat
+in ord to real the research on network redund dat cle bas on big dat thi pap design a set of redund dat cle framework accord to the dat process flow bef dat analys
+accord to the spat correl of redund dat a method of dat cle is design
+in the dat cle method appropry cle algorithm ar design for abnorm dat and miss dat respect in which mathem prob design is apply to abnorm dat to delet the dat with obvy devy from the norm dat valu
+the spat model and algorithm ar design by apply spat correl to the miss dat to fil the miss dat valu aft the redund dat is cle by oth step in the method
+the acc of the model is comp with that of the common dat predict algorithm and the acc between the algorithm and the redund dat set is ver .

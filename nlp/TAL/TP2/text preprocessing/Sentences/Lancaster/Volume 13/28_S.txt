@@ -1,0 +1,8 @@
+predict of corn dry perform for a combin irc dry with a genetically-optimized svr algorithm
+grain dry process is a complex nonlinear system which is charact by long delay process mult disturb and strong coupl
+in ord to expl the model of an uncertain system such as thos us in grain dry and to study the apply of the support vect regress algorithm a corn dry process conduc in a side-heat infr rady and convect dry was model by us a support vect regress algorithm combin with a genet algorithm which is abbrevy as ga-svr
+the algorithm was train by us the input and output dat collect from the pract expery of corn dry
+the predict perform comparison between the ga-svr model method and the oth two model method the neur network of bp model and the svr model bas on the grid search algorithm wer also mad
+moreov we success us the method to design a model of concurrent-counter flow dry
+the design ga-svr model has achiev high model predict acc accord to the predict result which hav ver the feas of the propos model algorithm for model the grain dry
+the model method can also real the perform predict of diff dry techn and can be apply in the model predict control of the grain dry .

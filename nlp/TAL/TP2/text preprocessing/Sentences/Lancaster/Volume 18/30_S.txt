@@ -1,0 +1,14 @@
+hybrid pso-ga optim for enh decid tre perform in soil class and crop cult predict
+agricult hold profound sign in the liv and liv of bangladesh s pop
+the esc pop has contribut to a reduc in avail ar land exacerb concern about the feas of farm
+in vary reg of bangladesh ther is a prevail perceiv that certain area ar unsuit for cult
+consequ a subst amount of land stil nee to be tap and expl for agricult purpos contribut to underutil and hind pot agricult develop in thes reg
+consid thes issu thi study seek to forecast the optim crop cho for spec soil class en individ to mak mor inform decid about crop cult on their land
+init the soil class is ident bas on it un charact within a giv are and subsequ crop select is determin bas on thes distinct soil class
+thi study expl the perform of partic swarm optim pso and genet algorithm ga
+it propos a hybrid pso-ga techn to optim the decid tre model for forecast crop cult bas on class soil
+the perform of a standalon decid tre model is also meas
+in soil class the hybrid pso-ga approach demonst supery perform achiev an acc of 96.04% surpass individ pso ga and standalon decid tre method
+in crop cult predict the hybrid approach outperform individ pso ga and decid tre method with an acc of 92.63%
+the result highlight the eff of the integr pso-ga strategy in optim the dt model for prec agricult predict
+thi research contribut valu insight for enh decid support system in agricult provid a prom avenu for improv acc in soil class and crop cult predict .

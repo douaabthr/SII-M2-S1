@@ -1,0 +1,7 @@
+apply of morpholog wavelet and permut entrop in gear fault recognit
+in thi pap a new gear fault recognit method was propos by us morpholog wavelet and permut entrop
+first the morpholog haar wavelet was propos bas on morpholog wavelet and it was us to pre-process the meas gear vibr sign
+then the permut entrop was us as the eigenvalu of gear fault to be extract from the vibr sign which includ four work condit norm mild wear mod wear and brok tee
+fin accord to diff fault correspond to diff permut entrop distribut the vary fault stat wer class and the permut entrop distribut of non-denoised sign wer comp
+it could be seen that the morpholog haar wavelet had good de-noising effect and permut entrop could express the feat of diff gear condit
+the exampl of gear fault recognit prov that the combin of morpholog wavelet and permut entrop could effect improv the abl of gear fault class .

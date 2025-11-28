@@ -1,0 +1,10 @@
+Big data-driven english teaching for social media a neural network-based approach
+Big data and intelligence artificial have greatly broadened the channels for people to acquire knowledge
+The practical application of artificial intelligence technology in college English classrooms can not only help teachers prepare more scientific and advanced teaching plans and also effectively improve the quality of college English teaching
+In this paper we employ deep neural networks to design a big data-driven English teaching improvement scheme
+The proposed method can help teachers and students improve teaching strategies and assist students to learn more accurately and efficiently
+First we analyze the current deficiencies and reasons in English teaching
+Second we analyze the application of artificial intelligence in text corpus construction
+Third we use neural networks to design an intelligent face recognition system for teachers to improve the attendance rate
+Forth by analyzing the students writing we design a writing scoring method based on the neural network model which can evaluate students writing content
+Finally we experimentally evaluate and verify the effectiveness of the proposed method in this paper .

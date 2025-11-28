@@ -1,0 +1,14 @@
+futur search algorithm for optim
+this paper propos a new optim algorithm name futur search algorithm fsa
+this algorithm mimic the person s life
+peopl in the world search for the best life
+if ani person found that his life is not good he tri to chang it and he imit the success person
+accord to this behavior this algorithm is built by mathemat equat
+the fsa can updat the random initi
+furthermor it use the local search between peopl and the global search between the histori optim person to achiev the best solut
+the propos algorithm doe not have tune paramet
+in addit it has low comput complex fast converg and high local optima avoid
+the perform of the propos algorithm is evalu by appli it to solv some benchmark test function
+these test function have various characterist necessari to evalu the fsa
+in addit the perform of the propos algorithm is compar with five other well-known method
+the result confirm a better perform of the propos algorithm to get the optim solut with fewer iter number than other method .

@@ -1,0 +1,7 @@
+method for approxim valu function for the dominion card game
+artifici neural network have been success use to approxim valu function for task involv decis make
+in domain where decis requir a shift in judgment as the overal state chang it is hypothes here that method util multipl artifici neural network are like to provid a benefit as an approxim of a valu function over those that employ a singl network
+the card game dominion wa chosen as the domain to examin thi
+thi paper compar artifici neural network gener by multipl machin learn method success appli to other game such as in td-gammon to a genet algorithm method for gener two neural network for differ phase of the game along with evolv the transit point
+the result demonstr a greater success ratio with the genet algorithm appli to two neural network
+thi suggest that futur work examin more complex neural network configur and richer evolutionari explor could appli to dominion as well as other domain necessit shift in strategi .

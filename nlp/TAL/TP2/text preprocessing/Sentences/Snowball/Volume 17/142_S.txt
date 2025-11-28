@@ -1,0 +1,7 @@
+fast aggreg method of wsns dynam data base on micro-clust evolutionari learn
+in order to complet restor wsns data and improv the qualiti of data aggreg a fast aggreg method of wsns dynam data base on micro-clust evolutionari learn is propos
+the wireless sensor network data is collect under the micro-clust evolutionari learn and the kalman filter is introduc
+accord to the linear express area of the filter in space the linear regress rang of the wireless sensor network data is given and the dynam data preprocess and featur extract of wsns are design
+accord to the extract result the parent node of each node in the tree is set to form a rout tree with the base station as the root node for data forward
+the featur of the target domain are extract and input into the rang determin layer and then the wsns dynam data are quick aggreg to realiz the rapid aggreg of wsns dynam data
+the experiment result show that the propos method has low averag entropi good converg accuraci stabl data converg qualiti and strong repair perform .

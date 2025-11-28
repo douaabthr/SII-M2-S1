@@ -1,0 +1,13 @@
+smart advert design a vis aesthet effect improv bas on im dat analys
+smart advert is an import part of the modern inform industry
+the main problem of smart advert in chines city at thi stag includ clut set singl form lack of coordin and integr between advert and city and urb build and inconspicu vis effect
+in ord to deal with thes problem it is necess to optim the design of smart advert to enh the vis aesthet effect
+im aesthet qual assess has good apply prospect in industry such as im recommend and im edit aesthet and can be us to help smart advert improv vis aesthet
+thi pap propos an object quantit scor method for im aesthet bas on a multi-scale feat extract network which is a comput intellig approach
+the model is main compos of multipl multi-scale feat extract unit cascad and each unit contain a feat extract lay compos of 3 diff convolv kernel fus lay and map lay
+the feat extract lay form the input end of the network by combin the glob view and loc view of the im
+at the output end the emd funct is us as the loss funct and the output distribut is a prob dens mass funct of 1 10 point
+in ord to ver the effect of the method in thi pap the av dataset which is common us in the field of im aesthet evalu is select for test expery
+in thi pap two paramet spearm rank correl coefficy and acc rat ar select as ind to evalu the method in thi pap
+the expery result show that the method propos in thi pap is feas and effect
+outperform sev mainstream model on the av dataset .

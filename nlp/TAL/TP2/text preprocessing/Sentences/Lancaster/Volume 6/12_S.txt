@@ -1,0 +1,12 @@
+a comp study the effect of the perturb vect typ in the diff evolv algorithm on the acc of robot pos and head estim
+evolv algorithm ea belong to a group of class optim thes day and can be us in many apply area
+autonom mobl robot is not an exceiv
+ea ar util profus for the purpos of loc and map build of unknown environ slam
+thi pap cont on on particul class of ea the so cal diff evolv de
+it address the problem of select a suit set of paramet valu for the de algorithm apply to the task of continu robot loc in a known environ und the pres of addit nois in sens dat
+the prim goal of thi study is to find at least on typ of perturb vect from a set of known perturb vect typ suit to navig a robot us 2d las scan 2dls sens system
+the bas navig algorithm us in thi study us a vect repres for both the dat and the environ map which is us as a ref dat sourc for the navig
+sint the algorithm doe not us a prob occup grid the precid of the result is not limit by the grid resolv
+the comp study pres in thi pap includ a rel larg amount of expery in vary typ of environ
+the result of the study suggest that the de algorithm is a suit tool for continu robot loc task in an indo environ with or without mov object and und the pres of vary level of addit nois in sens dat
+two perturb vect typ wer found as the most suit for thi task on av nam rand/1/exp and randtobest/1/bin .

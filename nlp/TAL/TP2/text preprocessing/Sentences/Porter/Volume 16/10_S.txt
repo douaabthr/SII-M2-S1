@@ -1,0 +1,8 @@
+mompa multi-object marin predat algorithm for solv multi-object optim problem
+thi paper propos a new multi-object algorithm call multi-object marine-pred algorithm mompa depend on elitist non-domin sort and crowd distanc mechan
+the propos algorithm is base on the recent propos marine-pred algorithm and it wa inspir by biolog interact between predat and prey
+the propos mompa can address multipl and conflict object when solv optim problem
+the mompa is formul use elitist non-domin sort and crowd distanc mechan
+the propos method is test on variou multi-object case studi includ 32 unconstrain constraint and engin design problem with differ linear nonlinear continu and discret characteristics-bas pareto front problem
+the result of the propos mompa are compar with sever well-regard multi-object water-cycl algorithm multi-object symbiotic-organ search multi-object moth-flam optim algorithm qualit and quantit use sever perform indic
+the experiment result demonstr the merit of the propos method .

@@ -1,0 +1,9 @@
+a simpl detect and gener algorithm for simpl circuit in direct graph base on depth-first travers
+thi paper propos a new algorithm for detect and gener simpl circuit within a direct graph
+befor gener all simpl circuit in a direct graph the algorithm first detect whether there is a simpl circuit in direct graph and the detect can divid the direct graph into trivial graph or strongli connect compon
+in the process of detect the exist of simpl circuit the algorithm repeatedli reduc the number of vertic in vertex set along with edg prune
+base on depth-first travers we can get all simpl circuit of the direct graph
+especi instead of proceed depth-first travers base on all vertic the algorithm start with a random vertex in a strongli connect compon to reduc the number of depth-first travers and obtain all simpl circuit of thi strongli connect compon
+the difficulti of the algorithm is to detect and delet the repeat circuit in the process of gener all simpl circuit which can reduc both the storag space and time complex
+as a result the output of the algorithm doe not contain ani repeat circuit
+the algorithm simplifi the edg set of direct graph and greatli reduc the number of depth-first travers therebi reduc the comput complex and improv the comput effici .

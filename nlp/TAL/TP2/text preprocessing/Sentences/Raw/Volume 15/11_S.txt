@@ -1,0 +1,9 @@
+Analysis on intelligent machine learning enabled with meta-heuristic algorithms for solar irradiance prediction
+The solar forecasting is an effective method to enhance the operation of an electrical system for merging a large amount of solar power generation systems and intends to expand a new empirical method to model the prediction uncertainty of the solar irradiance
+The proposed model comprises three phases such as a Data Acquisition b Feature Extraction and c Prediction
+Initially benchmark data available from local meteorological organizations are collected that includes the numerical weather forecasting data like temperature dew point humidity visibility wind speed and other descriptive information
+Once the data is collected feature extraction is done by first-order and second-order statistical models
+First Order Statistics like mean median standard deviation the maximum value of entire data and minimum value of entire data and Second-Order Statistics like Kurtosis skewness correlation and entropy are extracted as the features
+These features are further applied to three machine learning algorithms named Multilayer Perceptron MLP Convolutional Neural Network CNN and Recurrent Neural Network RNN
+As main novelty of this paper the number of hidden neurons of all these networks is optimized by a hybrid algorithm merging both the Deer Hunting Optimization Algorithm DHOA and Grey Wolf Optimization GWO which is named as Grey Updated DHOA GU-DHOA
+The improvement of these networks with the assistance of a hybrid meta-heuristic algorithm will be highly effective for solar irradiance prediction overcoming the existing machine learning algorithms .

@@ -1,0 +1,8 @@
+an extrem learn machin model base on adapt multi-fus chaotic sparrow search algorithm for regress and classif
+extrem learn machin elm is a machin learn algorithm base on singl hidden layer feedforward neural network
+compar with tradit neural network algorithm elm has the advantag of fast train speed and good general abil with guarante learn accuraci which has been wide use in practic problem
+howev due to the random of hidden layer paramet the origin elm requir more hidden neuron in applic make the network more complex
+for this reason we propos an improv extrem learn machin base on the adapt multi-fus chaotic sparrow search algorithm amfcssa call amfcssa-elm
+in our work amfcssa is special design which combin the techniqu of chaotic map adapt weight coeffici variabl spiral factor andt-distribut mutat to optim the input weight and hidden bias of elm
+first unimod and multimod test function are use to verifi the perform of amfcssa the result show that amfcssa can search for the global optim valu better than pso ssa and so on
+second various nonlinear function and classif dataset are taken to test the capabl of amfcssa-elm the simul result show that our method has better general perform compar with other similar algorithm such as pso-elm ssa-elm .

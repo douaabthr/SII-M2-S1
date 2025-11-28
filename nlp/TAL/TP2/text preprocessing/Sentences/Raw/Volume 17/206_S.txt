@@ -1,0 +1,13 @@
+Chi-square mutated quantum-behaved PSO algorithm for combined economic and emission dispatch
+The Combined Economic and Emission Dispatch CEED problem is crucial in the energy industry as it assists in reducing the operating costs of the generators and helps to mitigate the ensuing adverse environmental impact
+The optimization of CEED can also lead to the development of new technologies for clean-energy production and utilization
+Particle swarm optimization and its derived methodologies are widely used for the solution of such problems and they commonly face issues related to swarm diversity convergence rate falling in local optima etc
+We propose a novel Chi-square mutated Quantum Particle Swarm Optimization QPSO-Chi2 method for a more competent solution of CEED
+For establishing efficacy an extensive validation was done for the proposed method using standard benchmark functions and a comparison is made with conventional PSO and other variants of QPSO such as Uniform Gaussian Exponential and Cauchy distributions
+Further the comparison has been extended to latest state-of-the-art algorithms for numerical optimization such as EA4eig IEEE CEC-2022 jDE100 j2020 j21 and jSO
+The algorithm is tested with three practical CEED cases 6 10 and 40 units
+Analysis was done for the results obtained with various established methods from the literature as well as with other variants of QPSO
+The research asserts that the QPSO-Chi2 method excels in predictive accuracy and computational efficiency outperforming numerous established methods
+The QPSO-Chi2 method achieved an overall maximum cost reduction and transmission loss of 5.16% and 6.23% respectively relative to other approaches
+Two novel performance evaluation strategies viz
+performance plots and normalized coefficients of deviation are implemented to inspect the potential of the proposed QPSO-Chi2 .

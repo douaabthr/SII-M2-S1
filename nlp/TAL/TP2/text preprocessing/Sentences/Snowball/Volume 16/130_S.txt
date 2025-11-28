@@ -1,0 +1,10 @@
+driver drowsi detect use modifi deep learn architectur
+this paper propos a non-invas approach to detect driver drowsi
+the facial featur are use for detect the driver s drowsi
+the mouth and eye region are extract from the video frame
+these extract region are appli on hybrid deep learn model for drowsi detect
+a hybrid deep learn model is propos by incorpor both modifi inceptionv3 and long short-term memori lstm network
+inceptionv3 is modifi by ad global averag pool layer for spatial robust and dropout techniqu to prevent overfit on train data
+the propos hybrid model is compar with convolut neural network incpetionv3 and lstm over nthu-ddd dataset
+the propos model perform better than the other model in term of perform measur
+the propos model is abl to detect driver fatigu effect .

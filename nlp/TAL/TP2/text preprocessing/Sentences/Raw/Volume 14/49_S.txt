@@ -1,0 +1,12 @@
+Analytics on real time security attacks in healthcare retail and banking applications in the cloud
+Cloud computing is used by large enterprises to provide services to customers
+The major advantage of adapting cloud systems is that the clients need not have to manage the maintenance and operations of the cloud systems along with the maintenance of hardware but they will have full control over the data
+The downsides of the cloud systems are the security threats that includes confidentiality and security issues
+Software as a service platform as a service and infrastructure as a service all comes with its own security issues of different complexities
+The security challenges posed by cloud computing systems are overshadowing the economic edge it has
+Based on the analysis of the research performed in the area of security issues in the cloud it is evident that a detailed analysis on the same will throw light on root causes and vulnerabilities
+The research primarily throws light on the statistics and detailed analysis on the security attacks in the cloud systems in different domains
+The paper focuses on the issues and threats in healthcare retail and banking domains
+Analytics on the attacks in these domains will give insights on the loss mitigation time etc
+The real time data on security threats is acquired from IT cloud service providers
+The statistics on the same will open up different perspectives of cloud security issues and can throw light on the possible research directions and that is the motivation behind this preliminary research .

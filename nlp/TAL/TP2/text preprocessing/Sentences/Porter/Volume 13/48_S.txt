@@ -1,0 +1,8 @@
+optim train artifici neural network for telugu speaker diariz
+speaker index or diariz is the process of automat partit the convers involv multipl speaker into homogen segment and group togeth all the segment that correspond to the same speaker
+so far certain work have been done under thi aspect still the need of accur partit process get lag under certain criteria
+with thi in mind thi paper aim to introduc a new speaker index or diariz model telugu languag that initi involv mel frequenc cepstral coeffici base featur extract
+subsequ a new optim artifici neural network ann is introduc for cluster process
+the novelti behind the cluster process is the train of ann take place through optim logic that updat the weight of ann by a hybrid concept of artifici bee coloni abc and lion algorithm la
+therebi the propos model is name as ann-abc-la model
+final the perform of the propos ann-abc-la model is compar over the state-of-the-art model with respect to differ perform measur .

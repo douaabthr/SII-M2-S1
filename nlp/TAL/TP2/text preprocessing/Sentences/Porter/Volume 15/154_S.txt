@@ -1,0 +1,11 @@
+an improv optim algorithm for collis detect of hybrid hierarch bound box
+collis detect is current a hot issu in virtual realiti and other field
+the effici and accuraci of collis detect directli affect the real-tim updat effect of the virtual realiti environ and it is also an import indic that affect the user s interact experi
+in a complex virtual realiti scene if the tradit collis detect algorithm sphere-obb is adopt and the tree structur travers is use to realiz the bound box travers detect the accuraci remain unchang but the detect complex is reduc
+if the rapid collis detect algorithm is use the separ axi test method and the two-lay hybrid hierarch surround tree structur are use although the amount of calcul is larg the detect effici is improv
+use the separ axi sat algorithm and use the separ axi theorem to determin the vector axi can save a lot of calcul time
+the purpos of thi research is to propos an improv hybrid-level bound box collis detect optim algorithm aso base on the tradit hybrid-level bound box collis detect algorithm
+firstli base on the spatio-tempor correl theori the hybrid hierarch bound box hierarch tree structur is improv to aabb and obb from top to bottom
+the synchron descent rule is use to realiz the travers of node and then the triangl area weight method is use to improv the calcul method of the bottom obb bound box node center solv the bound box vertex covari matrix and improv the effici and accuraci of collis detect
+the experiment result show that the algorithm propos in thi paper is 35.6% faster than the rapid detect speed and 29.9% faster than the separ axi sat detect speed under the same accuraci
+in the multi-object collis detect compar with the latest research the algorithm in thi paper shorten the intersect detect time improv the collis detect effici and meet the real-tim updat requir of complex virtual realiti scene .

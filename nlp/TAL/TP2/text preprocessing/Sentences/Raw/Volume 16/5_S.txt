@@ -1,0 +1,14 @@
+Hybrid chaotic system-oriented artificial fish swarm neural network for image encryption
+According to the research works of the references on chaotic cryptanalysis many recent chaotic image encryption algorithms cannot resist chosen-plaintext attacks
+Although some chaotic image encryption algorithms introduce plain-image information they still violate some design requirements of modern cryptosystems
+The traditional image encryption algorithm has the disadvantages of low security and time-consuming
+Therefore after analyzing many literatures related to chaotic image encryption and aiming to improve the security of ciphertext and effectively resist plaintext attack we propose a hybrid chaotic system-oriented artificial fish swarm neural network method for image encryption
+Firstly based on the nonlinear combination theory the Logistic Tent and Sine mappings are used to design the hybrid complex chaotic system
+According to the pixel value of plaintext it generates the initial value to output the chaotic sequence
+Taking a chaotic sequence as the input layer the artificial neural network is introduced to train and learn the chaotic sequence
+It eliminates the chaotic periodicity and outputs the neural network sequence
+The artificial fish swarm algorithm is used to optimize the initial weight and threshold of the Elman neural network
+The set obfuscation method is defined to scramble the plaintext
+A quantization method is constructed to quantify the neural network sequence and obtain the key flow
+The mixed images are classified the key flow is combined the pixel value is changed and the ciphertext is output by designing the piecewise diffusion technology
+Experimental results show that compared with the current state-of-the-art image encryption methods the proposed algorithm has higher security and resist plaintext attack ability .

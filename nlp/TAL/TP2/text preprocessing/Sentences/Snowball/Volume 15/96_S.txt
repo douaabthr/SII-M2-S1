@@ -1,0 +1,9 @@
+tool combin model base on task sequenc use an optim orient genet algorithm
+as an applic field of servic scienc cloud manufactur cm has been wide studi in vertic and horizont servic
+at present cm s vertic servic research is limit to the technic research of specif process and manufactur and give less consider to the background of horizont integr servic
+the research on horizont servic judg the effect of the combin onli accord to qualiti of servic qos attribut
+in the actual process process the combin s effect depend not onli on qos but also on the geograph aspect compani and other attribut
+base on this we propos a tool combin model base on the task sequenc tcmbts
+the tcmbts establish the associ ontolog model of tool resourc and task and propos a map method to provid vertic servic for cm
+then propos optim orient genet algorithm opoga to solv the combin optim and recommend problem of tcmbts and provid horizont servic for cm
+final an experi is perform to verifi opoga with valid and effici .

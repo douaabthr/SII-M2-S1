@@ -1,0 +1,10 @@
+evolution-in-materio evolv comput in materi
+evolution-in-materio eim is the manipul of a physic system by comput control evolut cce
+it take the posit that to obtain use function from a physic system one need to appli highli specif physic signal and place the system in a particular physic state
+it argu that cce is an effect methodolog for do thi
+one of the potenti advantag of thi is that artifici evolut can potenti exploit physic effect that are either too complex to understand or hitherto unknown
+eim is most commonli use as a methodolog for implementingcomputationin physic system
+the method is a hybrid of analogu and classic comput in that it use classic comput to program physic system or analogu devic
+thu far eim ha onli been attempt in a rather limit set of physic and chemic system
+thi review paper examin past work relat to eim and discuss histor underpin behind such work
+it describ latest develop give an analysi of the advantag and disadvantag of such work and the challeng that still remain .

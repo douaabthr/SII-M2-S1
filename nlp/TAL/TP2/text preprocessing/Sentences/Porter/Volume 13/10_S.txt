@@ -1,0 +1,7 @@
+energi consumpt laxity-bas quorum select for distribut object-bas system
+in object base system an object is an unit of comput resourc
+distribut applic are compos of multipl object
+object in an applic are replic to multipl server in order to increas reliabl avail and perform
+on the other hand the larg amount of electr energi is consum in a system compar with non-repl system sinc multipl replica of each object are manipul on multipl server
+in thi paper the energi consumpt laxity-bas quorum select eclbq algorithm is propos to construct a quorum for each method issu by a transact so that the total electr energi consumpt of server to perform method can be reduc in the quorum base lock protocol
+the total electr energi consumpt of server the averag execut time of each transact and the number of abort transact are shown to be more reduc in the eclbq algorithm than the random algorithm in evalu .

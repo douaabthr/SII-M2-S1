@@ -1,0 +1,12 @@
+a new chao cat swarm optim algorithm bas on saly grady for pow equip infr and vis im reg
+vis and infr im ar import way for the pow inspect robot to detect the stat of pow equip
+im reg can mak ful us of the adv of the vis and infr im which can provid a bet bas for subsequ stat monit
+tradit reg method hav the low and poor reg acc caus by infr im blur
+theref a new chao cat swarm optim algorithm bas on saly grady is propos to improv the reg acc
+first bas on the vis saly detect of infr im the edg grady inform of saly reg is enh
+second the saly grady inform and the norm mut inform ar combin as the meas funct of reg
+third a new chao cat swarm optim algorithm is propos to improv the converg of the im reg
+it us diff chaot map to improv the step siz of the search model
+log chao map is us in the algorithm to chang the loc inform of the cat pop in each it process to avoid the loc optim problem so that the whol pop can reach a bal between the glob search abl and the loc search abl which has a good converg spee
+fin subst inspect im standard reg test im set ar select for comp expery
+the result show that the propos algorithm has good perform in reg rat and reg spee .
