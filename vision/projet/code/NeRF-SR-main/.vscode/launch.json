@@ -1,0 +1,38 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug train.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/train.py",
+            "args": [
+                "--name", "llff-fern-378x504-ni64-dp-ds2",
+                "--accelerator", "dp",
+                "--dataset_mode", "llff_downX",
+                "--dataset_root", "D:/nerf_llff_data/fern",
+                "--checkpoints_dir", "./checkpoints/nerf-sr",
+                "--summary_dir", "./logs/nerf-sr",
+                "--img_wh", "504", "378",
+                "--batch_size", "512",
+                "--n_epochs", "30",
+                "--n_epochs_decay", "10",
+                "--print_freq", "100",
+                "--vis_freq", "1000",
+                "--val_freq", "1000",
+                "--vis_epoch_freq", "30",
+                "--val_epoch_freq", "30",
+                "--save_epoch_freq", "10",
+                "--model", "nerf_downX",
+                "--N_coarse", "64",
+                "--N_importance", "64",
+                "--lr_policy", "exp",
+                "--sigma_activation", "relu",
+                "--lr", "5e-4",
+                "--lr_final", "5e-6",
+                "--include_var",
+                "--downscale", "2"
+            ]
+        }
+    ]
+}
