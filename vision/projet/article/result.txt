@@ -1,0 +1,14 @@
+\section{Resultats}
+Since there are no previous work that deals with super-resolving
+ NeRF, we devise several reasonable baselines for comparisons, detailed as the following:
+il ont comperer leur methode par des technique cites dans stat of the art base sur la superresolution car ya pas des methode deja fai
+NeRF : same hyper parametres (with LR) and render HR 
+nerf liif: LIIF réalise de la super-résolution continue à partir d'une seule image.
+Dans le cadre de NeRF-LIIF, les images reconstruites en basse résolution par NeRF sont améliorées en haute résolution via un modèle LIIF pré-entraîné.
+Cependant, l'entraînement de LIIF nécessite des paires LR-HR provenant d’autres datasets : il apporte donc des external data priors, rendant sa comparaison avec une méthode purement NeRF un peu biaisée
+
+
+
+detail de l'implimentation : pour rendre image Lr il sont utiliser la methode downscaling of images in the dataset from original resolution to
+ training resolution is done by the default Lanczos method in the
+ Pillow package.

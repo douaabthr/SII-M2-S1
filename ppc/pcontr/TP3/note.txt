@@ -1,0 +1,7 @@
+% ici on parcours colonne par colonne 
+% verfier tout les lignes de sufoku si les valeur de avr d'un ligne donnes sont all diff        
+% ici nous avons parcoru la matrice logne par ligne comme elle est stocke   
+% ce code parmi d'acceder au element de chque caree cad ici tu et oblegi de parcourir tout la ligne pour acceder au prichaine 
+% I-1 dev 3)*27 + debut 0
+% I-1 mod 3 ) *3 
+% le 10 cad le dernier caree 
