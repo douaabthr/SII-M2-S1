@@ -61,3 +61,5 @@ class PositionalEncoding(BaseEmbedding, Configurable):
                 out += [func(freq*x)]
 
         return torch.cat(out, -1)
+
+        

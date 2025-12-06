@@ -11,13 +11,13 @@ from models.utils import *
 from utils.colmap import \
     read_cameras_binary, read_images_binary, read_points3d_binary
 import einops
-
+#  done 
 def normalize(v):
     """Normalize a vector."""
     return v/np.linalg.norm(v)
-
-
+#  done 
 def average_poses(poses):
+    #  creation d'nouveau repere centre par tout les repere camera 
     """
     Calculate the average pose, which is then used to center all poses
     using @center_poses. Its computation is as follows:
@@ -37,25 +37,34 @@ def average_poses(poses):
         pose_avg: (3, 4) the average pose
     """
     # 1. Compute the center
+    # On prend tous les vecteurs de position t_i pour toutes les caméras.
+    # On calcule la moyenne composante par composante : 
+    #  la postion moyenne 
     center = poses[..., 3].mean(0) # (3)
 
-    # 2. Compute the z axis
+    # 2. Compute the z axis 
+    # un vecteur 3D (3,) qui est la direction moyenne “forward” de toutes les caméras dans le repère monde. axe z bien sur
+    # normalize rendre ca longeur = sans changer ca direction   v/ la norm(v)
+    #  direction z moyenne 
     z = normalize(poses[..., 2].mean(0)) # (3)
 
     # 3. Compute axis y' (no need to normalize as it's not the final output)
+    # same pour y not norlmalise non need 
     y_ = poses[..., 1].mean(0) # (3)
 
     # 4. Compute the x axis
+    # calcule x orthogonal avec y et z 
     x = normalize(np.cross(y_, z)) # (3)
 
     # 5. Compute the y axis (as z and x are normalized, y is already of norm 1)
+    # meme chose pour y 
     y = np.cross(z, x) # (3)
-
+    # nouvelle position de camra dans monde reel base sur tout les posses of camera repere central pour tout les scene 
     pose_avg = np.stack([x, y, z, center], 1) # (3, 4)
 
     return pose_avg
 
-
+# done
 def center_poses(poses):
     """
     Center the poses so that we can use NDC.
@@ -70,16 +79,19 @@ def center_poses(poses):
     """
 
     pose_avg = average_poses(poses) # (3, 4)
-    pose_avg_homo = np.eye(4)
+    pose_avg_homo = np.eye(4) # matrice indentiti 
+    # Les transformations homogènes sont utilisées pour combiner rotation + translation en une seule multiplication matricielle.
     pose_avg_homo[:3] = pose_avg # convert to homogeneous coordinate for faster computation
                                  # by simply adding 0, 0, 0, 1 as the last row
     last_row = np.tile(np.array([0, 0, 0, 1]), (len(poses), 1, 1)) # (N_images, 1, 4)
     poses_homo = \
         np.concatenate([poses, last_row], 1) # (N_images, 4, 4) homogeneous coordinate
-
+    # poses central devienne lorigine cad w2c apres on rendre tout les poses dans ce repere derin avant les point de le repere centre pour tout les point dans le repere camera x 
+    #  homogenios pour faire cette multiplication seuelement 
     poses_centered = np.linalg.inv(pose_avg_homo) @ poses_homo # (N_images, 4, 4)
     poses_centered = poses_centered[:, :3] # (N_images, 3, 4)
 
+    # les poses de camera sont dans le repere camera centre 
     return poses_centered, pose_avg
 
 
@@ -184,11 +196,13 @@ class LLFFDownXDataset(BaseDataset):
 
         self.root_dir = opt.dataset_root
         self.split = mode
+        #  assumer que self.split inclue l'un des valeurs 
         assert self.split in ['train', 'val', 'test', 'test_train', 'gan', 'reg_patch']
-        #  la resolution apres que data est fusionee LR
+        #  les options de LR 
         self.img_wh = opt.img_wh
         self.spheric_poses = opt.spheric_poses
-        #  val_num validation numbre est 20
+        #  val_num validation numbre egale a 1 un seul image qui na pas vu pendant l'entrainement 
+        # apres validation les poid ne seront pas mis a jour 
         self.val_num = max(1, opt.val_num) # at least 1
         # ----------tres important !!!!!!!!
         self.define_transforms()
@@ -198,32 +212,48 @@ class LLFFDownXDataset(BaseDataset):
 
     def read_meta(self):
         # Step 1: rescale focal length according to training resolution
+
         camdata = read_cameras_binary(os.path.join(self.root_dir, 'sparse/0/cameras.bin'))
         H = camdata[1].height
         W = camdata[1].width
+        # ici la distance focal onest on train de faire scaling pcq l'ing sera redimentionne donc on fait un mise a lechelle pournouvelle size de camera 
+        # sachant que la distance focal est en pixels 
         self.focal = camdata[1].params[0] * self.img_wh[0]/W
 
-        # Step 2: correct poses
+        # Step 2: correct poses (rendre tout les poses de camera dans le repere centre camera )
         # read extrinsics (of successfully reconstructed images)
+        #  lecture des paramtre extrainsque de la camera setue dans le fichier imges.bin
         imdata = read_images_binary(os.path.join(self.root_dir, 'sparse/0/images.bin'))
+
         perm = np.argsort([imdata[k].name for k in imdata])
-        # read successfully reconstructed images and ignore others
+        # read successfully reconstructed images and ignore others 
         self.image_paths = [os.path.join(self.root_dir, 'images', name)
                             for name in sorted([imdata[k].name for k in imdata])]
+        #  construire a partir de de tvec et qvec la matrice extrinsque 
+        # stockee dans w2c_mats une liste des matrice extrinsques
         w2c_mats = []
         bottom = np.array([0, 0, 0, 1.]).reshape(1, 4)
         for k in imdata:
             im = imdata[k]
+            #  matrice de 3X3
             R = im.qvec2rotmat()
+            # vecteur 3X1
             t = im.tvec.reshape(3, 1)
             w2c_mats += [np.concatenate([np.concatenate([R, t], 1), bottom], 0)]
         w2c_mats = np.stack(w2c_mats, 0)
+        # calculer inverse des matrice extrensque 
+        # de w2c on camera 2 word cad obtient le pose de camera dans le reper moonde reel
         poses = np.linalg.inv(w2c_mats)[:, :3] # (N_images, 3, 4) cam2world matrices
         
         # read bounds
+        # intialiser ue liste des bounds n_images de taille 1x2
         self.bounds = np.zeros((len(poses), 2)) # (N_images, 2)
+            
         pts3d = read_points3d_binary(os.path.join(self.root_dir, 'sparse/0/points3D.bin'))
+        # ------ definir pour chque image la plus proche depth de la camera et la plus eloinger selon un intervalle [0.1,99,9]
+        # matrice des point 3d  repere monde 
         pts_world = np.zeros((1, 3, len(pts3d))) # (1, 3, N_points)
+        # matrice des  visibilites des point 3d dans l'ensemble des image  pour chaque point et pour chaque image 
         visibilities = np.zeros((len(poses), len(pts3d))) # (N_images, N_points)
         for i, k in enumerate(pts3d):
             pts_world[0, :, i] = pts3d[k].xyz
@@ -231,20 +261,30 @@ class LLFFDownXDataset(BaseDataset):
                 visibilities[j-1, i] = 1
         # calculate each point's depth w.r.t. each camera
         # it's the dot product of "points - camera center" and "camera frontal axis"
+        # pour chaque point de monde reel on calcule depth                   la colone de translation    l'exe z directionnde camera colamap vers l'avant
+        #  ici pour chaque point on fait une translation projection sur axe z 
+        # je lit point dyali fl repere camera salam 
         depths = ((pts_world-poses[..., 3:4])*poses[..., 2:3]).sum(1) # (N_images, N_points)
+        # on prendre les prondendeur des point 3d visible par camera 
         for i in range(len(poses)):
             visibility_i = visibilities[i]
             zs = depths[i][visibility_i==1]
+            #  on prednre les bound selon un interval par porch bcq <0.1 par eloinge bcq 99.9>
             self.bounds[i] = [np.percentile(zs, 0.1), np.percentile(zs, 99.9)]
         # permute the matrices to increasing order
         poses = poses[perm]
         self.bounds = self.bounds[perm]
-        
+        # ------------
+        # change les direction de chaque axe de c2w les poses de camera dans le monde reel 
         # COLMAP poses has rotation in form "right down front", change to "right up back"
         # See https://github.com/bmild/nerf/issues/34
+        # -pose1:3 y et z le inverse 
         poses = np.concatenate([poses[..., 0:1], -poses[..., 1:3], poses[..., 3:4]], -1)
+
         self.poses, _ = center_poses(poses)
+        # position camera i dans repere centre camera  on calcule la distance 
         distances_from_center = np.linalg.norm(self.poses[..., 3], axis=1)
+        # on prendre image la plus proche au repere centre comme image de validation 
         val_idx = np.argmin(distances_from_center) # choose val image as the closest to
                                                    # center image
 
@@ -252,9 +292,14 @@ class LLFFDownXDataset(BaseDataset):
         # See https://github.com/bmild/nerf/issues/34
         # TODO: change this hard-coded factor
         # See https://github.com/kwea123/nerf_pl/issues/50
+        #  normalisation les transalation des poses camera et les depth de la scene 
         near_original = self.bounds.min()
         scale_factor = near_original*0.75 # 0.75 is the default parameter
-                                          # the nearest depth is at 1/0.75=1.33
+           
+                                       # the nearest depth is at 1/0.75=1.33
+        #  rescale bound de la scene et also les poses de camera par rapport au repere centre 
+        #  nsghro near_bound tan nsghro translation des repere comme si rana nsghro fl monde de camera 
+        # un zoom-out
         self.bounds /= scale_factor
         self.poses[..., 3] /= scale_factor
 
@@ -269,15 +314,17 @@ class LLFFDownXDataset(BaseDataset):
             self.poses = self.poses[:self.opt.subset_num]
             self.image_paths = self.image_paths[:self.opt.subset_num]
 
+
         # ray directions for all pixels, same for all images (same H, W, focal)
         if not self.opt.unified_dir:
             self.directions = \
                 get_ray_directions(self.img_wh[1], self.img_wh[0], self.focal, self.opt.use_pixel_centers) # (H, W, 3)
         else:
+            #  on fait le down scale pour calculer les direction apres on dublique cest direction  (pour optimiser les calcule dans nerf )
             self.directions = get_ray_directions(self.img_wh[1]//self.opt.downscale, self.img_wh[0]//self.opt.downscale, \
                 self.focal//self.opt.downscale, self.opt.use_pixel_centers) # (H/X, W/X, 3)
             self.directions = einops.repeat(self.directions, 'h w c -> (h s1) (w s2) c', s1=self.opt.downscale, s2=self.opt.downscale)
-            
+            # ------------ stope rghit there 
         if self.split == 'train' or self.split == 'gan' or self.split == 'reg_patch': # create buffer of all rays and rgb data
                                   # use first N_images-1 to train, the LAST is val
             self.all_rays = []
@@ -387,8 +434,9 @@ class LLFFDownXDataset(BaseDataset):
             else:
                 radius = 1.1 * self.bounds.min()
                 self.poses_test = create_spheric_poses(radius)
-
+# done 
     def define_transforms(self):
+    #   self.transform devient un objet transformation de type torchvision.transforms.ToTensor.
         self.transform = T.ToTensor()
 
     def __len__(self):

@@ -94,7 +94,7 @@ def resample_along_rays(ori, dir, z_vals, weights, num_samples, randomized):
     points = cast_rays(ori, dir, z_vals)
     return z_vals, points
 
-
+# chaque ray n'importe qul image a meme direction cad chque pixel
 def get_ray_directions(H, W, focal, use_pixel_centers=True):
     """
     Get ray directions for all pixels in camera coordinate.
@@ -120,6 +120,8 @@ def get_ray_directions(H, W, focal, use_pixel_centers=True):
     i, j = torch.from_numpy(i), torch.from_numpy(j)
     # the direction here is without +0.5 pixel centering as calibration is not so accurate
     # see https://github.com/bmild/nerf/issues/24
+    #  on divise par la distance focal de pixel vers distance 3d 
+    #  pour moins dans yc car dans les pixel i augement vers le bas mais dans repere camera vers l'haut  comme si on est entrain adapter le repere 
     directions = \
         torch.stack([(i-W/2)/focal, -(j-H/2)/focal, -torch.ones_like(i)], -1) # (H, W, 3)
 

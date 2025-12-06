@@ -164,7 +164,8 @@ class BaseOptions():
         elif opt.accelerator == 'ddp':
             opt.device = f"cuda:{opt.local_rank}"
         # chaque gpu va executer tout les calcule de torch 
-        torch.cuda.set_device(opt.device)
+        if opt.device !='cpu':
+            torch.cuda.set_device(opt.device)
         # only matser procces exeute le print
         if opt.is_master:
             self.print_options(opt)

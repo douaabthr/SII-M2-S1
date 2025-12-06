@@ -66,7 +66,7 @@ CAMERA_MODELS = {
 CAMERA_MODEL_IDS = dict([(camera_model.model_id, camera_model) \
                          for camera_model in CAMERA_MODELS])
 
-
+#  done 
 def read_next_bytes(fid, num_bytes, format_char_sequence, endian_character="<"):
     """Read and unpack the next bytes from a binary file.
     :param fid:
@@ -104,7 +104,7 @@ def read_cameras_text(path):
                                             params=params)
     return cameras
 
-
+#  all is done 
 def read_cameras_binary(path_to_model_file):
     """
     see: src/base/reconstruction.cc
@@ -112,9 +112,24 @@ def read_cameras_binary(path_to_model_file):
         void Reconstruction::ReadCamerasBinary(const std::string& path)
     """
     cameras = {}
+    #  ovrire le fichier camera.bin un fichier binaire permi de lire un flux bianire contient les paramtres intersque 
+
     with open(path_to_model_file, "rb") as fid:
+        #  Q ca veux dire la facon dont vous lire le flux bianire cad le type returni 
+        #  lire les 8 octe convert to long cette info contient nombre de camera 
         num_cameras = read_next_bytes(fid, 8, "Q")[0]
+        # ici pour cette data set nous avons un seul type de camera 
+        # on le parcour
         for camera_line_index in range(num_cameras):
+            # pour les 24 prochiane oct qui contient les property de camera 
+            # comme : id camera id model apres on recuper depuis CAMERA_MODEL_IDS le model name de camera 
+            #  apres model name de camera pour cette data set et mm pris par le telephone SIMPLE_RADIAL
+            #  on extrait aslo width et height de image qui depend de la camera 
+            #  also numbre de paramtre qui depend de model de camera extrait aparir de camera model ids 
+            #  pour savoir numdre of parametres pour les lire pour ce model particulierement contient 
+            # focal distance and ox (width) and oy(height) centre of  and distorsion () or )(
+            # K >0 image gonflet 
+            # K< image dakhla comme si
             camera_properties = read_next_bytes(
                 fid, num_bytes=24, format_char_sequence="iiQQ")
             camera_id = camera_properties[0]
@@ -125,6 +140,8 @@ def read_cameras_binary(path_to_model_file):
             num_params = CAMERA_MODEL_IDS[model_id].num_params
             params = read_next_bytes(fid, num_bytes=8*num_params,
                                      format_char_sequence="d"*num_params)
+            #  chaque model nsave leur paramtre on utilion collections avec champs nome 
+            # params =[f,ox,oy,k]
             cameras[camera_id] = Camera(id=camera_id,
                                         model=model_name,
                                         width=width,
@@ -164,7 +181,7 @@ def read_images_text(path):
                     xys=xys, point3D_ids=point3D_ids)
     return images
 
-
+#  all is done 
 def read_images_binary(path_to_model_file):
     """
     see: src/base/reconstruction.cc
@@ -172,6 +189,14 @@ def read_images_binary(path_to_model_file):
         void Reconstruction::WriteImagesBinary(const std::string& path)
     """
     images = {}
+    # open le fichier binaire 
+    # lire les 8 prochine octer pour lire numbre of images pour le cas de llff fern and plante 
+    #  numbre d'imge est 20 parcourir tout ces image 
+    #  pour chaque image on lit on lit 64 oct contient :
+    # id  de imge 1 er oct 
+    # vecteur de rotation de taille 1x4  (bien sur fomer par np.array)
+    #  vecteur de translation de taille 1X3
+    #  id de camera 
     with open(path_to_model_file, "rb") as fid:
         num_reg_images = read_next_bytes(fid, 8, "Q")[0]
         for image_index in range(num_reg_images):
@@ -181,18 +206,32 @@ def read_images_binary(path_to_model_file):
             qvec = np.array(binary_image_properties[1:5])
             tvec = np.array(binary_image_properties[5:8])
             camera_id = binary_image_properties[8]
+            # maitenant former le name d'image  a chaque fois lire caracter et ajouter au iamge name jusque au oct 0 fin de sequnce 
             image_name = ""
             current_char = read_next_bytes(fid, 1, "c")[0]
             while current_char != b"\x00":   # look for the ASCII 0 entry
                 image_name += current_char.decode("utf-8")
                 current_char = read_next_bytes(fid, 1, "c")[0]
+            # ces point 3d : Parce que COLMAP utilise les correspondances de features 2D entre plusieurs images pour :
+
+            # trouver la pose de chaque caméra
+
+            # trianguler les points 3D
+
+            # optimiser tout ça ensemble
             num_points2D = read_next_bytes(fid, num_bytes=8,
                                            format_char_sequence="Q")[0]
+            #  une liste des point 2d avec leur ids si id=-1 ya pas de correspondance ou bien trianguation
             x_y_id_s = read_next_bytes(fid, num_bytes=24*num_points2D,
                                        format_char_sequence="ddq"*num_points2D)
+            #  ca veux dire x_y_ids[0::3] lire chaque 3 eme element commcer par 0 step 3 that all
+            # lire seulememt les xs apres les yx 
+            # apres fomrer tableux contennat tout les (x,y) de cette facon
             xys = np.column_stack([tuple(map(float, x_y_id_s[0::3])),
                                    tuple(map(float, x_y_id_s[1::3]))])
+            # recuper les ids des points 
             point3D_ids = np.array(tuple(map(int, x_y_id_s[2::3])))
+            #   return cette liste  des info sur imge a
             images[image_id] = Image(
                 id=image_id, qvec=qvec, tvec=tvec,
                 camera_id=camera_id, name=image_name,
@@ -226,13 +265,14 @@ def read_points3D_text(path):
                                                point2D_idxs=point2D_idxs)
     return points3D
 
-
+# done
 def read_points3d_binary(path_to_model_file):
     """
     see: src/base/reconstruction.cc
         void Reconstruction::ReadPoints3DBinary(const std::string& path)
         void Reconstruction::WritePoints3DBinary(const std::string& path)
     """
+    # lire tous les point 3d leur id leur coordonnes leur coleur rgb erreur de projetction 
     points3D = {}
     with open(path_to_model_file, "rb") as fid:
         num_points = read_next_bytes(fid, 8, "Q")[0]
@@ -243,6 +283,8 @@ def read_points3d_binary(path_to_model_file):
             xyz = np.array(binary_point_line_properties[1:4])
             rgb = np.array(binary_point_line_properties[4:7])
             error = np.array(binary_point_line_properties[7])
+            #  nombre d'imge ou se trouve ce point 
+            #  en suite 
             track_length = read_next_bytes(
                 fid, num_bytes=8, format_char_sequence="Q")[0]
             track_elems = read_next_bytes(
@@ -250,6 +292,13 @@ def read_points3d_binary(path_to_model_file):
                 format_char_sequence="ii"*track_length)
             image_ids = np.array(tuple(map(int, track_elems[0::2])))
             point2D_idxs = np.array(tuple(map(int, track_elems[1::2])))
+            #  les info extrairt ici :
+            # id points 3d
+            #  leur coordonnes x,y,z
+            #  rgb moyenne 
+            #  Liste des images où ce point a été détecté
+            # Indices des pixels correspondants à ce point dans chaque image
+            #  deteceter dans tout les images 
             points3D[point3D_id] = Point3D(
                 id=point3D_id, xyz=xyz, rgb=rgb,
                 error=error, image_ids=image_ids,
@@ -268,7 +317,7 @@ def read_model(path, ext):
         points3D = read_points3d_binary(os.path.join(path, "points3D") + ext)
     return cameras, images, points3D
 
-
+#  done et myhmnich 
 def qvec2rotmat(qvec):
     return np.array([
         [1 - 2 * qvec[2]**2 - 2 * qvec[3]**2,
